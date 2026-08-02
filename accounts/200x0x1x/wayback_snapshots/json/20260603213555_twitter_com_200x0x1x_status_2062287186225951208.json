@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2062272644976669127",
+    "created_at": "2026-06-03T21:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T22:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062287186225951208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422249668960919592",
+          "start": 0,
+          "username": "whitesaucep9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062287186225951208",
+    "in_reply_to_user_id": "1422249668960919592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062283102014361831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitesaucep9968 草。我刚说了一模一样的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2062272644976669127",
+        "created_at": "2026-06-03T21:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062287186225951208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422249668960919592",
+              "start": 0,
+              "username": "whitesaucep9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062287186225951208",
+        "in_reply_to_user_id": "1422249668960919592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062283102014361831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitesaucep9968 草。我刚说了一模一样的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422249668960919592",
+        "conversation_id": "2062272644976669127",
+        "created_at": "2026-06-03T21:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062283102014361831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062283102014361831",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062272644976669127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 错过了一个亿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062005095089197057/J7qRqGdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 766,
+          "like_count": 27736,
+          "listed_count": 6,
+          "media_count": 2436,
+          "tweet_count": 26588
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "",
+        "id": "1422249668960919592",
+        "location": "Feline Rehab,ER",
+        "name": "紀念品",
+        "pinned_tweet_id": "2048688709189685464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054666087514697728/OQFJ1WlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 3120,
+          "like_count": 50755,
+          "listed_count": 6,
+          "media_count": 349,
+          "tweet_count": 21887
+        },
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

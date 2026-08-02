@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984294125974466835",
+    "created_at": "2025-11-01T01:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T02:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984427203862393106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4751711714",
+          "start": 0,
+          "username": "PoorstarRMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984427203862393106",
+    "in_reply_to_user_id": "4751711714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984294125974466835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoorstarRMB 尊重祝福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_1984294120471584768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mg_USa4AA-KfI.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1984294125974466835",
+        "created_at": "2025-11-01T01:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T02:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984427203862393106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4751711714",
+              "start": 0,
+              "username": "PoorstarRMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984427203862393106",
+        "in_reply_to_user_id": "4751711714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984294125974466835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoorstarRMB 尊重祝福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984294120471584768"
+          ]
+        },
+        "author_id": "4751711714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984294125974466835",
+        "created_at": "2025-10-31T16:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984294125974466835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvQ8PHbgJC",
+              "end": 31,
+              "expanded_url": "https://x.com/PoorstarRMB/status/1984294125974466835/photo/1",
+              "media_key": "3_1984294120471584768",
+              "start": 8,
+              "url": "https://t.co/BvQ8PHbgJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984294125974466835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么怼 在线等 https://t.co/BvQ8PHbgJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 916,
+          "like_count": 25805,
+          "listed_count": 7,
+          "media_count": 2313,
+          "tweet_count": 24844
+        },
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T05:54:33.000Z",
+        "description": "Love & Freedom.｜ISFP",
+        "id": "4751711714",
+        "name": "文艺负星🎲🌟",
+        "pinned_tweet_id": "1983542208986038760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980569455370326016/AG4VcMLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 299,
+          "like_count": 26354,
+          "listed_count": 7,
+          "media_count": 1635,
+          "tweet_count": 10147
+        },
+        "username": "PoorstarRMB",
+        "verified": false
+      }
+    ]
+  }
+}

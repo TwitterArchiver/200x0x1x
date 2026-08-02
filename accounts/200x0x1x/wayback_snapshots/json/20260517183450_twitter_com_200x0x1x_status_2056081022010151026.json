@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2056079746367127887",
+    "created_at": "2026-05-17T18:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056081022010151026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1522945124346601474",
+          "start": 0,
+          "username": "KunaAkem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056081022010151026",
+    "in_reply_to_user_id": "1522945124346601474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056080808352645371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KunaAkem1 我？虚无的少女，邪王真眼的继承者，终末混沌的奈亚酱，你是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2056079746367127887",
+        "created_at": "2026-05-17T18:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056081022010151026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522945124346601474",
+              "start": 0,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056081022010151026",
+        "in_reply_to_user_id": "1522945124346601474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056080808352645371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KunaAkem1 我？虚无的少女，邪王真眼的继承者，终末混沌的奈亚酱，你是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522945124346601474",
+        "conversation_id": "2056079746367127887",
+        "created_at": "2026-05-17T18:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056080808352645371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056080808352645371",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056079746367127887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055319041426718720/N4ZZsuJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1065,
+          "like_count": 27973,
+          "listed_count": 6,
+          "media_count": 2419,
+          "tweet_count": 26378
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚，音游，文明六，养猫的",
+        "id": "1522945124346601474",
+        "location": "Unter den Lindern 114514",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978949784867123200/e6evBQw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 434,
+          "like_count": 8399,
+          "listed_count": 4,
+          "media_count": 929,
+          "tweet_count": 5768
+        },
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

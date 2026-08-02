@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075837558358196523",
+    "created_at": "2026-07-11T07:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075843568808403278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430976467131842564",
+          "start": 0,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075843568808403278",
+    "in_reply_to_user_id": "1430976467131842564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075840616207114303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_muguopick 抱抱你辛苦了🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075837558358196523",
+        "created_at": "2026-07-11T07:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075843568808403278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075843568808403278",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075840616207114303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick 抱抱你辛苦了🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430976467131842564",
+        "conversation_id": "2075837558358196523",
+        "created_at": "2026-07-11T07:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075840616207114303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075840616207114303",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075837558358196523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应该也瞒不住了 我想和大家说的是 就算大家知道是谁主动干的了 我想说结果是好的 大家不要通过这种规则去报复了 我拥有这种能量 但是这些能量应该被用在好的地方上 而不是与人的扯皮 我向往爱与和平 我希望能和世界上的每一个人友好相处 就算不能我也不会去主动伤害 我相信造物主也是善的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601792118013952/JtH0JSmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 652,
+          "like_count": 28410,
+          "listed_count": 6,
+          "media_count": 2464,
+          "tweet_count": 27174
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "🎵l//虚弱人格@infps_offical //神出鬼没的奇怪乐手//裏 @Ringookinoura 提问箱📪https://t.co/AW5EeaIkPh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "infps_offical"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Ringookinoura"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_muguopick",
+                "end": 80,
+                "expanded_url": "https://ngl.link/_muguopick",
+                "start": 57,
+                "url": "https://t.co/AW5EeaIkPh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/7344798",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/7344798",
+                "start": 0,
+                "url": "https://t.co/0GBs33t2fR"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "北京",
+        "name": "Ringoo Kino树莓果酱🐭",
+        "pinned_tweet_id": "2075837558358196523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955993400064532483/IIKW_npp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 441,
+          "like_count": 3061,
+          "listed_count": 4,
+          "media_count": 575,
+          "tweet_count": 3455
+        },
+        "url": "https://t.co/0GBs33t2fR",
+        "username": "_muguopick",
+        "verified": false
+      }
+    ]
+  }
+}

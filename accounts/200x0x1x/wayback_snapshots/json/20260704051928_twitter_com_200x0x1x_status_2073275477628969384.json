@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2073274721911848982",
+    "created_at": "2026-07-04T05:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073275477628969384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073275477628969384",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073275178231226666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 和像我一样疯狂又可爱的人一起，趁着夜色逃出动物园"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2073274721911848982",
+        "created_at": "2026-07-04T05:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073275477628969384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073275477628969384",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073275178231226666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 和像我一样疯狂又可爱的人一起，趁着夜色逃出动物园"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760994638478118912",
+        "conversation_id": "2073274721911848982",
+        "created_at": "2026-07-04T05:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073275178231226666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073275178231226666",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073274721911848982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 这次我们会从生活里逃出去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 649,
+          "like_count": 28173,
+          "listed_count": 6,
+          "media_count": 2454,
+          "tweet_count": 26985
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "空荡的外衣被欺骗的身体\n空荡的外衣披在这幸福里\n性别男",
+        "id": "1760994638478118912",
+        "location": "川",
+        "name": "kkkbzydizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1157,
+          "like_count": 41587,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 7140
+        },
+        "url": "",
+        "username": "3timesdie333",
+        "verified": false
+      }
+    ]
+  }
+}

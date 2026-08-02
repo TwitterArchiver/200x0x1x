@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984397202198823333",
+    "created_at": "2025-10-31T23:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T00:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984397202198823333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist1/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/drug_artist1/status/1984277722793971757",
+          "start": 17,
+          "url": "https://t.co/ykXy35CxuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984397202198823333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984277722793971757",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人血馒头新吃法：xxx是我害死的 https://t.co/ykXy35CxuW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1984397202198823333",
+        "created_at": "2025-10-31T23:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T00:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984397202198823333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist1/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/drug_artist1/status/1984277722793971757",
+              "start": 17,
+              "url": "https://t.co/ykXy35CxuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984397202198823333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984277722793971757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人血馒头新吃法：xxx是我害死的 https://t.co/ykXy35CxuW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1984277722793971757",
+        "created_at": "2025-10-31T15:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984277722793971757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984277722793971757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2291,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我说春风是因为我死的？还让我很痛苦？因为当时春风喝死藤水那两天我在南宁找春风玩呢，他说喝死藤水测试的时候给我发消息了，但我因为滥用Xanax睡着了，在酒店…我没能看到那条消息去他家找他做他的监护者，如果我没有睡着，没有滥用Xanax，春风就不会死，我会送他去医院，或者拨打120…\n骂我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984375970741075968/onME06Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 916,
+          "like_count": 25802,
+          "listed_count": 7,
+          "media_count": 2313,
+          "tweet_count": 24840
+        },
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 63,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 40,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1983475029259239573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 77,
+          "like_count": 395,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

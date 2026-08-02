@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2023609584019984701",
+    "created_at": "2026-02-19T20:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024577804054970592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840759207903059968",
+          "start": 0,
+          "username": "shuy79324290014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024577804054970592",
+    "in_reply_to_user_id": "1840759207903059968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024577532608094306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuy79324290014 崽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2023609584019984701",
+        "created_at": "2026-02-19T20:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024577804054970592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840759207903059968",
+              "start": 0,
+              "username": "shuy79324290014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024577804054970592",
+        "in_reply_to_user_id": "1840759207903059968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024577532608094306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuy79324290014 崽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840759207903059968",
+        "conversation_id": "2023609584019984701",
+        "created_at": "2026-02-19T20:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024577532608094306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024577532608094306",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023609584019984701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023974528406241280/tuscweRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 962,
+          "like_count": 26873,
+          "listed_count": 6,
+          "media_count": 2390,
+          "tweet_count": 25723
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T14:23:00.000Z",
+        "description": "🌈0.5，可联名，退学，无业游民",
+        "id": "1840759207903059968",
+        "location": "成都",
+        "name": "小月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840759443182505984/AOjd0VLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 877,
+          "like_count": 130,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 975
+        },
+        "username": "shuy79324290014",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2066824235763524073",
+    "created_at": "2026-06-16T19:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T20:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066960059511280081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "N0HopeForUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066960059511280081",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066824235763524073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0HopeForUs 楼不说了。有几个正经科班天天在网上意淫这些奇异理论，好尴尬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2066824232076750848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7VsEYasAAKrBP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2066824235763524073",
+        "created_at": "2026-06-16T19:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066960059511280081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "N0HopeForUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066960059511280081",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066824235763524073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0HopeForUs 楼不说了。有几个正经科班天天在网上意淫这些奇异理论，好尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066824232076750848"
+          ]
+        },
+        "author_id": "1824688188750712832",
+        "conversation_id": "2066824235763524073",
+        "created_at": "2026-06-16T10:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066824235763524073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0hEqOFf3N",
+              "end": 80,
+              "expanded_url": "https://x.com/N0HopeForUs/status/2066824235763524073/photo/1",
+              "media_key": "3_2066824232076750848",
+              "start": 57,
+              "url": "https://t.co/J0hEqOFf3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066824235763524073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1511,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到咱b一个搬JH帖子的视频 我还在想楼子这人谁啊一看妈的原来是复活与拯救 本人读过的公众号最魔怔左翼教u 天哪 https://t.co/J0hEqOFf3N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066743555121410048/5IXgNP07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 639,
+          "like_count": 27910,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26731
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "挂逼尼特族\n喵梦的cp基本上都吃\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义赫尔墨斯🍥",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059928140273893376/JpaPFbM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 1593,
+          "like_count": 44931,
+          "listed_count": 3,
+          "media_count": 654,
+          "tweet_count": 14151
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

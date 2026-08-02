@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068512022417801216"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068512027237122120",
+    "created_at": "2026-06-21T01:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068512027237122120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XmLXP4zSnO",
+          "end": 46,
+          "expanded_url": "https://x.com/200x0x1x/status/2068512027237122120/photo/1",
+          "media_key": "3_2068512022417801216",
+          "start": 23,
+          "url": "https://t.co/XmLXP4zSnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068512027237122120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的妈呀今天真是晦气完了我靠，一天拉黑三个了 https://t.co/XmLXP4zSnO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1838,
+        "media_key": "3_2068512022417801216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTUuZXWgAAOD2p.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068512022417801216"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068512027237122120",
+        "created_at": "2026-06-21T01:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068512027237122120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmLXP4zSnO",
+              "end": 46,
+              "expanded_url": "https://x.com/200x0x1x/status/2068512027237122120/photo/1",
+              "media_key": "3_2068512022417801216",
+              "start": 23,
+              "url": "https://t.co/XmLXP4zSnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068512027237122120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀今天真是晦气完了我靠，一天拉黑三个了 https://t.co/XmLXP4zSnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 634,
+          "like_count": 28028,
+          "listed_count": 6,
+          "media_count": 2446,
+          "tweet_count": 26803
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

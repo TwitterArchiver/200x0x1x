@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2062745575875809564",
+    "created_at": "2026-06-05T06:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062786371090039131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037189635005431808",
+          "start": 0,
+          "username": "BraceAm72236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062786371090039131",
+    "in_reply_to_user_id": "2037189635005431808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062780504638951681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraceAm72236 😽😽🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2062745575875809564",
+        "created_at": "2026-06-05T06:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062786371090039131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037189635005431808",
+              "start": 0,
+              "username": "BraceAm72236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062786371090039131",
+        "in_reply_to_user_id": "2037189635005431808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062780504638951681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraceAm72236 😽😽🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037189635005431808",
+        "conversation_id": "2062745575875809564",
+        "created_at": "2026-06-05T06:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062780504638951681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062780504638951681",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062745575875809564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 这么萌的小宝宝🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062005095089197057/J7qRqGdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 767,
+          "like_count": 27750,
+          "listed_count": 6,
+          "media_count": 2439,
+          "tweet_count": 26602
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T15:27:29.000Z",
+        "description": "",
+        "id": "2037189635005431808",
+        "name": "Ambrace",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058596767390986240/wUTm9HVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 43,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 377
+        },
+        "username": "BraceAm72236",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2073584738837877040",
+    "created_at": "2026-07-05T04:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073629568611832249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073629568611832249",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073629321982529660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 我现在还是苦逼的哲学系学生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2073584738837877040",
+        "created_at": "2026-07-05T04:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073629568611832249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073629568611832249",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073629321982529660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 我现在还是苦逼的哲学系学生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760994638478118912",
+        "conversation_id": "2073584738837877040",
+        "created_at": "2026-07-05T04:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073629321982529660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073629321982529660",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073624443587539222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 高中的时候读的多 什么尼采叔本华，都算大众了 小众的中国古典哲学也看， 道德经、金刚经、庄子那些，然后马哲也看，现在已经不行了🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 626,
+          "like_count": 28198,
+          "listed_count": 6,
+          "media_count": 2455,
+          "tweet_count": 27022
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "空荡的外衣被欺骗的身体\n空荡的外衣披在这幸福里\n性别男",
+        "id": "1760994638478118912",
+        "location": "川",
+        "name": "kkkbzydizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1161,
+          "like_count": 42036,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 7231
+        },
+        "url": "",
+        "username": "3timesdie333",
+        "verified": false
+      }
+    ]
+  }
+}

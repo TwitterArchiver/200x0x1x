@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2021735779689525301",
+    "created_at": "2026-02-12T01:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T02:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021765982117658930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495362026147020801",
+          "start": 0,
+          "username": "Kiamsi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021765982117658930",
+    "in_reply_to_user_id": "1495362026147020801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021764820627034574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiamsi_ 这个世界恶意太大"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2021764820627034574].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2021764820627034574",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2021764820627034574"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2021735779689525301",
+        "created_at": "2026-02-12T01:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T02:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021765982117658930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495362026147020801",
+              "start": 0,
+              "username": "Kiamsi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021765982117658930",
+        "in_reply_to_user_id": "1495362026147020801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021764820627034574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiamsi_ 这个世界恶意太大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020951933981229056/Q2mcq0PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 960,
+          "like_count": 26699,
+          "listed_count": 6,
+          "media_count": 2389,
+          "tweet_count": 25646
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T11:37:51.000Z",
+        "description": "当天的晴空有两种 墙外的颜色更比墙内浓",
+        "id": "1495362026147020801",
+        "location": "赣江",
+        "name": "久违了，我的武器⚙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995677492620001281/NSmCL-GN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 411,
+          "like_count": 736,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 4095
+        },
+        "username": "Kiamsi_",
+        "verified": false
+      }
+    ]
+  }
+}

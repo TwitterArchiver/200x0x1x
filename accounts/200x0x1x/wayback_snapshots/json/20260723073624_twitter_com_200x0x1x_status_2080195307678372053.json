@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2080143572054258102",
+    "created_at": "2026-07-23T07:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080195307678372053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059249764730834944",
+          "start": 0,
+          "username": "SeptimusWaoxti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080195307678372053",
+    "in_reply_to_user_id": "2059249764730834944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080193256089166272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeptimusWaoxti 对啊就是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2080143572054258102",
+        "created_at": "2026-07-23T07:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080195307678372053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059249764730834944",
+              "start": 0,
+              "username": "SeptimusWaoxti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080195307678372053",
+        "in_reply_to_user_id": "2059249764730834944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080193256089166272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeptimusWaoxti 对啊就是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059249764730834944",
+        "conversation_id": "2080143572054258102",
+        "created_at": "2026-07-23T07:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080193256089166272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080193256089166272",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080143572054258102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 看来性别就是原罪啊…当然这都是男生作孽，男生买单的结果。有的男生因为自己是男的，觉得自己干啥都理所当然，没边界感，也不尊重他人。而某些男生因为前一种人，无论自己多正常，也只能在因为自己是个男的的正常情况下拘谨的小心做人，并且时刻害怕自己是个男的而冒犯到对方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 679,
+          "like_count": 28791,
+          "listed_count": 7,
+          "media_count": 2496,
+          "tweet_count": 27590
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T12:29:57.000Z",
+        "description": "每个人都被困在一个小笼子里，而即使有的人突破了一个笼子，ta所将面对的无非是面对另一个笼子而已。只不过有的人的笼子恰当，有的人笼子丑陋不堪。所以，笼子中的人啊，因为，笼子的不同而隔着笼子互骂吧。",
+        "id": "2059249764730834944",
+        "location": "中国",
+        "name": "虚幻也是一种真实",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062339830030209024/HkE8vsWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 62,
+          "like_count": 1987,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 1801
+        },
+        "url": "",
+        "username": "SeptimusWaoxti",
+        "verified": false
+      }
+    ]
+  }
+}

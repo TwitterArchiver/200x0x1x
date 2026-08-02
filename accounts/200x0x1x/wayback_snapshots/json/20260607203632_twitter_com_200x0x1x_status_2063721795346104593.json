@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2063721795346104593",
+    "created_at": "2026-06-07T20:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T21:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063721795346104593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063721795346104593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次被男人女人害到绷不住了，我就打开推特对这些神经病的人格和行为逻辑进行一段速写，没想到写这个b东西还有挺多人爱看的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2063721795346104593",
+        "created_at": "2026-06-07T20:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063721795346104593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063721795346104593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次被男人女人害到绷不住了，我就打开推特对这些神经病的人格和行为逻辑进行一段速写，没想到写这个b东西还有挺多人爱看的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063477529978028032/FCGFfbXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 762,
+          "like_count": 27808,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26649
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2009960537426190371",
+    "created_at": "2026-01-10T12:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009963164910354755"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009963164910354755",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009960537426190371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哲学思想，艺术作品，嘉行懿德，登高视之，皆相通为一。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2009960537426190371",
+        "created_at": "2026-01-10T12:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009963164910354755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009963164910354755",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009960537426190371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哲学思想，艺术作品，嘉行懿德，登高视之，皆相通为一。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2009960537426190371",
+        "created_at": "2026-01-10T12:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009960537426190371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009960537426190371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在尼采早年（1872-1876）未发表的笔记中，真理、谎言、科学与艺术的本质得到了详细的谱系学分析。真理作为最高的存在价值，基于一种奠基性的“遗忘”，即对语言自身的根源的遗忘。真理来源于人们对概念的实体化处理，而概念实际上植根于神经刺激-视觉-声音-社会契约等一系列隐喻链条的中介。作为科学与逻辑的基础的语言，来自于人对实在的隐喻性表述，而科学体系仅仅概念的骨灰龛（columbarium of concepts）在其基础上的层层加筑。艺术和神话作为这相同的隐喻性冲动，表现为这种被遗忘的根源的回返。尼采在《论真理的激情》中用一则寓言很好地概述了他对人类智力的批判：按照精灵的说法，在太阳系中一颗渺小的行星上，一群聪明的动物发明了“认识”，并妄自尊大地认为自己的智慧是宇宙围绕其转动的轴心（实际上智力的作用是尔虞我诈、欺骗和斗争，人们却因为它产生了某种“真理的激情/真理感“），然而在宇宙的几次呼吸之后，这颗星球的表面开始冻结，这些认识动物的生命将会熄灭，留下的只有在它们诞生之前就始终存在的寂静永恒。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在尼采早年（1872-1876）未发表的笔记中，真理、谎言、科学与艺术的本质得到了详细的谱系学分析。真理作为最高的存在价值，基于一种奠基性的“遗忘”，即对语言自身的根源的遗忘。真理来源于人们对概念的实体化处理，而概念实际上植根于神经刺激-视觉-声音-社会契约等一系列隐喻链条的中介。作为科学与逻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 931,
+          "like_count": 26376,
+          "listed_count": 6,
+          "media_count": 2353,
+          "tweet_count": 25328
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

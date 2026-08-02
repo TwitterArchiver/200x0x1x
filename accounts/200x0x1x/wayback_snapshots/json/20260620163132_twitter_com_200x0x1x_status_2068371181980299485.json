@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068365884763119998",
+    "created_at": "2026-06-20T16:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068371181980299485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1015248196782755840",
+          "start": 0,
+          "username": "DoveMagpieCrow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068371181980299485",
+    "in_reply_to_user_id": "1015248196782755840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068370428880679362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoveMagpieCrow 谢谢宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068370428880679362].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068370428880679362",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068370428880679362"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068365884763119998",
+        "created_at": "2026-06-20T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068371181980299485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1015248196782755840",
+              "start": 0,
+              "username": "DoveMagpieCrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068371181980299485",
+        "in_reply_to_user_id": "1015248196782755840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068370428880679362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoveMagpieCrow 谢谢宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 633,
+          "like_count": 28024,
+          "listed_count": 6,
+          "media_count": 2446,
+          "tweet_count": 26789
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-06T14:56:47.000Z",
+        "description": "生人勿近",
+        "id": "1015248196782755840",
+        "name": "白鸽、喜鹊与乌鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942492621483515904/-8yFlNke_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1279,
+          "like_count": 32800,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2199
+        },
+        "url": "",
+        "username": "DoveMagpieCrow",
+        "verified": false
+      }
+    ]
+  }
+}

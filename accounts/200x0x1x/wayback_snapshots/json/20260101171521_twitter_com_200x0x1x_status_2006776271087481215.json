@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2006310111833428208",
+    "created_at": "2026-01-01T17:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006776271087481215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565847750989971457",
+          "start": 0,
+          "username": "mybluerose00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006776271087481215",
+    "in_reply_to_user_id": "1565847750989971457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006774736039375009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mybluerose00 唔，谢谢&gt; &lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2006310111833428208",
+        "created_at": "2026-01-01T17:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006776271087481215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565847750989971457",
+              "start": 0,
+              "username": "mybluerose00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006776271087481215",
+        "in_reply_to_user_id": "1565847750989971457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006774736039375009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mybluerose00 唔，谢谢&gt; &lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565847750989971457",
+        "conversation_id": "2006310111833428208",
+        "created_at": "2026-01-01T17:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006774736039375009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006774736039375009",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006310111833428208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 好漂亮的眼睛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 934,
+          "like_count": 26573,
+          "listed_count": 6,
+          "media_count": 2349,
+          "tweet_count": 25293
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T23:42:59.000Z",
+        "description": "一个爱欲着思考着创造着并且肩负着伦理责任的主体，除此之外，我什么都不是。｜我的速写纸、笔记本和朋友圈",
+        "id": "1565847750989971457",
+        "location": "巴黎",
+        "name": "女无",
+        "pinned_tweet_id": "1942540985164259622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954052121919467522/LcMByejW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1052,
+          "like_count": 72479,
+          "listed_count": 9,
+          "media_count": 690,
+          "tweet_count": 13700
+        },
+        "username": "mybluerose00",
+        "verified": false
+      }
+    ]
+  }
+}

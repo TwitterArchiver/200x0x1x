@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2051150134797324503",
+    "created_at": "2026-05-04T13:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051288299747131677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882404951726641152",
+          "start": 0,
+          "username": "OtenkiYasugawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051288299747131677",
+    "in_reply_to_user_id": "1882404951726641152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051284720663802020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OtenkiYasugawa 何意啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2051150134797324503",
+        "created_at": "2026-05-04T13:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051288299747131677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882404951726641152",
+              "start": 0,
+              "username": "OtenkiYasugawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051288299747131677",
+        "in_reply_to_user_id": "1882404951726641152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051284720663802020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OtenkiYasugawa 何意啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882404951726641152",
+        "conversation_id": "2051150134797324503",
+        "created_at": "2026-05-04T12:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051284720663802020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051284720663802020",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051150134797324503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x （吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051076258012753921/2s4N4-oP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 1036,
+          "like_count": 27702,
+          "listed_count": 6,
+          "media_count": 2412,
+          "tweet_count": 26254
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T12:28:21.000Z",
+        "description": "我的身躯、思绪，它到底算不算，精彩？",
+        "id": "1882404951726641152",
+        "location": "赫尔辛根默斯肯",
+        "name": "御天木安河#Merak",
+        "pinned_tweet_id": "1985031387381158109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025314511780298752/GLhp7KGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 473,
+          "like_count": 20120,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 938
+        },
+        "username": "OtenkiYasugawa",
+        "verified": false
+      }
+    ]
+  }
+}

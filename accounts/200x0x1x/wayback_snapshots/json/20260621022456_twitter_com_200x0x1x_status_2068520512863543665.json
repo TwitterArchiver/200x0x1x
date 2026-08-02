@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068518995309838425",
+    "created_at": "2026-06-21T02:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068520512863543665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044829716654231552",
+          "start": 0,
+          "username": "userno707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068520512863543665",
+    "in_reply_to_user_id": "2044829716654231552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068518995309838425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@userno707 有没有看私信请求里隐藏的那些消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068518995309838425",
+        "created_at": "2026-06-21T02:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068520512863543665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044829716654231552",
+              "start": 0,
+              "username": "userno707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068520512863543665",
+        "in_reply_to_user_id": "2044829716654231552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068518995309838425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@userno707 有没有看私信请求里隐藏的那些消息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044829716654231552",
+        "conversation_id": "2068518995309838425",
+        "created_at": "2026-06-21T02:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068518995309838425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068518995309838425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈为啥收不到私信？明明有蓝点但打开啥也没有这是咋了求支招"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 634,
+          "like_count": 28031,
+          "listed_count": 6,
+          "media_count": 2446,
+          "tweet_count": 26806
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T17:27:16.000Z",
+        "description": "",
+        "id": "2044829716654231552",
+        "location": "世界尽头",
+        "name": "我必须看上去安然无恙吗",
+        "pinned_tweet_id": "2049278129508643309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044831016020226048/G1lcivbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "userno707",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2008979885461528576",
+    "created_at": "2026-01-07T19:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T20:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008979885461528576"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008979885461528576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“一切虚弱性都来自于心灵的分裂。假若一个人能够完全克服心灵的分裂，在自身内仅仅拥有善，那么他简直有翻江倒海的能力。因此我们也发现，有些人在活着的时候几乎已经成为精灵（而且恶人比善人更容易达到这个决定性的状态）——，并且在自身内拥有某种不可抗拒的东西；每一个遭遇他们的东西都会为之神魂颠倒，完全没有勇气或力量去展示自身（如果这些东西不是什么善的东西，而是一个恶的东西，事情就更是如此）。类似的情形是，在每一个可能的领域里，都会有技艺精湛的大师让笨蛋和混蛋感到自惭形秽。”——异乎常人者都能够抵达这种精神本原上的纯粹性，你能够从他们身上看到那种坚韧不拔的精灵性意志，不论是善也好，恶也罢，一种恶魔般的/魔法性的力量能够从中生发出来，我想这也就是克里斯马的根源。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“一切虚弱性都来自于心灵的分裂。假若一个人能够完全克服心灵的分裂，在自身内仅仅拥有善，那么他简直有翻江倒海的能力。因此我们也发现，有些人在活着的时候几乎已经成为精灵（而且恶人比善人更容易达到这个决定性的状态）——，并且在自身内拥有某种不可抗拒的东西；每一个遭遇他们的东西都会为之神魂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2008979885461528576",
+        "created_at": "2026-01-07T19:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T20:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008979885461528576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008979885461528576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“一切虚弱性都来自于心灵的分裂。假若一个人能够完全克服心灵的分裂，在自身内仅仅拥有善，那么他简直有翻江倒海的能力。因此我们也发现，有些人在活着的时候几乎已经成为精灵（而且恶人比善人更容易达到这个决定性的状态）——，并且在自身内拥有某种不可抗拒的东西；每一个遭遇他们的东西都会为之神魂颠倒，完全没有勇气或力量去展示自身（如果这些东西不是什么善的东西，而是一个恶的东西，事情就更是如此）。类似的情形是，在每一个可能的领域里，都会有技艺精湛的大师让笨蛋和混蛋感到自惭形秽。”——异乎常人者都能够抵达这种精神本原上的纯粹性，你能够从他们身上看到那种坚韧不拔的精灵性意志，不论是善也好，恶也罢，一种恶魔般的/魔法性的力量能够从中生发出来，我想这也就是克里斯马的根源。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“一切虚弱性都来自于心灵的分裂。假若一个人能够完全克服心灵的分裂，在自身内仅仅拥有善，那么他简直有翻江倒海的能力。因此我们也发现，有些人在活着的时候几乎已经成为精灵（而且恶人比善人更容易达到这个决定性的状态）——，并且在自身内拥有某种不可抗拒的东西；每一个遭遇他们的东西都会为之神魂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 929,
+          "like_count": 26354,
+          "listed_count": 6,
+          "media_count": 2352,
+          "tweet_count": 25314
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069667426149576704"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2069667430465462293",
+    "created_at": "2026-06-24T06:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069667430465462293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kRh5AroZvm",
+          "end": 57,
+          "expanded_url": "https://x.com/200x0x1x/status/2069667430465462293/photo/1",
+          "media_key": "3_2069667426149576704",
+          "start": 34,
+          "url": "https://t.co/kRh5AroZvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069667430465462293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我扫地扫了半天，但是无论如何都会留下那么一点儿垃圾扫不进簸箕里： https://t.co/kRh5AroZvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2069667426149576704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjvjvrXsAAHj8O.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069667426149576704"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2069667430465462293",
+        "created_at": "2026-06-24T06:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069667430465462293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRh5AroZvm",
+              "end": 57,
+              "expanded_url": "https://x.com/200x0x1x/status/2069667430465462293/photo/1",
+              "media_key": "3_2069667426149576704",
+              "start": 34,
+              "url": "https://t.co/kRh5AroZvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069667430465462293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我扫地扫了半天，但是无论如何都会留下那么一点儿垃圾扫不进簸箕里： https://t.co/kRh5AroZvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069502738468069376/Idqh6aqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 632,
+          "like_count": 28095,
+          "listed_count": 6,
+          "media_count": 2448,
+          "tweet_count": 26845
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

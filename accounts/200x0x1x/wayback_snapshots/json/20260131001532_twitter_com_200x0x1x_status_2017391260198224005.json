@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1148209264256663552",
+          "name": "Tabletop role-playing games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1148209264256663552",
+          "name": "Tabletop role-playing games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1148209264256663552",
+          "name": "Tabletop role-playing games"
+        }
+      }
+    ],
+    "conversation_id": "2017391260198224005",
+    "created_at": "2026-01-31T00:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T01:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017391260198224005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1540315386931204098",
+          "start": 3,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017391260198224005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014302889146257848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyouka_charming: 我正在制作自己的trpg规则《心病救赎rpg：绊创幸际》\n\n在游戏里面可以扮演成你想要扮演的病系角色割手od作死，也可以扮演病角色的恋人体验痛苦而甜美的爱意。\n\n我们期待更多的玩家加入进来完善和制作本规则。有兴趣的请dm我。\n\n#メンヘ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014302876512964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Q9y0CaUAA83j6.jpg",
+        "width": 1535
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2014302876508839936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Q9y0BbYAAzLce.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2014302876517220352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Q9y0DbQAAcqUo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          }
+        ],
+        "conversation_id": "2017391260198224005",
+        "created_at": "2026-01-31T00:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017391260198224005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1540315386931204098",
+              "start": 3,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017391260198224005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014302889146257848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyouka_charming: 我正在制作自己的trpg规则《心病救赎rpg：绊创幸际》\n\n在游戏里面可以扮演成你想要扮演的病系角色割手od作死，也可以扮演病角色的恋人体验痛苦而甜美的爱意。\n\n我们期待更多的玩家加入进来完善和制作本规则。有兴趣的请dm我。\n\n#メンヘ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014302876512964608",
+            "3_2014302876508839936",
+            "3_2014302876517220352"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1148209264256663552",
+              "name": "Tabletop role-playing games"
+            }
+          }
+        ],
+        "conversation_id": "2014302889146257848",
+        "created_at": "2026-01-22T11:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014302889146257848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "TRPG"
+            },
+            {
+              "end": 129,
+              "start": 127,
+              "tag": "鬱"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "病み"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "SH"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "リスカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvJ4smgH1W",
+              "end": 166,
+              "expanded_url": "https://x.com/kyouka_charming/status/2014302889146257848/photo/1",
+              "media_key": "3_2014302876512964608",
+              "start": 143,
+              "url": "https://t.co/CvJ4smgH1W"
+            },
+            {
+              "display_url": "pic.x.com/CvJ4smgH1W",
+              "end": 166,
+              "expanded_url": "https://x.com/kyouka_charming/status/2014302889146257848/photo/1",
+              "media_key": "3_2014302876508839936",
+              "start": 143,
+              "url": "https://t.co/CvJ4smgH1W"
+            },
+            {
+              "display_url": "pic.x.com/CvJ4smgH1W",
+              "end": 166,
+              "expanded_url": "https://x.com/kyouka_charming/status/2014302889146257848/photo/1",
+              "media_key": "3_2014302876517220352",
+              "start": 143,
+              "url": "https://t.co/CvJ4smgH1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014302889146257848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1643,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我正在制作自己的trpg规则《心病救赎rpg：绊创幸际》\n\n在游戏里面可以扮演成你想要扮演的病系角色割手od作死，也可以扮演病角色的恋人体验痛苦而甜美的爱意。\n\n我们期待更多的玩家加入进来完善和制作本规则。有兴趣的请dm我。\n\n#メンヘラ  #TRPG #鬱 #病み　#SH #リスカ https://t.co/CvJ4smgH1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 951,
+          "like_count": 26640,
+          "listed_count": 6,
+          "media_count": 2373,
+          "tweet_count": 25523
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。物知らず悪役令嬢です、トランスジェンダー、漫画家志望、TRPG/ボードゲーマー。日本語/華语OK。元日本高校生(八王子)。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GSEJ2"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "紅月の元",
+        "name": "🪞・❄️🌙🌺",
+        "pinned_tweet_id": "1996117146150338572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004037220693692417/xRQGDf5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1273,
+          "like_count": 10904,
+          "listed_count": 1,
+          "media_count": 1099,
+          "tweet_count": 8715
+        },
+        "url": "https://t.co/RiMq5GSEJ2",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2004782309007098243",
+    "created_at": "2025-12-27T05:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004782309007098243"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004782309007098243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "薇依说过人的自我是空虚的气体，每种气体都力求扩张自身，它不停地占据空间直到触及边界。这种气体的膨胀特性就是人之自负，表现为人的自我之间的无限争夺。气体的另一本性乃是“空虚”，这即是说人的自我无论如何膨胀以彰显自身，它都仍旧是一种空洞的、没有实质的、有待真正的神圣性力量去填补的虚无，任何对于这种空虚的补救（例如有限性的爱）都只是徒然。傲慢加上空虚，这基本上就是我？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "薇依说过人的自我是空虚的气体，每种气体都力求扩张自身，它不停地占据空间直到触及边界。这种气体的膨胀特性就是人之自负，表现为人的自我之间的无限争夺。气体的另一本性乃是“空虚”，这即是说人的自我无论如何膨胀以彰显自身，它都仍旧是一种空洞的、没有实质的、有待真正的神圣性力量去填补的虚无，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2004782309007098243",
+        "created_at": "2025-12-27T05:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004782309007098243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004782309007098243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "薇依说过人的自我是空虚的气体，每种气体都力求扩张自身，它不停地占据空间直到触及边界。这种气体的膨胀特性就是人之自负，表现为人的自我之间的无限争夺。气体的另一本性乃是“空虚”，这即是说人的自我无论如何膨胀以彰显自身，它都仍旧是一种空洞的、没有实质的、有待真正的神圣性力量去填补的虚无，任何对于这种空虚的补救（例如有限性的爱）都只是徒然。傲慢加上空虚，这基本上就是我？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薇依说过人的自我是空虚的气体，每种气体都力求扩张自身，它不停地占据空间直到触及边界。这种气体的膨胀特性就是人之自负，表现为人的自我之间的无限争夺。气体的另一本性乃是“空虚”，这即是说人的自我无论如何膨胀以彰显自身，它都仍旧是一种空洞的、没有实质的、有待真正的神圣性力量去填补的虚无，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004189770768117760/acG2jYOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 937,
+          "like_count": 26519,
+          "listed_count": 7,
+          "media_count": 2345,
+          "tweet_count": 25262
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

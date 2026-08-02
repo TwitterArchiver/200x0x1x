@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2052806509512511752",
+    "created_at": "2026-05-08T18:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052818848638705911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995419766954291200",
+          "start": 0,
+          "username": "dinuanmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052818848638705911",
+    "in_reply_to_user_id": "1995419766954291200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052806509512511752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinuanmei 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2052806478122401792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0InZkbQAAs4wx.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1514,
+        "media_key": "3_2052806478084681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0InZbbsAAICt_.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1312,
+        "media_key": "3_2052806478080438273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0InZaa8AEk354.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2052806509512511752",
+        "created_at": "2026-05-08T18:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052818848638705911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "dinuanmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052818848638705911",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052806509512511752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinuanmei 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052806478122401792",
+            "3_2052806478084681728",
+            "3_2052806478080438273"
+          ]
+        },
+        "author_id": "1995419766954291200",
+        "conversation_id": "2052806509512511752",
+        "created_at": "2026-05-08T17:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052806509512511752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYaKhlucqe",
+              "end": 39,
+              "expanded_url": "https://x.com/dinuanmei/status/2052806509512511752/photo/1",
+              "media_key": "3_2052806478122401792",
+              "start": 16,
+              "url": "https://t.co/MYaKhlucqe"
+            },
+            {
+              "display_url": "pic.x.com/MYaKhlucqe",
+              "end": 39,
+              "expanded_url": "https://x.com/dinuanmei/status/2052806509512511752/photo/1",
+              "media_key": "3_2052806478084681728",
+              "start": 16,
+              "url": "https://t.co/MYaKhlucqe"
+            },
+            {
+              "display_url": "pic.x.com/MYaKhlucqe",
+              "end": 39,
+              "expanded_url": "https://x.com/dinuanmei/status/2052806509512511752/photo/1",
+              "media_key": "3_2052806478080438273",
+              "start": 16,
+              "url": "https://t.co/MYaKhlucqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052806509512511752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼玛的我要笑死了，龙丽这个乐乐 https://t.co/MYaKhlucqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 1047,
+          "like_count": 27860,
+          "listed_count": 6,
+          "media_count": 2414,
+          "tweet_count": 26315
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "当朋友圈随便发，找我玩～所有人～好孤独～\n小号@zhishiyizhiy其实没什么好看的，但我想挂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "zhishiyizhiy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "location": "🚪118",
+        "name": "木子 你还好吗？",
+        "pinned_tweet_id": "2052182614094864876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051564455046373376/AIcmqTCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 64,
+          "like_count": 1731,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "dinuanmei",
+        "verified": false
+      }
+    ]
+  }
+}

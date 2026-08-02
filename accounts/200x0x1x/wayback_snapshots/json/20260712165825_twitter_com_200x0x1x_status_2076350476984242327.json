@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2076350476984242327",
+    "created_at": "2026-07-12T16:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076350476984242327"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076350476984242327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一想到自称观念论大手子然后读成这个逼样还只看中译本的我就感觉好想笑，被舔出幻觉了然后。。舔的人也出幻觉了好像一块吃菌子了，所有人沉浸在自己是个人物的意淫中互捧臭脚啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2076350476984242327",
+        "created_at": "2026-07-12T16:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076350476984242327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076350476984242327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一想到自称观念论大手子然后读成这个逼样还只看中译本的我就感觉好想笑，被舔出幻觉了然后。。舔的人也出幻觉了好像一块吃菌子了，所有人沉浸在自己是个人物的意淫中互捧臭脚啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601792118013952/JtH0JSmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 655,
+          "like_count": 28452,
+          "listed_count": 6,
+          "media_count": 2466,
+          "tweet_count": 27211
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2020950221111361561",
+    "created_at": "2026-02-09T19:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T20:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020950221111361561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1538923015932522496",
+          "start": 3,
+          "username": "sunyixian8"
+        },
+        {
+          "end": 23,
+          "id": "1916906286362603520",
+          "start": 16,
+          "username": "8964tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020950221111361561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020884991920738664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sunyixian8: @8964tv 翻译一下左男的口号：低男操高女，这是无产阶级当家做主；农村操城镇，这是消灭城乡差异；中男操洋女，这是反帝反霸反殖民；打下上海市，一人一个女大学生；打下日本，一人一个女优；世界革命就是不仅有中国逼可操，还有外国逼。想念毛泽东，就是把…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2020950221111361561",
+        "created_at": "2026-02-09T19:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T20:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020950221111361561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538923015932522496",
+              "start": 3,
+              "username": "sunyixian8"
+            },
+            {
+              "end": 23,
+              "id": "1916906286362603520",
+              "start": 16,
+              "username": "8964tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020950221111361561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020884991920738664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sunyixian8: @8964tv 翻译一下左男的口号：低男操高女，这是无产阶级当家做主；农村操城镇，这是消灭城乡差异；中男操洋女，这是反帝反霸反殖民；打下上海市，一人一个女大学生；打下日本，一人一个女优；世界革命就是不仅有中国逼可操，还有外国逼。想念毛泽东，就是把…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538923015932522496",
+        "conversation_id": "2020878382528126985",
+        "created_at": "2026-02-09T15:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020884991920738664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916906286362603520",
+              "start": 0,
+              "username": "8964tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020884991920738664",
+        "in_reply_to_user_id": "1916906286362603520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020878382528126985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tv 翻译一下左男的口号：低男操高女，这是无产阶级当家做主；农村操城镇，这是消灭城乡差异；中男操洋女，这是反帝反霸反殖民；打下上海市，一人一个女大学生；打下日本，一人一个女优；世界革命就是不仅有中国逼可操，还有外国逼。想念毛泽东，就是把女小资全部打入乡镇降为低女好操逼。无非就是这么一套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 959,
+          "like_count": 26725,
+          "listed_count": 6,
+          "media_count": 2387,
+          "tweet_count": 25600
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-20T16:33:44.000Z",
+        "description": "学中做，做中学，反复回忆｜\n不是我所给予你的超出你所理解的能力，而是超出了你所看到的本身——马里翁｜自己选择的路可以跑｜没什么比发现无法掌控自己的命运更让人沮丧的｜一直哀叹的Antinatalism｜以死亡为自由｜生活的很多不确定性我没办法保证｜与最卑微的人为伍｜小人物/多余人/地下人｜链接是Anna档案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "annas-archive.li",
+                "end": 23,
+                "expanded_url": "https://annas-archive.li/",
+                "start": 0,
+                "url": "https://t.co/FHlZSABbR9"
+              }
+            ]
+          }
+        },
+        "id": "1538923015932522496",
+        "location": "只有无休止吐槽的小号，请不要follow",
+        "name": "从地下室走上天台",
+        "pinned_tweet_id": "1968903401988661639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010972815319842820/HwG0etu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 203,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/FHlZSABbR9",
+        "username": "sunyixian8",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T17:24:15.000Z",
+        "description": "郭楠巨婴精神病生活不能自理/永恒之物@TRIPPYTRAP1006",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "TRIPPYTRAP1006"
+              }
+            ]
+          }
+        },
+        "id": "1916906286362603520",
+        "name": "唉",
+        "pinned_tweet_id": "1993158464181604816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584307359285248/BTDHuekb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 80,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 480
+        },
+        "username": "8964tv",
+        "verified": false
+      }
+    ]
+  }
+}

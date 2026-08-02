@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2083057348764127606",
+    "created_at": "2026-07-31T05:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083058684184367509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1725472189611155456",
+          "start": 0,
+          "username": "DayRosemar64698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083058684184367509",
+    "in_reply_to_user_id": "1725472189611155456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083057429202235876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DayRosemar64698 去你妈的死人机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2083057348764127606",
+        "created_at": "2026-07-31T05:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083058684184367509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1725472189611155456",
+              "start": 0,
+              "username": "DayRosemar64698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083058684184367509",
+        "in_reply_to_user_id": "1725472189611155456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083057429202235876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DayRosemar64698 去你妈的死人机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725472189611155456",
+        "conversation_id": "2083057348764127606",
+        "created_at": "2026-07-31T05:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083057429202235876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083057429202235876",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083057348764127606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 前半句能懂，后半句还是别这样说吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 679,
+          "like_count": 28852,
+          "listed_count": 7,
+          "media_count": 2519,
+          "tweet_count": 27764
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T11:13:31.000Z",
+        "description": "我一直在用的 VPN，今天也分享给大家，希望你们喜欢👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/T4i82U7eg8"
+              }
+            ]
+          }
+        },
+        "id": "1725472189611155456",
+        "name": "银狐全球网络助手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082892277500854272/dc0bynNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 62,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/T4i82U7eg8",
+        "username": "DayRosemar64698",
+        "verified": false
+      }
+    ]
+  }
+}

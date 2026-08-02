@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2006032794472874133",
+    "created_at": "2025-12-30T17:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006051234021847423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938140109792325632",
+          "start": 0,
+          "username": "SyRainstormTTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006051234021847423",
+    "in_reply_to_user_id": "1938140109792325632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006049319900885458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyRainstormTTN 指恨我还爱看我的那拨人😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2006032794472874133",
+        "created_at": "2025-12-30T17:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006051234021847423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938140109792325632",
+              "start": 0,
+              "username": "SyRainstormTTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006051234021847423",
+        "in_reply_to_user_id": "1938140109792325632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006049319900885458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyRainstormTTN 指恨我还爱看我的那拨人😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938140109792325632",
+        "conversation_id": "2006032794472874133",
+        "created_at": "2025-12-30T17:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006049319900885458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006049319900885458",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006032794472874133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 对不起🤕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004189770768117760/acG2jYOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 936,
+          "like_count": 26552,
+          "listed_count": 7,
+          "media_count": 2348,
+          "tweet_count": 25279
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "过涉灭顶/神秘主义就是过有深度的生活/拥抱客观唯心，享受完满生活",
+        "id": "1938140109792325632",
+        "location": "一时",
+        "name": "谁说姓名不能为空",
+        "pinned_tweet_id": "1983765851234038155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854330096308224/5ISShw1-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 273,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1694
+        },
+        "username": "SyRainstormTTN",
+        "verified": false
+      }
+    ]
+  }
+}

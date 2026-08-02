@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2052891966011019744",
+    "created_at": "2026-05-09T01:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052925196743372903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699268392128258048",
+          "start": 0,
+          "username": "lanlanlan1112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052925196743372903",
+    "in_reply_to_user_id": "1699268392128258048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052911202234478964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanlanlan1112 😽😽"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052911202234478964].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052911202234478964",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052911202234478964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2052891966011019744",
+        "created_at": "2026-05-09T01:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052925196743372903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699268392128258048",
+              "start": 0,
+              "username": "lanlanlan1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052925196743372903",
+        "in_reply_to_user_id": "1699268392128258048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052911202234478964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanlanlan1112 😽😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "寡妇门前是非多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 1053,
+          "like_count": 27869,
+          "listed_count": 6,
+          "media_count": 2415,
+          "tweet_count": 26316
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T03:49:06.000Z",
+        "description": "嘻嘻",
+        "id": "1699268392128258048",
+        "location": "👁",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019467401142931456/Hya2REOH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 483,
+          "like_count": 28200,
+          "listed_count": 1,
+          "media_count": 765,
+          "tweet_count": 14325
+        },
+        "username": "lanlanlan1112",
+        "verified": false
+      }
+    ]
+  }
+}

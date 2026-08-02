@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024284385491505152"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2024284388624912586",
+    "created_at": "2026-02-19T00:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024284388624912586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1qF8Zm40P",
+          "end": 173,
+          "expanded_url": "https://x.com/200x0x1x/status/2024284388624912586/photo/1",
+          "media_key": "3_2024284385491505152",
+          "start": 150,
+          "url": "https://t.co/j1qF8Zm40P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024284388624912586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "埃克哈特的根基神秘主义，“根基”（grunt）及其词族在非德语民族的神秘主义语言中并没有等价物，因此根基成为了埃克哈特神学中的主人隐喻。根基的神秘主义涉及到一种关于“流”的形而上学，它本身展开为两条道路，一条是作为第一恩典的流出之路，第二条道路则是作为第二恩典之“回流”（reditus）。在本原发出流溢的阶段，神圣根基的内部如同加热一般进入“沸腾”（bullitio），它在自身中发光并在自身里液化，经历在自身内的爆裂和涌破（uzbruch）。在这片沸腾的海洋中，圣父作为principium生出“子”的位格（理念、肖像、逻各斯），并使父与子共同发出的爱成为圣灵。沸腾的第二阶段则是“外溢”（ebullitio），使创世发生并进入分割与数目之中。根基从此在人的灵魂深处作为“微小的火花”、“小城堡”而存在，并且与神性始终保持潜在同一。人将会通过自我弃绝的操作达成“突破”，“穿透”三一体并且重新进入到根基之单纯寂静中。在与根基的神秘合一中，精神将不再为事物动摇：“真正的超脱无非是：精神在面对可能降临在它身上的一切——喜与悲、荣与辱、羞愧与耻辱——时，保持巍然不动；正如一座铅山立于一缕微风之前。这种巍然不动的超脱把人带入与上帝最伟大的同等之中：因为上帝正是凭借其不可动摇之超脱而其为神，而也正是凭借其超脱，他才获得他的纯净、单纯与不朽。”"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "埃克哈特的根基神秘主义，“根基”（grunt）及其词族在非德语民族的神秘主义语言中并没有等价物，因此根基成为了埃克哈特神学中的主人隐喻。根基的神秘主义涉及到一种关于“流”的形而上学，它本身展开为两条道路，一条是作为第一恩典的流出之路，第二条道路则是作为第二恩典之“回流”（reditus）。在本原发 https://t.co/j1qF8Zm40P"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024284388624912586].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024284388624912586",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024284388624912586"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2024284385491505152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBez7GmXUAACof3.jpg",
+        "width": 749
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023974528406241280/tuscweRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 964,
+          "like_count": 26853,
+          "listed_count": 6,
+          "media_count": 2390,
+          "tweet_count": 25711
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

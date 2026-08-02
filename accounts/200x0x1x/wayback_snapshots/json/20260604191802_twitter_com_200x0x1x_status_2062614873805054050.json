@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2062614873805054050",
+    "created_at": "2026-06-04T19:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T20:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062614873805054050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/200x0x1x/status/2062272644976669127",
+          "start": 23,
+          "url": "https://t.co/PgAQtphdGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062614873805054050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062272644976669127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草给我打钱了。原来真有天上掉钱砸晕我的好事 https://t.co/PgAQtphdGJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2062614873805054050",
+        "created_at": "2026-06-04T19:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062614873805054050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2062272644976669127",
+              "start": 23,
+              "url": "https://t.co/PgAQtphdGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062614873805054050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062272644976669127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草给我打钱了。原来真有天上掉钱砸晕我的好事 https://t.co/PgAQtphdGJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2062272644976669127",
+        "created_at": "2026-06-03T20:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062272644976669127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062272644976669127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的原来去年有人私信我要当我atm奴啊，我今天才看见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062005095089197057/J7qRqGdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 766,
+          "like_count": 27740,
+          "listed_count": 6,
+          "media_count": 2438,
+          "tweet_count": 26593
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2072916488806408275",
+    "created_at": "2026-07-03T05:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072916488806408275"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072916488806408275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人觉得我是一个特别让人心疼的小宝宝吗，就是虽然惨惨的，但是依旧很萌很坚强，然后你们就特别想给我钱，给我无条件地当牛做马"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2072916488806408275",
+        "created_at": "2026-07-03T05:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072916488806408275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072916488806408275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得我是一个特别让人心疼的小宝宝吗，就是虽然惨惨的，但是依旧很萌很坚强，然后你们就特别想给我钱，给我无条件地当牛做马"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 645,
+          "like_count": 28139,
+          "listed_count": 6,
+          "media_count": 2453,
+          "tweet_count": 26955
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2047404795649298474",
+    "created_at": "2026-04-23T20:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047415243010089115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1522945124346601474",
+          "start": 0,
+          "username": "KunaAkem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047415243010089115",
+    "in_reply_to_user_id": "1522945124346601474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047404795649298474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KunaAkem1 我觉得小红薯哲学其实是一种存在主义，可能是这几年法国存在主义在社交媒体上太流行导致的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2047404795649298474",
+        "created_at": "2026-04-23T20:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047415243010089115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522945124346601474",
+              "start": 0,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047415243010089115",
+        "in_reply_to_user_id": "1522945124346601474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047404795649298474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KunaAkem1 我觉得小红薯哲学其实是一种存在主义，可能是这几年法国存在主义在社交媒体上太流行导致的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522945124346601474",
+        "conversation_id": "2047404795649298474",
+        "created_at": "2026-04-23T19:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047404795649298474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dejvvinthenigh…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/dejvvinthenight/status/2047131666674753708",
+              "start": 15,
+              "url": "https://t.co/X0foHdcP4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047404795649298474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047131666674753708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以主体性到底是几把什么玩意 https://t.co/X0foHdcP4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1020,
+          "like_count": 27490,
+          "listed_count": 6,
+          "media_count": 2404,
+          "tweet_count": 26178
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚，音游，文明六",
+        "id": "1522945124346601474",
+        "location": "Aachen, Germany",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978949784867123200/e6evBQw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 425,
+          "like_count": 8226,
+          "listed_count": 4,
+          "media_count": 888,
+          "tweet_count": 5484
+        },
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

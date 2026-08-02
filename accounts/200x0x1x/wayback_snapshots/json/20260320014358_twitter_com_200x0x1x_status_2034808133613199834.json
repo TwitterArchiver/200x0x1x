@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2034794017855013248",
+    "created_at": "2026-03-20T01:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T02:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034808133613199834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550358687062994946",
+          "start": 0,
+          "username": "wenqing18973238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034808133613199834",
+    "in_reply_to_user_id": "1550358687062994946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034807952889323930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenqing18973238 不死者酥酥哟新的试炼又一次开启了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2034794017855013248",
+        "created_at": "2026-03-20T01:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034808133613199834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550358687062994946",
+              "start": 0,
+              "username": "wenqing18973238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034808133613199834",
+        "in_reply_to_user_id": "1550358687062994946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034807952889323930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenqing18973238 不死者酥酥哟新的试炼又一次开启了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550358687062994946",
+        "conversation_id": "2034794017855013248",
+        "created_at": "2026-03-20T01:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034807952889323930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034807952889323930",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034794017855013248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 开小号吧，然后进入新的循环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033980314771468288/Vv3qeE96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 991,
+          "like_count": 27130,
+          "listed_count": 6,
+          "media_count": 2386,
+          "tweet_count": 25871
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-22T05:55:01.000Z",
+        "description": "新世界並不很新，舊世界並不很旧。05年/法本在讀",
+        "id": "1550358687062994946",
+        "name": "Naka（埃迪卡拉紀水母幽靈）",
+        "pinned_tweet_id": "2011117064002683113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973425672623468544/i_bHcaYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 2536,
+          "like_count": 18087,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 3049
+        },
+        "username": "wenqing18973238",
+        "verified": false
+      }
+    ]
+  }
+}

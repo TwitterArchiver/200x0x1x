@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2071937704527556624",
+    "created_at": "2026-06-30T12:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071937704527556624"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071937704527556624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "网人又开始mean了又开始摆态度了在那操你妈，点评这个那个都很有个性呀，一天到晚上网就是点评这个那个，发表一些指导意见，上这个小黑叉都摇身一变了，然后点赞3转发1，和我一样，我们都一样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2071937704527556624",
+        "created_at": "2026-06-30T12:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071937704527556624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071937704527556624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网人又开始mean了又开始摆态度了在那操你妈，点评这个那个都很有个性呀，一天到晚上网就是点评这个那个，发表一些指导意见，上这个小黑叉都摇身一变了，然后点赞3转发1，和我一样，我们都一样啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "susuangelbaby⁺✧ ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 639,
+          "like_count": 28081,
+          "listed_count": 6,
+          "media_count": 2451,
+          "tweet_count": 26907
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

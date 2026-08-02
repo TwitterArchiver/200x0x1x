@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2048855103407276338",
+    "created_at": "2026-04-27T21:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T22:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048884806620967149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916906033030524929",
+          "start": 0,
+          "username": "444xibiwxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048884806620967149",
+    "in_reply_to_user_id": "1916906033030524929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048855103407276338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@444xibiwxx 爸爸笑这么开心啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18148,
+        "height": 956,
+        "media_key": "7_2048691718653194240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048691718653194240/pu/img/kiCrx5sKN19iU2jp.jpg",
+        "public_metrics": {
+          "view_count": 908
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/vid/avc1/320x566/L7rZxpjLQkCtNZWJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/vid/avc1/480x848/C-yWsfHvqdxxmm0j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/vid/avc1/540x956/aqL5dY5XZ-k2T4HA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/pl/HgkcIYOs6_Tco5nl.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2048855103407276338",
+        "created_at": "2026-04-27T21:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048884806620967149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916906033030524929",
+              "start": 0,
+              "username": "444xibiwxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048884806620967149",
+        "in_reply_to_user_id": "1916906033030524929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048855103407276338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@444xibiwxx 爸爸笑这么开心啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048691718653194240"
+          ],
+          "media_source_tweet_id": [
+            "2048691752647983211"
+          ]
+        },
+        "author_id": "1916906033030524929",
+        "conversation_id": "2048855103407276338",
+        "created_at": "2026-04-27T20:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048855103407276338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zyb9vgckRr",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2048691752647983211/video/1",
+              "media_key": "7_2048691718653194240",
+              "start": 0,
+              "url": "https://t.co/zyb9vgckRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048855103407276338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zyb9vgckRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048849942551412736/YGO7ya6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 1028,
+          "like_count": 27557,
+          "listed_count": 6,
+          "media_count": 2406,
+          "tweet_count": 26199
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T17:23:20.000Z",
+        "description": "人生仇恨何能免，销魂独我情何限",
+        "id": "1916906033030524929",
+        "location": "Canada",
+        "name": "444xibiwxx",
+        "pinned_tweet_id": "2043429858827542925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041302456114577409/ZxVHUJas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 171,
+          "like_count": 5812,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 821
+        },
+        "username": "444xibiwxx",
+        "verified": false
+      }
+    ]
+  }
+}

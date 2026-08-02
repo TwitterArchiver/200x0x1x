@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2021374373773574238",
+    "created_at": "2026-02-11T03:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021422482872467838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1128171981214343170",
+          "start": 0,
+          "username": "Phosphas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021422482872467838",
+    "in_reply_to_user_id": "1128171981214343170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021413204883378290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phosphas 怕了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2021374373773574238",
+        "created_at": "2026-02-11T03:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021422482872467838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1128171981214343170",
+              "start": 0,
+              "username": "Phosphas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021422482872467838",
+        "in_reply_to_user_id": "1128171981214343170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021413204883378290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phosphas 怕了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128171981214343170",
+        "conversation_id": "2021374373773574238",
+        "created_at": "2026-02-11T02:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T03:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021413204883378290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021413204883378290",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021374373773574238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 芝加哥药娘皇帝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020951933981229056/Q2mcq0PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 958,
+          "like_count": 26686,
+          "listed_count": 6,
+          "media_count": 2389,
+          "tweet_count": 25634
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-14T05:35:35.000Z",
+        "description": "是狐狐！主業是耍廢/下辈子還想和大家一起玩",
+        "id": "1128171981214343170",
+        "location": "髒髒的樹洞",
+        "name": "塗塗狐🟨⬜️🟪⬛️",
+        "pinned_tweet_id": "1779802684092194893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004647435306438656/s4FyWUpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3314,
+          "following_count": 573,
+          "like_count": 19052,
+          "listed_count": 8,
+          "media_count": 355,
+          "tweet_count": 3069
+        },
+        "username": "Phosphas",
+        "verified": false
+      }
+    ]
+  }
+}

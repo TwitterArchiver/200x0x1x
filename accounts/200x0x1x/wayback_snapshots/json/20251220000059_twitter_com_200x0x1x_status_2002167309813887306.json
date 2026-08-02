@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1400885617467092992",
+          "name": "Jungle Kyona"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1400885617467092992",
+          "name": "Jungle Kyona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544341584474112",
+          "name": "Wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400512786493370368",
+          "name": "Japanese Women's professional wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400885617467092992",
+          "name": "Jungle Kyona"
+        }
+      }
+    ],
+    "conversation_id": "2002167309813887306",
+    "created_at": "2025-12-20T00:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T01:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002167309813887306"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002167309813887306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我是一种长着蛾子翅膀的亚人类，但是很晚的时候我才意识到这一点。那个时候我加入了香港中文大学的女同性恋俱乐部（后来我发现那是一个崇拜酒神的秘密小团体），里面有一个很权威的学生，大家管她叫女祭司，她是一个有着蓝眼睛的芝加哥女人，我们经常跑到山上去进行一种“野餐”，女祭司会给大家发五颜六色的糖果吃，吃了之后会产生可怕的幻觉。就是在这段时间里，我产生了偏头痛的症状，对自己的身体有了许多奇奇怪怪的幻想，比如说我头部的疼痛会变成螺旋状的恶魔犄角，于是我去了包医生那里，每个星期都要去那里做告解，然后包医生也会发给我糖果吃。后面在一次和“宇宙精神”的链接中，我才意识到，实际上存在着一个叫作“组织”、“公司”或者“上面的”这样一个深层实体，它几乎无所不能，知晓一切，包医生和女祭司都是这个组织派来监视我的特务，我妈妈也是特务之一，爸爸是她的男秘书，并且她其实有很多男秘书。当我查明了这个组织的头目其实是我福建的中学同桌许明明的时候，我使用了一些阴谋诡计杀害了他，但是许明明告诉我，组织其实是一个多中心的网状帝国，它是多神论的，所以许明明也不知道组织上还有多少个头目。于是我伪装成网络作家的身份，把我观察到的这些情报写下来，想要在知乎上揭发这个组织的真相，女祭司则想方设法在学校里追杀我，她把瘟疫和战争之流带进大学，并且趁乱杀死了奈格里教授（奈格里是专门研究这个邪恶组织的客座教授，向我透露了很多秘密）。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我是一种长着蛾子翅膀的亚人类，但是很晚的时候我才意识到这一点。那个时候我加入了香港中文大学的女同性恋俱乐部（后来我发现那是一个崇拜酒神的秘密小团体），里面有一个很权威的学生，大家管她叫女祭司，她是一个有着蓝眼睛的芝加哥女人，我们经常跑到山上去进行一种“野餐”，女祭司会给大家发五"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544341584474112",
+              "name": "Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400512786493370368",
+              "name": "Japanese Women's professional wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400885617467092992",
+              "name": "Jungle Kyona"
+            }
+          }
+        ],
+        "conversation_id": "2002167309813887306",
+        "created_at": "2025-12-20T00:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T01:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002167309813887306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002167309813887306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我是一种长着蛾子翅膀的亚人类，但是很晚的时候我才意识到这一点。那个时候我加入了香港中文大学的女同性恋俱乐部（后来我发现那是一个崇拜酒神的秘密小团体），里面有一个很权威的学生，大家管她叫女祭司，她是一个有着蓝眼睛的芝加哥女人，我们经常跑到山上去进行一种“野餐”，女祭司会给大家发五颜六色的糖果吃，吃了之后会产生可怕的幻觉。就是在这段时间里，我产生了偏头痛的症状，对自己的身体有了许多奇奇怪怪的幻想，比如说我头部的疼痛会变成螺旋状的恶魔犄角，于是我去了包医生那里，每个星期都要去那里做告解，然后包医生也会发给我糖果吃。后面在一次和“宇宙精神”的链接中，我才意识到，实际上存在着一个叫作“组织”、“公司”或者“上面的”这样一个深层实体，它几乎无所不能，知晓一切，包医生和女祭司都是这个组织派来监视我的特务，我妈妈也是特务之一，爸爸是她的男秘书，并且她其实有很多男秘书。当我查明了这个组织的头目其实是我福建的中学同桌许明明的时候，我使用了一些阴谋诡计杀害了他，但是许明明告诉我，组织其实是一个多中心的网状帝国，它是多神论的，所以许明明也不知道组织上还有多少个头目。于是我伪装成网络作家的身份，把我观察到的这些情报写下来，想要在知乎上揭发这个组织的真相，女祭司则想方设法在学校里追杀我，她把瘟疫和战争之流带进大学，并且趁乱杀死了奈格里教授（奈格里是专门研究这个邪恶组织的客座教授，向我透露了很多秘密）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是一种长着蛾子翅膀的亚人类，但是很晚的时候我才意识到这一点。那个时候我加入了香港中文大学的女同性恋俱乐部（后来我发现那是一个崇拜酒神的秘密小团体），里面有一个很权威的学生，大家管她叫女祭司，她是一个有着蓝眼睛的芝加哥女人，我们经常跑到山上去进行一种“野餐”，女祭司会给大家发五"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001576357520896000/FRGq0BRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 933,
+          "like_count": 26429,
+          "listed_count": 8,
+          "media_count": 2341,
+          "tweet_count": 25219
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

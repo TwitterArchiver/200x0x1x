@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075459049454526617",
+    "created_at": "2026-07-16T22:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077876475529957813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767890247029821440",
+          "start": 0,
+          "username": "ZhiDaiJun1919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077876475529957813",
+    "in_reply_to_user_id": "1767890247029821440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077875548026458195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhiDaiJun1919 老师对我有篇幅要求，我后面还得删更多内容。你说前面不重要的那一部分是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075459049454526617",
+        "created_at": "2026-07-16T22:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077876475529957813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767890247029821440",
+              "start": 0,
+              "username": "ZhiDaiJun1919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077876475529957813",
+        "in_reply_to_user_id": "1767890247029821440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077875548026458195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiDaiJun1919 老师对我有篇幅要求，我后面还得删更多内容。你说前面不重要的那一部分是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767890247029821440",
+        "conversation_id": "2075459049454526617",
+        "created_at": "2026-07-16T21:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077875548026458195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077875548026458195",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077180119819620637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 看完了，前面有一部分讲的不是很重要，而且要是对悲观主义描述的细节更多就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 673,
+          "like_count": 28596,
+          "listed_count": 6,
+          "media_count": 2474,
+          "tweet_count": 27339
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T12:27:48.000Z",
+        "description": "上帝不能违背自己的意愿",
+        "id": "1767890247029821440",
+        "name": "zhidai",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 193,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "ZhiDaiJun1919",
+        "verified": false
+      }
+    ]
+  }
+}

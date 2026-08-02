@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1988277250727506249",
+    "created_at": "2025-11-12T01:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T02:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988414130534129735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "Rokumi_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988414130534129735",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988277250727506249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rokumi_desu 宝宝你做数学题好厉害啊，我好崇拜你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1988277250727506249",
+        "created_at": "2025-11-12T01:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988414130534129735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "Rokumi_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988414130534129735",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988277250727506249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rokumi_desu 宝宝你做数学题好厉害啊，我好崇拜你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247123754158702593",
+        "conversation_id": "1988277250727506249",
+        "created_at": "2025-11-11T16:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988277250727506249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988277250727506249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说真的，有些网哲小鬼满口拉康齐泽克西哲黑话，一看高考数学分数怕是还没我鞋码大，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987944281835765761/BF1DED_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 926,
+          "like_count": 25969,
+          "listed_count": 7,
+          "media_count": 2327,
+          "tweet_count": 24951
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "头在鞋上几千次，鞋在头上第一次。不接待腊肉崇拜者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rokuuuunanami",
+                "end": 23,
+                "expanded_url": "https://t.me/rokuuuunanami",
+                "start": 0,
+                "url": "https://t.co/KvIHmQqwtI"
+              }
+            ]
+          }
+        },
+        "id": "1247123754158702593",
+        "name": "海うみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963335765573902336/bn-zMV-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 692,
+          "like_count": 90556,
+          "listed_count": 10,
+          "media_count": 473,
+          "tweet_count": 8955
+        },
+        "url": "https://t.co/KvIHmQqwtI",
+        "username": "Rokumi_desu",
+        "verified": false
+      }
+    ]
+  }
+}

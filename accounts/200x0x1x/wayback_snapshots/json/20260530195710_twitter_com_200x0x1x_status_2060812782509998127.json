@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2060768785062101483",
+    "created_at": "2026-05-30T19:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060812782509998127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1916906286362603520",
+          "start": 0,
+          "username": "8964tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060812782509998127",
+    "in_reply_to_user_id": "1916906286362603520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060811594196767229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tv 好这口"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060811594196767229].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060811594196767229",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060811594196767229"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2060768785062101483",
+        "created_at": "2026-05-30T19:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060812782509998127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916906286362603520",
+              "start": 0,
+              "username": "8964tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060812782509998127",
+        "in_reply_to_user_id": "1916906286362603520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060811594196767229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tv 好这口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059059852052213760/WE9r4TCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 759,
+          "like_count": 27673,
+          "listed_count": 6,
+          "media_count": 2432,
+          "tweet_count": 26530
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T17:24:15.000Z",
+        "description": "哲学系/永恒之物@hh1364915645639",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "hh1364915645639"
+              }
+            ]
+          }
+        },
+        "id": "1916906286362603520",
+        "name": "唉",
+        "pinned_tweet_id": "1988899293726462438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024467730427158528/Y-UwhGOF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 94,
+          "like_count": 788,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 817
+        },
+        "username": "8964tv",
+        "verified": false
+      }
+    ]
+  }
+}

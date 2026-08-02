@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075966086110216335",
+    "created_at": "2026-07-11T18:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076014629718024487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877434281494196226",
+          "start": 0,
+          "username": "AngelsTrumpetIX"
+        },
+        {
+          "end": 31,
+          "id": "1474188339834097668",
+          "start": 17,
+          "username": "longlivetheCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076014629718024487",
+    "in_reply_to_user_id": "1877434281494196226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075998592192647571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelsTrumpetIX @longlivetheCR 不是我哟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075966086110216335",
+        "created_at": "2026-07-11T18:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076014629718024487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877434281494196226",
+              "start": 0,
+              "username": "AngelsTrumpetIX"
+            },
+            {
+              "end": 31,
+              "id": "1474188339834097668",
+              "start": 17,
+              "username": "longlivetheCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076014629718024487",
+        "in_reply_to_user_id": "1877434281494196226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075998592192647571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelsTrumpetIX @longlivetheCR 不是我哟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877434281494196226",
+        "conversation_id": "2075966086110216335",
+        "created_at": "2026-07-11T17:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075998592192647571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 24,
+              "id": "1474188339834097668",
+              "start": 10,
+              "username": "longlivetheCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075998592192647571",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075989458651111704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x @longlivetheCR 我笑，唯一个书签是不是你加的😁（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601792118013952/JtH0JSmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 654,
+          "like_count": 28434,
+          "listed_count": 6,
+          "media_count": 2465,
+          "tweet_count": 27197
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-09T19:16:36.000Z",
+        "description": "小号，碎碎念，不定期删推",
+        "id": "1877434281494196226",
+        "location": "Abyss",
+        "name": "Aurelya",
+        "pinned_tweet_id": "1957014987756695592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021972123087147008/O6BrVyuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 358,
+          "like_count": 1967,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "AngelsTrumpetIX",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-24T01:21:46.000Z",
+        "description": "没有历史，没有名字，没有面孔的剩余。",
+        "id": "1474188339834097668",
+        "name": "🌲Svellsöngur🍃",
+        "pinned_tweet_id": "1553720156769071104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030461560569888768/xyn_tq5t_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 536,
+          "like_count": 16975,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4308
+        },
+        "url": "",
+        "username": "longlivetheCR",
+        "verified": false
+      }
+    ]
+  }
+}

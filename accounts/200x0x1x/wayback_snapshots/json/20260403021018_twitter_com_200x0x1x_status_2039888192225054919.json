@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2039885754571112649",
+    "created_at": "2026-04-03T02:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039888192225054919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476054864027594754",
+          "start": 0,
+          "username": "Shanghai_Repub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039888192225054919",
+    "in_reply_to_user_id": "1476054864027594754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039888135278997553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanghai_Repub 颤抖了没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2039885754571112649",
+        "created_at": "2026-04-03T02:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039888192225054919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476054864027594754",
+              "start": 0,
+              "username": "Shanghai_Repub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039888192225054919",
+        "in_reply_to_user_id": "1476054864027594754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039888135278997553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanghai_Repub 颤抖了没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476054864027594754",
+        "conversation_id": "2039885754571112649",
+        "created_at": "2026-04-03T02:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039888135278997553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039888135278997553",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039885754571112649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 我去，不早说！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038736188706623488/nEtFKiOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1007,
+          "like_count": 27191,
+          "listed_count": 6,
+          "media_count": 2397,
+          "tweet_count": 26022
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-29T05:00:03.000Z",
+        "description": "孩子们我投共了请多多支持。",
+        "id": "1476054864027594754",
+        "name": "聯軍來了我帶路，國軍來了我參加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039123250991476737/cwA5Fq8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 803,
+          "like_count": 11752,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1316
+        },
+        "username": "Shanghai_Repub",
+        "verified": true
+      }
+    ]
+  }
+}

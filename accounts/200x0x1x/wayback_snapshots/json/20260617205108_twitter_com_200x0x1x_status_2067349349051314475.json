@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2067300161542664544",
+    "created_at": "2026-06-17T20:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T21:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067349349051314475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797831340987195392",
+          "start": 0,
+          "username": "nagaikisetsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067349349051314475",
+    "in_reply_to_user_id": "1797831340987195392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067300161542664544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagaikisetsu 爱你宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_2067300155897020416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCGiexaAAAXfv2.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2067300161542664544",
+        "created_at": "2026-06-17T20:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067349349051314475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797831340987195392",
+              "start": 0,
+              "username": "nagaikisetsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067349349051314475",
+        "in_reply_to_user_id": "1797831340987195392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067300161542664544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagaikisetsu 爱你宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067300155897020416"
+          ]
+        },
+        "author_id": "1797831340987195392",
+        "conversation_id": "2067300161542664544",
+        "created_at": "2026-06-17T17:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067300161542664544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOU9fsOjZV",
+              "end": 30,
+              "expanded_url": "https://x.com/nagaikisetsu/status/2067300161542664544/photo/1",
+              "media_key": "3_2067300155897020416",
+              "start": 7,
+              "url": "https://t.co/VOU9fsOjZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067300161542664544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在想你 https://t.co/VOU9fsOjZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066743555121410048/5IXgNP07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 639,
+          "like_count": 27949,
+          "listed_count": 6,
+          "media_count": 2444,
+          "tweet_count": 26749
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T03:23:07.000Z",
+        "description": "test",
+        "id": "1797831340987195392",
+        "location": "koko",
+        "name": "iv",
+        "pinned_tweet_id": "1948671608551604689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062012334072328192/S2eStc8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 87,
+          "like_count": 5137,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "nagaikisetsu",
+        "verified": true
+      }
+    ]
+  }
+}

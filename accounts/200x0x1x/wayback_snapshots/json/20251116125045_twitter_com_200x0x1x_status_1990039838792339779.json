@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1989949393257021861",
+    "created_at": "2025-11-16T12:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T13:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990039838792339779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1343112727720460289",
+          "start": 0,
+          "username": "wwx67751673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990039838792339779",
+    "in_reply_to_user_id": "1343112727720460289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990002543968342348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwx67751673 谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1989949393257021861",
+        "created_at": "2025-11-16T12:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990039838792339779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343112727720460289",
+              "start": 0,
+              "username": "wwx67751673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990039838792339779",
+        "in_reply_to_user_id": "1343112727720460289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990002543968342348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwx67751673 谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343112727720460289",
+        "conversation_id": "1989949393257021861",
+        "created_at": "2025-11-16T10:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990002543968342348"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "透彻",
+              "probability": 0.6562,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990002543968342348",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989949393257021861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 透彻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988789585422282752/DZ2pnXRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 927,
+          "like_count": 26049,
+          "listed_count": 7,
+          "media_count": 2329,
+          "tweet_count": 24999
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-27T08:33:31.000Z",
+        "description": "追求一个所有人都平静和谐的理想国，自己还在内部整修中。是个各个方面上的“半吊子”。\n\n(想象力恢复中)(INFP 测试题很好玩 可以看到一幅画上的一些小“点”)(升华欲望)(原始人)(背景是住院时拍的)(建议大家少吃知识罐头)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fr.whotwi.com/wwx67751673",
+                "end": 23,
+                "expanded_url": "https://fr.whotwi.com/wwx67751673",
+                "start": 0,
+                "url": "https://t.co/zY2mTFeixA"
+              }
+            ]
+          }
+        },
+        "id": "1343112727720460289",
+        "location": "梦境与现实之间",
+        "name": "luv(sic)pt wwx",
+        "pinned_tweet_id": "1763012714610446659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443855809281028104/447Qn3iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 863,
+          "like_count": 142521,
+          "listed_count": 10,
+          "media_count": 937,
+          "tweet_count": 34421
+        },
+        "url": "https://t.co/zY2mTFeixA",
+        "username": "wwx67751673",
+        "verified": false
+      }
+    ]
+  }
+}

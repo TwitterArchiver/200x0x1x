@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2076996262097002876",
+    "created_at": "2026-07-14T11:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076996262097002876"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 6,
+          "tag": "情侣日常vlog记录"
+        },
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "校园恋爱"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "纯爱"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "男友视角"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/popbrant/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/popbrant/status/2076677857640661024",
+          "start": 34,
+          "url": "https://t.co/gZDML4PkeA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076996262097002876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076677857640661024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和我老公 #情侣日常vlog记录 #校园恋爱 #纯爱 #男友视角 https://t.co/gZDML4PkeA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2076677855388262400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHXgbtWYAAnj8c.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2076996262097002876",
+        "created_at": "2026-07-14T11:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076996262097002876"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "情侣日常vlog记录"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "校园恋爱"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "纯爱"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "男友视角"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/popbrant/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/popbrant/status/2076677857640661024",
+              "start": 34,
+              "url": "https://t.co/gZDML4PkeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076996262097002876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076677857640661024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和我老公 #情侣日常vlog记录 #校园恋爱 #纯爱 #男友视角 https://t.co/gZDML4PkeA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076677855388262400"
+          ]
+        },
+        "author_id": "2049968416157466625",
+        "conversation_id": "2076677857640661024",
+        "created_at": "2026-07-13T14:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076677857640661024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3PiTgZ7Th",
+              "end": 23,
+              "expanded_url": "https://x.com/popbrant/status/2076677857640661024/photo/1",
+              "media_key": "3_2076677855388262400",
+              "start": 0,
+              "url": "https://t.co/d3PiTgZ7Th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076677857640661024",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 54597,
+          "like_count": 4754,
+          "quote_count": 23,
+          "reply_count": 5,
+          "retweet_count": 1156
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d3PiTgZ7Th"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 666,
+          "like_count": 28495,
+          "listed_count": 6,
+          "media_count": 2467,
+          "tweet_count": 27245
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T21:45:53.000Z",
+        "description": "個人データ:::::: 物質界に忘れられた魂あの世に戻って愛する人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/popbrane",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/popbrane",
+                "start": 0,
+                "url": "https://t.co/dnYwTtET8S"
+              }
+            ]
+          }
+        },
+        "id": "2049968416157466625",
+        "location": "بالزراب",
+        "name": "T3bt3abop2bna2ban2nso2hgo2",
+        "pinned_tweet_id": "2071330391223328834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071266728953462784/BmR_ddVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 71,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/dnYwTtET8S",
+        "username": "popbrant",
+        "verified": false
+      }
+    ]
+  }
+}

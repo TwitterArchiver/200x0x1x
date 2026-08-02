@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068788662192513024"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068788666579755464",
+    "created_at": "2026-06-21T20:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068788666579755464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A5H3RNWvso",
+          "end": 73,
+          "expanded_url": "https://x.com/200x0x1x/status/2068788666579755464/photo/1",
+          "media_key": "3_2068788662192513024",
+          "start": 50,
+          "url": "https://t.co/A5H3RNWvso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068788666579755464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主包这锅意大利海鲜浓汤有懂的吗，虽然看着有点泔水，但是你们品一下番茄浓汤和鳕鱼青口这个组合会有多香 https://t.co/A5H3RNWvso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_2068788662192513024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXQU81XIAAXCH-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068788662192513024"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068788666579755464",
+        "created_at": "2026-06-21T20:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068788666579755464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5H3RNWvso",
+              "end": 73,
+              "expanded_url": "https://x.com/200x0x1x/status/2068788666579755464/photo/1",
+              "media_key": "3_2068788662192513024",
+              "start": 50,
+              "url": "https://t.co/A5H3RNWvso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068788666579755464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包这锅意大利海鲜浓汤有懂的吗，虽然看着有点泔水，但是你们品一下番茄浓汤和鳕鱼青口这个组合会有多香 https://t.co/A5H3RNWvso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 635,
+          "like_count": 28047,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26822
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

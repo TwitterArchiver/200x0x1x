@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045336356097011712"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2045336359234093341",
+    "created_at": "2026-04-18T02:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045336359234093341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WvVE0s5FOU",
+          "end": 32,
+          "expanded_url": "https://x.com/200x0x1x/status/2045336359234093341/photo/1",
+          "media_key": "3_2045336356097011712",
+          "start": 9,
+          "url": "https://t.co/WvVE0s5FOU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045336359234093341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "失去男子气概，， https://t.co/WvVE0s5FOU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045336359234093341].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045336359234093341",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045336359234093341"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2045336356097011712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ-lEdasAAjfD4.jpg",
+        "width": 1018
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1012,
+          "like_count": 27362,
+          "listed_count": 6,
+          "media_count": 2403,
+          "tweet_count": 26137
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

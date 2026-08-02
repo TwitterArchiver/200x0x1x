@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1989122317721501895",
+    "created_at": "2025-11-14T00:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T01:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989122317721501895"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989122317721501895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“性行为被当作一种礼仪行为，庆典或战争行为，死亡将是这种行为的必然结局（正如古代悲剧中的乱伦主题那样），挑战完成的象征形式。”将死亡作为竞价游戏的赌注，是把象征交换进行到底——或者说它就是对象征交换之延宕的强制终止，因为将不再有比生命本身更高的筹码。这就是说“我爱你到愿意为你去死“乃是最高形式的挑衅，这将我们重新带回黑格尔式主奴斗争的局面，因为受挑战者必须同样将生命抵偿给对方，这是只有以命偿命可以抵消的债务，否则他便成为恋爱中的俘虏。在此恋人有三种形态来回应这至高的挑战，变成疯子（押上生命）、变成家犬（心甘情愿成为奴隶），以及变成蛇（冷诱惑者）。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“性行为被当作一种礼仪行为，庆典或战争行为，死亡将是这种行为的必然结局（正如古代悲剧中的乱伦主题那样），挑战完成的象征形式。”将死亡作为竞价游戏的赌注，是把象征交换进行到底——或者说它就是对象征交换之延宕的强制终止，因为将不再有比生命本身更高的筹码。这就是说“我爱你到愿意为你去死“乃是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1989122317721501895",
+        "created_at": "2025-11-14T00:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T01:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989122317721501895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989122317721501895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“性行为被当作一种礼仪行为，庆典或战争行为，死亡将是这种行为的必然结局（正如古代悲剧中的乱伦主题那样），挑战完成的象征形式。”将死亡作为竞价游戏的赌注，是把象征交换进行到底——或者说它就是对象征交换之延宕的强制终止，因为将不再有比生命本身更高的筹码。这就是说“我爱你到愿意为你去死“乃是最高形式的挑衅，这将我们重新带回黑格尔式主奴斗争的局面，因为受挑战者必须同样将生命抵偿给对方，这是只有以命偿命可以抵消的债务，否则他便成为恋爱中的俘虏。在此恋人有三种形态来回应这至高的挑战，变成疯子（押上生命）、变成家犬（心甘情愿成为奴隶），以及变成蛇（冷诱惑者）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“性行为被当作一种礼仪行为，庆典或战争行为，死亡将是这种行为的必然结局（正如古代悲剧中的乱伦主题那样），挑战完成的象征形式。”将死亡作为竞价游戏的赌注，是把象征交换进行到底——或者说它就是对象征交换之延宕的强制终止，因为将不再有比生命本身更高的筹码。这就是说“我爱你到愿意为你去死“乃是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988789585422282752/DZ2pnXRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 929,
+          "like_count": 26007,
+          "listed_count": 7,
+          "media_count": 2328,
+          "tweet_count": 24977
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

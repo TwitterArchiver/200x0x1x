@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2010945091259506793",
+    "created_at": "2026-01-13T05:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010945091259506793"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010945091259506793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "用通俗的语言来讲，多数悲观主义者衡量存在价值的尺度是快乐/不快乐，只不过因为不快乐多于快乐，所以选择逃离现实，实质上处于支配地位的还是生物学的趋利避害原则。悲观主义和乐观主义是共存在同一个价值体系里的，只不过一个认为活着快乐更多，一个认为活着不快乐更多，由此导出存在或者虚无价值更高的结论。不论如何，二者都把快乐当作最高的价值，所以归根结底都是享乐主义哲学，生活在柏拉图讨论过的“猪的城邦”里。现代人需要的是一种悲剧性的，更加残酷的意志。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用通俗的语言来讲，多数悲观主义者衡量存在价值的尺度是快乐/不快乐，只不过因为不快乐多于快乐，所以选择逃离现实，实质上处于支配地位的还是生物学的趋利避害原则。悲观主义和乐观主义是共存在同一个价值体系里的，只不过一个认为活着快乐更多，一个认为活着不快乐更多，由此导出存在或者虚无价值更"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2010945091259506793",
+        "created_at": "2026-01-13T05:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010945091259506793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010945091259506793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "用通俗的语言来讲，多数悲观主义者衡量存在价值的尺度是快乐/不快乐，只不过因为不快乐多于快乐，所以选择逃离现实，实质上处于支配地位的还是生物学的趋利避害原则。悲观主义和乐观主义是共存在同一个价值体系里的，只不过一个认为活着快乐更多，一个认为活着不快乐更多，由此导出存在或者虚无价值更高的结论。不论如何，二者都把快乐当作最高的价值，所以归根结底都是享乐主义哲学，生活在柏拉图讨论过的“猪的城邦”里。现代人需要的是一种悲剧性的，更加残酷的意志。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用通俗的语言来讲，多数悲观主义者衡量存在价值的尺度是快乐/不快乐，只不过因为不快乐多于快乐，所以选择逃离现实，实质上处于支配地位的还是生物学的趋利避害原则。悲观主义和乐观主义是共存在同一个价值体系里的，只不过一个认为活着快乐更多，一个认为活着不快乐更多，由此导出存在或者虚无价值更"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010544550813589505/10ciwxrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 934,
+          "like_count": 26389,
+          "listed_count": 6,
+          "media_count": 2355,
+          "tweet_count": 25353
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

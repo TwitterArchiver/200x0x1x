@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067109332571832320"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2067109335876981166",
+    "created_at": "2026-06-17T04:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067109335876981166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/93K7VGufyd",
+          "end": 54,
+          "expanded_url": "https://x.com/200x0x1x/status/2067109335876981166/photo/1",
+          "media_key": "3_2067109332571832320",
+          "start": 31,
+          "url": "https://t.co/93K7VGufyd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067109335876981166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总之哥哥姐姐求求你们了点个关注吧，然后呢我的精神病就治好了。 https://t.co/93K7VGufyd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2067109332571832320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_Y_GfWwAA17LZ.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067109332571832320"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2067109335876981166",
+        "created_at": "2026-06-17T04:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067109335876981166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93K7VGufyd",
+              "end": 54,
+              "expanded_url": "https://x.com/200x0x1x/status/2067109335876981166/photo/1",
+              "media_key": "3_2067109332571832320",
+              "start": 31,
+              "url": "https://t.co/93K7VGufyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067109335876981166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总之哥哥姐姐求求你们了点个关注吧，然后呢我的精神病就治好了。 https://t.co/93K7VGufyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066743555121410048/5IXgNP07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 638,
+          "like_count": 27914,
+          "listed_count": 6,
+          "media_count": 2443,
+          "tweet_count": 26736
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

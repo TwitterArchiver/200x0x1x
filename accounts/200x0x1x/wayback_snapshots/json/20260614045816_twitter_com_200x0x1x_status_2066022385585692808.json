@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2065947670192304580",
+    "created_at": "2026-06-14T04:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066022385585692808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050194481509695488",
+          "start": 0,
+          "username": "seulsamada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066022385585692808",
+    "in_reply_to_user_id": "2050194481509695488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065947670192304580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seulsamada 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6357,
+        "height": 362,
+        "media_key": "7_2065947660415287296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065947660415287296/pu/img/uaWEOZMlybheUJjS.jpg",
+        "public_metrics": {
+          "view_count": 313908
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065947660415287296/pu/vid/avc1/320x320/zao_OTrQIMlU-ntW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065947660415287296/pu/vid/avc1/360x362/dvOKeNMyAQc6MLw3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065947660415287296/pu/pl/A83txiunOSLhXA9s.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2065947670192304580",
+        "created_at": "2026-06-14T04:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066022385585692808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050194481509695488",
+              "start": 0,
+              "username": "seulsamada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066022385585692808",
+        "in_reply_to_user_id": "2050194481509695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065947670192304580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seulsamada 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065947660415287296"
+          ]
+        },
+        "author_id": "2050194481509695488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1138142402802143232",
+              "name": "Jang Wonyoung"
+            }
+          }
+        ],
+        "conversation_id": "2065947670192304580",
+        "created_at": "2026-06-14T00:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065947670192304580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgzKBqY84N",
+              "end": 149,
+              "expanded_url": "https://x.com/seulsamada/status/2065947670192304580/video/1",
+              "media_key": "7_2065947660415287296",
+              "start": 126,
+              "url": "https://t.co/rgzKBqY84N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065947670192304580",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1682,
+          "impression_count": 1500048,
+          "like_count": 5491,
+          "quote_count": 965,
+          "reply_count": 197,
+          "retweet_count": 738
+        },
+        "reply_settings": "everyone",
+        "text": "장원영의 계속되는 인성논란 ㄷㄷ\n\n공항에 이어 이번엔 포토타임 끝나자마자\n팬들 앞에서 머리띠 던지는 모습에 실망이라며 보지도 않고 쓰레기 던지듯이 던졌다며 \n많은 팬들에게 공분을 사는 중.\n\n조금 더 신중하게 행동하시길... https://t.co/rgzKBqY84N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065160223313068032/hZhibMJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 767,
+          "like_count": 27860,
+          "listed_count": 6,
+          "media_count": 2444,
+          "tweet_count": 26723
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T12:44:43.000Z",
+        "description": "이것저것 일상 다 올리는 계정입니다.\n예쁘게 봐주세요!\n선팔해주시면 맞팔은 무조건 갑니다.\n찐소통 환영해요^^",
+        "id": "2050194481509695488",
+        "name": "뱃살공주",
+        "pinned_tweet_id": "2065947670192304580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050209222982565888/nY2yOmd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 1045,
+          "like_count": 14357,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 9690
+        },
+        "username": "seulsamada",
+        "verified": true
+      }
+    ]
+  }
+}

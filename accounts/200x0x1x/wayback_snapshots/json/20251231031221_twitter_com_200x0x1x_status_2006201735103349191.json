@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2006201735103349191",
+    "created_at": "2025-12-31T03:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T04:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006201735103349191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006201735103349191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些人设就像衣服一样，虽然好看，但你能不能撑起来又是另一回事。例如说病娇，如果你不小心把自己玩成变态男了，不是一下子就性缩力了吗？所以说性张力＞属性是真理。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2006201735103349191",
+        "created_at": "2025-12-31T03:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006201735103349191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006201735103349191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人设就像衣服一样，虽然好看，但你能不能撑起来又是另一回事。例如说病娇，如果你不小心把自己玩成变态男了，不是一下子就性缩力了吗？所以说性张力＞属性是真理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004189770768117760/acG2jYOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 936,
+          "like_count": 26554,
+          "listed_count": 7,
+          "media_count": 2348,
+          "tweet_count": 25281
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

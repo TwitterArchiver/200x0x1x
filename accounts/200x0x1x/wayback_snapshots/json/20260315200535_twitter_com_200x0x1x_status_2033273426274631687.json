@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2033273426274631687",
+    "created_at": "2026-03-15T20:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T21:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033273426274631687"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033273426274631687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "书写是一种进行铭刻的行为，就好像《在流放地》里刑罚机器在罪犯身体上铭刻律法那样，作者的身体就是一张签名。书写不是为着记录或者表达，相反，某物在书写中得到赋形，从潜能进入现实之域。可以说，写作就是一台刑罚机器：作者被要求把自己固定在机器内部，让书写在他的身上“刺绣”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2033273426274631687",
+        "created_at": "2026-03-15T20:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T21:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033273426274631687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033273426274631687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "书写是一种进行铭刻的行为，就好像《在流放地》里刑罚机器在罪犯身体上铭刻律法那样，作者的身体就是一张签名。书写不是为着记录或者表达，相反，某物在书写中得到赋形，从潜能进入现实之域。可以说，写作就是一台刑罚机器：作者被要求把自己固定在机器内部，让书写在他的身上“刺绣”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032983354274951168/7FV5Xbav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 983,
+          "like_count": 26988,
+          "listed_count": 6,
+          "media_count": 2384,
+          "tweet_count": 25825
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

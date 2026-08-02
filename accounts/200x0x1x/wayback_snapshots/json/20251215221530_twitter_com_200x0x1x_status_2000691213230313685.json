@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000552129895817221"
+      ],
+      "media_source_tweet_id": [
+        "2000552571128467515"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      }
+    ],
+    "conversation_id": "2000691213230313685",
+    "created_at": "2025-12-15T22:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T23:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000691213230313685"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "yaoi",
+          "probability": 0.4288,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "371929343",
+          "start": 3,
+          "username": "psicochurroz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P9o4Dx0QgJ",
+          "end": 60,
+          "expanded_url": "https://x.com/psicochurroz/status/2000552571128467515/video/1",
+          "media_key": "13_2000552129895817221",
+          "start": 37,
+          "url": "https://t.co/P9o4Dx0QgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000691213230313685",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000552571128467515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psicochurroz: mom found the yaoi https://t.co/P9o4Dx0QgJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93251,
+        "height": 600,
+        "media_key": "13_2000552129895817221",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000552129895817221/img/IpepzX6IpQ5_5EYo.jpg",
+        "public_metrics": {
+          "view_count": 152299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/vid/avc1/360x270/hYj9L4GVYkcNxpvW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/vid/avc1/480x360/ApPvC3uA6mt1qpo6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/vid/avc1/800x600/iqUuYHtlNE81gZq1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/pl/xOTD3mFcVqHJRozH.m3u8?tag=14&v=3d7"
+          }
+        ],
+        "width": 800
+      },
+      {
+        "duration_ms": 93251,
+        "height": 600,
+        "media_key": "13_2000552129895817221",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000552129895817221/img/IpepzX6IpQ5_5EYo.jpg",
+        "public_metrics": {
+          "view_count": 152983
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/vid/avc1/360x270/hYj9L4GVYkcNxpvW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/vid/avc1/480x360/ApPvC3uA6mt1qpo6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/vid/avc1/800x600/iqUuYHtlNE81gZq1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000552129895817221/pl/xOTD3mFcVqHJRozH.m3u8?tag=14&v=3d7"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000552129895817221"
+          ],
+          "media_source_tweet_id": [
+            "2000552571128467515"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2000691213230313685",
+        "created_at": "2025-12-15T22:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T23:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000691213230313685"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "yaoi",
+              "probability": 0.4288,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "371929343",
+              "start": 3,
+              "username": "psicochurroz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9o4Dx0QgJ",
+              "end": 60,
+              "expanded_url": "https://x.com/psicochurroz/status/2000552571128467515/video/1",
+              "media_key": "13_2000552129895817221",
+              "start": 37,
+              "url": "https://t.co/P9o4Dx0QgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000691213230313685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000552571128467515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psicochurroz: mom found the yaoi https://t.co/P9o4Dx0QgJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000552129895817221"
+          ]
+        },
+        "author_id": "371929343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2000552571128467515",
+        "created_at": "2025-12-15T13:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000552571128467515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "yaoi",
+              "probability": 0.4096,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9o4Dx0QgJ",
+              "end": 42,
+              "expanded_url": "https://x.com/psicochurroz/status/2000552571128467515/video/1",
+              "media_key": "13_2000552129895817221",
+              "start": 19,
+              "url": "https://t.co/P9o4Dx0QgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000552571128467515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8786,
+          "impression_count": 269971,
+          "like_count": 32775,
+          "quote_count": 105,
+          "reply_count": 96,
+          "retweet_count": 4319
+        },
+        "reply_settings": "everyone",
+        "text": "mom found the yaoi https://t.co/P9o4Dx0QgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998581802374500352/Y_6Q-h8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 932,
+          "like_count": 26363,
+          "listed_count": 8,
+          "media_count": 2341,
+          "tweet_count": 25180
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-11T19:52:26.000Z",
+        "description": "amateur anime auteur",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@psicochurroz",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@psicochurroz",
+                "start": 0,
+                "url": "https://t.co/fBLTMPLjDZ"
+              }
+            ]
+          }
+        },
+        "id": "371929343",
+        "location": "psicochurroz@protonmail.com",
+        "name": "psicochurroz",
+        "pinned_tweet_id": "1961188879496593805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747298976464789504/QR5Wk2PN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45564,
+          "following_count": 756,
+          "like_count": 19872,
+          "listed_count": 220,
+          "media_count": 320,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/fBLTMPLjDZ",
+        "username": "psicochurroz",
+        "verified": false
+      }
+    ]
+  }
+}

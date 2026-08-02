@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052891961518956552"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2052891966011019744",
+    "created_at": "2026-05-08T23:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052891966011019744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9VAPsjaWJN",
+          "end": 35,
+          "expanded_url": "https://x.com/200x0x1x/status/2052891966011019744/photo/1",
+          "media_key": "3_2052891961518956552",
+          "start": 12,
+          "url": "https://t.co/9VAPsjaWJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052891966011019744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "常言道，寡妇门前是非多 https://t.co/9VAPsjaWJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2015,
+        "media_key": "3_2052891961518956552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1WXMCXoAgpIua.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052891961518956552"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2052891966011019744",
+        "created_at": "2026-05-08T23:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052891966011019744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9VAPsjaWJN",
+              "end": 35,
+              "expanded_url": "https://x.com/200x0x1x/status/2052891966011019744/photo/1",
+              "media_key": "3_2052891961518956552",
+              "start": 12,
+              "url": "https://t.co/9VAPsjaWJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052891966011019744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "常言道，寡妇门前是非多 https://t.co/9VAPsjaWJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "寡妇门前是非多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 1052,
+          "like_count": 27865,
+          "listed_count": 6,
+          "media_count": 2415,
+          "tweet_count": 26315
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

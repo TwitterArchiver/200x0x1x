@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2070559162858340616",
+    "created_at": "2026-06-27T01:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070679099065200763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601997423987294208",
+          "start": 0,
+          "username": "pikoo378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070679099065200763",
+    "in_reply_to_user_id": "1601997423987294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070559162858340616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pikoo378 认真的吗说个逗猫棒都能想歪。？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2070559154662789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwalLQb0AAoRkY.jpg",
+        "width": 577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2070559162858340616",
+        "created_at": "2026-06-27T01:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070679099065200763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601997423987294208",
+              "start": 0,
+              "username": "pikoo378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070679099065200763",
+        "in_reply_to_user_id": "1601997423987294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070559162858340616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pikoo378 认真的吗说个逗猫棒都能想歪。？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070559154662789120"
+          ]
+        },
+        "author_id": "1601997423987294208",
+        "conversation_id": "2070559162858340616",
+        "created_at": "2026-06-26T17:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070559162858340616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRs4dqlzPW",
+              "end": 41,
+              "expanded_url": "https://x.com/pikoo378/status/2070559162858340616/photo/1",
+              "media_key": "3_2070559154662789120",
+              "start": 18,
+              "url": "https://t.co/KRs4dqlzPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070559162858340616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1504,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死 想歪了点进去发现是真的逗猫棒 https://t.co/KRs4dqlzPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070675847246434304/LmPEXgv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 630,
+          "like_count": 28023,
+          "listed_count": 6,
+          "media_count": 2449,
+          "tweet_count": 26866
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T17:49:17.000Z",
+        "description": "声控 🍰",
+        "id": "1601997423987294208",
+        "location": "Hong Kong",
+        "name": "aik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609136415224528896/VkHW4Zr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 15,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "pikoo378",
+        "verified": false
+      }
+    ]
+  }
+}

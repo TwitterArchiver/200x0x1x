@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2057835788394512754",
+    "created_at": "2026-05-22T14:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057835788394512754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huiseliuye/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/huiseliuye/status/2057655144335184092",
+          "start": 36,
+          "url": "https://t.co/0UQZF7i4pQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057835788394512754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057655144335184092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉，我这个样。子好肥呀。我老公会不会 抛下我呢。可是，我感觉很可爱 https://t.co/0UQZF7i4pQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2057655134730203136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5CcW_aMAAjhYG.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2057835788394512754",
+        "created_at": "2026-05-22T14:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057835788394512754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huiseliuye/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/huiseliuye/status/2057655144335184092",
+              "start": 36,
+              "url": "https://t.co/0UQZF7i4pQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057835788394512754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057655144335184092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉，我这个样。子好肥呀。我老公会不会 抛下我呢。可是，我感觉很可爱 https://t.co/0UQZF7i4pQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057655134730203136"
+          ]
+        },
+        "author_id": "1882823505336750080",
+        "conversation_id": "2057655144335184092",
+        "created_at": "2026-05-22T02:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057655144335184092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/woknzwpYNT",
+              "end": 23,
+              "expanded_url": "https://x.com/huiseliuye/status/2057655144335184092/photo/1",
+              "media_key": "3_2057655134730203136",
+              "start": 0,
+              "url": "https://t.co/woknzwpYNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057655144335184092",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1944,
+          "like_count": 46,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/woknzwpYNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057787977820930050/rbhjaUSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1060,
+          "like_count": 27542,
+          "listed_count": 6,
+          "media_count": 2425,
+          "tweet_count": 26422
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T16:11:30.000Z",
+        "description": "只想笨笨的干笨笨的事",
+        "id": "1882823505336750080",
+        "name": "客服萌萌猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038166012840001536/sI7fZzsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 88,
+          "like_count": 21709,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 2407
+        },
+        "username": "huiseliuye",
+        "verified": false
+      }
+    ]
+  }
+}

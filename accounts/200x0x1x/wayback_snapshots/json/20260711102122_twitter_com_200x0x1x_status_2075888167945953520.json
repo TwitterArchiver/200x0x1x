@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075819636885688550",
+    "created_at": "2026-07-11T10:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075888167945953520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913652342664384512",
+          "start": 0,
+          "username": "hoshiwomitai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075888167945953520",
+    "in_reply_to_user_id": "1913652342664384512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075887735043416328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshiwomitai 对了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075819636885688550",
+        "created_at": "2026-07-11T10:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075888167945953520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913652342664384512",
+              "start": 0,
+              "username": "hoshiwomitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075888167945953520",
+        "in_reply_to_user_id": "1913652342664384512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075887735043416328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshiwomitai 对了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913652342664384512",
+        "conversation_id": "2075819636885688550",
+        "created_at": "2026-07-11T10:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075887735043416328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075887735043416328",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075819636885688550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 什麼余華🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601792118013952/JtH0JSmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 654,
+          "like_count": 28421,
+          "listed_count": 6,
+          "media_count": 2466,
+          "tweet_count": 27179
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T17:54:16.000Z",
+        "description": "願所有的邊緣人都能被世界溫柔以待",
+        "id": "1913652342664384512",
+        "location": "Tokyo-to, Japan",
+        "name": "星を見たい",
+        "pinned_tweet_id": "1917040259432632574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913652875160666112/PtrWgsZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 149,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1101
+        },
+        "url": "",
+        "username": "hoshiwomitai",
+        "verified": false
+      }
+    ]
+  }
+}

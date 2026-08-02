@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2057598101284626541",
+    "created_at": "2026-05-22T00:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057622297607860334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946843278361710592",
+          "start": 0,
+          "username": "youshiko112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057622297607860334",
+    "in_reply_to_user_id": "1946843278361710592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057621039472128411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youshiko112 笑死了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "16_2057621032589242368",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI4jbWnasAAs0Pr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI4jbWnasAAs0Pr.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2057598101284626541",
+        "created_at": "2026-05-22T00:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057622297607860334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946843278361710592",
+              "start": 0,
+              "username": "youshiko112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057622297607860334",
+        "in_reply_to_user_id": "1946843278361710592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057621039472128411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youshiko112 笑死了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057621032589242368"
+          ]
+        },
+        "author_id": "1946843278361710592",
+        "conversation_id": "2057598101284626541",
+        "created_at": "2026-05-22T00:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057621039472128411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRfKd6yMMw",
+              "end": 33,
+              "expanded_url": "https://x.com/youshiko112/status/2057621039472128411/photo/1",
+              "media_key": "16_2057621032589242368",
+              "start": 10,
+              "url": "https://t.co/xRfKd6yMMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057621039472128411",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057598101284626541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x https://t.co/xRfKd6yMMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056563204013150208/EScHHTp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1060,
+          "like_count": 27539,
+          "listed_count": 6,
+          "media_count": 2423,
+          "tweet_count": 26409
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T08:03:30.000Z",
+        "description": "",
+        "id": "1946843278361710592",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "Linko",
+        "pinned_tweet_id": "2011143939135586504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992292933543100416/cXNxYJ4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 298,
+          "like_count": 6095,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 3007
+        },
+        "username": "youshiko112",
+        "verified": false
+      }
+    ]
+  }
+}

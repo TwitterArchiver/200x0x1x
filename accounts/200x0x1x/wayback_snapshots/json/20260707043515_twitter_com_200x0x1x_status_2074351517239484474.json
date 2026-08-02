@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074351467352543233"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074351517239484474",
+    "created_at": "2026-07-07T04:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074351517239484474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hAJCARhqSk",
+          "end": 114,
+          "expanded_url": "https://x.com/200x0x1x/status/2074351517239484474/photo/1",
+          "media_key": "3_2074351467352543233",
+          "start": 91,
+          "url": "https://t.co/hAJCARhqSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074351517239484474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有你这种对哲学史一窍不通还大放厥词发表暴论的二百五炒作吗？正儿八经研究著作没读过几本的你懂你妈逼哲学？再说我跟你互你妈臭逼的动了我跟你唯一的互动不就是对你一家老小的不间断屠宰吗，， https://t.co/hAJCARhqSk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_2074351467352543233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmTq07b0AEOI8r.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074351467352543233"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074351517239484474",
+        "created_at": "2026-07-07T04:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074351517239484474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAJCARhqSk",
+              "end": 114,
+              "expanded_url": "https://x.com/200x0x1x/status/2074351517239484474/photo/1",
+              "media_key": "3_2074351467352543233",
+              "start": 91,
+              "url": "https://t.co/hAJCARhqSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074351517239484474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有你这种对哲学史一窍不通还大放厥词发表暴论的二百五炒作吗？正儿八经研究著作没读过几本的你懂你妈逼哲学？再说我跟你互你妈臭逼的动了我跟你唯一的互动不就是对你一家老小的不间断屠宰吗，， https://t.co/hAJCARhqSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 629,
+          "like_count": 28257,
+          "listed_count": 6,
+          "media_count": 2458,
+          "tweet_count": 27055
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

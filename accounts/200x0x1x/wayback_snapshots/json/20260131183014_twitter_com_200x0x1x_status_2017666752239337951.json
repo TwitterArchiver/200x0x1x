@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2017574013996859492",
+    "created_at": "2026-01-31T18:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017666752239337951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017666752239337951",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017574013996859492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darawkko 自杀是福报（Erlösung）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2017574013996859492",
+        "created_at": "2026-01-31T18:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017666752239337951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017666752239337951",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017574013996859492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darawkko 自杀是福报（Erlösung）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2017574013996859492",
+        "created_at": "2026-01-31T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017574013996859492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017574013996859492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么办？只有迈兰德指向的那一条道路，自杀，自杀必须被提高到一种本体论的地位，唯一救赎自己和他人的政治行动就是死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 952,
+          "like_count": 26647,
+          "listed_count": 6,
+          "media_count": 2373,
+          "tweet_count": 25528
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "♡pansexual ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//记录电波发送全过程的赛博日记本(〃ω〃)ᰔ｡ﾟ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bythesoi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bythesoi",
+                "start": 0,
+                "url": "https://t.co/VUomaYv03h"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015042891932893185/NxAJ7b1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 219,
+          "like_count": 5741,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 2497
+        },
+        "url": "https://t.co/VUomaYv03h",
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

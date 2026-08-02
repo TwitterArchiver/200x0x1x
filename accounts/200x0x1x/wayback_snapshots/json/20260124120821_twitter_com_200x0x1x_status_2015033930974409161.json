@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2014928865076838578",
+    "created_at": "2026-01-24T12:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T13:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015033930974409161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594744268282699777",
+          "start": 0,
+          "username": "ALTHUSSERin1960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015033930974409161",
+    "in_reply_to_user_id": "1594744268282699777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015006984299516091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALTHUSSERin1960 谢谢呀，我有印象你分享过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015006964426948608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_a-KH6bQAA9joA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2014928865076838578",
+        "created_at": "2026-01-24T12:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015033930974409161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594744268282699777",
+              "start": 0,
+              "username": "ALTHUSSERin1960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015033930974409161",
+        "in_reply_to_user_id": "1594744268282699777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015006984299516091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALTHUSSERin1960 谢谢呀，我有印象你分享过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015006964426948608"
+          ]
+        },
+        "author_id": "1594744268282699777",
+        "conversation_id": "2014928865076838578",
+        "created_at": "2026-01-24T10:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015006984299516091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nirgB8ZB0A",
+              "end": 90,
+              "expanded_url": "https://x.com/ALTHUSSERin1960/status/2015006984299516091/photo/1",
+              "media_key": "3_2015006964426948608",
+              "start": 67,
+              "url": "https://t.co/nirgB8ZB0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015006984299516091",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014928865076838578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 人们总在侮辱和损害他人中获得极大的乐趣，越痛苦怯弱越是如此。不仅享受自己的牙疼，还热衷于用牙疼的呻吟去惹恼别人。 https://t.co/nirgB8ZB0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013121169814065153/eIc7KTjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 943,
+          "like_count": 26575,
+          "listed_count": 6,
+          "media_count": 2366,
+          "tweet_count": 25449
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-21T17:27:42.000Z",
+        "description": "链接是Anna的档案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.annas-archive.org",
+                "end": 23,
+                "expanded_url": "https://zh.annas-archive.org/",
+                "start": 0,
+                "url": "https://t.co/YqvNKdfl8V"
+              }
+            ]
+          }
+        },
+        "id": "1594744268282699777",
+        "location": "China",
+        "name": "The ignorant🔮𝕏",
+        "pinned_tweet_id": "1799295032735977878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012430167151714304/vOPUBLPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1339,
+          "like_count": 121822,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/YqvNKdfl8V",
+        "username": "ALTHUSSERin1960",
+        "verified": false
+      }
+    ]
+  }
+}

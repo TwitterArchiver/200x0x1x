@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2047306957661581312",
+    "created_at": "2026-04-23T18:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047381307148104045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821934078779912193",
+          "start": 0,
+          "username": "Plato_X_Lim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047381307148104045",
+    "in_reply_to_user_id": "1821934078779912193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047306957661581312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plato_X_Lim 你说的这个伟大哲人是宝宝先知吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047306957661581312].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047306957661581312",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047306957661581312"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2047306957661581312",
+        "created_at": "2026-04-23T18:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047381307148104045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821934078779912193",
+              "start": 0,
+              "username": "Plato_X_Lim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047381307148104045",
+        "in_reply_to_user_id": "1821934078779912193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047306957661581312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plato_X_Lim 你说的这个伟大哲人是宝宝先知吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1020,
+          "like_count": 27486,
+          "listed_count": 6,
+          "media_count": 2404,
+          "tweet_count": 26177
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T15:38:37.000Z",
+        "description": "",
+        "id": "1821934078779912193",
+        "name": "可丽饼和可乐饼并非一字之差",
+        "pinned_tweet_id": "1938210543116140598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035003894666076160/DXcNR6nG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 30,
+          "like_count": 12430,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 4572
+        },
+        "username": "Plato_X_Lim",
+        "verified": false
+      }
+    ]
+  }
+}

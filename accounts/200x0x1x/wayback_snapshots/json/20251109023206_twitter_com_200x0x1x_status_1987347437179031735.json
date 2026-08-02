@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985344910396952999",
+    "created_at": "2025-11-09T02:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T03:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987347437179031735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495362026147020801",
+          "start": 0,
+          "username": "Kiamsi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987347437179031735",
+    "in_reply_to_user_id": "1495362026147020801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985344910396952999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiamsi_ 我承认我是4i女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_1985344896400572416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41cqhqXQAA7tsr.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1985344910396952999",
+        "created_at": "2025-11-09T02:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987347437179031735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495362026147020801",
+              "start": 0,
+              "username": "Kiamsi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987347437179031735",
+        "in_reply_to_user_id": "1495362026147020801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985344910396952999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiamsi_ 我承认我是4i女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985344896400572416"
+          ]
+        },
+        "author_id": "1495362026147020801",
+        "conversation_id": "1985344910396952999",
+        "created_at": "2025-11-03T13:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985344910396952999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ldbLEjc6gB",
+              "end": 23,
+              "expanded_url": "https://x.com/Kiamsi_/status/1985344910396952999/photo/1",
+              "media_key": "3_1985344896400572416",
+              "start": 0,
+              "url": "https://t.co/ldbLEjc6gB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985344910396952999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ldbLEjc6gB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986934380900601856/EYNFXoNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 924,
+          "like_count": 25925,
+          "listed_count": 7,
+          "media_count": 2324,
+          "tweet_count": 24922
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T11:37:51.000Z",
+        "description": "当天的晴空有两种 墙外的颜色更比墙内浓",
+        "id": "1495362026147020801",
+        "location": "赣江",
+        "name": "久违了，我的武器⚙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899634885528055809/LP7_v50I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 420,
+          "like_count": 685,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 3856
+        },
+        "username": "Kiamsi_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2071956024538632383",
+    "created_at": "2026-07-03T09:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072970249071382694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072970249071382694",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072969080076697842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 你妈死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2071956024538632383",
+        "created_at": "2026-07-03T09:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072970249071382694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072970249071382694",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072969080076697842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790448736629301248",
+        "conversation_id": "2071956024538632383",
+        "created_at": "2026-07-03T09:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072969080076697842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072969080076697842",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071956024538632383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你，是一个蓝裤裆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 645,
+          "like_count": 28146,
+          "listed_count": 7,
+          "media_count": 2453,
+          "tweet_count": 26972
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "没有张雪峰就没有苏维埃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "name": "张雪峰🇮🇷🚩——帮斯大林选过专业",
+        "pinned_tweet_id": "2072276424761671906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072520379847884801/3guW4ZM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1548,
+          "like_count": 24580,
+          "listed_count": 16,
+          "media_count": 951,
+          "tweet_count": 19005
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020328141273632768"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2020328146491633860",
+    "created_at": "2026-02-08T02:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T03:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020328146491633860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tmUMmj7NOo",
+          "end": 62,
+          "expanded_url": "https://x.com/200x0x1x/status/2020328146491633860/photo/1",
+          "media_key": "3_2020328141273632768",
+          "start": 39,
+          "url": "https://t.co/tmUMmj7NOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020328146491633860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《墨菲斯托的华尔兹》，我借你女儿的身体，你借我丈夫的身体，我们两个搞纯爱吧！ https://t.co/tmUMmj7NOo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020328146491633860].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020328146491633860",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020328146491633860"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2020328141273632768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmlvYZXEAA65ty.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 956,
+          "like_count": 26704,
+          "listed_count": 6,
+          "media_count": 2387,
+          "tweet_count": 25588
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

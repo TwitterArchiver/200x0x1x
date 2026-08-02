@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008366748811378689"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2008366771212833008",
+    "created_at": "2026-01-06T02:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T03:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008366771212833008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bq7Q6jKHqb",
+          "end": 38,
+          "expanded_url": "https://x.com/200x0x1x/status/2008366771212833008/photo/1",
+          "media_key": "3_2008366748811378689",
+          "start": 15,
+          "url": "https://t.co/Bq7Q6jKHqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008366771212833008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好朋友给我化的妆(*^^*) https://t.co/Bq7Q6jKHqb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008366771212833008].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008366771212833008",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008366771212833008"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008366748811378689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98m6tGbwAEdjfz.jpg",
+        "width": 1548
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 932,
+          "like_count": 26340,
+          "listed_count": 6,
+          "media_count": 2352,
+          "tweet_count": 25309
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

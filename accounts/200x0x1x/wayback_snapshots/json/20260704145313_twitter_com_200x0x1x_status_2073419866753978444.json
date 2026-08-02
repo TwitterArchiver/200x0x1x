@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2073410431906123853",
+    "created_at": "2026-07-04T14:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073419866753978444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073356698539233280",
+          "start": 0,
+          "username": "li3akl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073419866753978444",
+    "in_reply_to_user_id": "2073356698539233280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073418751060713861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li3akl 谢谢呀宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2073410431906123853",
+        "created_at": "2026-07-04T14:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073419866753978444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073356698539233280",
+              "start": 0,
+              "username": "li3akl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073419866753978444",
+        "in_reply_to_user_id": "2073356698539233280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073418751060713861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li3akl 谢谢呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073356698539233280",
+        "conversation_id": "2073410431906123853",
+        "created_at": "2026-07-04T14:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073418751060713861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073418751060713861",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073410431906123853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 651,
+          "like_count": 28188,
+          "listed_count": 6,
+          "media_count": 2455,
+          "tweet_count": 27001
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T10:43:28.000Z",
+        "description": "",
+        "id": "2073356698539233280",
+        "name": "文周",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073357740202942464/_YHquB9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "li3akl",
+        "verified": false
+      }
+    ]
+  }
+}

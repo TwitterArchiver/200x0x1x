@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2046717084101460140",
+    "created_at": "2026-04-21T22:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T23:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046717084101460140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046717084101460140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "尼采认为女人唤起了男人的恐惧和怜悯。这联系到亚里士多德诗学中的悲剧效果，所以女性性在尼采这里基本上可以和悲剧-酒神冲动对应，男性原则是阿波罗的。男性与女性之间的“永恒紧张”是两种神话冲动的对立，因此尼采这里的“性差异”是形而上学的，并且女性原则具有优先性。性别平等主义被尼采认为带来的不是女性权力，相反它是女性放弃女性气质，吸收阿波罗精神的结果，换句话说是一种对酒神性的抛弃。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尼采认为女人唤起了男人的恐惧和怜悯。这联系到亚里士多德诗学中的悲剧效果，所以女性性在尼采这里基本上可以和悲剧-酒神冲动对应，男性原则是阿波罗的。男性与女性之间的“永恒紧张”是两种神话冲动的对立，因此尼采这里的“性差异”是形而上学的，并且女性原则具有优先性。性别平等主义被尼采认为带来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2046717084101460140",
+        "created_at": "2026-04-21T22:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T23:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046717084101460140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046717084101460140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "尼采认为女人唤起了男人的恐惧和怜悯。这联系到亚里士多德诗学中的悲剧效果，所以女性性在尼采这里基本上可以和悲剧-酒神冲动对应，男性原则是阿波罗的。男性与女性之间的“永恒紧张”是两种神话冲动的对立，因此尼采这里的“性差异”是形而上学的，并且女性原则具有优先性。性别平等主义被尼采认为带来的不是女性权力，相反它是女性放弃女性气质，吸收阿波罗精神的结果，换句话说是一种对酒神性的抛弃。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼采认为女人唤起了男人的恐惧和怜悯。这联系到亚里士多德诗学中的悲剧效果，所以女性性在尼采这里基本上可以和悲剧-酒神冲动对应，男性原则是阿波罗的。男性与女性之间的“永恒紧张”是两种神话冲动的对立，因此尼采这里的“性差异”是形而上学的，并且女性原则具有优先性。性别平等主义被尼采认为带来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1018,
+          "like_count": 27461,
+          "listed_count": 6,
+          "media_count": 2404,
+          "tweet_count": 26169
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

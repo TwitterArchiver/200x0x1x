@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985284992730079311",
+    "created_at": "2025-11-03T14:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985360362238005493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762574822222225408",
+          "start": 0,
+          "username": "Antimphetamine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 47,
+          "expanded_url": "https://x.com/200x0x1x/status/1985360094171709685?s=46",
+          "start": 24,
+          "url": "https://t.co/m1vz8WvZgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985360362238005493",
+    "in_reply_to_user_id": "1762574822222225408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985360094171709685",
+        "type": "quoted"
+      },
+      {
+        "id": "1985284992730079311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antimphetamine 本质中年普信郭楠https://t.co/m1vz8WvZgs"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985284992730079311].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985284992730079311",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985284992730079311"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_1985360089922908160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41qe58XsAATYhs.jpg",
+        "width": 483
+      },
+      {
+        "height": 600,
+        "media_key": "3_1985360089968971776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41qe6HWkAA3QHk.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1985284992730079311",
+        "created_at": "2025-11-03T14:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985360362238005493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762574822222225408",
+              "start": 0,
+              "username": "Antimphetamine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 47,
+              "expanded_url": "https://x.com/200x0x1x/status/1985360094171709685?s=46",
+              "start": 24,
+              "url": "https://t.co/m1vz8WvZgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985360362238005493",
+        "in_reply_to_user_id": "1762574822222225408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985360094171709685",
+            "type": "quoted"
+          },
+          {
+            "id": "1985284992730079311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antimphetamine 本质中年普信郭楠https://t.co/m1vz8WvZgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985360089922908160",
+            "3_1985360089968971776"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "1985360094171709685",
+        "created_at": "2025-11-03T14:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985360094171709685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HG89KwxaXj",
+              "end": 85,
+              "expanded_url": "https://x.com/200x0x1x/status/1985360094171709685/photo/1",
+              "media_key": "3_1985360089922908160",
+              "start": 62,
+              "url": "https://t.co/HG89KwxaXj"
+            },
+            {
+              "display_url": "pic.x.com/HG89KwxaXj",
+              "end": 85,
+              "expanded_url": "https://x.com/200x0x1x/status/1985360094171709685/photo/1",
+              "media_key": "3_1985360089968971776",
+              "start": 62,
+              "url": "https://t.co/HG89KwxaXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985360094171709685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洞子哥（洗心洞箚记）天天在知乎上沉迷自己的颜值不能自拔，现实是大龄中年失业男一枚，只能在网上装逼秀优越感挽回一点点自尊心。 https://t.co/HG89KwxaXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 919,
+          "like_count": 25846,
+          "listed_count": 7,
+          "media_count": 2318,
+          "tweet_count": 24869
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T20:26:14.000Z",
+        "description": "生命的一切荣耀与耻辱都源于政治\n\n要想练就绝世武功\n就要忍受常人难忍受的痛\n\n那天是你用一块红布\n蒙住我双眼也蒙住了天\n我要永远这样陪伴着你\n因为我最知道你的痛苦",
+        "id": "1762574822222225408",
+        "name": "安非我命",
+        "pinned_tweet_id": "1775358411414147580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931385285688041473/MsScAyIe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 137,
+          "like_count": 9226,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2710
+        },
+        "username": "Antimphetamine",
+        "verified": false
+      }
+    ]
+  }
+}

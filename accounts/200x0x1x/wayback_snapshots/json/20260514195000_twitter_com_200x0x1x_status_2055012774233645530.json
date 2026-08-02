@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2055007085222301807",
+    "created_at": "2026-05-14T19:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T20:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055012774233645530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938140109792325632",
+          "start": 0,
+          "username": "SyRainstormTTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055012774233645530",
+    "in_reply_to_user_id": "1938140109792325632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055012641807216811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyRainstormTTN 宝宝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2055007085222301807",
+        "created_at": "2026-05-14T19:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055012774233645530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938140109792325632",
+              "start": 0,
+              "username": "SyRainstormTTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055012774233645530",
+        "in_reply_to_user_id": "1938140109792325632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055012641807216811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyRainstormTTN 宝宝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938140109792325632",
+        "conversation_id": "2055007085222301807",
+        "created_at": "2026-05-14T19:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055012641807216811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055012641807216811",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055007085222301807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 设禁，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1061,
+          "like_count": 27914,
+          "listed_count": 6,
+          "media_count": 2417,
+          "tweet_count": 26341
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "当黑天鹅从成为白天鹅的美梦中苏醒时，会发生什么呢？",
+        "id": "1938140109792325632",
+        "location": "24",
+        "name": "F-02-70",
+        "pinned_tweet_id": "2050271551388598326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033201038774439937/8uN3QIpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 478,
+          "like_count": 4013,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3375
+        },
+        "username": "SyRainstormTTN",
+        "verified": false
+      }
+    ]
+  }
+}

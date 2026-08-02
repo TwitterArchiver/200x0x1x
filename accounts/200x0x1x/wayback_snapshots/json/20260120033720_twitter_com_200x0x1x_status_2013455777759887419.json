@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2013455777759887419",
+    "created_at": "2026-01-20T03:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T04:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013455777759887419"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013455777759887419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "圣方济各在拉维纳山异象中所见的炽天使，它的六翼象征着心灵通往上帝之旅的六个阶段，同时也对应着所罗门宝座的六级台阶。按照不同阶次的顺序，人通过自然、灵魂和最高善本身来观想上帝，这便是心灵之光照的黄昏、清晨和正午；在这观想中，人的灵魂从流泪之谷（vallis lacrimarum）中逐级上升，最终实现与上帝的神秘合一。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圣方济各在拉维纳山异象中所见的炽天使，它的六翼象征着心灵通往上帝之旅的六个阶段，同时也对应着所罗门宝座的六级台阶。按照不同阶次的顺序，人通过自然、灵魂和最高善本身来观想上帝，这便是心灵之光照的黄昏、清晨和正午；在这观想中，人的灵魂从流泪之谷（vallis"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2013455777759887419",
+        "created_at": "2026-01-20T03:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T04:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013455777759887419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013455777759887419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "圣方济各在拉维纳山异象中所见的炽天使，它的六翼象征着心灵通往上帝之旅的六个阶段，同时也对应着所罗门宝座的六级台阶。按照不同阶次的顺序，人通过自然、灵魂和最高善本身来观想上帝，这便是心灵之光照的黄昏、清晨和正午；在这观想中，人的灵魂从流泪之谷（vallis lacrimarum）中逐级上升，最终实现与上帝的神秘合一。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣方济各在拉维纳山异象中所见的炽天使，它的六翼象征着心灵通往上帝之旅的六个阶段，同时也对应着所罗门宝座的六级台阶。按照不同阶次的顺序，人通过自然、灵魂和最高善本身来观想上帝，这便是心灵之光照的黄昏、清晨和正午；在这观想中，人的灵魂从流泪之谷（vallis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013121169814065153/eIc7KTjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 940,
+          "like_count": 26495,
+          "listed_count": 6,
+          "media_count": 2360,
+          "tweet_count": 25414
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

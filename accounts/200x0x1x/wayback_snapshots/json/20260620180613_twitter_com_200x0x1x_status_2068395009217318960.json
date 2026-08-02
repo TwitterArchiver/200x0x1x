@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068365884763119998",
+    "created_at": "2026-06-20T18:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068395009217318960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1809130792196714497",
+          "start": 0,
+          "username": "S0SULIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068395009217318960",
+    "in_reply_to_user_id": "1809130792196714497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068394105579950368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S0SULIA 谢谢哟！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068365884763119998",
+        "created_at": "2026-06-20T18:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068395009217318960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1809130792196714497",
+              "start": 0,
+              "username": "S0SULIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068395009217318960",
+        "in_reply_to_user_id": "1809130792196714497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068394105579950368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S0SULIA 谢谢哟！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809130792196714497",
+        "conversation_id": "2068365884763119998",
+        "created_at": "2026-06-20T18:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068394105579950368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068394105579950368",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068365884763119998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 633,
+          "like_count": 28026,
+          "listed_count": 6,
+          "media_count": 2446,
+          "tweet_count": 26791
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-05T07:42:55.000Z",
+        "description": "Be flame, my frags.",
+        "id": "1809130792196714497",
+        "name": "Sosulia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065365156876738560/V_A4KzyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 1258,
+          "like_count": 2308,
+          "listed_count": 52,
+          "media_count": 65,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "S0SULIA",
+        "verified": true
+      }
+    ]
+  }
+}

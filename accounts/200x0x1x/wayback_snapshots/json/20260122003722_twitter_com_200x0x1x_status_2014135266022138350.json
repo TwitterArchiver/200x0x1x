@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014135262310252544"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2014135266022138350",
+    "created_at": "2026-01-22T00:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T01:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014135266022138350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDiR0WzDTT",
+          "end": 29,
+          "expanded_url": "https://x.com/200x0x1x/status/2014135266022138350/photo/1",
+          "media_key": "3_2014135262310252544",
+          "start": 6,
+          "url": "https://t.co/MDiR0WzDTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014135266022138350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高雅创作… https://t.co/MDiR0WzDTT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014135266022138350].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014135266022138350",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014135266022138350"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2014135262310252544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OlWYeXQAAlSpN.jpg",
+        "width": 857
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013121169814065153/eIc7KTjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 942,
+          "like_count": 26550,
+          "listed_count": 6,
+          "media_count": 2363,
+          "tweet_count": 25432
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

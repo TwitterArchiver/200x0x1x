@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985566286244417536"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985566289897693304",
+    "created_at": "2025-11-04T04:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T05:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985566289897693304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L0j05hDPYY",
+          "end": 135,
+          "expanded_url": "https://x.com/200x0x1x/status/1985566289897693304/photo/1",
+          "media_key": "3_1985566286244417536",
+          "start": 112,
+          "url": "https://t.co/L0j05hDPYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985566289897693304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "hello housekeeping!这已经是无数次了，那个上海女人的声音透过门缝传进来。我已经说过不要再按铃了，但是每一天下午，她还是恬不知耻地来打扰我们。我痛苦地伏在床上，她听见门内爆发出一阵歇斯底里的呻吟。hello housekeeping！她又一次按响门铃。药物的效果太过疯狂。雨林，走线，食人族。我的脑中闪过一串凌乱的意象。那些莫名其妙的中国人穿过非洲的雨林，为了抵达墨西哥，去往更加遥远的北美。男人的尸体在葱葱郁郁的雨林的溪水边被发现，脸上已经爬满了蚂蚁。人在死亡之后就变成一道光鲜亮丽的狭窄风景，变成一道彩色竖线，横死在春暖花开的地方。苍白的面孔裂开嘴，露出两排拉链一样的牙齿。我觉得自己好像是燃烧的荆棘丛，绿色的火焰在我的心房燃烧着。门铃再一次按响，刷卡的声音，房门被打开了，一阵腥风血雨扑鼻而来。哇！保洁阿姨直接呕了出来，吐了很多乱七八糟的东西。在房间里有一片深红色的血池，我那被撕烂了的半张面孔就浸泡在里面。在我赤裸的后背，一双血肉翅膀像是热带植株样婀娜舒展，仿佛一个恐怖的被固定在硬纸板上的天使。这个天使形状的生物开始抽搐起来，好像在哭，又好像在笑，忽然呕出很多花花绿绿的肠子和内脏。天使捡起自己断裂的手臂开始啃吃起来，好饿好饿，自己和自己互相残杀。接着它纯良无害的面孔笑起来，这个由孩子和吃人者混合而成的非人类，这个新天使，撞碎了原本被封死的玻璃窗，展翅飞向上海的夜空。我表情呆滞，抓着保洁阿姨的尸体，一边飞行一边啃食着。然后我停在丽思卡尔顿大厦的顶端，像是吃公司三文治一样吃掉她的身体。我的眼睛已经没有光芒了。人们走上街道上，忽然感觉头顶湿漉漉的，接着有碎肉从天空中掉落下来，那是我伏在大厦顶端向下呕血。上帝每时每刻都创造出大量的我，我们这些人形的天使，为人类带来黑暗弥赛亚临近的消息。这是最狂暴恶劣的启示和灵知，我要杀，杀死诸神，亵渎存在之秩序，杀死那些白色使徒。这是我的黑色启示录，我要把淫秽的第二实在带给世界。我要撕烂人脸，生吃人肉，喝人的血。神的黑暗国度已经临近了，我们这些在夜晚起飞的天使，如今正像是气旋一样捎来白昼的消息。漆黑疯狂的神圣。电闪雷鸣，天气转阴，上海开始下特大暴雨。雨水垂落在阿波罗大厦的墙体上，看起来很虚假，像是一个塑料模型玩具。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hello housekeeping!这已经是无数次了，那个上海女人的声音透过门缝传进来。我已经说过不要再按铃了，但是每一天下午，她还是恬不知耻地来打扰我们。我痛苦地伏在床上，她听见门内爆发出一阵歇斯底里的呻吟。hello https://t.co/L0j05hDPYY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985566289897693304].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985566289897693304",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985566289897693304"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_1985566286244417536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44mBHGXEAAq5PI.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 918,
+          "like_count": 25857,
+          "listed_count": 6,
+          "media_count": 2320,
+          "tweet_count": 24875
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

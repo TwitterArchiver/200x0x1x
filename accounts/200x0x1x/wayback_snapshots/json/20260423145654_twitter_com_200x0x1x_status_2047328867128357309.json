@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2047107194265461117",
+    "created_at": "2026-04-23T14:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047328867128357309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1553258503401521152",
+          "start": 0,
+          "username": "Jieshu93316686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047328867128357309",
+    "in_reply_to_user_id": "1553258503401521152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047328677583827397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jieshu93316686 说说看我可爱在哪"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047328677583827397].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047328677583827397",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047328677583827397"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2047107194265461117",
+        "created_at": "2026-04-23T14:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047328867128357309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1553258503401521152",
+              "start": 0,
+              "username": "Jieshu93316686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047328867128357309",
+        "in_reply_to_user_id": "1553258503401521152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047328677583827397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jieshu93316686 说说看我可爱在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1020,
+          "like_count": 27481,
+          "listed_count": 6,
+          "media_count": 2404,
+          "tweet_count": 26175
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-30T05:57:47.000Z",
+        "description": "肥宅",
+        "id": "1553258503401521152",
+        "location": "武汉",
+        "name": "绝而殊之",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971909306594611201/kKQWlQ2O_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 51,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "Jieshu93316686",
+        "verified": false
+      }
+    ]
+  }
+}

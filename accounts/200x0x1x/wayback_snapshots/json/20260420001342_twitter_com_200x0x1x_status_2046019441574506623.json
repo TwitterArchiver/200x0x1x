@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2045826785053647234",
+    "created_at": "2026-04-20T00:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T01:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046019441574506623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422249668960919592",
+          "start": 0,
+          "username": "whitesaucep9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046019441574506623",
+    "in_reply_to_user_id": "1422249668960919592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045826785053647234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitesaucep9968 宝宝好好看🙀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045826785053647234].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045826785053647234",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045826785053647234"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2045826785053647234",
+        "created_at": "2026-04-20T00:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046019441574506623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422249668960919592",
+              "start": 0,
+              "username": "whitesaucep9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046019441574506623",
+        "in_reply_to_user_id": "1422249668960919592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045826785053647234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitesaucep9968 宝宝好好看🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 1013,
+          "like_count": 27406,
+          "listed_count": 6,
+          "media_count": 2403,
+          "tweet_count": 26147
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "",
+        "id": "1422249668960919592",
+        "location": "Feline Rehab,ER",
+        "name": "紀念品",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044748975425908736/yd4Azl3M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 3097,
+          "like_count": 48311,
+          "listed_count": 7,
+          "media_count": 353,
+          "tweet_count": 21737
+        },
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

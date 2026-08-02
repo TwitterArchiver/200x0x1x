@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048623698702405632"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2048623704251285574",
+    "created_at": "2026-04-27T04:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048623704251285574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9J9Xmigjs5",
+          "end": 81,
+          "expanded_url": "https://x.com/200x0x1x/status/2048623704251285574/photo/1",
+          "media_key": "3_2048623698702405632",
+          "start": 58,
+          "url": "https://t.co/9J9Xmigjs5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048623704251285574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎꒰՞&gt; · &lt;𓈒՞꒱ https://t.co/9J9Xmigjs5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048623704251285574].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048623704251285574",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048623704251285574"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1529,
+        "media_key": "3_2048623698702405632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4sZl-akAAr3RC.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047548762210328576/3TheJ9Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1027,
+          "like_count": 27541,
+          "listed_count": 6,
+          "media_count": 2406,
+          "tweet_count": 26194
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

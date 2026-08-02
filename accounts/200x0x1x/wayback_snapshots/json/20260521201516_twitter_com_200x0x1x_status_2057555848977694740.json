@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2057500230145507635",
+    "created_at": "2026-05-21T20:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T21:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057555848977694740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057555848977694740",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057500230145507635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 妈妈我房间里有外星人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2057500195001376768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI21hrhaoAAYmxE.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3171,
+        "media_key": "3_2057500195026534404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI21hrnagAQ8Ui2.jpg",
+        "width": 3023
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2057500195026534403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI21hrnagAMZWVy.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2057500230145507635",
+        "created_at": "2026-05-21T20:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057555848977694740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057555848977694740",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057500230145507635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 妈妈我房间里有外星人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057500195001376768",
+            "3_2057500195026534404",
+            "3_2057500195026534403"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057500230145507635",
+        "created_at": "2026-05-21T16:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057500230145507635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/83xoKIE1VA",
+              "end": 61,
+              "expanded_url": "https://x.com/maipianaini0930/status/2057500230145507635/photo/1",
+              "media_key": "3_2057500195001376768",
+              "start": 38,
+              "url": "https://t.co/83xoKIE1VA"
+            },
+            {
+              "display_url": "pic.x.com/83xoKIE1VA",
+              "end": 61,
+              "expanded_url": "https://x.com/maipianaini0930/status/2057500230145507635/photo/1",
+              "media_key": "3_2057500195026534404",
+              "start": 38,
+              "url": "https://t.co/83xoKIE1VA"
+            },
+            {
+              "display_url": "pic.x.com/83xoKIE1VA",
+              "end": 61,
+              "expanded_url": "https://x.com/maipianaini0930/status/2057500230145507635/photo/1",
+              "media_key": "3_2057500195026534403",
+              "start": 38,
+              "url": "https://t.co/83xoKIE1VA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057500230145507635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢塔科夫里的绿色信号版\n\n这些小道具可以给吸毒增加点光怪陆离的气氛 https://t.co/83xoKIE1VA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056563204013150208/EScHHTp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1061,
+          "like_count": 27533,
+          "listed_count": 6,
+          "media_count": 2423,
+          "tweet_count": 26405
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 288,
+          "like_count": 9667,
+          "listed_count": 2,
+          "media_count": 611,
+          "tweet_count": 4007
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1983979343195128008",
+    "created_at": "2025-10-30T20:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T21:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983994431201276147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1287365755328028677",
+          "start": 0,
+          "username": "DouteurThomas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983994431201276147",
+    "in_reply_to_user_id": "1287365755328028677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983993847337410865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouteurThomas 哎，我爹名字都被报出来了☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1983979343195128008",
+        "created_at": "2025-10-30T20:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T21:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983994431201276147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287365755328028677",
+              "start": 0,
+              "username": "DouteurThomas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983994431201276147",
+        "in_reply_to_user_id": "1287365755328028677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983993847337410865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouteurThomas 哎，我爹名字都被报出来了☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287365755328028677",
+        "conversation_id": "1983979343195128008",
+        "created_at": "2025-10-30T20:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T21:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983993847337410865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983993847337410865",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983992690200195124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x Mainländer！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "200x0x1x",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 917,
+          "like_count": 25772,
+          "listed_count": 7,
+          "media_count": 2311,
+          "tweet_count": 24816
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-26T12:35:01.000Z",
+        "description": "你好，我是一个小学三年级的男孩，我今年九岁。我喜欢足球、汉堡和郊游。这是我最好的朋友Chatty@ChatGPT",
+        "id": "1287365755328028677",
+        "location": "La Casa del Poeta Tragico",
+        "name": "農篤華",
+        "pinned_tweet_id": "1720190559376056819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1437477315638931458/Eo_ISahq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 455,
+          "like_count": 1989,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 668
+        },
+        "username": "DouteurThomas",
+        "verified": false
+      }
+    ]
+  }
+}

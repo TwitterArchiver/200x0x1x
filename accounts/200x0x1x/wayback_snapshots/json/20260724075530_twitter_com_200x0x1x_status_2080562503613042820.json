@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080562498005356544"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2080562503613042820",
+    "created_at": "2026-07-24T07:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080562503613042820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCGMUoxm4J",
+          "end": 43,
+          "expanded_url": "https://x.com/200x0x1x/status/2080562503613042820/photo/1",
+          "media_key": "3_2080562498005356544",
+          "start": 20,
+          "url": "https://t.co/qCGMUoxm4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080562503613042820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想和危险的女人、强大温柔的男人约会。 https://t.co/qCGMUoxm4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_2080562498005356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-kkZKb0AABLQB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080562498005356544"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2080562503613042820",
+        "created_at": "2026-07-24T07:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080562503613042820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCGMUoxm4J",
+              "end": 43,
+              "expanded_url": "https://x.com/200x0x1x/status/2080562503613042820/photo/1",
+              "media_key": "3_2080562498005356544",
+              "start": 20,
+              "url": "https://t.co/qCGMUoxm4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080562503613042820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想和危险的女人、强大温柔的男人约会。 https://t.co/qCGMUoxm4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080527103204950016/4_dxQxG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 678,
+          "like_count": 28804,
+          "listed_count": 7,
+          "media_count": 2496,
+          "tweet_count": 27613
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

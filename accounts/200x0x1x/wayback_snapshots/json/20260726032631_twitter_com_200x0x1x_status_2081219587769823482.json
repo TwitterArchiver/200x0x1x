@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2080992650409472018",
+    "created_at": "2026-07-26T03:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081219587769823482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072348873948053504",
+          "start": 0,
+          "username": "angelkawaii2TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081219587769823482",
+    "in_reply_to_user_id": "2072348873948053504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081219075259433277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2TwT 宝宝我深邃吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2080992650409472018",
+        "created_at": "2026-07-26T03:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081219587769823482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072348873948053504",
+              "start": 0,
+              "username": "angelkawaii2TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081219587769823482",
+        "in_reply_to_user_id": "2072348873948053504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081219075259433277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2TwT 宝宝我深邃吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072348873948053504",
+        "conversation_id": "2080992650409472018",
+        "created_at": "2026-07-26T03:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081219075259433277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081219075259433277",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080992650409472018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 还真是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081174842183913473/XrbQdDCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 679,
+          "like_count": 28756,
+          "listed_count": 7,
+          "media_count": 2498,
+          "tweet_count": 27648
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-01T15:58:08.000Z",
+        "description": "谨遵用法用量 上网快乐冲浪",
+        "id": "2072348873948053504",
+        "name": "myslee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349709927403520/TbAcND3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 116,
+          "like_count": 2029,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "angelkawaii2TwT",
+        "verified": false
+      }
+    ]
+  }
+}

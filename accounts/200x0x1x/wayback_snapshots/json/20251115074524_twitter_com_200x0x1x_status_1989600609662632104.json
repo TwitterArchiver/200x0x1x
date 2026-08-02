@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1989562705892856082",
+    "created_at": "2025-11-15T07:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T08:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989600609662632104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1152753946873741316",
+          "start": 0,
+          "username": "Majiang19171107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989600609662632104",
+    "in_reply_to_user_id": "1152753946873741316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989562705892856082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Majiang19171107 抱抱麻酱哦，有什么心事都可以找酥酥聊聊的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_1989562702986117120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xYvLnagAADkeO.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1989562705892856082",
+        "created_at": "2025-11-15T07:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989600609662632104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1152753946873741316",
+              "start": 0,
+              "username": "Majiang19171107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989600609662632104",
+        "in_reply_to_user_id": "1152753946873741316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989562705892856082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Majiang19171107 抱抱麻酱哦，有什么心事都可以找酥酥聊聊的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989562702986117120"
+          ]
+        },
+        "author_id": "1152753946873741316",
+        "conversation_id": "1989562705892856082",
+        "created_at": "2025-11-15T05:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989562705892856082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCsEPoAbvA",
+              "end": 145,
+              "expanded_url": "https://x.com/Majiang19171107/status/1989562705892856082/photo/1",
+              "media_key": "3_1989562702986117120",
+              "start": 122,
+              "url": "https://t.co/TCsEPoAbvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989562705892856082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "最近糟心事真多，，，自行车被偷了，考研迟迟找不到直系学长学姐，工作上还有一堆没实现的功能和bug，还有各种房租水电费学习人际关系的琐碎事情，总想找人抱怨但纯输出负能量也没啥价值，，挨过这半个月，我一定要啥都不管没心没肺地去个陌生城市好好玩两天 https://t.co/TCsEPoAbvA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988789585422282752/DZ2pnXRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 929,
+          "like_count": 26040,
+          "listed_count": 7,
+          "media_count": 2329,
+          "tweet_count": 24989
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-21T01:35:32.000Z",
+        "description": "火花、願望、夕方、快晴",
+        "id": "1152753946873741316",
+        "location": "近地轨道 和平号空间站",
+        "name": "麻酱不是酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978520156260466691/IBsqpqLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 314,
+          "like_count": 8508,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 457
+        },
+        "username": "Majiang19171107",
+        "verified": false
+      }
+    ]
+  }
+}

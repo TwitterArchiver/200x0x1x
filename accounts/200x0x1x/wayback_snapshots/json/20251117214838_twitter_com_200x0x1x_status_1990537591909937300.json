@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1990537591909937300",
+    "created_at": "2025-11-17T21:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T22:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990537591909937300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ellequeer1120/…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/ellequeer1120/status/1990382073744683436",
+          "start": 69,
+          "url": "https://t.co/2pwqoNWQRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990537591909937300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990382073744683436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "身份证制的最终幻想，把几个药娘骰子聚集在一块不知道会发生什么样的扯头花大战，然后底下一群小咱喵聚众嗑药割手开淫趴，地上天国就这样实现了。 https://t.co/2pwqoNWQRc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1990537591909937300",
+        "created_at": "2025-11-17T21:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T22:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990537591909937300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ellequeer1120/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/ellequeer1120/status/1990382073744683436",
+              "start": 69,
+              "url": "https://t.co/2pwqoNWQRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990537591909937300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990382073744683436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身份证制的最终幻想，把几个药娘骰子聚集在一块不知道会发生什么样的扯头花大战，然后底下一群小咱喵聚众嗑药割手开淫趴，地上天国就这样实现了。 https://t.co/2pwqoNWQRc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617138994227339265",
+        "conversation_id": "1990382073744683436",
+        "created_at": "2025-11-17T11:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990382073744683436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990382073744683436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10582,
+          "like_count": 18,
+          "quote_count": 17,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有想过，找一块地，把全世界的酷儿汇集到一起，建立起我们自己的国家\n那将会是世界上最民主，最自由和最进步的国家\n在那里，传统的家庭结构彻底解体，人们以共同的身份认同和价值观结合在一起\n那里将拥有世界上最先进的科技，但所有的科技都为人的自由服务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988789585422282752/DZ2pnXRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 927,
+          "like_count": 26059,
+          "listed_count": 8,
+          "media_count": 2329,
+          "tweet_count": 25003
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | transF | asexual🖤🩶🤍💜 | Atheist ⚛️ | radical transfeminist | social liberalism | HRT 2023.12.11 | Free Palestine 🇵🇸",
+        "id": "1617138994227339265",
+        "location": "San Frantransco",
+        "name": "Elle Queer Freesoul🏳️‍🌈🏳️‍⚧️🇹🇼🇺🇦🇵🇸",
+        "pinned_tweet_id": "1927290401569771532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984237481835786240/KDluz_H9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1180,
+          "like_count": 8731,
+          "listed_count": 12,
+          "media_count": 924,
+          "tweet_count": 5976
+        },
+        "username": "ellequeer1120",
+        "verified": false
+      }
+    ]
+  }
+}

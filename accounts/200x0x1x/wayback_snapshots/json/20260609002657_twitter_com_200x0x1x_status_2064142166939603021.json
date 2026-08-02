@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2064140759989887355",
+    "created_at": "2026-06-09T00:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064142166939603021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064142166939603021",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064140759989887355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 土得受不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064140742973587456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVNEcdaAAAEN-M.jpg",
+        "width": 946
+      },
+      {
+        "height": 1135,
+        "media_key": "3_2064140742973628416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVNEcdaoAAR5DT.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2064140759989887355",
+        "created_at": "2026-06-09T00:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064142166939603021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064142166939603021",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064140759989887355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 土得受不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064140742973587456",
+            "3_2064140742973628416"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2064140759989887355",
+        "created_at": "2026-06-09T00:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064140759989887355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrt4h4GdUs",
+              "end": 66,
+              "expanded_url": "https://x.com/kitty068_ly/status/2064140759989887355/photo/1",
+              "media_key": "3_2064140742973587456",
+              "start": 43,
+              "url": "https://t.co/yrt4h4GdUs"
+            },
+            {
+              "display_url": "pic.x.com/yrt4h4GdUs",
+              "end": 66,
+              "expanded_url": "https://x.com/kitty068_ly/status/2064140759989887355/photo/1",
+              "media_key": "3_2064140742973628416",
+              "start": 43,
+              "url": "https://t.co/yrt4h4GdUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064140759989887355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些写哈基汪日记的为什么要写女同性恋找自己要联系方式当做自己play的一环 贱不贱啊 https://t.co/yrt4h4GdUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063477529978028032/FCGFfbXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 762,
+          "like_count": 27832,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26664
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "本账号不适合看不懂人话的人交流 和我想法不一样的人可以不说话 你是谁啊你的想法重要吗这是我的个人账户\n一个queer\n老婆妈妈主人爸爸老公哥哥姐姐@dngyng169770781",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 540,
+          "like_count": 8555,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 4932
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

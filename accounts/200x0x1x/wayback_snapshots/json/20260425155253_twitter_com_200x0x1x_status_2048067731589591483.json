@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2048053013823295911",
+    "created_at": "2026-04-25T15:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048067731589591483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048067731589591483",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048053013823295911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 掉了一地绒毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2048053013823295911",
+        "created_at": "2026-04-25T15:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048067731589591483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048067731589591483",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048053013823295911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 掉了一地绒毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2048053013823295911",
+        "created_at": "2026-04-25T14:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048053013823295911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tannokasa9/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/tannokasa9/status/2047820381847757232",
+              "start": 55,
+              "url": "https://t.co/x8IOiFVuAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048053013823295911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047820381847757232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝族辛勤劳作，制作传统美食，只是干久了头有点痛，不知道为什么，最后好像还打起来了，事情的经过已经记不清了… https://t.co/x8IOiFVuAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047548762210328576/3TheJ9Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 1021,
+          "like_count": 27506,
+          "listed_count": 6,
+          "media_count": 2404,
+          "tweet_count": 26182
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.\n\nnot necessarily correct",
+        "id": "1516581658115272708",
+        "location": "b/acc @ BCRU",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039036756750893056/MUjhfUij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1539,
+          "like_count": 29716,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1508
+        },
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

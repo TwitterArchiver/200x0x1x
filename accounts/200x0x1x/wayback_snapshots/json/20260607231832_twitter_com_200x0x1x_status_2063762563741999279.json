@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2063762563741999279",
+    "created_at": "2026-06-07T23:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063762563741999279"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063762563741999279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "末路狂花虽然道德寓言的部分有点刻意，但是这种驶入例外空间无法刹车掉头的女人最迷人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2063762563741999279",
+        "created_at": "2026-06-07T23:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063762563741999279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063762563741999279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "末路狂花虽然道德寓言的部分有点刻意，但是这种驶入例外空间无法刹车掉头的女人最迷人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063477529978028032/FCGFfbXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 763,
+          "like_count": 27815,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26650
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

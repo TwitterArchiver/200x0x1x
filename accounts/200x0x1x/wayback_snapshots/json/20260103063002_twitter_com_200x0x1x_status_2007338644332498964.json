@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007338628859740160"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2007338644332498964",
+    "created_at": "2026-01-03T06:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007338644332498964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PW0PnSaZCT",
+          "end": 44,
+          "expanded_url": "https://x.com/200x0x1x/status/2007338644332498964/photo/1",
+          "media_key": "3_2007338628859740160",
+          "start": 21,
+          "url": "https://t.co/PW0PnSaZCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007338644332498964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友的礼物，算是阴郁日子里的一点光芒了w https://t.co/PW0PnSaZCT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007338644332498964].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007338644332498964",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007338644332498964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2007338628859740160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9t_2P0awAAAjww.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 933,
+          "like_count": 26331,
+          "listed_count": 6,
+          "media_count": 2350,
+          "tweet_count": 25297
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

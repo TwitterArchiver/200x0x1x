@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2069140918230560857",
+    "created_at": "2026-06-22T21:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T22:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069167110475948048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        },
+        {
+          "end": 22,
+          "id": "133179937",
+          "start": 17,
+          "username": "BRok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069167110475948048",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069140918230560857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing @BRok 人类族用ai视频黑屁宝宝族"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2069140918230560857",
+        "created_at": "2026-06-22T21:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069167110475948048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            },
+            {
+              "end": 22,
+              "id": "133179937",
+              "start": 17,
+              "username": "BRok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069167110475948048",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069140918230560857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing @BRok 人类族用ai视频黑屁宝宝族"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2069140918230560857",
+        "created_at": "2026-06-22T19:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069140918230560857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "133179937",
+              "start": 18,
+              "username": "BRok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gifshitpost/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/gifshitpost/status/2069104001346379840",
+              "start": 38,
+              "url": "https://t.co/S5jAi9lpha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069140918230560857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069104001346379840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类族说宝宝族都生活在水深火热当中，@brok is this true？ https://t.co/S5jAi9lpha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 636,
+          "like_count": 28076,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26831
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.\n\nnot necessarily correct\n\nI don't understand everything.",
+        "id": "1516581658115272708",
+        "location": "b/acc @ BCRU",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039036756750893056/MUjhfUij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 1824,
+          "like_count": 31835,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1667
+        },
+        "url": "",
+        "username": "partialblessing",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-15T06:11:49.000Z",
+        "description": "",
+        "id": "133179937",
+        "location": "Hoboken",
+        "name": "Anastacio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/414880217623429120/UJpJWl1J_normal.jpeg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 239,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "BRok",
+        "verified": false
+      }
+    ]
+  }
+}

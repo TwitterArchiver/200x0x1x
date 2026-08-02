@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2062567413850554827",
+    "created_at": "2026-06-04T18:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062599307962827207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422249668960919592",
+          "start": 0,
+          "username": "whitesaucep9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062599307962827207",
+    "in_reply_to_user_id": "1422249668960919592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062567413850554827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitesaucep9968 改名清心寡欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2062567413850554827",
+        "created_at": "2026-06-04T18:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062599307962827207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422249668960919592",
+              "start": 0,
+              "username": "whitesaucep9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062599307962827207",
+        "in_reply_to_user_id": "1422249668960919592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062567413850554827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitesaucep9968 改名清心寡欲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422249668960919592",
+        "conversation_id": "2062567413850554827",
+        "created_at": "2026-06-04T16:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062567413850554827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062567413850554827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么整天都想骂人啊有人来解释一下吗，我见谁怎么都这么想骂的，我的天哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062005095089197057/J7qRqGdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 766,
+          "like_count": 27740,
+          "listed_count": 6,
+          "media_count": 2438,
+          "tweet_count": 26591
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "",
+        "id": "1422249668960919592",
+        "location": "Feline Rehab,ER",
+        "name": "紀念品",
+        "pinned_tweet_id": "2048688709189685464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054666087514697728/OQFJ1WlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 3122,
+          "like_count": 50814,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 21899
+        },
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2052733148849410067",
+    "created_at": "2026-05-08T12:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052733148849410067"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052733148849410067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我也是我以为就我一个人看见自己老公就心里厌烦，跟他说话就浑身疼，尤其是肚子特别疼。我还以为是我自己的错。我明知道他在外面挣钱已经很辛苦了，可是我就是看不得他，听不得他说话，尤其是他跟我睡一块的时候，我能把牙齿咬。剩下的日子不知道怎么过，就这样凑合着过呗，当做不存在当着合租的室友。现在这个时代要爱爱，没有要钱钱，没有要人人没有。我和我老公结婚八年了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也是我以为就我一个人看见自己老公就心里厌烦，跟他说话就浑身疼，尤其是肚子特别疼。我还以为是我自己的错。我明知道他在外面挣钱已经很辛苦了，可是我就是看不得他，听不得他说话，尤其是他跟我睡一块的时候，我能把牙齿咬。剩下的日子不知道怎么过，就这样凑合着过呗，当做不存在当着合租的室友。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2052733148849410067",
+        "created_at": "2026-05-08T12:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052733148849410067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052733148849410067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也是我以为就我一个人看见自己老公就心里厌烦，跟他说话就浑身疼，尤其是肚子特别疼。我还以为是我自己的错。我明知道他在外面挣钱已经很辛苦了，可是我就是看不得他，听不得他说话，尤其是他跟我睡一块的时候，我能把牙齿咬。剩下的日子不知道怎么过，就这样凑合着过呗，当做不存在当着合租的室友。现在这个时代要爱爱，没有要钱钱，没有要人人没有。我和我老公结婚八年了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也是我以为就我一个人看见自己老公就心里厌烦，跟他说话就浑身疼，尤其是肚子特别疼。我还以为是我自己的错。我明知道他在外面挣钱已经很辛苦了，可是我就是看不得他，听不得他说话，尤其是他跟我睡一块的时候，我能把牙齿咬。剩下的日子不知道怎么过，就这样凑合着过呗，当做不存在当着合租的室友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 1047,
+          "like_count": 27844,
+          "listed_count": 6,
+          "media_count": 2414,
+          "tweet_count": 26309
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2052801068245893151",
+    "created_at": "2026-05-08T17:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052801068245893151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/redv6464/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/redv6464/status/2052796109186379815",
+          "start": 13,
+          "url": "https://t.co/UiIDRIDD7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052801068245893151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052796109186379815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽你说得对呀，都怪男的 https://t.co/UiIDRIDD7F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2052801068245893151",
+        "created_at": "2026-05-08T17:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052801068245893151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/redv6464/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/redv6464/status/2052796109186379815",
+              "start": 13,
+              "url": "https://t.co/UiIDRIDD7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052801068245893151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052796109186379815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽你说得对呀，都怪男的 https://t.co/UiIDRIDD7F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968462755691900928",
+        "conversation_id": "2051101065345376752",
+        "created_at": "2026-05-08T17:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052796109186379815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052796109186379815",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051101065345376752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你的出生不也都怪男的🤣👉🏿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 1047,
+          "like_count": 27856,
+          "listed_count": 6,
+          "media_count": 2414,
+          "tweet_count": 26312
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T23:51:35.000Z",
+        "description": "",
+        "id": "1968462755691900928",
+        "name": "Veronica Red",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968462871224008704/XEyCNzG4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "redv6464",
+        "verified": false
+      }
+    ]
+  }
+}

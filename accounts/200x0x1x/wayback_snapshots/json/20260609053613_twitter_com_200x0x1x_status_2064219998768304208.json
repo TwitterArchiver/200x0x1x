@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2064219998768304208",
+    "created_at": "2026-06-09T05:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064219998768304208"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064219998768304208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看你这个手相，首先你这个生命线就特别的短，估计活不长了。哦，这个爱情线分叉很多，代表你经常被劈腿，说明你是一个比较福瑞控的人，喜欢畜生。事业线显示呢你基本上是一穷二白的一个状态，属于没钱还爱装的类型。总得来说就是没救了，我算得准吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2064219998768304208",
+        "created_at": "2026-06-09T05:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064219998768304208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064219998768304208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看你这个手相，首先你这个生命线就特别的短，估计活不长了。哦，这个爱情线分叉很多，代表你经常被劈腿，说明你是一个比较福瑞控的人，喜欢畜生。事业线显示呢你基本上是一穷二白的一个状态，属于没钱还爱装的类型。总得来说就是没救了，我算得准吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064180709225271296/gSORuUiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 763,
+          "like_count": 27843,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26672
+        },
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

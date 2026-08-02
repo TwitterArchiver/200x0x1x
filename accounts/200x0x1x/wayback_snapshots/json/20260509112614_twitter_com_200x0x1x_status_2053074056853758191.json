@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2053074056853758191",
+    "created_at": "2026-05-09T11:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053074056853758191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995419766954291200",
+          "start": 3,
+          "username": "dinuanmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053074056853758191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052932061573644699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dinuanmei: 希望丘比特之箭能击中我的逼和未来老公的屌，就这么逼屌相连一辈子，无论如何都不要分开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2053074056853758191",
+        "created_at": "2026-05-09T11:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053074056853758191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995419766954291200",
+              "start": 3,
+              "username": "dinuanmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053074056853758191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052932061573644699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dinuanmei: 希望丘比特之箭能击中我的逼和未来老公的屌，就这么逼屌相连一辈子，无论如何都不要分开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995419766954291200",
+        "conversation_id": "2052932061573644699",
+        "created_at": "2026-05-09T02:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052932061573644699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052932061573644699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1201,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "希望丘比特之箭能击中我的逼和未来老公的屌，就这么逼屌相连一辈子，无论如何都不要分开。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "寡妇门前是非多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 1053,
+          "like_count": 27868,
+          "listed_count": 6,
+          "media_count": 2416,
+          "tweet_count": 26319
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "不是天使，也并不是恶魔，只是有着烦恼的普通人类。\n小号@zhishiyizhiy其实没什么好看的，但我想挂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "zhishiyizhiy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "location": "🚪118",
+        "name": "木子 你还好吗？",
+        "pinned_tweet_id": "2052044228021440520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051564455046373376/AIcmqTCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 66,
+          "like_count": 1760,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "dinuanmei",
+        "verified": false
+      }
+    ]
+  }
+}

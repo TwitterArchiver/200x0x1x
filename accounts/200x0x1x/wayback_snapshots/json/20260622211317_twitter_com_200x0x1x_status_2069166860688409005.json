@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2069011498220089853",
+    "created_at": "2026-06-22T21:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T22:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069166860688409005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1855493261412184065",
+          "start": 0,
+          "username": "bunnyh03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069166860688409005",
+    "in_reply_to_user_id": "1855493261412184065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069011498220089853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bunnyh03 这我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2069011498220089853",
+        "created_at": "2026-06-22T21:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069166860688409005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1855493261412184065",
+              "start": 0,
+              "username": "bunnyh03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069166860688409005",
+        "in_reply_to_user_id": "1855493261412184065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069011498220089853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bunnyh03 这我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855493261412184065",
+        "conversation_id": "2069011498220089853",
+        "created_at": "2026-06-22T10:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069011498220089853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069011498220089853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次刷到正儿八经ddlg内容就会觉得自己是叶公好ddlg，我根本受不了老男人，登完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 636,
+          "like_count": 28075,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26830
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T06:10:53.000Z",
+        "description": "故障机器人英勇地战斗了\nen/中 | 24 | She/Her",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nohello.net/zh-cn/",
+                "end": 23,
+                "expanded_url": "https://nohello.net/zh-cn/",
+                "start": 0,
+                "url": "https://t.co/4ZSKb2iTdG"
+              }
+            ]
+          }
+        },
+        "id": "1855493261412184065",
+        "name": "🐰",
+        "pinned_tweet_id": "2063001338582323577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061885129451282432/hJqk0rp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 34,
+          "like_count": 12051,
+          "listed_count": 0,
+          "media_count": 587,
+          "tweet_count": 4325
+        },
+        "url": "https://t.co/4ZSKb2iTdG",
+        "username": "bunnyh03",
+        "verified": false
+      }
+    ]
+  }
+}

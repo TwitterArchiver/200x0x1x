@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074313866084040827",
+    "created_at": "2026-07-07T08:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074417745958154426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2072053867110653952",
+          "start": 0,
+          "username": "07abuk255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074417745958154426",
+    "in_reply_to_user_id": "2072053867110653952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074414389831278850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@07abuk255 谢谢亲爱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074313866084040827",
+        "created_at": "2026-07-07T08:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074417745958154426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2072053867110653952",
+              "start": 0,
+              "username": "07abuk255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074417745958154426",
+        "in_reply_to_user_id": "2072053867110653952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074414389831278850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07abuk255 谢谢亲爱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072053867110653952",
+        "conversation_id": "2074313866084040827",
+        "created_at": "2026-07-07T08:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074414389831278850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074414389831278850",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074313866084040827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 不想赞…怕笨蛋伤到自己……可这是你人的人生诶…祝大大好运"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 629,
+          "like_count": 28268,
+          "listed_count": 6,
+          "media_count": 2457,
+          "tweet_count": 27067
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-30T20:26:09.000Z",
+        "description": "！！   .。ᕱ⑅ᕱ\n丶兔兔~ ̑̑( ╹▽╹ )₍˄·͈༝·͈˄₎◞ ̑̑喵\n   ૮꒰ ˶• ༝ •˶꒱ა咩~( ╹▽╹ )",
+        "id": "2072053867110653952",
+        "location": "梦界云都28栋333间",
+        "name": "三三",
+        "pinned_tweet_id": "2072095953868435542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074189396962951168/Vgh6R00Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "07abuk255",
+        "verified": false
+      }
+    ]
+  }
+}

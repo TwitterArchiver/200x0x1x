@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2010049123341520900",
+    "created_at": "2026-01-11T09:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T10:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010284649189191870"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010284649189191870",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010049123341520900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“我遇见他时，有一种似曾相识的感觉。你怎么解释，除非我和他在前世就已经相遇？”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2010049119658684417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UhBk5XsAE2T-I.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2010049123341520900",
+        "created_at": "2026-01-11T09:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T10:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010284649189191870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010284649189191870",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010049123341520900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我遇见他时，有一种似曾相识的感觉。你怎么解释，除非我和他在前世就已经相遇？”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010049119658684417"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2010049123341520900",
+        "created_at": "2026-01-10T18:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010049123341520900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCQJEHSzMv",
+              "end": 165,
+              "expanded_url": "https://x.com/200x0x1x/status/2010049123341520900/photo/1",
+              "media_key": "3_2010049119658684417",
+              "start": 142,
+              "url": "https://t.co/PCQJEHSzMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010049123341520900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "莎士比亚的《冬天的故事》的主题是“复活“。在这部剧中，西西里国王因为嫉妒逼死了王后赫米温妮，却因为一时的嫉恨而悔不当初。在巫女的帮助下，他见到了赫米温妮的雕像，就仿佛她还依旧活在世上，仿佛她的血脉仍在搏动，仿佛她的嘴唇上仍有一丝生者的气息。巫女说道：“来，我会把你的坟墓填塞，把你僵硬固的姿态交给还死亡，因为你已经从死里重新得到了生命。“于是这雕像在国王面前活了过来。在侯麦同名的电影中，菲利茜观看了这幕戏剧，泪流满面。菲利茜始终爱着一个自己错过的男人，她在各种男子之间游走，但是对他们每一位的爱都无法使她满足，因为她遇见的每位男人都不是在她心中期盼的“那一个”，她宿命中的爱人的身影依旧挥之不去。戏剧结束之后，菲利茜的情人抛出了一个意味深长的问题，他说他看不懂这幕戏，他不知道究竟是魔法使雕像复活，还是说王后赫米温妮并没有死去，只是在国王面前假扮为一个毫无生气的雕像？菲利茜回答道，我认为你没有看懂这部剧，那使雕像死而复生的力量是“信仰”。在基督教精神中最为重要的一个意象，就是《马太福音》中记述的基督的复活。我想，对死去的爱人的执念，通过某种信仰上的折跃，便可以转化为对爱人复活的信念。正是因为这种信念，菲利茜在公车上重新遇见了自己的爱人，两人破镜重圆，哀怨和猜忌在此获得了和解。侯麦在电影中为我们展现的，就是对这份“奇迹”的见证。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "莎士比亚的《冬天的故事》的主题是“复活“。在这部剧中，西西里国王因为嫉妒逼死了王后赫米温妮，却因为一时的嫉恨而悔不当初。在巫女的帮助下，他见到了赫米温妮的雕像，就仿佛她还依旧活在世上，仿佛她的血脉仍在搏动，仿佛她的嘴唇上仍有一丝生者的气息。巫女说道：“来，我会把你的坟墓填塞，把你僵 https://t.co/PCQJEHSzMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 932,
+          "like_count": 26381,
+          "listed_count": 6,
+          "media_count": 2354,
+          "tweet_count": 25332
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2036994219156410521",
+    "created_at": "2026-03-26T02:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T03:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036994783164441049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036994783164441049",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036994219156410521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 这个很萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036994213502738437",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETbcdlbYAUmmiU.jpg",
+        "width": 1386
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036994213519450112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETbcdpaYAA6_AM.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2036994219156410521",
+        "created_at": "2026-03-26T02:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036994783164441049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036994783164441049",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036994219156410521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 这个很萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036994213502738437",
+            "3_2036994213519450112"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2036994219156410521",
+        "created_at": "2026-03-26T02:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036994219156410521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kz6VkDX2kN",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2036994219156410521/photo/1",
+              "media_key": "3_2036994213502738437",
+              "start": 4,
+              "url": "https://t.co/Kz6VkDX2kN"
+            },
+            {
+              "display_url": "pic.x.com/Kz6VkDX2kN",
+              "end": 27,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2036994219156410521/photo/1",
+              "media_key": "3_2036994213519450112",
+              "start": 4,
+              "url": "https://t.co/Kz6VkDX2kN"
+            },
+            {
+              "display_url": "x.com/liulanggouwait…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/liulanggouwait/status/2036642774381166724",
+              "start": 28,
+              "url": "https://t.co/syphSNUjHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036994219156410521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036642774381166724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样吗 https://t.co/Kz6VkDX2kN https://t.co/syphSNUjHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035926313442414592/4tbYApkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 1001,
+          "like_count": 27198,
+          "listed_count": 6,
+          "media_count": 2391,
+          "tweet_count": 25936
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 321,
+          "like_count": 319,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 220
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

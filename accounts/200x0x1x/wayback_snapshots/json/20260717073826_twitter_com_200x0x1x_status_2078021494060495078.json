@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2077729001993535624",
+    "created_at": "2026-07-17T07:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078021494060495078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078021494060495078",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078020799252857136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 谢谢你我哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2078020761768333312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNac330WkAAQfxf.jpg",
+        "width": 2800
+      },
+      {
+        "height": 1260,
+        "media_key": "3_2078020771398459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNac4bsWoAACwXl.jpg",
+        "width": 2800
+      },
+      {
+        "height": 1260,
+        "media_key": "3_2078020782542749696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNac5FNXAAArML-.jpg",
+        "width": 2800
+      },
+      {
+        "height": 1260,
+        "media_key": "3_2078020790960746496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNac5kkXcAAPhFh.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077729001993535624",
+        "created_at": "2026-07-17T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078021494060495078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078021494060495078",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078020799252857136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 谢谢你我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078020761768333312",
+            "3_2078020771398459392",
+            "3_2078020782542749696",
+            "3_2078020790960746496"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2077729001993535624",
+        "created_at": "2026-07-17T07:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078020799252857136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/npLFylzgIw",
+              "end": 33,
+              "expanded_url": "https://x.com/wuerbangbang/status/2078020799252857136/photo/1",
+              "media_key": "3_2078020761768333312",
+              "start": 10,
+              "url": "https://t.co/npLFylzgIw"
+            },
+            {
+              "display_url": "pic.x.com/npLFylzgIw",
+              "end": 33,
+              "expanded_url": "https://x.com/wuerbangbang/status/2078020799252857136/photo/1",
+              "media_key": "3_2078020771398459392",
+              "start": 10,
+              "url": "https://t.co/npLFylzgIw"
+            },
+            {
+              "display_url": "pic.x.com/npLFylzgIw",
+              "end": 33,
+              "expanded_url": "https://x.com/wuerbangbang/status/2078020799252857136/photo/1",
+              "media_key": "3_2078020782542749696",
+              "start": 10,
+              "url": "https://t.co/npLFylzgIw"
+            },
+            {
+              "display_url": "pic.x.com/npLFylzgIw",
+              "end": 33,
+              "expanded_url": "https://x.com/wuerbangbang/status/2078020799252857136/photo/1",
+              "media_key": "3_2078020790960746496",
+              "start": 10,
+              "url": "https://t.co/npLFylzgIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078020799252857136",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077729001993535624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x https://t.co/npLFylzgIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 675,
+          "like_count": 28624,
+          "listed_count": 6,
+          "media_count": 2470,
+          "tweet_count": 27356
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2073419739032883260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12032,
+          "following_count": 980,
+          "like_count": 22360,
+          "listed_count": 54,
+          "media_count": 3164,
+          "tweet_count": 10434
+        },
+        "url": "",
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2069497669220028420",
+    "created_at": "2026-06-23T19:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T20:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069505582910800365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929550687895240704",
+          "start": 0,
+          "username": "popstarsyndrome"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069505582910800365",
+    "in_reply_to_user_id": "1929550687895240704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069497669220028420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popstarsyndrome 神人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2069497669220028420",
+        "created_at": "2026-06-23T19:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069505582910800365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929550687895240704",
+              "start": 0,
+              "username": "popstarsyndrome"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069505582910800365",
+        "in_reply_to_user_id": "1929550687895240704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069497669220028420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popstarsyndrome 神人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929550687895240704",
+        "conversation_id": "2069497669220028420",
+        "created_at": "2026-06-23T19:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069497669220028420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069497669220028420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星星是臭变态\n小时候沉迷闻奶奶的臭丝袜，还趁妹妹睡着舔她下面，偷看我爷爷和父亲的鸡巴，还幻想被杰哥弟弟和朋友们轮奸，住院的时候给查房的男护士娇喘，还勾引男老师上床，强吻女老师，给她下跪，幻想把自己妈妈妹妹闺蜜供给杰哥玩，每个路人我都盯着鸡巴看想被强奸\n我真的好难受怎么这么想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069502738468069376/Idqh6aqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 633,
+          "like_count": 28093,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26840
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T14:48:44.000Z",
+        "description": "一只努力小升初的星星喵~\n星星希望大家天天開心！愛你萌！！◍˃ᵕ˂◍\n宝宝：@float421_ovo @sprout0405 @ZhuangXuexin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "float421_ovo"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "sprout0405"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "ZhuangXuexin"
+              }
+            ]
+          }
+        },
+        "id": "1929550687895240704",
+        "name": "消灭星星症候群",
+        "pinned_tweet_id": "2002977287608873212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984862111512866816/vaf1LbR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 1100,
+          "like_count": 8029,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "popstarsyndrome",
+        "verified": false
+      }
+    ]
+  }
+}

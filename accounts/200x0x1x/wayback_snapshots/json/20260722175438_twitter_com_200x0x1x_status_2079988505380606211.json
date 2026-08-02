@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2079988505380606211",
+    "created_at": "2026-07-22T17:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079988505380606211"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079988505380606211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最难受的就是，如果我真的走投无路到去找医疗机构求助，我家里人又会发现我去求助了，他们就会发现我有问题，然后压力我。我去精神科看病他们都嫌我花钱，你们说我妈妈是不是想要我死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2079988505380606211",
+        "created_at": "2026-07-22T17:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079988505380606211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079988505380606211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最难受的就是，如果我真的走投无路到去找医疗机构求助，我家里人又会发现我去求助了，他们就会发现我有问题，然后压力我。我去精神科看病他们都嫌我花钱，你们说我妈妈是不是想要我死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 678,
+          "like_count": 28791,
+          "listed_count": 7,
+          "media_count": 2494,
+          "tweet_count": 27581
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068102405347017165",
+    "created_at": "2026-06-19T23:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T00:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068119553058423256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068119553058423256",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068119331570139642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 我只能进行一个拷打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068102405347017165",
+        "created_at": "2026-06-19T23:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068119553058423256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068119553058423256",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068119331570139642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 我只能进行一个拷打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456872541952229379",
+        "conversation_id": "2068102405347017165",
+        "created_at": "2026-06-19T23:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068119331570139642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068119331570139642",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068102405347017165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 因为人与人之间的感情并不相通😢，特别是和傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 639,
+          "like_count": 28001,
+          "listed_count": 6,
+          "media_count": 2445,
+          "tweet_count": 26777
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "底层农村人，并非做题家，基本每天长时间推特在线，爱好分享一些自己的魔改手办收藏，有兴趣可以私我进q群玩，对各种卡牌也很有兴趣，有所收藏，做梦高手，逃避人生高手，另外我被全身烧伤过，身体残疾，状态很差，有没有给我施舍点的……",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 1341,
+          "like_count": 72035,
+          "listed_count": 7,
+          "media_count": 1660,
+          "tweet_count": 20409
+        },
+        "url": "",
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

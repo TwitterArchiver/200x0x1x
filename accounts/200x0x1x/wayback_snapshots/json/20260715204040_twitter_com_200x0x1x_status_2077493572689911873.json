@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2077492358422348123",
+    "created_at": "2026-07-15T20:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T21:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077493572689911873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1503621214551494657",
+          "start": 0,
+          "username": "zrktoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077493572689911873",
+    "in_reply_to_user_id": "1503621214551494657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077492358422348123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zrktoin 你理解我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077492358422348123",
+        "created_at": "2026-07-15T20:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077493572689911873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1503621214551494657",
+              "start": 0,
+              "username": "zrktoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077493572689911873",
+        "in_reply_to_user_id": "1503621214551494657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077492358422348123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zrktoin 你理解我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503621214551494657",
+        "conversation_id": "2077492358422348123",
+        "created_at": "2026-07-15T20:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077492358422348123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2077366348947001680",
+              "start": 97,
+              "url": "https://t.co/YZNyShg895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077492358422348123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077366348947001680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者突然把对方弄死让他临死之前都很疑惑到底发生了什么怎么会这样，真的想过但是真的不太好吧我说。。\n可爱侵略症的一种吗\n目的大概是给对方留下困扰一生的疑惑，永远解不开的答案，每次午夜梦回时的思索 https://t.co/YZNyShg895"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 672,
+          "like_count": 28582,
+          "listed_count": 6,
+          "media_count": 2473,
+          "tweet_count": 27319
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T06:39:15.000Z",
+        "description": "精神状态时好时坏     胡言乱语生成器\n理解人类中 理解自己中  \n我把这玩意当日记本发    想到什么说什么     很吵\n\n回憶錄",
+        "id": "1503621214551494657",
+        "name": "鸿泥",
+        "pinned_tweet_id": "2070742770583777763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537877358685741056/Kf691MgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 320,
+          "like_count": 7740,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 2368
+        },
+        "url": "",
+        "username": "zrktoin",
+        "verified": false
+      }
+    ]
+  }
+}

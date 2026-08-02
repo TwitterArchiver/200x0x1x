@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2080545007644385689",
+    "created_at": "2026-07-24T06:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080545007644385689"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080545007644385689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "切身感受就是如果你是一个很单纯善良的小女孩你进入社会就马上要被吃干抹净，到处都是人渣、垃圾、骗子。唉，这不也是魔法少女番的教诲吗？对奇迹和魔法充满希望的少女，在亚空间里遭遇一团黑泥很多眼睛和触手的克系生物什么的。尽管如此，家庭也是一个充满虐待和控制的地方，虽然他们说外面的人都会害你只有他们对你好，但是他们和外面的人很多时候也差不多。没有出路。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "切身感受就是如果你是一个很单纯善良的小女孩你进入社会就马上要被吃干抹净，到处都是人渣、垃圾、骗子。唉，这不也是魔法少女番的教诲吗？对奇迹和魔法充满希望的少女，在亚空间里遭遇一团黑泥很多眼睛和触手的克系生物什么的。尽管如此，家庭也是一个充满虐待和控制的地方，虽然他们说外面的人都会害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2080545007644385689",
+        "created_at": "2026-07-24T06:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080545007644385689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080545007644385689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "切身感受就是如果你是一个很单纯善良的小女孩你进入社会就马上要被吃干抹净，到处都是人渣、垃圾、骗子。唉，这不也是魔法少女番的教诲吗？对奇迹和魔法充满希望的少女，在亚空间里遭遇一团黑泥很多眼睛和触手的克系生物什么的。尽管如此，家庭也是一个充满虐待和控制的地方，虽然他们说外面的人都会害你只有他们对你好，但是他们和外面的人很多时候也差不多。没有出路。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "切身感受就是如果你是一个很单纯善良的小女孩你进入社会就马上要被吃干抹净，到处都是人渣、垃圾、骗子。唉，这不也是魔法少女番的教诲吗？对奇迹和魔法充满希望的少女，在亚空间里遭遇一团黑泥很多眼睛和触手的克系生物什么的。尽管如此，家庭也是一个充满虐待和控制的地方，虽然他们说外面的人都会害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080527103204950016/4_dxQxG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 678,
+          "like_count": 28802,
+          "listed_count": 7,
+          "media_count": 2496,
+          "tweet_count": 27612
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

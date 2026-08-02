@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053280033695793156"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2053280037109919809",
+    "created_at": "2026-05-10T01:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053280037109919809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9bNn4MRMQ",
+          "end": 37,
+          "expanded_url": "https://x.com/200x0x1x/status/2053280037109919809/photo/1",
+          "media_key": "3_2053280033695793156",
+          "start": 14,
+          "url": "https://t.co/c9bNn4MRMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053280037109919809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有金童玉女只有野草闲花。 https://t.co/c9bNn4MRMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 213,
+        "media_key": "3_2053280033695793156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH63T9jXAAQ3REq.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053280033695793156"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2053280037109919809",
+        "created_at": "2026-05-10T01:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053280037109919809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9bNn4MRMQ",
+              "end": 37,
+              "expanded_url": "https://x.com/200x0x1x/status/2053280037109919809/photo/1",
+              "media_key": "3_2053280033695793156",
+              "start": 14,
+              "url": "https://t.co/c9bNn4MRMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053280037109919809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有金童玉女只有野草闲花。 https://t.co/c9bNn4MRMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "寡妇门前是非多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 1055,
+          "like_count": 27886,
+          "listed_count": 6,
+          "media_count": 2417,
+          "tweet_count": 26327
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2023982006498193589",
+    "created_at": "2026-02-18T05:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023994164744999258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1890320703943274496",
+          "start": 0,
+          "username": "dinzitinsh_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023994164744999258",
+    "in_reply_to_user_id": "1890320703943274496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023982006498193589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinzitinsh_ 请求马斯克关闭推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2023982006498193589",
+        "created_at": "2026-02-18T05:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023994164744999258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1890320703943274496",
+              "start": 0,
+              "username": "dinzitinsh_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023994164744999258",
+        "in_reply_to_user_id": "1890320703943274496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023982006498193589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinzitinsh_ 请求马斯克关闭推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890320703943274496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "2023982006498193589",
+        "created_at": "2026-02-18T04:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023982006498193589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023982006498193589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个timeline怎么不是ysl就是mtf大战chaser，何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023974528406241280/tuscweRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 963,
+          "like_count": 26831,
+          "listed_count": 6,
+          "media_count": 2389,
+          "tweet_count": 25706
+        },
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T08:42:58.000Z",
+        "description": "作为人类存在的注销倒计时/互fo/友跨友同/流动性性别/电波系/我大概是那流动的银与高悬的天空/最恨的人@dinzitinsh_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "dinzitinsh_"
+              }
+            ]
+          }
+        },
+        "id": "1890320703943274496",
+        "name": "拟像天使yuki〰️",
+        "pinned_tweet_id": "1941383250544558203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023378215704969216/kaJwP8n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 212,
+          "like_count": 17390,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 661
+        },
+        "username": "dinzitinsh_",
+        "verified": false
+      }
+    ]
+  }
+}

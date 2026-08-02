@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2033579804197601415",
+    "created_at": "2026-03-16T21:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T22:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033656896079405244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009594484989026307",
+          "start": 0,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033656896079405244",
+    "in_reply_to_user_id": "2009594484989026307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033579804197601415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe953 我觉得对象在向我发起决斗邀请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2033579804197601415",
+        "created_at": "2026-03-16T21:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T22:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033656896079405244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033656896079405244",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033579804197601415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 我觉得对象在向我发起决斗邀请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009594484989026307",
+        "conversation_id": "2033579804197601415",
+        "created_at": "2026-03-16T16:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033579804197601415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033579804197601415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1714,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们会介意对象总在你面前提前任吗，比如这里她跟前任来过，这里她跟前任吃过，这里她跟前任发生了什么好玩的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033596257768284161/-sieD8wY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 983,
+          "like_count": 27023,
+          "listed_count": 6,
+          "media_count": 2385,
+          "tweet_count": 25838
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "这是我的内脏",
+        "id": "2009594484989026307",
+        "location": "网络世界",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 80,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 190
+        },
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

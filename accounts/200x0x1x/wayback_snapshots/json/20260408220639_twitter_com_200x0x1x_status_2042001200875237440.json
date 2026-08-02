@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2041959798292541490",
+    "created_at": "2026-04-08T22:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T23:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042001200875237440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042001200875237440",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041959798292541490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 区宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2041959798292541490",
+        "created_at": "2026-04-08T22:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042001200875237440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042001200875237440",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041959798292541490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 区宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2041959798292541490",
+        "created_at": "2026-04-08T19:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041959798292541490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CattyGlamor/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/CattyGlamor/status/2041653235581153716",
+              "start": 7,
+              "url": "https://t.co/bW0tuCvhNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041959798292541490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041653235581153716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蠕动潜行宝宝 https://t.co/bW0tuCvhNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，蠕动潜行者，活的尸体，请大家把爱托付给精神稳定的本天使吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040217264751009792/mXRoPdVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1003,
+          "like_count": 27248,
+          "listed_count": 6,
+          "media_count": 2400,
+          "tweet_count": 26059
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.",
+        "id": "1516581658115272708",
+        "location": "b/acc @ BCRU",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039036756750893056/MUjhfUij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 1455,
+          "like_count": 28970,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1417
+        },
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

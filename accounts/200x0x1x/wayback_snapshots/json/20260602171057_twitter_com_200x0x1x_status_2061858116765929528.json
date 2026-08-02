@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2061839112018043123",
+    "created_at": "2026-06-02T17:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061858116765929528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989971840492867588",
+          "start": 0,
+          "username": "cinanoputa114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061858116765929528",
+    "in_reply_to_user_id": "1989971840492867588",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061857264668131622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cinanoputa114 😳😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2061839112018043123",
+        "created_at": "2026-06-02T17:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061858116765929528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989971840492867588",
+              "start": 0,
+              "username": "cinanoputa114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061858116765929528",
+        "in_reply_to_user_id": "1989971840492867588",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061857264668131622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cinanoputa114 😳😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989971840492867588",
+        "conversation_id": "2061839112018043123",
+        "created_at": "2026-06-02T17:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061857264668131622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061857264668131622",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061839112018043123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 好像是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059059852052213760/WE9r4TCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 761,
+          "like_count": 27708,
+          "listed_count": 6,
+          "media_count": 2433,
+          "tweet_count": 26558
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T08:20:39.000Z",
+        "description": "FPGA底层硬件设计师，在校非科班本科生，考研中，KAF大好きです，soul-like爱好者。\n\n不定期发一点开发经验和日常感悟，我会尽量减少倒垃圾的次数至少做一个稳定的人，拒绝鉴证和争议话题魔怔人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hatsunemikuchan.github.io",
+                "end": 23,
+                "expanded_url": "https://hatsunemikuchan.github.io/",
+                "start": 0,
+                "url": "https://t.co/dmAXHycYYs"
+              }
+            ]
+          }
+        },
+        "id": "1989971840492867588",
+        "location": "常州/南京",
+        "name": "Yuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061436399166083072/k5Zwp8qO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 26,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/dmAXHycYYs",
+        "username": "cinanoputa114",
+        "verified": false
+      }
+    ]
+  }
+}

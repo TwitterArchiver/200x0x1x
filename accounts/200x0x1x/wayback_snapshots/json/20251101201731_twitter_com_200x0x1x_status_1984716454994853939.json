@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984673441065418837",
+    "created_at": "2025-11-01T20:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T21:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984716454994853939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717496075433779200",
+          "start": 0,
+          "username": "hoba465109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984716454994853939",
+    "in_reply_to_user_id": "1717496075433779200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984673441065418837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoba465109 好了，我真的要哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984673430705500160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4r5-FBbcAAr9a6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1984673441065418837",
+        "created_at": "2025-11-01T20:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T21:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984716454994853939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717496075433779200",
+              "start": 0,
+              "username": "hoba465109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984716454994853939",
+        "in_reply_to_user_id": "1717496075433779200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984673441065418837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoba465109 好了，我真的要哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984673430705500160"
+          ]
+        },
+        "author_id": "1717496075433779200",
+        "conversation_id": "1984673441065418837",
+        "created_at": "2025-11-01T17:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984673441065418837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc7oQIiZ1k",
+              "end": 23,
+              "expanded_url": "https://x.com/hoba465109/status/1984673441065418837/photo/1",
+              "media_key": "3_1984673430705500160",
+              "start": 0,
+              "url": "https://t.co/yc7oQIiZ1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984673441065418837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10806,
+          "like_count": 176,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yc7oQIiZ1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 917,
+          "like_count": 25816,
+          "listed_count": 7,
+          "media_count": 2315,
+          "tweet_count": 24855
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T10:59:19.000Z",
+        "description": "04 brat 166 INTJ 咪的日记本📓 有主人不加v不接推广 Daddy @DYDT_Shimawa 1v1情侣主仆 感谢宝宝们的喜欢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "DYDT_Shimawa"
+              }
+            ]
+          }
+        },
+        "id": "1717496075433779200",
+        "name": "野貓一枚🐾",
+        "pinned_tweet_id": "1982721565520523566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975970265692790784/9cSMVaiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11261,
+          "following_count": 32,
+          "like_count": 768,
+          "listed_count": 17,
+          "media_count": 15,
+          "tweet_count": 261
+        },
+        "username": "hoba465109",
+        "verified": false
+      }
+    ]
+  }
+}

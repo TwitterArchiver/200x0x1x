@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074814028166447104"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074814035221201369",
+    "created_at": "2026-07-08T11:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074814035221201369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kD2oulzy2X",
+          "end": 164,
+          "expanded_url": "https://x.com/200x0x1x/status/2074814035221201369/photo/1",
+          "media_key": "3_2074814028166447104",
+          "start": 141,
+          "url": "https://t.co/kD2oulzy2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074814035221201369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "想象自己是病榻上垂死的女神，这张小床仿佛已经是漂流在小溪上的棺船，船上摆满寒带的鲜花和果实。持续的高烧、梦呓、断断续续的昏睡。偶尔半睁开的眼睛，蒙着一层白翳。尽管眼睛只能辨认房间里的人影和家具的轮廓，却分明地看到一朵大红莲，那花苞旋转着从房间一角向着床下游移。你们看得见那朵花吗？她向自己宠爱的每一位女儿询问。女人们面面相觑，终于有人掩住面门哭起来。孩子，你为什么要流泪呢？她用野兽一样的爪子，虚弱地摩挲着床前人的脸颊。你为什么要流泪呢？要知道，生命是永恒的一年四季。在数百年前的某天，你们也是这样跪在女神床前，一朵红莲正向着我的床底慢慢爬去。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象自己是病榻上垂死的女神，这张小床仿佛已经是漂流在小溪上的棺船，船上摆满寒带的鲜花和果实。持续的高烧、梦呓、断断续续的昏睡。偶尔半睁开的眼睛，蒙着一层白翳。尽管眼睛只能辨认房间里的人影和家具的轮廓，却分明地看到一朵大红莲，那花苞旋转着从房间一角向着床下游移。你们看得见那朵花吗？ https://t.co/kD2oulzy2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2074814028166447104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs4XaPbwAAg7vA.jpg",
+        "width": 1103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074814028166447104"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074814035221201369",
+        "created_at": "2026-07-08T11:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074814035221201369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kD2oulzy2X",
+              "end": 164,
+              "expanded_url": "https://x.com/200x0x1x/status/2074814035221201369/photo/1",
+              "media_key": "3_2074814028166447104",
+              "start": 141,
+              "url": "https://t.co/kD2oulzy2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074814035221201369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想象自己是病榻上垂死的女神，这张小床仿佛已经是漂流在小溪上的棺船，船上摆满寒带的鲜花和果实。持续的高烧、梦呓、断断续续的昏睡。偶尔半睁开的眼睛，蒙着一层白翳。尽管眼睛只能辨认房间里的人影和家具的轮廓，却分明地看到一朵大红莲，那花苞旋转着从房间一角向着床下游移。你们看得见那朵花吗？她向自己宠爱的每一位女儿询问。女人们面面相觑，终于有人掩住面门哭起来。孩子，你为什么要流泪呢？她用野兽一样的爪子，虚弱地摩挲着床前人的脸颊。你为什么要流泪呢？要知道，生命是永恒的一年四季。在数百年前的某天，你们也是这样跪在女神床前，一朵红莲正向着我的床底慢慢爬去。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象自己是病榻上垂死的女神，这张小床仿佛已经是漂流在小溪上的棺船，船上摆满寒带的鲜花和果实。持续的高烧、梦呓、断断续续的昏睡。偶尔半睁开的眼睛，蒙着一层白翳。尽管眼睛只能辨认房间里的人影和家具的轮廓，却分明地看到一朵大红莲，那花苞旋转着从房间一角向着床下游移。你们看得见那朵花吗？ https://t.co/kD2oulzy2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 636,
+          "like_count": 28301,
+          "listed_count": 6,
+          "media_count": 2462,
+          "tweet_count": 27103
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

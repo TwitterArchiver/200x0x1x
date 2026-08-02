@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2059184248863560179",
+    "created_at": "2026-05-28T04:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059853170113712199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "chnghob658339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059853170113712199",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059852909387636914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnghob658339 欢迎你入坑中世纪基督教神秘主义呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2059184248863560179",
+        "created_at": "2026-05-28T04:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059853170113712199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "chnghob658339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059853170113712199",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059852909387636914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnghob658339 欢迎你入坑中世纪基督教神秘主义呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2059184248863560179",
+        "created_at": "2026-05-28T04:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059852909387636914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059852909387636914",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059852260658524643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 好喔。要是真在密契论这找到了新的精神寄托就读埃克哈特大师文集😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059059852052213760/WE9r4TCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 884,
+          "like_count": 27621,
+          "listed_count": 6,
+          "media_count": 2428,
+          "tweet_count": 26489
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画 中国古典文学和西方近现代哲学 最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔。新对政治思想史 英美道德学 德国法学感兴趣。物理学研究生 想学代数拓扑。想做一个功利主义的幸福者。",
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 77,
+          "like_count": 5010,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 807
+        },
+        "username": "chnghob658339",
+        "verified": false
+      }
+    ]
+  }
+}

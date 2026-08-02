@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985988077806895104"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985988081757860159",
+    "created_at": "2025-11-05T08:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985988081757860159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XftFyi0tAl",
+          "end": 23,
+          "expanded_url": "https://x.com/200x0x1x/status/1985988081757860159/photo/1",
+          "media_key": "3_1985988077806895104",
+          "start": 0,
+          "url": "https://t.co/XftFyi0tAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985988081757860159",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XftFyi0tAl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985988081757860159].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985988081757860159",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985988081757860159"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1985988077806895104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-lonHXQAAWTz2.jpg",
+        "width": 1169
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 918,
+          "like_count": 25873,
+          "listed_count": 6,
+          "media_count": 2321,
+          "tweet_count": 24886
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

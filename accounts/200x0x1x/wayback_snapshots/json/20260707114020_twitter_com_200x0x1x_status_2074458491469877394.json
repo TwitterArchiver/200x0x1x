@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074011812438438393",
+    "created_at": "2026-07-07T11:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074458491469877394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916434358917033984",
+          "start": 0,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074458491469877394",
+    "in_reply_to_user_id": "1916434358917033984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074011812438438393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackTrapTrip 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074011812438438393",
+        "created_at": "2026-07-07T11:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074458491469877394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916434358917033984",
+              "start": 0,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074458491469877394",
+        "in_reply_to_user_id": "1916434358917033984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074011812438438393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackTrapTrip 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2074011812438438393",
+        "created_at": "2026-07-06T06:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074011812438438393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074011812438438393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3789,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我唯一吃到过的时代红利就是右美沙芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 630,
+          "like_count": 28276,
+          "listed_count": 6,
+          "media_count": 2458,
+          "tweet_count": 27076
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "同类互关欢迎｜CHN & ENG | she/they❗️非常雷男性称呼｜纯看黄的不要关注我｜pansexual🏳️‍🌈🏳️‍⚧️友好｜可以私信或提问箱但不回答drug相关问题｜fw #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "shtwt"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "odtwt"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzywDf6"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱👁️8964 of shtwt",
+        "pinned_tweet_id": "2007652695445057657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091281591619585/JqgLxKnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 200,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/2gFjzywDf6",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

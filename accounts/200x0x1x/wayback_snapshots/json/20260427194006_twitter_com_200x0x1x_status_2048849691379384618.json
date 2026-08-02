@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2048833049853591745",
+    "created_at": "2026-04-27T19:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T20:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048849691379384618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048849691379384618",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048833049853591745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 上次在你们家黑店吃出了一根绒毛😓😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2048833049853591745",
+        "created_at": "2026-04-27T19:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048849691379384618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048849691379384618",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048833049853591745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 上次在你们家黑店吃出了一根绒毛😓😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2048833049853591745",
+        "created_at": "2026-04-27T18:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048833049853591745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aislop_/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/aislop_/status/2048645218107334827",
+              "start": 9,
+              "url": "https://t.co/yULKLIduxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048833049853591745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048645218107334827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝族给你炒两菜 https://t.co/yULKLIduxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047548762210328576/3TheJ9Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1027,
+          "like_count": 27553,
+          "listed_count": 6,
+          "media_count": 2406,
+          "tweet_count": 26197
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.\n\nnot necessarily correct",
+        "id": "1516581658115272708",
+        "location": "b/acc @ BCRU",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039036756750893056/MUjhfUij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 1548,
+          "like_count": 29794,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1518
+        },
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

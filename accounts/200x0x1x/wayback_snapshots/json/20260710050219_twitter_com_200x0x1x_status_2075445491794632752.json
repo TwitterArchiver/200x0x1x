@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075154929480794192",
+    "created_at": "2026-07-10T05:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075445491794632752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072348873948053504",
+          "start": 0,
+          "username": "angelkawaii2TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075445491794632752",
+    "in_reply_to_user_id": "2072348873948053504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075427663666430440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2TwT 好想吃一次巧克力啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075427626945236992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1mbj0aUAAezlZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075154929480794192",
+        "created_at": "2026-07-10T05:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075445491794632752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072348873948053504",
+              "start": 0,
+              "username": "angelkawaii2TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075445491794632752",
+        "in_reply_to_user_id": "2072348873948053504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075427663666430440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2TwT 好想吃一次巧克力啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075427626945236992"
+          ]
+        },
+        "author_id": "2072348873948053504",
+        "conversation_id": "2075154929480794192",
+        "created_at": "2026-07-10T03:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075427663666430440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHcelayVE9",
+              "end": 33,
+              "expanded_url": "https://x.com/angelkawaii2TwT/status/2075427663666430440/photo/1",
+              "media_key": "3_2075427626945236992",
+              "start": 10,
+              "url": "https://t.co/jHcelayVE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427663666430440",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075154929480794192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x https://t.co/jHcelayVE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075100289749946368/F-9LsA6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 645,
+          "like_count": 28366,
+          "listed_count": 6,
+          "media_count": 2463,
+          "tweet_count": 27138
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-01T15:58:08.000Z",
+        "description": "谨遵用法用量 上网快乐冲浪",
+        "id": "2072348873948053504",
+        "name": "myslee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349709927403520/TbAcND3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 89,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "angelkawaii2TwT",
+        "verified": false
+      }
+    ]
+  }
+}

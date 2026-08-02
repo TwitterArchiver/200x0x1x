@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1989021260450328886",
+    "created_at": "2025-11-13T17:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T18:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989021260450328886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989021260450328886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我要被尼采逗死了：\n\n“十年了：而且在德国，没有人对此感到内疚，没有人来保卫我的名字，抵御那种把它埋没掉的荒唐的沉默。\r…\r人们背弃我已经16年了，不光是我的哲学中，而且在我的荣誉方面。\r…\n18年之久，完全没有理解我！我的“邻人”往往是我最遥远的人！——说“邻人”必定总是我最遥远的人，这属于我的诅咒吗？”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要被尼采逗死了：\n\n“十年了：而且在德国，没有人对此感到内疚，没有人来保卫我的名字，抵御那种把它埋没掉的荒唐的沉默。\r…\r人们背弃我已经16年了，不光是我的哲学中，而且在我的荣誉方面。\r…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1989021260450328886",
+        "created_at": "2025-11-13T17:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T18:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989021260450328886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989021260450328886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我要被尼采逗死了：\n\n“十年了：而且在德国，没有人对此感到内疚，没有人来保卫我的名字，抵御那种把它埋没掉的荒唐的沉默。\r…\r人们背弃我已经16年了，不光是我的哲学中，而且在我的荣誉方面。\r…\n18年之久，完全没有理解我！我的“邻人”往往是我最遥远的人！——说“邻人”必定总是我最遥远的人，这属于我的诅咒吗？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要被尼采逗死了：\n\n“十年了：而且在德国，没有人对此感到内疚，没有人来保卫我的名字，抵御那种把它埋没掉的荒唐的沉默。\r…\r人们背弃我已经16年了，不光是我的哲学中，而且在我的荣誉方面。\r…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988789585422282752/DZ2pnXRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 928,
+          "like_count": 25999,
+          "listed_count": 7,
+          "media_count": 2327,
+          "tweet_count": 24968
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2069404614252986705",
+    "created_at": "2026-06-23T20:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T21:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069523235226407248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025829748904267777",
+          "start": 0,
+          "username": "iciiibal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069523235226407248",
+    "in_reply_to_user_id": "2025829748904267777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069404614252986705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iciiibal 因为这是…赌上宝宝族尊严的战斗啊！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069404607944794112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgAhtkbIAAuUK_.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2069404614252986705",
+        "created_at": "2026-06-23T20:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069523235226407248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025829748904267777",
+              "start": 0,
+              "username": "iciiibal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069523235226407248",
+        "in_reply_to_user_id": "2025829748904267777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069404614252986705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iciiibal 因为这是…赌上宝宝族尊严的战斗啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069404607944794112"
+          ]
+        },
+        "author_id": "2025829748904267777",
+        "conversation_id": "2069404614252986705",
+        "created_at": "2026-06-23T12:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069404614252986705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POUT3a2U5A",
+              "end": 58,
+              "expanded_url": "https://x.com/iciiibal/status/2069404614252986705/photo/1",
+              "media_key": "3_2069404607944794112",
+              "start": 35,
+              "url": "https://t.co/POUT3a2U5A"
+            },
+            {
+              "display_url": "x.com/iciiibal/statu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/iciiibal/status/2069236763068125470",
+              "start": 59,
+              "url": "https://t.co/miopflEYgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069404614252986705",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 878,
+          "impression_count": 440663,
+          "like_count": 13621,
+          "quote_count": 189,
+          "reply_count": 14,
+          "retweet_count": 5484
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069236763068125470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "고양이들은 진짜 뭘까\n인간한테 지면 명예라도 잃어버리는 것일까 https://t.co/POUT3a2U5A https://t.co/miopflEYgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069502738468069376/Idqh6aqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 633,
+          "like_count": 28095,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26842
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T07:07:15.000Z",
+        "description": "사이버 다이어리",
+        "id": "2025829748904267777",
+        "location": "멘션스루 고의 아닙니다",
+        "name": "98세 웅인생최후의끌어치기",
+        "pinned_tweet_id": "2069353193977610742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069245082763714560/7dSqXRFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 610,
+          "like_count": 21902,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 7836
+        },
+        "url": "",
+        "username": "iciiibal",
+        "verified": true
+      }
+    ]
+  }
+}

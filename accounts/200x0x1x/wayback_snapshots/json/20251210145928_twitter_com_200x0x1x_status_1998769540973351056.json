@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1998769540973351056",
+    "created_at": "2025-12-10T14:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T15:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998769540973351056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xsarnayyy/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xsarnayyy/status/1998403103679463483",
+          "start": 8,
+          "url": "https://t.co/St3pRW3UNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998769540973351056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998403103679463483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这太令人难过了 https://t.co/St3pRW3UNa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1998769540973351056",
+        "created_at": "2025-12-10T14:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998769540973351056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xsarnayyy/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xsarnayyy/status/1998403103679463483",
+              "start": 8,
+              "url": "https://t.co/St3pRW3UNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998769540973351056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998403103679463483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这太令人难过了 https://t.co/St3pRW3UNa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402630718870614020",
+        "conversation_id": "1998403103679463483",
+        "created_at": "2025-12-09T14:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998403103679463483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499709348616241155",
+              "start": 2,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998403103679463483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 25041,
+          "like_count": 70,
+          "quote_count": 30,
+          "reply_count": 53,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "讣告@caomeiweimaomao 于12月6日，去往猫猫的星球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998581802374500352/Y_6Q-h8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 934,
+          "like_count": 26287,
+          "listed_count": 8,
+          "media_count": 2339,
+          "tweet_count": 25144
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-09T14:16:46.000Z",
+        "description": "成分复杂/",
+        "id": "1402630718870614020",
+        "location": "8米",
+        "name": "星瑶",
+        "pinned_tweet_id": "1978385675402572282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830883450011697154/vteRgqZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 436,
+          "like_count": 10918,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 386
+        },
+        "username": "xsarnayyy",
+        "verified": false
+      }
+    ]
+  }
+}

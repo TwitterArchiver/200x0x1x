@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2062722296721146310",
+    "created_at": "2026-06-05T03:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062745698798391522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821934078779912193",
+          "start": 0,
+          "username": "Plato_X_Lim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062745698798391522",
+    "in_reply_to_user_id": "1821934078779912193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062738584000745708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plato_X_Lim 死了才算underground啊…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062738584000745708].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062738584000745708",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062738584000745708"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2062722296721146310",
+        "created_at": "2026-06-05T03:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062745698798391522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821934078779912193",
+              "start": 0,
+              "username": "Plato_X_Lim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062745698798391522",
+        "in_reply_to_user_id": "1821934078779912193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062738584000745708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plato_X_Lim 死了才算underground啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062005095089197057/J7qRqGdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 767,
+          "like_count": 27746,
+          "listed_count": 6,
+          "media_count": 2439,
+          "tweet_count": 26598
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T15:38:37.000Z",
+        "description": "良辰美景奈何天 赏心乐事谁家院",
+        "id": "1821934078779912193",
+        "name": "宝姐姐通今博古",
+        "pinned_tweet_id": "1938210543116140598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061504444643291136/Euu3l8_p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 32,
+          "like_count": 13758,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 4986
+        },
+        "username": "Plato_X_Lim",
+        "verified": false
+      }
+    ]
+  }
+}

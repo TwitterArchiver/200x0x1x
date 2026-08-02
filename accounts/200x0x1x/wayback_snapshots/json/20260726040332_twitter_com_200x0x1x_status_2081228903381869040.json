@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2081228903381869040",
+    "created_at": "2026-07-26T04:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081228903381869040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wwx67751673/st…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/wwx67751673/status/2081226013275742671",
+          "start": 93,
+          "url": "https://t.co/X5NpQvBtt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081228903381869040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081226013275742671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，其实谈尼采谈太多了有点疲。尼采的神学取向一方面可以去看墙上的书写，这里有他对基督教的态度。另一方面可以参考阿里阿德涅颂歌还有查拉图的魔术师，那里有对尼采设想的神-人关系的一些讨论。 https://t.co/X5NpQvBtt6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2081228903381869040",
+        "created_at": "2026-07-26T04:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081228903381869040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwx67751673/st…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/wwx67751673/status/2081226013275742671",
+              "start": 93,
+              "url": "https://t.co/X5NpQvBtt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081228903381869040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081226013275742671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，其实谈尼采谈太多了有点疲。尼采的神学取向一方面可以去看墙上的书写，这里有他对基督教的态度。另一方面可以参考阿里阿德涅颂歌还有查拉图的魔术师，那里有对尼采设想的神-人关系的一些讨论。 https://t.co/X5NpQvBtt6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343112727720460289",
+        "conversation_id": "2081216757310869519",
+        "created_at": "2026-07-26T03:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081226013275742671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081226013275742671",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081219534309171650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 我是感觉他的神应该是另一种类型哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081174842183913473/XrbQdDCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 679,
+          "like_count": 28757,
+          "listed_count": 7,
+          "media_count": 2498,
+          "tweet_count": 27649
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-27T08:33:31.000Z",
+        "description": "追求一个所有人都平静和谐的理想国，自己还在内部整修中。是个各个方面上的“半吊子”。\n\n(想象力恢复中)(INFP 测试题很好玩 可以看到一幅画上的一些小“点”)(升华欲望)(原始人)(背景是住院时拍的)(建议大家少吃知识罐头)",
+        "id": "1343112727720460289",
+        "location": "梦境与现实之间",
+        "name": "luv(sic)pt wwx",
+        "pinned_tweet_id": "1763012714610446659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443855809281028104/447Qn3iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 671,
+          "like_count": 154038,
+          "listed_count": 10,
+          "media_count": 982,
+          "tweet_count": 35369
+        },
+        "url": "",
+        "username": "wwx67751673",
+        "verified": false
+      }
+    ]
+  }
+}

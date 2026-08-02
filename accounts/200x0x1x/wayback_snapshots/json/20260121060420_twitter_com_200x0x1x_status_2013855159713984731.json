@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2013844454042402943",
+    "created_at": "2026-01-21T06:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T07:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013855159713984731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013855159713984731",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013844458740035811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 如今宝宝部落已经成为生物多样性、生态正确的一部分，宝左把我们人类害惨了！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2013844454042402943",
+        "created_at": "2026-01-21T06:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013855159713984731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013855159713984731",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013844458740035811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 如今宝宝部落已经成为生物多样性、生态正确的一部分，宝左把我们人类害惨了！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2013844454042402943",
+        "created_at": "2026-01-21T05:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013844458740035811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013844458740035811",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013844454042402943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寶寶族提醒人類的不僅僅是人類的意識，而是人類的潛意識——不僅是童年，也是史前史。”\n\n寶寶先知預言，人類文化將把融合頌為其最偉大的道德勝利，並鼓勵人類“走向寶寶”，作為融合成功的證明。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013121169814065153/eIc7KTjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 941,
+          "like_count": 26537,
+          "listed_count": 6,
+          "media_count": 2361,
+          "tweet_count": 25425
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.",
+        "id": "1516581658115272708",
+        "location": "Schelling Time",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913146074610765824/MxSqanhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 1213,
+          "like_count": 26519,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1236
+        },
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

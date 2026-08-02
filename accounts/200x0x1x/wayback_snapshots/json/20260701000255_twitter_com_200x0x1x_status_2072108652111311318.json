@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2071975963639099566",
+    "created_at": "2026-07-01T00:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072108652111311318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1388202412977147904",
+          "start": 0,
+          "username": "Ai_Auroveil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072108652111311318",
+    "in_reply_to_user_id": "1388202412977147904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072107629329985554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_Auroveil 这一套下来得多少钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2072107622640078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGa53_XUAAUGU9.jpg",
+        "width": 600
+      },
+      {
+        "height": 580,
+        "media_key": "3_2072107622648397824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGa54BWQAAIuE9.jpg",
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2072107622677860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGa54IX0AAsh_x.jpg",
+        "width": 903
+      },
+      {
+        "height": 332,
+        "media_key": "3_2072107622665244672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGa54FXUAAzlvs.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2071975963639099566",
+        "created_at": "2026-07-01T00:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072108652111311318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1388202412977147904",
+              "start": 0,
+              "username": "Ai_Auroveil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072108652111311318",
+        "in_reply_to_user_id": "1388202412977147904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072107629329985554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_Auroveil 这一套下来得多少钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072107622640078848",
+            "3_2072107622648397824",
+            "3_2072107622677860352",
+            "3_2072107622665244672"
+          ]
+        },
+        "author_id": "1388202412977147904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071975963639099566",
+        "created_at": "2026-06-30T23:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072107629329985554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0hPUXp6tD",
+              "end": 78,
+              "expanded_url": "https://x.com/Ai_Auroveil/status/2072107629329985554/photo/1",
+              "media_key": "3_2072107622640078848",
+              "start": 55,
+              "url": "https://t.co/v0hPUXp6tD"
+            },
+            {
+              "display_url": "pic.x.com/v0hPUXp6tD",
+              "end": 78,
+              "expanded_url": "https://x.com/Ai_Auroveil/status/2072107629329985554/photo/1",
+              "media_key": "3_2072107622648397824",
+              "start": 55,
+              "url": "https://t.co/v0hPUXp6tD"
+            },
+            {
+              "display_url": "pic.x.com/v0hPUXp6tD",
+              "end": 78,
+              "expanded_url": "https://x.com/Ai_Auroveil/status/2072107629329985554/photo/1",
+              "media_key": "3_2072107622677860352",
+              "start": 55,
+              "url": "https://t.co/v0hPUXp6tD"
+            },
+            {
+              "display_url": "pic.x.com/v0hPUXp6tD",
+              "end": 78,
+              "expanded_url": "https://x.com/Ai_Auroveil/status/2072107629329985554/photo/1",
+              "media_key": "3_2072107622665244672",
+              "start": 55,
+              "url": "https://t.co/v0hPUXp6tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072107629329985554",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071975963639099566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 我这个人很实诚\n不会要什么过分的彩礼\n\n结婚了请给我这个，这个，这个和这个就好了 ☝️🤓 https://t.co/v0hPUXp6tD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "susuangelbaby⁺✧ ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 640,
+          "like_count": 28099,
+          "listed_count": 6,
+          "media_count": 2452,
+          "tweet_count": 26922
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T18:43:56.000Z",
+        "description": "Exploring all sorts of art before creating my own (CN/EN/DE)",
+        "id": "1388202412977147904",
+        "name": "Auroveil",
+        "pinned_tweet_id": "2046638262899331379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962190135371448320/3MVdTr0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 526,
+          "like_count": 26615,
+          "listed_count": 1,
+          "media_count": 2036,
+          "tweet_count": 7670
+        },
+        "url": "",
+        "username": "Ai_Auroveil",
+        "verified": true
+      }
+    ]
+  }
+}

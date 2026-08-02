@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1999207995964629361",
+    "created_at": "2025-12-11T20:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T21:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999213983493161309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422249668960919592",
+          "start": 0,
+          "username": "whitesaucep9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999213983493161309",
+    "in_reply_to_user_id": "1422249668960919592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999207995964629361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitesaucep9968 这素什么电影"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1999207995964629361",
+        "created_at": "2025-12-11T20:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T21:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999213983493161309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422249668960919592",
+              "start": 0,
+              "username": "whitesaucep9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999213983493161309",
+        "in_reply_to_user_id": "1422249668960919592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999207995964629361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitesaucep9968 这素什么电影"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422249668960919592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1999207995964629361",
+        "created_at": "2025-12-11T20:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T21:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999207995964629361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999207995964629361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来我无聊就喜欢去电影院看电影但众所周知能在中国影院上的没啥正经玩意，嗯，然后我带着我弟和我弟的弟随便选了一个电影，选到了一个缺爱原生家庭精神病日本留学生二次元文化地雷女cult片大电影，真的好尴尬他俩都是未成年，我寻思这尺度居然能上，不过我觉得这电影有点意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998581802374500352/Y_6Q-h8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 936,
+          "like_count": 26298,
+          "listed_count": 8,
+          "media_count": 2339,
+          "tweet_count": 25153
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "8213 Lily st. Eritage Lake Los Cielos BE 62106",
+        "id": "1422249668960919592",
+        "location": "Los Cielos,BE",
+        "name": "souvenir",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997744449024356352/6mEQ7cL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 3053,
+          "like_count": 40805,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 20797
+        },
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

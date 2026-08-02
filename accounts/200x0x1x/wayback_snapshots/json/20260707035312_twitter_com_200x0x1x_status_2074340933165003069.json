@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074282515091865660",
+    "created_at": "2026-07-07T03:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074340933165003069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787445981375844352",
+          "start": 0,
+          "username": "doubaoa115465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074340933165003069",
+    "in_reply_to_user_id": "1787445981375844352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074282515091865660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doubaoa115465 爸呀大哥你没事吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074282515091865660",
+        "created_at": "2026-07-07T03:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074340933165003069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787445981375844352",
+              "start": 0,
+              "username": "doubaoa115465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074340933165003069",
+        "in_reply_to_user_id": "1787445981375844352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074282515091865660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doubaoa115465 爸呀大哥你没事吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787445981375844352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2074282515091865660",
+        "created_at": "2026-07-07T00:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074282515091865660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074282515091865660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哲学就是独裁者的学问\n因为它拒绝庸俗化\n实质上就是垄断释经权\n真正伟大的思想并不害怕庸俗化\n没有数学和物理学的庸俗化\n就不会有现代科技"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 629,
+          "like_count": 28257,
+          "listed_count": 6,
+          "media_count": 2457,
+          "tweet_count": 27054
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-06T11:35:23.000Z",
+        "description": "",
+        "id": "1787445981375844352",
+        "location": "mom's basement",
+        "name": "ErrorNeko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050450568762859521/BTPoGw_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 178,
+          "like_count": 8800,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "doubaoa115465",
+        "verified": false
+      }
+    ]
+  }
+}

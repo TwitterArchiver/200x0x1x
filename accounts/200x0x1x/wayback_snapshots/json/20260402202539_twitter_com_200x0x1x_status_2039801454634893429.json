@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2039796237801808319",
+    "created_at": "2026-04-02T20:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T21:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039801454634893429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039801454634893429",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039796237801808319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 獠牙尖尖脸黑黑 这是个纯正的宝宝血统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2039796237801808319",
+        "created_at": "2026-04-02T20:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T21:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039801454634893429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039801454634893429",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039796237801808319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 獠牙尖尖脸黑黑 这是个纯正的宝宝血统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2039796237801808319",
+        "created_at": "2026-04-02T20:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T21:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039796237801808319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/joyfullcat/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/joyfullcat/status/2039725238053896481",
+              "start": 9,
+              "url": "https://t.co/GxmYFkV2cU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039796237801808319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039725238053896481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极黑的宝伦希尔德 https://t.co/GxmYFkV2cU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038736188706623488/nEtFKiOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1007,
+          "like_count": 27262,
+          "listed_count": 6,
+          "media_count": 2397,
+          "tweet_count": 26010
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.",
+        "id": "1516581658115272708",
+        "location": "b/acc @ BCRU",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039036756750893056/MUjhfUij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1439,
+          "like_count": 28606,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1386
+        },
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

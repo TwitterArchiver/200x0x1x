@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2045206794369437827",
+    "created_at": "2026-04-17T20:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045233060765966797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1522945124346601474",
+          "start": 0,
+          "username": "KunaAkem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045233060765966797",
+    "in_reply_to_user_id": "1522945124346601474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045206794369437827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KunaAkem1 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28544,
+        "height": 1280,
+        "media_key": "7_2045206643953336320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045206643953336320/pu/img/1xCxs4LXUrkQM_U7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045206643953336320/pu/vid/avc1/320x568/oeA7QQPLMTEFeFeK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045206643953336320/pu/vid/avc1/480x852/mb7ZpQ4qAQQiMPDF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045206643953336320/pu/vid/avc1/720x1280/si0EmWdyWyrDV3f0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045206643953336320/pu/pl/d5xGKF4qVZIuXF_v.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2045206794369437827",
+        "created_at": "2026-04-17T20:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045233060765966797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522945124346601474",
+              "start": 0,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045233060765966797",
+        "in_reply_to_user_id": "1522945124346601474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045206794369437827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KunaAkem1 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045206643953336320"
+          ]
+        },
+        "author_id": "1522945124346601474",
+        "conversation_id": "2045206794369437827",
+        "created_at": "2026-04-17T18:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045206794369437827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jA9VjhbrI3",
+              "end": 31,
+              "expanded_url": "https://x.com/KunaAkem1/status/2045206794369437827/video/1",
+              "media_key": "7_2045206643953336320",
+              "start": 8,
+              "url": "https://t.co/jA9VjhbrI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045206794369437827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基米这个呼噜 https://t.co/jA9VjhbrI3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1011,
+          "like_count": 27357,
+          "listed_count": 6,
+          "media_count": 2402,
+          "tweet_count": 26134
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚，音游，文明六",
+        "id": "1522945124346601474",
+        "location": "Aachen, Germany",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978949784867123200/e6evBQw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 424,
+          "like_count": 8177,
+          "listed_count": 4,
+          "media_count": 879,
+          "tweet_count": 5414
+        },
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

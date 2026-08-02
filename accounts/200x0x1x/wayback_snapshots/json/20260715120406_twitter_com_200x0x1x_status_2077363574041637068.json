@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2077363574041637068",
+    "created_at": "2026-07-15T12:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077363574041637068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/200x0x1x/status/2076956060938797298",
+          "start": 18,
+          "url": "https://t.co/OubavMSitN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077363574041637068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076956060938797298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的撸管感言荣获五百人点赞这是咋了 https://t.co/OubavMSitN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077363574041637068",
+        "created_at": "2026-07-15T12:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077363574041637068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2076956060938797298",
+              "start": 18,
+              "url": "https://t.co/OubavMSitN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077363574041637068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076956060938797298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的撸管感言荣获五百人点赞这是咋了 https://t.co/OubavMSitN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2076956060938797298",
+        "created_at": "2026-07-14T09:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076956060938797298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076956060938797298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 42671,
+          "like_count": 512,
+          "quote_count": 4,
+          "reply_count": 37,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "每次高潮之后继续自慰下去然后爽得发抖的时候，我的精神病就得到了一定程度的缓解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 672,
+          "like_count": 28554,
+          "listed_count": 6,
+          "media_count": 2470,
+          "tweet_count": 27298
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2024063694817087950",
+    "created_at": "2026-02-18T18:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T19:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024191272496357671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1727225403385749504",
+          "start": 0,
+          "username": "Polukhanek"
+        },
+        {
+          "end": 26,
+          "id": "1699268392128258048",
+          "start": 12,
+          "username": "lanlanlan1112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024191272496357671",
+    "in_reply_to_user_id": "1727225403385749504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024108832918511945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Polukhanek @lanlanlan1112 笑死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2024108832918511945].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2024108832918511945",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2024108832918511945"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2024063694817087950",
+        "created_at": "2026-02-18T18:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T19:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024191272496357671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1727225403385749504",
+              "start": 0,
+              "username": "Polukhanek"
+            },
+            {
+              "end": 26,
+              "id": "1699268392128258048",
+              "start": 12,
+              "username": "lanlanlan1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024191272496357671",
+        "in_reply_to_user_id": "1727225403385749504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024108832918511945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Polukhanek @lanlanlan1112 笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023974528406241280/tuscweRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 963,
+          "like_count": 26849,
+          "listed_count": 6,
+          "media_count": 2389,
+          "tweet_count": 25709
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-22T07:20:14.000Z",
+        "description": "疾病和痛苦在他看来是不重要的，非本质的。病痛在落掉，就像森林中被遗忘的枯枝上树皮自动落掉一样。他看见了蓝色的、深不见底的无数个世纪的烟尘，看见了无数个千年的走廊。他没有感觉到害怕，而是感到了一种明智的顺从和景仰之情。",
+        "id": "1727225403385749504",
+        "location": "昔班尼大汗的夏牧场",
+        "name": "𐱅𐰏𐰃𐰣 𐰉𐰏",
+        "pinned_tweet_id": "1916480150545351163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974017981861801984/D8LvQhmB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 566,
+          "like_count": 55060,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 3897
+        },
+        "username": "Polukhanek",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T03:49:06.000Z",
+        "description": "嘻嘻",
+        "id": "1699268392128258048",
+        "location": "👁",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019467401142931456/Hya2REOH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 467,
+          "like_count": 25988,
+          "listed_count": 1,
+          "media_count": 684,
+          "tweet_count": 12192
+        },
+        "username": "lanlanlan1112",
+        "verified": false
+      }
+    ]
+  }
+}

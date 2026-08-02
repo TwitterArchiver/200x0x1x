@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2062948102084968593",
+    "created_at": "2026-06-05T17:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062948102084968593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062948102084968593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "文青总是说害怕跌落进平庸日常，因为他们认为自己还有一种柴米油盐的生活可以回去，而我早已陷入一种更低维度的现实，想要过日子生活都几乎举步维艰。就好比说，地板上散落的灰尘就和宇宙里那些黯淡的暗红色星体一样，它们就滞留在现实的基线上，或者说保持着最低程度的现实性，这都是一些没有办法去把握和计数的东西，我和这些混沌事物保持着同调。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "文青总是说害怕跌落进平庸日常，因为他们认为自己还有一种柴米油盐的生活可以回去，而我早已陷入一种更低维度的现实，想要过日子生活都几乎举步维艰。就好比说，地板上散落的灰尘就和宇宙里那些黯淡的暗红色星体一样，它们就滞留在现实的基线上，或者说保持着最低程度的现实性，这都是一些没有办法去把"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2062948102084968593",
+        "created_at": "2026-06-05T17:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062948102084968593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062948102084968593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "文青总是说害怕跌落进平庸日常，因为他们认为自己还有一种柴米油盐的生活可以回去，而我早已陷入一种更低维度的现实，想要过日子生活都几乎举步维艰。就好比说，地板上散落的灰尘就和宇宙里那些黯淡的暗红色星体一样，它们就滞留在现实的基线上，或者说保持着最低程度的现实性，这都是一些没有办法去把握和计数的东西，我和这些混沌事物保持着同调。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文青总是说害怕跌落进平庸日常，因为他们认为自己还有一种柴米油盐的生活可以回去，而我早已陷入一种更低维度的现实，想要过日子生活都几乎举步维艰。就好比说，地板上散落的灰尘就和宇宙里那些黯淡的暗红色星体一样，它们就滞留在现实的基线上，或者说保持着最低程度的现实性，这都是一些没有办法去把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062005095089197057/J7qRqGdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 766,
+          "like_count": 27754,
+          "listed_count": 6,
+          "media_count": 2439,
+          "tweet_count": 26611
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

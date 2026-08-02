@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1989122317721501895",
+    "created_at": "2025-11-14T19:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T20:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989410580890095773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989410580890095773",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989335001767547206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming 我怀疑你只看到了性行为"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1989334991822827522",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5uJopbasAIUdI0.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5uJopbasAIUdI0.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1989122317721501895",
+        "created_at": "2025-11-14T19:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T20:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989410580890095773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989410580890095773",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989335001767547206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming 我怀疑你只看到了性行为"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1989334991822827522"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "1989122317721501895",
+        "created_at": "2025-11-14T14:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989335001767547206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvZhxf72ww",
+              "end": 41,
+              "expanded_url": "https://x.com/kyouka_charming/status/1989335001767547206/photo/1",
+              "media_key": "16_1989334991822827522",
+              "start": 18,
+              "url": "https://t.co/nvZhxf72ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989335001767547206",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989122317721501895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 处女在说什么呢 https://t.co/nvZhxf72ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988789585422282752/DZ2pnXRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 930,
+          "like_count": 26024,
+          "listed_count": 7,
+          "media_count": 2328,
+          "tweet_count": 24985
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "物知らずの悪役令嬢です、日本語/華语OK。元日本高校生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GS6Tu"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "紅月の元",
+        "name": "悪役令嬢は紅蓮の中へ",
+        "pinned_tweet_id": "1897988161843945674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989327995287506944/IIRn3YKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 1167,
+          "like_count": 9866,
+          "listed_count": 1,
+          "media_count": 878,
+          "tweet_count": 7806
+        },
+        "url": "https://t.co/RiMq5GS6Tu",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

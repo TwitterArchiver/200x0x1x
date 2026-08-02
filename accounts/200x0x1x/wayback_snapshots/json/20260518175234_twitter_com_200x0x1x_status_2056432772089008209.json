@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2056405610078568799",
+    "created_at": "2026-05-18T17:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056432772089008209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464972220447424521",
+          "start": 0,
+          "username": "NotYourGwabbie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056432772089008209",
+    "in_reply_to_user_id": "1464972220447424521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056405610078568799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NotYourGwabbie 😿😿😿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056405610078568799].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056405610078568799",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056405610078568799"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2056405610078568799",
+        "created_at": "2026-05-18T17:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056432772089008209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464972220447424521",
+              "start": 0,
+              "username": "NotYourGwabbie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056432772089008209",
+        "in_reply_to_user_id": "1464972220447424521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056405610078568799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotYourGwabbie 😿😿😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055319041426718720/N4ZZsuJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 1066,
+          "like_count": 27491,
+          "listed_count": 6,
+          "media_count": 2420,
+          "tweet_count": 26371
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T14:59:50.000Z",
+        "description": "",
+        "id": "1464972220447424521",
+        "name": "掛壁ながこ",
+        "pinned_tweet_id": "1621169324387106816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874528864527130624/QBJdoNuE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 527,
+          "like_count": 53527,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 10259
+        },
+        "username": "NotYourGwabbie",
+        "verified": false
+      }
+    ]
+  }
+}

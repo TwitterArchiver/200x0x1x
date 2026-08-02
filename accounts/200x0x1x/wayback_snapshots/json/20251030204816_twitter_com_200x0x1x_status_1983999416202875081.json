@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1983999416202875081",
+    "created_at": "2025-10-30T20:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T21:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983999416202875081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/partialblessin…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/partialblessing/status/1983997372607975460",
+          "start": 79,
+          "url": "https://t.co/5oc9vMzVi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983999416202875081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983997372607975460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "酥酥你是一个npd，bpd，反动派知识分子，加速潮酷，另类右，另类左，进步小药娘，pua操纵狂，pua受害者，地雷女，白莲花，宅圈公主，网斗魔怔人，装姬直女 https://t.co/5oc9vMzVi8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1983999416202875081",
+        "created_at": "2025-10-30T20:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T21:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983999416202875081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/partialblessin…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/partialblessing/status/1983997372607975460",
+              "start": 79,
+              "url": "https://t.co/5oc9vMzVi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983999416202875081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983997372607975460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酥酥你是一个npd，bpd，反动派知识分子，加速潮酷，另类右，另类左，进步小药娘，pua操纵狂，pua受害者，地雷女，白莲花，宅圈公主，网斗魔怔人，装姬直女 https://t.co/5oc9vMzVi8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "1983997372607975460",
+        "created_at": "2025-10-30T20:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T21:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983997372607975460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/200x0x1x/status/1983922060758835532",
+              "start": 37,
+              "url": "https://t.co/e0uF85dPuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983997372607975460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983922060758835532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "npd帽子，蓝色品质，五金一件，数量有限，先到先得，欲购从速，假一赔十！ https://t.co/e0uF85dPuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "200x0x1x",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 917,
+          "like_count": 25774,
+          "listed_count": 7,
+          "media_count": 2311,
+          "tweet_count": 24817
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/partial_blessi…",
+                "end": 23,
+                "expanded_url": "http://t.me/partial_blessing",
+                "start": 0,
+                "url": "https://t.co/3VKLNQpHar"
+              }
+            ]
+          }
+        },
+        "id": "1516581658115272708",
+        "location": "Schelling Time",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913146074610765824/MxSqanhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 1068,
+          "like_count": 23199,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/3VKLNQpHar",
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

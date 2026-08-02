@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2048492710202642466",
+    "created_at": "2026-04-26T20:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T21:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048502175018455435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516995295787495424",
+          "start": 0,
+          "username": "HojLAabqpoB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048502175018455435",
+    "in_reply_to_user_id": "1516995295787495424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048492710202642466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HojLAabqpoB 最后一句话我也经常说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2048492710202642466",
+        "created_at": "2026-04-26T20:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T21:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048502175018455435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516995295787495424",
+              "start": 0,
+              "username": "HojLAabqpoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048502175018455435",
+        "in_reply_to_user_id": "1516995295787495424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048492710202642466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HojLAabqpoB 最后一句话我也经常说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516995295787495424",
+        "conversation_id": "2048492710202642466",
+        "created_at": "2026-04-26T20:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T21:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048492710202642466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048492710202642466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不习惯把事情交给其他人来做，如果他没做好我不能责怪他而我自己没做好可以心安理得地责怪我自己。我的一生感觉都奔忙在努力地学习一切与为别人善后中，而那些无病呻吟的人坐享其成。社会中都是这样无病呻吟的人。把罪咎都揽括在自己身上不就好了。所有的一切无法掌控都源于我的能力不足。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047548762210328576/3TheJ9Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 1025,
+          "like_count": 27532,
+          "listed_count": 6,
+          "media_count": 2404,
+          "tweet_count": 26190
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T04:20:51.000Z",
+        "description": "永遠祈禱你們幸福的每一天！！",
+        "id": "1516995295787495424",
+        "location": "シリウス",
+        "name": "Z=Z`²+R",
+        "pinned_tweet_id": "2027325952947364278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993021369035247617/PdU_G6Bk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 406,
+          "like_count": 12345,
+          "listed_count": 6,
+          "media_count": 513,
+          "tweet_count": 4851
+        },
+        "username": "HojLAabqpoB",
+        "verified": false
+      }
+    ]
+  }
+}

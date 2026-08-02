@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1987654611155521658",
+    "created_at": "2025-11-09T22:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T23:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987654611155521658"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987654611155521658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为什么说咱喵们是超级拟真的女性，其实就和色情片之于真实性爱的差别一样。在情色镜头中有关性的一切秘密都必须被一览无余地展示，进入光天化日之下，而这在无限的透明性和对真实的过度中曝光中取消了真实性。象征女性气质的性别符号的累积作为一种“过量的真实”，毋宁说本身就是对女性气质的谋杀。女性气质就是这样一种越操演就越显得虚幻的东西。性别操演的技术与其说是表演和呈现，不如说是对表演的拒绝，它是遮蔽并通过这层遮蔽制造出虚幻的深度。人必须显得仿佛拥有一个本质，而本质正是表象的表象，一道被播撒的踪迹，被血肉包裹的空无。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么说咱喵们是超级拟真的女性，其实就和色情片之于真实性爱的差别一样。在情色镜头中有关性的一切秘密都必须被一览无余地展示，进入光天化日之下，而这在无限的透明性和对真实的过度中曝光中取消了真实性。象征女性气质的性别符号的累积作为一种“过量的真实”，毋宁说本身就是对女性气质的谋杀。女性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1987654611155521658",
+        "created_at": "2025-11-09T22:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T23:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987654611155521658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987654611155521658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么说咱喵们是超级拟真的女性，其实就和色情片之于真实性爱的差别一样。在情色镜头中有关性的一切秘密都必须被一览无余地展示，进入光天化日之下，而这在无限的透明性和对真实的过度中曝光中取消了真实性。象征女性气质的性别符号的累积作为一种“过量的真实”，毋宁说本身就是对女性气质的谋杀。女性气质就是这样一种越操演就越显得虚幻的东西。性别操演的技术与其说是表演和呈现，不如说是对表演的拒绝，它是遮蔽并通过这层遮蔽制造出虚幻的深度。人必须显得仿佛拥有一个本质，而本质正是表象的表象，一道被播撒的踪迹，被血肉包裹的空无。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么说咱喵们是超级拟真的女性，其实就和色情片之于真实性爱的差别一样。在情色镜头中有关性的一切秘密都必须被一览无余地展示，进入光天化日之下，而这在无限的透明性和对真实的过度中曝光中取消了真实性。象征女性气质的性别符号的累积作为一种“过量的真实”，毋宁说本身就是对女性气质的谋杀。女性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986934380900601856/EYNFXoNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 924,
+          "like_count": 25932,
+          "listed_count": 7,
+          "media_count": 2325,
+          "tweet_count": 24928
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

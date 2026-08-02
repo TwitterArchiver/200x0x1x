@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064904699950628864"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2064904702517461495",
+    "created_at": "2026-06-11T02:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064904702517461495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2wQ3umT1Iw",
+          "end": 28,
+          "expanded_url": "https://x.com/200x0x1x/status/2064904702517461495/photo/1",
+          "media_key": "3_2064904699950628864",
+          "start": 5,
+          "url": "https://t.co/2wQ3umT1Iw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064904702517461495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那还用说 https://t.co/2wQ3umT1Iw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2064904699950628864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgD4l-XgAArw5b.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064904699950628864"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2064904702517461495",
+        "created_at": "2026-06-11T02:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064904702517461495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wQ3umT1Iw",
+              "end": 28,
+              "expanded_url": "https://x.com/200x0x1x/status/2064904702517461495/photo/1",
+              "media_key": "3_2064904699950628864",
+              "start": 5,
+              "url": "https://t.co/2wQ3umT1Iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064904702517461495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那还用说 https://t.co/2wQ3umT1Iw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064180709225271296/gSORuUiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 764,
+          "like_count": 27858,
+          "listed_count": 6,
+          "media_count": 2444,
+          "tweet_count": 26691
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

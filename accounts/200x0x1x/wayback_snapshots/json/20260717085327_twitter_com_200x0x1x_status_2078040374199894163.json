@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2078033662638190810",
+    "created_at": "2026-07-17T08:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078040374199894163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193674138",
+          "start": 0,
+          "username": "jarjonab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078040374199894163",
+    "in_reply_to_user_id": "193674138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078036817581126093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jarjonab 好o 佐匹克隆什么的太苦了第二天还反味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078033662638190810",
+        "created_at": "2026-07-17T08:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078040374199894163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193674138",
+              "start": 0,
+              "username": "jarjonab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078040374199894163",
+        "in_reply_to_user_id": "193674138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078036817581126093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jarjonab 好o 佐匹克隆什么的太苦了第二天还反味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193674138",
+        "conversation_id": "2078033662638190810",
+        "created_at": "2026-07-17T08:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078036817581126093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078036817581126093",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078033662638190810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 思诺思好o吗 一直在o右佐匹克隆ㅠㅠ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 675,
+          "like_count": 28633,
+          "listed_count": 6,
+          "media_count": 2470,
+          "tweet_count": 27363
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T12:28:48.000Z",
+        "description": "只喜欢Dom",
+        "id": "193674138",
+        "name": "6sp",
+        "pinned_tweet_id": "2078023295841325567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072609104674295808/nQw-aN01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "jarjonab",
+        "verified": false
+      }
+    ]
+  }
+}

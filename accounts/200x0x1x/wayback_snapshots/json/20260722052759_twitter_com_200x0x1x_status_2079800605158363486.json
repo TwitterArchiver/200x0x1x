@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2079784841051324451",
+    "created_at": "2026-07-22T05:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079800605158363486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2072674101001625600",
+          "start": 0,
+          "username": "iyuGooMua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079800605158363486",
+    "in_reply_to_user_id": "2072674101001625600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079798905613754856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iyuGooMua 可引用的证据太多了，且不说到灯塔去这种代表性作品，你还可以去参考伍尔夫传记，你想了解我可以给你展开讲解。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2079784841051324451",
+        "created_at": "2026-07-22T05:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079800605158363486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2072674101001625600",
+              "start": 0,
+              "username": "iyuGooMua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079800605158363486",
+        "in_reply_to_user_id": "2072674101001625600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079798905613754856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iyuGooMua 可引用的证据太多了，且不说到灯塔去这种代表性作品，你还可以去参考伍尔夫传记，你想了解我可以给你展开讲解。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072674101001625600",
+        "conversation_id": "2079784841051324451",
+        "created_at": "2026-07-22T05:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079798905613754856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079798905613754856",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079784841051324451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x ？你咋看出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 678,
+          "like_count": 28787,
+          "listed_count": 7,
+          "media_count": 2493,
+          "tweet_count": 27556
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-02T13:31:00.000Z",
+        "description": "在这里坠落，然后漂浮",
+        "id": "2072674101001625600",
+        "name": "IyuGoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079270251867615232/9a3nN6kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 48,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "iyuGooMua",
+        "verified": false
+      }
+    ]
+  }
+}

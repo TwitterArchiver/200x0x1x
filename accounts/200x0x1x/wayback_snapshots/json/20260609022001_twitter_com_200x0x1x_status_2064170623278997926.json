@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2064140691803091159",
+    "created_at": "2026-06-09T02:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064170623278997926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1226189807547584512",
+          "start": 0,
+          "username": "mumu24432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064170623278997926",
+    "in_reply_to_user_id": "1226189807547584512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064140691803091159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mumu24432 这桥我认得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2064140691803091159",
+        "created_at": "2026-06-09T02:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064170623278997926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226189807547584512",
+              "start": 0,
+              "username": "mumu24432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064170623278997926",
+        "in_reply_to_user_id": "1226189807547584512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064140691803091159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mumu24432 这桥我认得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226189807547584512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "775798332102811649",
+              "name": "Kai Havertz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "775798332102811649",
+              "name": "Kai Havertz"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "775798332102811649",
+              "name": "Kai Havertz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2064140691803091159",
+        "created_at": "2026-06-09T00:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064140691803091159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/athletevanity/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/athletevanity/status/2064051513769545761",
+              "start": 39,
+              "url": "https://t.co/aPCLAg4iMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064140691803091159",
+        "lang": "lv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064051513769545761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Kai, not vans slip on checkered Kai😭😭😭 https://t.co/aPCLAg4iMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063477529978028032/FCGFfbXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 762,
+          "like_count": 27837,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26666
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-08T17:03:38.000Z",
+        "description": "mediocrity",
+        "id": "1226189807547584512",
+        "location": "Paris, TX",
+        "name": "eggnooog",
+        "pinned_tweet_id": "1867115230008053855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854539721822830592/-ptZ74pr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 319,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 942
+        },
+        "username": "mumu24432",
+        "verified": false
+      }
+    ]
+  }
+}

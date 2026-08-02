@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2060065189291065716",
+    "created_at": "2026-05-30T01:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060532819273617662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464972220447424521",
+          "start": 0,
+          "username": "NotYourGwabbie"
+        },
+        {
+          "end": 26,
+          "id": "1551716556857810944",
+          "start": 16,
+          "username": "PalomoLim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060532819273617662",
+    "in_reply_to_user_id": "1464972220447424521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060531808215916664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NotYourGwabbie @PalomoLim 你激进不"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060531808215916664].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060531808215916664",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060531808215916664"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2060065189291065716",
+        "created_at": "2026-05-30T01:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060532819273617662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464972220447424521",
+              "start": 0,
+              "username": "NotYourGwabbie"
+            },
+            {
+              "end": 26,
+              "id": "1551716556857810944",
+              "start": 16,
+              "username": "PalomoLim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060532819273617662",
+        "in_reply_to_user_id": "1464972220447424521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060531808215916664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotYourGwabbie @PalomoLim 你激进不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059059852052213760/WE9r4TCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 760,
+          "like_count": 27658,
+          "listed_count": 6,
+          "media_count": 2431,
+          "tweet_count": 26513
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T14:59:50.000Z",
+        "description": "",
+        "id": "1464972220447424521",
+        "name": "掛壁ながこ",
+        "pinned_tweet_id": "1621169324387106816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874528864527130624/QBJdoNuE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 538,
+          "like_count": 54701,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 10658
+        },
+        "username": "NotYourGwabbie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T23:50:42.000Z",
+        "description": "亡灵坐在树底下叹息，想要与亡灵相处的话不妨与我通灵 ｜ 一个人精通一切而不认识祢，是不幸的，相反，不知道一切而能认识祢是有福的 ｜天才大猫小猫咪@119calling_ 😼 @nekodoby_ | 公台，今日之事如何呀 @chengong777 | 超级远房亲戚铃小鸟  @paradoxrin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "119calling_"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "chengong777"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "paradoxrin"
+              }
+            ]
+          }
+        },
+        "id": "1551716556857810944",
+        "location": "Je pense,donc je suis",
+        "name": "灰姑娘",
+        "pinned_tweet_id": "2029951239061131710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987172366062133250/vBjhRPey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 481,
+          "like_count": 48351,
+          "listed_count": 5,
+          "media_count": 955,
+          "tweet_count": 8317
+        },
+        "username": "PalomoLim",
+        "verified": false
+      }
+    ]
+  }
+}

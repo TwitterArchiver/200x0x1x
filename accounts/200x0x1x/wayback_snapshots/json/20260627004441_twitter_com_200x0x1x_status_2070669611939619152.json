@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2070669611939619152",
+    "created_at": "2026-06-27T00:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T01:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070669611939619152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070669611939619152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不能骂顺直呀，顺直就被骂的小脑袋特别晕，然后呢，顺直就会生气呀，然后顺直就是特别委屈呀。你不能这样对顺直呀，要好好和他说话呀，你也要夸他乖乖的呀，要给他喂好吃的呀，欺负他的话，他会哭的，会不开心的呀。你欺负一只顺直是什么意思，他会内耗反思自己做得不够好呀，为什么这样对我的心肝宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2070669611939619152",
+        "created_at": "2026-06-27T00:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T01:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070669611939619152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070669611939619152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不能骂顺直呀，顺直就被骂的小脑袋特别晕，然后呢，顺直就会生气呀，然后顺直就是特别委屈呀。你不能这样对顺直呀，要好好和他说话呀，你也要夸他乖乖的呀，要给他喂好吃的呀，欺负他的话，他会哭的，会不开心的呀。你欺负一只顺直是什么意思，他会内耗反思自己做得不够好呀，为什么这样对我的心肝宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069502738468069376/Idqh6aqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 630,
+          "like_count": 28022,
+          "listed_count": 6,
+          "media_count": 2449,
+          "tweet_count": 26863
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

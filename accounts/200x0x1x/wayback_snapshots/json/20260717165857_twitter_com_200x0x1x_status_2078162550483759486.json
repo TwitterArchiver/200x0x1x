@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2078162550483759486",
+    "created_at": "2026-07-17T16:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078162550483759486"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078162550483759486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈那股劲上来了，我感觉我脑子里就有什么地方不对劲，导致我一直歇斯底里地哭而且停不下来，然后我特别绝望不论思考什么结论都是我没有出路我很糟糕，但是哭过劲了我忽然就平静了，然后我又能保持幽默心态了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078162550483759486",
+        "created_at": "2026-07-17T16:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078162550483759486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078162550483759486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈那股劲上来了，我感觉我脑子里就有什么地方不对劲，导致我一直歇斯底里地哭而且停不下来，然后我特别绝望不论思考什么结论都是我没有出路我很糟糕，但是哭过劲了我忽然就平静了，然后我又能保持幽默心态了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 675,
+          "like_count": 28670,
+          "listed_count": 7,
+          "media_count": 2472,
+          "tweet_count": 27397
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

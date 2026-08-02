@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2073934439152079352",
+    "created_at": "2026-07-06T04:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073981626619761070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050870146525466624",
+          "start": 0,
+          "username": "ri__ko__1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073981626619761070",
+    "in_reply_to_user_id": "2050870146525466624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073934439152079352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri__ko__1119 现实里那不就是我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2073934439152079352",
+        "created_at": "2026-07-06T04:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073981626619761070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050870146525466624",
+              "start": 0,
+              "username": "ri__ko__1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073981626619761070",
+        "in_reply_to_user_id": "2050870146525466624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073934439152079352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri__ko__1119 现实里那不就是我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050870146525466624",
+        "conversation_id": "2073934439152079352",
+        "created_at": "2026-07-06T00:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073934439152079352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/inline_int/status/2073805343130595593",
+              "start": 54,
+              "url": "https://t.co/mjPG4lvnHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073934439152079352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073805343130595593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其實我一直以來都蠻喜歡這種二次元陰角的女孩子的\n雖然我不知道現實裡如果真的有這種類型的話會是什麼樣子就是了 https://t.co/mjPG4lvnHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 629,
+          "like_count": 28236,
+          "listed_count": 6,
+          "media_count": 2455,
+          "tweet_count": 27036
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-03T09:30:19.000Z",
+        "description": "18歲的人兒",
+        "id": "2050870146525466624",
+        "location": "杜芬舒斯博士的邪惡企業",
+        "name": "璃栞",
+        "pinned_tweet_id": "2072880060978319793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052372153123962880/fSAsVdoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 150,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "ri__ko__1119",
+        "verified": false
+      }
+    ]
+  }
+}

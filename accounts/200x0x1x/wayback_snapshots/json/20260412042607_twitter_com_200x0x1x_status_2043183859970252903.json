@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1228032306784305152",
+          "name": "Interior design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2043183859970252903",
+    "created_at": "2026-04-12T04:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043183859970252903"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043183859970252903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我希望看到的，根本不是自由人的联盟啊，而是一些自由的物的联盟，即宇宙政治学层面上的物的议会。我们不要再说物化的主体了，我们要说，物的主体性，对象性、客体性的反扑，我们说宇宙民主和诸物的联盟，至少我们应该实施自由家具的联盟，而是多物种民主的第一步，具体来说就是我们不要打扫卫生和做家务，而是让你的出租屋如其所是地存在，因此它必然是一种蒙尘，充满灰尘，但是这是本真性的蒙尘，或者说不做家务之本真源始现象就是地板上的灰尘。也就是说尼特族在这个意义上是回应良知呼唤的本真此在，这种良知是不是就是一种源始伦理现象啊？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我希望看到的，根本不是自由人的联盟啊，而是一些自由的物的联盟，即宇宙政治学层面上的物的议会。我们不要再说物化的主体了，我们要说，物的主体性，对象性、客体性的反扑，我们说宇宙民主和诸物的联盟，至少我们应该实施自由家具的联盟，而是多物种民主的第一步，具体来说就是我们不要打扫卫生和做家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2043183859970252903",
+        "created_at": "2026-04-12T04:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043183859970252903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043183859970252903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我希望看到的，根本不是自由人的联盟啊，而是一些自由的物的联盟，即宇宙政治学层面上的物的议会。我们不要再说物化的主体了，我们要说，物的主体性，对象性、客体性的反扑，我们说宇宙民主和诸物的联盟，至少我们应该实施自由家具的联盟，而是多物种民主的第一步，具体来说就是我们不要打扫卫生和做家务，而是让你的出租屋如其所是地存在，因此它必然是一种蒙尘，充满灰尘，但是这是本真性的蒙尘，或者说不做家务之本真源始现象就是地板上的灰尘。也就是说尼特族在这个意义上是回应良知呼唤的本真此在，这种良知是不是就是一种源始伦理现象啊？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望看到的，根本不是自由人的联盟啊，而是一些自由的物的联盟，即宇宙政治学层面上的物的议会。我们不要再说物化的主体了，我们要说，物的主体性，对象性、客体性的反扑，我们说宇宙民主和诸物的联盟，至少我们应该实施自由家具的联盟，而是多物种民主的第一步，具体来说就是我们不要打扫卫生和做家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，蠕动潜行者，活的尸体，请大家把爱托付给精神稳定的本天使吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043046031974400000/kvjel4Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1006,
+          "like_count": 27304,
+          "listed_count": 6,
+          "media_count": 2401,
+          "tweet_count": 26093
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

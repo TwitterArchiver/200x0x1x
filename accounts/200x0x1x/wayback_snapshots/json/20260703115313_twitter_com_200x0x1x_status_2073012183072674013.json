@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2072934324559908972",
+    "created_at": "2026-07-03T11:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073012183072674013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980254290389417984",
+          "start": 0,
+          "username": "Z9773216367192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073012183072674013",
+    "in_reply_to_user_id": "1980254290389417984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073002240260857891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z9773216367192 是我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2072934324559908972",
+        "created_at": "2026-07-03T11:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073012183072674013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980254290389417984",
+              "start": 0,
+              "username": "Z9773216367192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073012183072674013",
+        "in_reply_to_user_id": "1980254290389417984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073002240260857891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z9773216367192 是我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980254290389417984",
+        "conversation_id": "2072934324559908972",
+        "created_at": "2026-07-03T11:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073002240260857891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073002240260857891",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072934324559908972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 博爱的好宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 645,
+          "like_count": 28150,
+          "listed_count": 6,
+          "media_count": 2453,
+          "tweet_count": 26976
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T12:47:11.000Z",
+        "description": "不喜欢和目的性太强的人接触",
+        "id": "1980254290389417984",
+        "name": "芝士炸虾仁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068945443325952000/xVaUSnxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 25,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Z9773216367192",
+        "verified": false
+      }
+    ]
+  }
+}

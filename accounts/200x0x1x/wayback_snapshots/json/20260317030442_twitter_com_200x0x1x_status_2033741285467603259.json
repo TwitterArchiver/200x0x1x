@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2033703472902623332",
+    "created_at": "2026-03-17T03:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033741285467603259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1385973785392664576",
+          "start": 0,
+          "username": "nomycoffin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033741285467603259",
+    "in_reply_to_user_id": "1385973785392664576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033740827877642311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomycoffin 二手烟接好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2033703472902623332",
+        "created_at": "2026-03-17T03:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033741285467603259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1385973785392664576",
+              "start": 0,
+              "username": "nomycoffin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033741285467603259",
+        "in_reply_to_user_id": "1385973785392664576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033740827877642311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomycoffin 二手烟接好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385973785392664576",
+        "conversation_id": "2033703472902623332",
+        "created_at": "2026-03-17T03:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033740827877642311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033740827877642311",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033703472902623332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 宝宝吐我嘴里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033596257768284161/-sieD8wY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 983,
+          "like_count": 27029,
+          "listed_count": 6,
+          "media_count": 2386,
+          "tweet_count": 25841
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T15:08:03.000Z",
+        "description": "我的激情在于无聊：我已屈从它的模棱两可",
+        "id": "1385973785392664576",
+        "location": "自宅",
+        "name": "dio mio",
+        "pinned_tweet_id": "1710620395022565815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029924816325857281/VCG4b775_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1722,
+          "like_count": 20624,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 7129
+        },
+        "username": "nomycoffin",
+        "verified": false
+      }
+    ]
+  }
+}

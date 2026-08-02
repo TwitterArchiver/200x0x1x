@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074535292674208067",
+    "created_at": "2026-07-07T18:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074563488467591566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037189635005431808",
+          "start": 0,
+          "username": "BraceAm72236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074563488467591566",
+    "in_reply_to_user_id": "2037189635005431808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074563405315490298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraceAm72236 没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074535292674208067",
+        "created_at": "2026-07-07T18:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074563488467591566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037189635005431808",
+              "start": 0,
+              "username": "BraceAm72236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074563488467591566",
+        "in_reply_to_user_id": "2037189635005431808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074563405315490298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraceAm72236 没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037189635005431808",
+        "conversation_id": "2074535292674208067",
+        "created_at": "2026-07-07T18:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074563405315490298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074563405315490298",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074535292674208067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 没事吧😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 632,
+          "like_count": 28286,
+          "listed_count": 6,
+          "media_count": 2460,
+          "tweet_count": 27089
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T15:27:29.000Z",
+        "description": "",
+        "id": "2037189635005431808",
+        "name": "Ambrace",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074200682014633984/MCTtlI6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 53,
+          "like_count": 2691,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "BraceAm72236",
+        "verified": false
+      }
+    ]
+  }
+}

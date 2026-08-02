@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068860690618564924",
+    "created_at": "2026-06-22T00:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068860690618564924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068860690618564924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "时不时又会想到伍尔夫的孤独，那是类似于踩高跷的舞蹈侏儒的孤独。她的表演型人格是一种侏儒症。只有在阅读和写作的时候，她的影子才在日光下延长，像晃动的瘦柳枝。此人同样把自己活成了一个谜，但不是为了隐瞒什么，而是为了进入光天化日。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068860690618564924",
+        "created_at": "2026-06-22T00:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068860690618564924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068860690618564924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时不时又会想到伍尔夫的孤独，那是类似于踩高跷的舞蹈侏儒的孤独。她的表演型人格是一种侏儒症。只有在阅读和写作的时候，她的影子才在日光下延长，像晃动的瘦柳枝。此人同样把自己活成了一个谜，但不是为了隐瞒什么，而是为了进入光天化日。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 635,
+          "like_count": 28056,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26825
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

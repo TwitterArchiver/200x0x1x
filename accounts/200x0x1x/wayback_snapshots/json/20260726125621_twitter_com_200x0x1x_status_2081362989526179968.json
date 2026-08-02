@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081180405391093760"
+      ],
+      "media_source_tweet_id": [
+        "2081180412466856400"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2081362989526179968",
+    "created_at": "2026-07-26T12:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081362989526179968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1700982537890480128",
+          "start": 3,
+          "username": "lafakiitaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLBo7PzsBy",
+          "end": 43,
+          "expanded_url": "https://x.com/lafakiitaa/status/2081180412466856400/photo/1",
+          "media_key": "3_2081180405391093760",
+          "start": 20,
+          "url": "https://t.co/pLBo7PzsBy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081362989526179968",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081180412466856400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lafakiitaa: ñom https://t.co/pLBo7PzsBy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081180405391093760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHWjVjW8AAIrp-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081180405391093760"
+          ]
+        },
+        "author_id": "1700982537890480128",
+        "conversation_id": "2081180412466856400",
+        "created_at": "2026-07-26T00:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081180412466856400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLBo7PzsBy",
+              "end": 27,
+              "expanded_url": "https://x.com/lafakiitaa/status/2081180412466856400/photo/1",
+              "media_key": "3_2081180405391093760",
+              "start": 4,
+              "url": "https://t.co/pLBo7PzsBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081180412466856400",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 18142,
+          "like_count": 2224,
+          "quote_count": 8,
+          "reply_count": 14,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "ñom https://t.co/pLBo7PzsBy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081180405391093760"
+          ],
+          "media_source_tweet_id": [
+            "2081180412466856400"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2081362989526179968",
+        "created_at": "2026-07-26T12:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081362989526179968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1700982537890480128",
+              "start": 3,
+              "username": "lafakiitaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLBo7PzsBy",
+              "end": 43,
+              "expanded_url": "https://x.com/lafakiitaa/status/2081180412466856400/photo/1",
+              "media_key": "3_2081180405391093760",
+              "start": 20,
+              "url": "https://t.co/pLBo7PzsBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081362989526179968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081180412466856400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lafakiitaa: ñom https://t.co/pLBo7PzsBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081174842183913473/XrbQdDCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 678,
+          "like_count": 28782,
+          "listed_count": 7,
+          "media_count": 2498,
+          "tweet_count": 27667
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T21:20:30.000Z",
+        "description": "fakita \nla única guapa que me odia soy yo \nig: @lafakiitaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "lafakiitaa"
+              }
+            ]
+          }
+        },
+        "id": "1700982537890480128",
+        "name": "fakita",
+        "pinned_tweet_id": "2081180412466856400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081286745849569283/UKOHxDui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 51,
+          "like_count": 6180,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2491
+        },
+        "url": "",
+        "username": "lafakiitaa",
+        "verified": false
+      }
+    ]
+  }
+}

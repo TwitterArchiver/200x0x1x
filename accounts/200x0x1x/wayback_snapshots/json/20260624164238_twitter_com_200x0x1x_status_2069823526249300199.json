@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2069742617945071891",
+    "created_at": "2026-06-24T16:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069823526249300199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1522945124346601474",
+          "start": 0,
+          "username": "KunaAkem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069823526249300199",
+    "in_reply_to_user_id": "1522945124346601474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069742617945071891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KunaAkem1 我真受不了猫摆出这种球门一样的逆天坐姿笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069742614027669504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkz8QWbkAAT0qv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2069742617945071891",
+        "created_at": "2026-06-24T16:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069823526249300199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522945124346601474",
+              "start": 0,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069823526249300199",
+        "in_reply_to_user_id": "1522945124346601474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069742617945071891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KunaAkem1 我真受不了猫摆出这种球门一样的逆天坐姿笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069742614027669504"
+          ]
+        },
+        "author_id": "1522945124346601474",
+        "conversation_id": "2069742617945071891",
+        "created_at": "2026-06-24T11:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069742617945071891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWhL7QLkSV",
+              "end": 31,
+              "expanded_url": "https://x.com/KunaAkem1/status/2069742617945071891/photo/1",
+              "media_key": "3_2069742614027669504",
+              "start": 8,
+              "url": "https://t.co/HWhL7QLkSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069742617945071891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "擅长把帅猫拍丑 https://t.co/HWhL7QLkSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069502738468069376/Idqh6aqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 631,
+          "like_count": 28102,
+          "listed_count": 6,
+          "media_count": 2448,
+          "tweet_count": 26848
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚，音游，文明六，养猫的",
+        "id": "1522945124346601474",
+        "location": "Unter den Lindern 114514",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067543654445838336/Yc9J9S_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 430,
+          "like_count": 8613,
+          "listed_count": 4,
+          "media_count": 996,
+          "tweet_count": 6202
+        },
+        "url": "",
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

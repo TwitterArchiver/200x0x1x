@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1987812223205675182",
+    "created_at": "2025-11-10T18:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987944108908810377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538923015932522496",
+          "start": 0,
+          "username": "sunyixian8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987944108908810377",
+    "in_reply_to_user_id": "1538923015932522496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987812223205675182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunyixian8 你错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1987812223205675182",
+        "created_at": "2025-11-10T18:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T19:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987944108908810377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538923015932522496",
+              "start": 0,
+              "username": "sunyixian8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987944108908810377",
+        "in_reply_to_user_id": "1538923015932522496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987812223205675182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyixian8 你错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538923015932522496",
+        "conversation_id": "1987812223205675182",
+        "created_at": "2025-11-10T09:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987812223205675182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds520/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hgds520/status/1987132147292119055",
+              "start": 18,
+              "url": "https://t.co/iUXIAuVcYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987812223205675182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987132147292119055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有我想亲近的人，没有想亲近我的人 https://t.co/iUXIAuVcYi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986934380900601856/EYNFXoNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 926,
+          "like_count": 25948,
+          "listed_count": 7,
+          "media_count": 2326,
+          "tweet_count": 24935
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-20T16:33:44.000Z",
+        "description": "学中做，做中学，反复回忆｜\n不是我所给予你的超出你所理解的能力，而是超出了你所看到的本身——马里翁｜自己选择的路可以跑｜没什么比发现无法掌控自己的命运更让人沮丧的｜是个好人，但毫无用处｜极端Antinatalism｜以死亡为自由｜生活的很多不确定性我没办法保证｜与最卑微的人为伍",
+        "id": "1538923015932522496",
+        "location": "这是吐槽用的小号，不要fo",
+        "name": "从地下室走上天台",
+        "pinned_tweet_id": "1968903401988661639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965731573346840576/9PbOzkPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 193,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 208
+        },
+        "username": "sunyixian8",
+        "verified": false
+      }
+    ]
+  }
+}

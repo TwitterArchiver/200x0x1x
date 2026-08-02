@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2000684096926728499",
+    "created_at": "2025-12-15T21:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T22:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000684096926728499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000684096926728499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们来玩威廉泰尔，女人把杯子举在头顶，丈夫开枪射击那可怜的玻璃杯。但是因为女人出轨，丈夫打爆了她的头，丈夫同时表现出惊讶和恐惧，他摇晃妻子的尸体，她头上被打出一个洞，但是我们付不起人造血了亲爱的，所以没有血流出来，很快，尸体变成了一只大甲虫，丈夫戴上宽檐帽离开了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2000684096926728499",
+        "created_at": "2025-12-15T21:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T22:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000684096926728499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000684096926728499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们来玩威廉泰尔，女人把杯子举在头顶，丈夫开枪射击那可怜的玻璃杯。但是因为女人出轨，丈夫打爆了她的头，丈夫同时表现出惊讶和恐惧，他摇晃妻子的尸体，她头上被打出一个洞，但是我们付不起人造血了亲爱的，所以没有血流出来，很快，尸体变成了一只大甲虫，丈夫戴上宽檐帽离开了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998581802374500352/Y_6Q-h8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 932,
+          "like_count": 26361,
+          "listed_count": 8,
+          "media_count": 2341,
+          "tweet_count": 25179
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

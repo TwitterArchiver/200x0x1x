@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2076232137154695328",
+    "created_at": "2026-07-13T04:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076531368041841019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989832672559206400",
+          "start": 0,
+          "username": "Bai_Mi_f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076531368041841019",
+    "in_reply_to_user_id": "1989832672559206400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076486292255445045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bai_Mi_f 抱抱姐妹，我支持你，我觉得马桶这个群体本身就问题啊，为什么马桶不多反思一下呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2076232137154695328",
+        "created_at": "2026-07-13T04:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076531368041841019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989832672559206400",
+              "start": 0,
+              "username": "Bai_Mi_f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076531368041841019",
+        "in_reply_to_user_id": "1989832672559206400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076486292255445045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bai_Mi_f 抱抱姐妹，我支持你，我觉得马桶这个群体本身就问题啊，为什么马桶不多反思一下呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989832672559206400",
+        "conversation_id": "2076232137154695328",
+        "created_at": "2026-07-13T01:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076486292255445045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076486292255445045",
+        "in_reply_to_user_id": "1989832672559206400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3510,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076232137154695328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就发了个马桶的照片不知道为啥火了，我他妈好无语啊，我真以为这是摄像头，这照片是我在抖音上刷的，他那个有很多那种命苦的照片，我看这个就一个马桶的照片，然后里面那个我没看清有点像摄像头，他放在一个视频里我还以为他想说的是被偷拍了很命苦，然后我就放在推上吐槽了一下，没想到为啥火了我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601792118013952/JtH0JSmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 655,
+          "like_count": 28463,
+          "listed_count": 6,
+          "media_count": 2466,
+          "tweet_count": 27214
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T23:07:34.000Z",
+        "description": "置顶广告请自辩",
+        "id": "1989832672559206400",
+        "name": "白米饭🍚",
+        "pinned_tweet_id": "2076417427479609646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023438395289284608/7lKjjLdK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5450,
+          "following_count": 15,
+          "like_count": 655,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "Bai_Mi_f",
+        "verified": false
+      }
+    ]
+  }
+}

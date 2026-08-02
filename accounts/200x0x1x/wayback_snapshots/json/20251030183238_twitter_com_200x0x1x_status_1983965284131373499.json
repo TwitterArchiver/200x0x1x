@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1983863831735709920",
+    "created_at": "2025-10-30T18:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T19:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983965284131373499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1574636875481960448",
+          "start": 0,
+          "username": "shaokaga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983965284131373499",
+    "in_reply_to_user_id": "1574636875481960448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983863831735709920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaokaga 苦命鸳鸯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1983863828548079616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gZpB9a0AATPia.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1983863831735709920",
+        "created_at": "2025-10-30T18:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983965284131373499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1574636875481960448",
+              "start": 0,
+              "username": "shaokaga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983965284131373499",
+        "in_reply_to_user_id": "1574636875481960448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983863831735709920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaokaga 苦命鸳鸯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983863828548079616"
+          ]
+        },
+        "author_id": "1574636875481960448",
+        "conversation_id": "1983863831735709920",
+        "created_at": "2025-10-30T11:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983863831735709920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F36ge8UXij",
+              "end": 48,
+              "expanded_url": "https://x.com/shaokaga/status/1983863831735709920/photo/1",
+              "media_key": "3_1983863828548079616",
+              "start": 25,
+              "url": "https://t.co/F36ge8UXij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983863831735709920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "往日种种…\n你、你还有何话说\n再无话说，请速动手 https://t.co/F36ge8UXij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "200x0x1x",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 916,
+          "like_count": 25770,
+          "listed_count": 7,
+          "media_count": 2311,
+          "tweet_count": 24814
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-27T05:47:50.000Z",
+        "description": "主修女T风｜176/66kg持续下降中｜无证含糖",
+        "id": "1574636875481960448",
+        "name": "尼古莉·叶若娃·Kaga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983958640869728256/alHWD8c3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 32
+        },
+        "username": "shaokaga",
+        "verified": false
+      }
+    ]
+  }
+}

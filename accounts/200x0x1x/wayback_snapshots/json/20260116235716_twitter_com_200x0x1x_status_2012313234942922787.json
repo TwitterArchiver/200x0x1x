@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2012297854094557418",
+    "created_at": "2026-01-16T23:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T00:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012313234942922787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417651760324243457",
+          "start": 0,
+          "username": "bgonMuriel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012313234942922787",
+    "in_reply_to_user_id": "1417651760324243457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012297854094557418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bgonMuriel 男的就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2012297854094557418",
+        "created_at": "2026-01-16T23:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T00:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012313234942922787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417651760324243457",
+              "start": 0,
+              "username": "bgonMuriel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012313234942922787",
+        "in_reply_to_user_id": "1417651760324243457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012297854094557418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bgonMuriel 男的就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417651760324243457",
+        "conversation_id": "2012297854094557418",
+        "created_at": "2026-01-16T22:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T23:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012297854094557418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bgonmuriel/sta…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/bgonmuriel/status/1960298626564984976",
+              "start": 74,
+              "url": "https://t.co/SdISZX0Q3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012297854094557418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960298626564984976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又是一个电话打过来\n哽咽着说我一定要幸福，好好读书，找一个真的爱我的男人，一定要对我好\n\n蚣人是不是对cos情圣有什么癖好，这样说话是会有快感吗？ https://t.co/SdISZX0Q3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012169403769470976/h0JYROyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 936,
+          "like_count": 26424,
+          "listed_count": 6,
+          "media_count": 2358,
+          "tweet_count": 25368
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-21T01:05:06.000Z",
+        "description": "ISTP 02♐️, 天才交易员，神秘家暴女，学历中专，现无业游民 169 62 36D｜55%碎碎念｜20%好哥哥文学｜15%股票｜5%自拍｜5%情歌，梦想是成为家庭主妇，著有《网恋被骗100k》好哥哥@foreverDoggy996",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "foreverDoggy996"
+              }
+            ]
+          }
+        },
+        "id": "1417651760324243457",
+        "name": "Muriel",
+        "pinned_tweet_id": "1990725861490721059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951602564874575872/8YOlU-7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 183,
+          "like_count": 9778,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3183
+        },
+        "username": "bgonMuriel",
+        "verified": true
+      }
+    ]
+  }
+}

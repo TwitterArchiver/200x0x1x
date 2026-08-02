@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003648338277908480"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003648346330923487",
+    "created_at": "2025-12-24T02:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003648346330923487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvRY3hDjuX",
+          "end": 29,
+          "expanded_url": "https://x.com/200x0x1x/status/2003648346330923487/photo/1",
+          "media_key": "3_2003648338277908480",
+          "start": 6,
+          "url": "https://t.co/zvRY3hDjuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003648346330923487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上梦这个 https://t.co/zvRY3hDjuX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003648346330923487].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003648346330923487",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003648346330923487"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2003648338277908480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85jjEHbQAAAnPE.jpg",
+        "width": 1004
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002534591446593539/QDAatHEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 937,
+          "like_count": 26502,
+          "listed_count": 8,
+          "media_count": 2343,
+          "tweet_count": 25243
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

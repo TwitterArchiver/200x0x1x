@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2000529921169588680",
+    "created_at": "2025-12-15T11:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000529921169588680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565847750989971457",
+          "start": 3,
+          "username": "mybluerose00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000529921169588680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994683043060355380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mybluerose00: 蓝色的世界，从锁孔里伸出一条\n你邻居的火舌。你招摇着\n将它分享给众人秋天的餐盘，——\n果然，果实们比胃和嘴更饥饿，\n不待你们交换\n餐前庄重而迷人的礼仪，\n它们就已在罪的那扇门前烤得\n金黄，\n久久，散发又甜又醉的焦香，令你们垂涎\n直到秋天高高的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2000529921169588680",
+        "created_at": "2025-12-15T11:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000529921169588680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565847750989971457",
+              "start": 3,
+              "username": "mybluerose00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000529921169588680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994683043060355380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mybluerose00: 蓝色的世界，从锁孔里伸出一条\n你邻居的火舌。你招摇着\n将它分享给众人秋天的餐盘，——\n果然，果实们比胃和嘴更饥饿，\n不待你们交换\n餐前庄重而迷人的礼仪，\n它们就已在罪的那扇门前烤得\n金黄，\n久久，散发又甜又醉的焦香，令你们垂涎\n直到秋天高高的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565847750989971457",
+        "conversation_id": "1994683043060355380",
+        "created_at": "2025-11-29T08:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994683043060355380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994683043060355380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 472,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蓝色的世界，从锁孔里伸出一条\n你邻居的火舌。你招摇着\n将它分享给众人秋天的餐盘，——\n果然，果实们比胃和嘴更饥饿，\n不待你们交换\n餐前庄重而迷人的礼仪，\n它们就已在罪的那扇门前烤得\n金黄，\n久久，散发又甜又醉的焦香，令你们垂涎\n直到秋天高高的眼睛里\n喁喁闪耀的冥河！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998581802374500352/Y_6Q-h8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 932,
+          "like_count": 26360,
+          "listed_count": 8,
+          "media_count": 2341,
+          "tweet_count": 25176
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T23:42:59.000Z",
+        "description": "一个爱欲着思考着创造着并且肩负着伦理责任的主体，除此之外，我什么都不是。｜我的速写纸、笔记本和朋友圈",
+        "id": "1565847750989971457",
+        "location": "巴黎",
+        "name": "女无",
+        "pinned_tweet_id": "1942540985164259622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954052121919467522/LcMByejW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 1057,
+          "like_count": 72603,
+          "listed_count": 9,
+          "media_count": 692,
+          "tweet_count": 13700
+        },
+        "username": "mybluerose00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999344388116197377"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1999344393283666123",
+    "created_at": "2025-12-12T05:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999344393283666123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lwPtERzOgZ",
+          "end": 29,
+          "expanded_url": "https://x.com/200x0x1x/status/1999344393283666123/photo/1",
+          "media_key": "3_1999344388116197377",
+          "start": 6,
+          "url": "https://t.co/lwPtERzOgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999344393283666123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新的宝宝们 https://t.co/lwPtERzOgZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999344393283666123].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999344393283666123",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999344393283666123"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999344388116197377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78ZIMVWMAEhjfB.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998581802374500352/Y_6Q-h8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 934,
+          "like_count": 26302,
+          "listed_count": 8,
+          "media_count": 2340,
+          "tweet_count": 25156
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

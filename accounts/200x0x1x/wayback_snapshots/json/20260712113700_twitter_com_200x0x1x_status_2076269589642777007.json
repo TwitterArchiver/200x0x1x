@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075819636885688550",
+    "created_at": "2026-07-12T11:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076269589642777007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2059249764730834944",
+          "start": 0,
+          "username": "SeptimusWaoxti"
+        },
+        {
+          "end": 29,
+          "id": "1913652342664384512",
+          "start": 16,
+          "username": "hoshiwomitai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076269589642777007",
+    "in_reply_to_user_id": "2059249764730834944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076269537364943228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeptimusWaoxti @hoshiwomitai 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075819636885688550",
+        "created_at": "2026-07-12T11:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076269589642777007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059249764730834944",
+              "start": 0,
+              "username": "SeptimusWaoxti"
+            },
+            {
+              "end": 29,
+              "id": "1913652342664384512",
+              "start": 16,
+              "username": "hoshiwomitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076269589642777007",
+        "in_reply_to_user_id": "2059249764730834944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076269537364943228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeptimusWaoxti @hoshiwomitai 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059249764730834944",
+        "conversation_id": "2075819636885688550",
+        "created_at": "2026-07-12T11:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076269537364943228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 23,
+              "id": "1913652342664384512",
+              "start": 10,
+              "username": "hoshiwomitai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076269537364943228",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075888167945953520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x @hoshiwomitai 是在细雨中呼喊吗？我记得原文是下屌*死我吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601792118013952/JtH0JSmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 654,
+          "like_count": 28451,
+          "listed_count": 6,
+          "media_count": 2466,
+          "tweet_count": 27205
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T12:29:57.000Z",
+        "description": "每个人都被困在一个小笼子里，而即使有的人突破了一个笼子，ta所将面对的无非是面对另一个笼子而已。只不过有的人的笼子恰当，有的人笼子丑陋不堪。所以，笼子中的人啊，因为，笼子的不同而隔着笼子互骂吧。",
+        "id": "2059249764730834944",
+        "location": "中国",
+        "name": "虚幻也是一种真实",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062339830030209024/HkE8vsWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 50,
+          "like_count": 1295,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "SeptimusWaoxti",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T17:54:16.000Z",
+        "description": "願所有的邊緣人都能被世界溫柔以待",
+        "id": "1913652342664384512",
+        "location": "Tokyo-to, Japan",
+        "name": "星を見たい",
+        "pinned_tweet_id": "1917040259432632574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913652875160666112/PtrWgsZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 152,
+          "like_count": 247,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1104
+        },
+        "url": "",
+        "username": "hoshiwomitai",
+        "verified": false
+      }
+    ]
+  }
+}

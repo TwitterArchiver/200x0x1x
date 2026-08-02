@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2065138248805236979",
+    "created_at": "2026-06-11T18:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065138248805236979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065138248805236979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae psychologicae）。可能是因为这样的作品可以让我看见人类灵魂的活生生的可能性吧，各式各样有趣的神经病都让我觉得很好玩。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2065138248805236979",
+        "created_at": "2026-06-11T18:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065138248805236979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065138248805236979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae psychologicae）。可能是因为这样的作品可以让我看见人类灵魂的活生生的可能性吧，各式各样有趣的神经病都让我觉得很好玩。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢那种细腻晦暗的心理小说，比如说三岛的爱之饥渴，关于日本有钱人家的寡妇如何因为恋的狂热最终谋杀了一个乡下穷小子的故事。这样的作品都有一种“心理学的优雅”（elegantiae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064180709225271296/gSORuUiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 763,
+          "like_count": 27807,
+          "listed_count": 6,
+          "media_count": 2444,
+          "tweet_count": 26693
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

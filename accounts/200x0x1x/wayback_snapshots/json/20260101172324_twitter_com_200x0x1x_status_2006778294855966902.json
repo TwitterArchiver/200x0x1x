@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2006778294855966902",
+    "created_at": "2026-01-01T17:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006778294855966902"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006778294855966902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "使上帝凝聚在自身本质上的力量是火，就如同是一团持续燃烧的烈焰，任何在神的本质中企图独立持存的事物都将在火焰中泯灭。这种火的元素，当它被视作一个实体的时候，就是“灶神”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2006778294855966902",
+        "created_at": "2026-01-01T17:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006778294855966902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006778294855966902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "使上帝凝聚在自身本质上的力量是火，就如同是一团持续燃烧的烈焰，任何在神的本质中企图独立持存的事物都将在火焰中泯灭。这种火的元素，当它被视作一个实体的时候，就是“灶神”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 934,
+          "like_count": 26574,
+          "listed_count": 6,
+          "media_count": 2349,
+          "tweet_count": 25294
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

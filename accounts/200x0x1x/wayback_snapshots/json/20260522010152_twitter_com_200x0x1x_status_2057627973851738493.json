@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2057627973851738493",
+    "created_at": "2026-05-22T01:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057627973851738493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/200x0x1x/status/2057622335302017483",
+          "start": 59,
+          "url": "https://t.co/SsnYVzbTGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057627973851738493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057622335302017483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卡夫卡，乡村医生。我带着一道美丽的伤口来到世界上，这是我的全部陪嫁。有的人活到最后只是一道会说话的伤口。这让我恶心。 https://t.co/SsnYVzbTGf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2057627973851738493",
+        "created_at": "2026-05-22T01:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057627973851738493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2057622335302017483",
+              "start": 59,
+              "url": "https://t.co/SsnYVzbTGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057627973851738493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057622335302017483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卡夫卡，乡村医生。我带着一道美丽的伤口来到世界上，这是我的全部陪嫁。有的人活到最后只是一道会说话的伤口。这让我恶心。 https://t.co/SsnYVzbTGf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2057622335302017483",
+        "created_at": "2026-05-22T00:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057622335302017483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057622335302017483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有这么一种人，他的一辈子都在用性重温自己的创伤，而他所做的一切都是为了性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056563204013150208/EScHHTp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1060,
+          "like_count": 27539,
+          "listed_count": 6,
+          "media_count": 2423,
+          "tweet_count": 26411
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

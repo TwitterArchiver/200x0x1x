@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2064037931493261810",
+    "created_at": "2026-06-08T17:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064037931493261810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064037931493261810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我叫了客房服务，想着点一份早餐，以为这是数不胜数的平凡日子里的一天，直到穿制服的死亡天使乘坐电梯上来敲门。…死亡天使是怎么进来的？我们都以为，它会从人们忘记阖上的窗子里飞进来，或者通过一个梦，一个末日的预兆来揭示自身。实际上，死亡天使只是穿着酒店服务生的制服，大摇大摆地乘坐电梯上来。它就从我眼前的这扇门走进来，就和其他那些走入这扇门的服务生一样，他们迈进门的时候我连眼皮都不会抬一下。但是今天的这位客人却宣布自己是一切访客中的最可怕者，并且它从未离开这间屋子。它从一开始就寄居在阁楼或者地下室里。它的面孔就镶嵌在墙壁内部，当我从卧室走向客厅走向厨房，那张脸也在花纹墙纸下面移动。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我叫了客房服务，想着点一份早餐，以为这是数不胜数的平凡日子里的一天，直到穿制服的死亡天使乘坐电梯上来敲门。…死亡天使是怎么进来的？我们都以为，它会从人们忘记阖上的窗子里飞进来，或者通过一个梦，一个末日的预兆来揭示自身。实际上，死亡天使只是穿着酒店服务生的制服，大摇大摆地乘坐电梯上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2064037931493261810",
+        "created_at": "2026-06-08T17:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064037931493261810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064037931493261810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我叫了客房服务，想着点一份早餐，以为这是数不胜数的平凡日子里的一天，直到穿制服的死亡天使乘坐电梯上来敲门。…死亡天使是怎么进来的？我们都以为，它会从人们忘记阖上的窗子里飞进来，或者通过一个梦，一个末日的预兆来揭示自身。实际上，死亡天使只是穿着酒店服务生的制服，大摇大摆地乘坐电梯上来。它就从我眼前的这扇门走进来，就和其他那些走入这扇门的服务生一样，他们迈进门的时候我连眼皮都不会抬一下。但是今天的这位客人却宣布自己是一切访客中的最可怕者，并且它从未离开这间屋子。它从一开始就寄居在阁楼或者地下室里。它的面孔就镶嵌在墙壁内部，当我从卧室走向客厅走向厨房，那张脸也在花纹墙纸下面移动。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我叫了客房服务，想着点一份早餐，以为这是数不胜数的平凡日子里的一天，直到穿制服的死亡天使乘坐电梯上来敲门。…死亡天使是怎么进来的？我们都以为，它会从人们忘记阖上的窗子里飞进来，或者通过一个梦，一个末日的预兆来揭示自身。实际上，死亡天使只是穿着酒店服务生的制服，大摇大摆地乘坐电梯上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063477529978028032/FCGFfbXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 762,
+          "like_count": 27831,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26658
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

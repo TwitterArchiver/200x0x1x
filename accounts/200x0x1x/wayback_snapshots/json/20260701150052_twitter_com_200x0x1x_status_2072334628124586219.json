@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2072310270790336832",
+    "created_at": "2026-07-01T15:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072334628124586219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "Ride_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072334628124586219",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072310270790336832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_8964 像那种喜欢随地大小便的，然后尿完了还一堆逼话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2072310270790336832",
+        "created_at": "2026-07-01T15:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072334628124586219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "Ride_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072334628124586219",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072310270790336832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_8964 像那种喜欢随地大小便的，然后尿完了还一堆逼话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033556052650975232",
+        "conversation_id": "2072310270790336832",
+        "created_at": "2026-07-01T13:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072310270790336832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhongshui_L/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/zhongshui_L/status/2072239089139782113",
+              "start": 59,
+              "url": "https://t.co/UjgBBjo0vs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072310270790336832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072239089139782113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想干嘛你能不能承认自己也会像他这样随时犯贱恶心周围所有人把朋友搞得少少的 们 asd 能不能有点勇气去戳破内心的泡泡 https://t.co/UjgBBjo0vs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "susuangelbaby⁺✧ ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 643,
+          "like_count": 28114,
+          "listed_count": 6,
+          "media_count": 2453,
+          "tweet_count": 26940
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "location": "一个诞生了我这个婊子的地方",
+        "name": "讨厌夏天",
+        "pinned_tweet_id": "2070836290422292902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070836586867314688/LijkHlvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 150,
+          "like_count": 47332,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 10455
+        },
+        "url": "",
+        "username": "Ride_8964",
+        "verified": false
+      }
+    ]
+  }
+}

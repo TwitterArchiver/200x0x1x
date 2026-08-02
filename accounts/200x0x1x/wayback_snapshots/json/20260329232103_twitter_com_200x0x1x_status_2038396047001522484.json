@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2038395484734443790",
+    "created_at": "2026-03-29T23:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T00:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038396047001522484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038396047001522484",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038395484734443790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 这种宝宝我一口一个好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2038395484734443790",
+        "created_at": "2026-03-29T23:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038396047001522484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038396047001522484",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038395484734443790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 这种宝宝我一口一个好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2038395484734443790",
+        "created_at": "2026-03-29T23:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038395484734443790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cosyposter/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/cosyposter/status/2038193950369165527",
+              "start": 21,
+              "url": "https://t.co/N61RYWG5la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038395484734443790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038193950369165527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冒险家，你已经踏入了宝宝森林的宝宝部落… https://t.co/N61RYWG5la"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037297925848551424/CBkDuAq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1004,
+          "like_count": 27245,
+          "listed_count": 6,
+          "media_count": 2395,
+          "tweet_count": 25990
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.",
+        "id": "1516581658115272708",
+        "location": "Schelling Time",
+        "name": "claude",
+        "pinned_tweet_id": "2027809500716253460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037349713926840320/KO4_SZqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 1420,
+          "like_count": 28466,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1386
+        },
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

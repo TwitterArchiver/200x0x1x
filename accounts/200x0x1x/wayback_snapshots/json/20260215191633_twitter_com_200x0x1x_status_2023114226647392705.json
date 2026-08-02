@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023114222163357697"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2023114226647392705",
+    "created_at": "2026-02-15T19:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T20:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023114226647392705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bxEMf48Pz",
+          "end": 69,
+          "expanded_url": "https://x.com/200x0x1x/status/2023114226647392705/photo/1",
+          "media_key": "3_2023114222163357697",
+          "start": 46,
+          "url": "https://t.co/7bxEMf48Pz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023114226647392705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《当尼采哭泣》这电影尬又肉麻，两个失恋大男人凑一块恨海情天了一个多小时，看得我是汗如雨下。 https://t.co/7bxEMf48Pz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023114226647392705].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023114226647392705",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023114226647392705"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 859,
+        "media_key": "3_2023114222163357697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBOLqogWcAEdzst.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022831196737015808/UZWFKPOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 958,
+          "like_count": 26780,
+          "listed_count": 6,
+          "media_count": 2388,
+          "tweet_count": 25683
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

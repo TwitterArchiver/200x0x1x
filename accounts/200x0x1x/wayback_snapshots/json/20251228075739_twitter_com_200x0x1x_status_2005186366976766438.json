@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005186352795750401"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2005186366976766438",
+    "created_at": "2025-12-28T07:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T08:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005186366976766438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n61MnSHewQ",
+          "end": 64,
+          "expanded_url": "https://x.com/200x0x1x/status/2005186366976766438/photo/1",
+          "media_key": "3_2005186352795750401",
+          "start": 41,
+          "url": "https://t.co/n61MnSHewQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005186366976766438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是为什么人必须学会与自身的邪恶和解，将那种异化的力量重新认同为自己的一部分。 https://t.co/n61MnSHewQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005186366976766438].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005186366976766438",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005186366976766438"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2005186352795750401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9PaXSraEAEFPNJ.jpg",
+        "width": 1143
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004189770768117760/acG2jYOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 937,
+          "like_count": 26530,
+          "listed_count": 7,
+          "media_count": 2347,
+          "tweet_count": 25272
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

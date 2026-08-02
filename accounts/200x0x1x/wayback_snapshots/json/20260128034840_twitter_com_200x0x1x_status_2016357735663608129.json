@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2016206605101236246",
+    "created_at": "2026-01-28T03:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T04:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016357735663608129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999056359141339136",
+          "start": 0,
+          "username": "mossdew7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016357735663608129",
+    "in_reply_to_user_id": "1999056359141339136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016206605101236246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mossdew7 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2016206605101236246",
+        "created_at": "2026-01-28T03:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T04:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016357735663608129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999056359141339136",
+              "start": 0,
+              "username": "mossdew7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016357735663608129",
+        "in_reply_to_user_id": "1999056359141339136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016206605101236246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mossdew7 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999056359141339136",
+        "conversation_id": "2016206605101236246",
+        "created_at": "2026-01-27T17:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016206605101236246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016206605101236246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5407,
+          "like_count": 163,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "天天说约炮文学好笑，我觉得最好笑的是sm日记吧，s写东西自以为魅力无限情场浪子其实表演欲发作ego大到爆，m写东西自以为可爱呆萌不做作其实锅学掌门人自嬷无极限并给对方赋魅，一场实践下来双方以为自己是小说主角写出万字爹地爸爸妈咪主人贱狗乖猫等文字，配文香香饭来咯然后心满意足扬长而去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 945,
+          "like_count": 26618,
+          "listed_count": 6,
+          "media_count": 2371,
+          "tweet_count": 25481
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T09:59:22.000Z",
+        "description": "你泪如梨花洒满了纸上的天下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kparad1se",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kparad1se",
+                "start": 0,
+                "url": "https://t.co/DKMOjjrL0t"
+              }
+            ]
+          }
+        },
+        "id": "1999056359141339136",
+        "name": "怜刀流",
+        "pinned_tweet_id": "1999915742591172849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016281131931598851/nsB8-yJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 23,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/DKMOjjrL0t",
+        "username": "mossdew7",
+        "verified": false
+      }
+    ]
+  }
+}

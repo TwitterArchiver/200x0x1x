@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063511558378921984"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2063511561956700382",
+    "created_at": "2026-06-07T06:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063511561956700382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TozzEOMF7Y",
+          "end": 34,
+          "expanded_url": "https://x.com/200x0x1x/status/2063511561956700382/photo/1",
+          "media_key": "3_2063511558378921984",
+          "start": 11,
+          "url": "https://t.co/TozzEOMF7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063511561956700382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈就这样幽怨式撒娇 https://t.co/TozzEOMF7Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2063511558378921984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMQ1FMWoAA8T3e.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063511558378921984"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2063511561956700382",
+        "created_at": "2026-06-07T06:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063511561956700382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TozzEOMF7Y",
+              "end": 34,
+              "expanded_url": "https://x.com/200x0x1x/status/2063511561956700382/photo/1",
+              "media_key": "3_2063511558378921984",
+              "start": 11,
+              "url": "https://t.co/TozzEOMF7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063511561956700382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈就这样幽怨式撒娇 https://t.co/TozzEOMF7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063477529978028032/FCGFfbXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 765,
+          "like_count": 27797,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26638
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

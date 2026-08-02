@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037667690131677184"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2037667693977845960",
+    "created_at": "2026-03-27T23:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T00:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037667693977845960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N4q0KeYQpl",
+          "end": 38,
+          "expanded_url": "https://x.com/200x0x1x/status/2037667693977845960/photo/1",
+          "media_key": "3_2037667690131677184",
+          "start": 15,
+          "url": "https://t.co/N4q0KeYQpl"
+        },
+        {
+          "display_url": "x.com/l_eacc/status/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/l_eacc/status/2037408673576964437",
+          "start": 39,
+          "url": "https://t.co/P8pFE5vKn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037667693977845960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037408673576964437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了这是gpt给我生成的 https://t.co/N4q0KeYQpl https://t.co/P8pFE5vKn1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2037667690131677184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEc_99iW4AA1Ush.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037408664634658816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZUYsXaEAAFkzb.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037408664630542338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZUYsWbQAImzGN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037667690131677184"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2037667693977845960",
+        "created_at": "2026-03-27T23:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037667693977845960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4q0KeYQpl",
+              "end": 38,
+              "expanded_url": "https://x.com/200x0x1x/status/2037667693977845960/photo/1",
+              "media_key": "3_2037667690131677184",
+              "start": 15,
+              "url": "https://t.co/N4q0KeYQpl"
+            },
+            {
+              "display_url": "x.com/l_eacc/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/l_eacc/status/2037408673576964437",
+              "start": 39,
+              "url": "https://t.co/P8pFE5vKn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037667693977845960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037408673576964437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了这是gpt给我生成的 https://t.co/N4q0KeYQpl https://t.co/P8pFE5vKn1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037408664634658816",
+            "3_2037408664630542338"
+          ]
+        },
+        "author_id": "1471310582070464512",
+        "conversation_id": "2037408673576964437",
+        "created_at": "2026-03-27T05:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037408673576964437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StgnSnICl3",
+              "end": 39,
+              "expanded_url": "https://x.com/L_eacc/status/2037408673576964437/photo/1",
+              "media_key": "3_2037408664634658816",
+              "start": 16,
+              "url": "https://t.co/StgnSnICl3"
+            },
+            {
+              "display_url": "pic.x.com/StgnSnICl3",
+              "end": 39,
+              "expanded_url": "https://x.com/L_eacc/status/2037408673576964437/photo/1",
+              "media_key": "3_2037408664630542338",
+              "start": 16,
+              "url": "https://t.co/StgnSnICl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037408673576964437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17644,
+          "like_count": 48,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的 Gemini 是… https://t.co/StgnSnICl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037297925848551424/CBkDuAq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1003,
+          "like_count": 27244,
+          "listed_count": 6,
+          "media_count": 2392,
+          "tweet_count": 25959
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-16T02:46:07.000Z",
+        "description": "e/acc | #AI #玩卡 #充电头 #软路由 | crypto @lyle_defi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "AI"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "玩卡"
+              },
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "充电头"
+              },
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "软路由"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "lyle_defi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lyle.im",
+                "end": 23,
+                "expanded_url": "http://lyle.im",
+                "start": 0,
+                "url": "https://t.co/b8u4UkU7Ha"
+              }
+            ]
+          }
+        },
+        "id": "1471310582070464512",
+        "name": "ℓ",
+        "pinned_tweet_id": "1966435896472883577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962784054484574208/7TTI45B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6141,
+          "following_count": 316,
+          "like_count": 19955,
+          "listed_count": 34,
+          "media_count": 1299,
+          "tweet_count": 10783
+        },
+        "url": "https://t.co/b8u4UkU7Ha",
+        "username": "L_eacc",
+        "verified": false
+      }
+    ]
+  }
+}

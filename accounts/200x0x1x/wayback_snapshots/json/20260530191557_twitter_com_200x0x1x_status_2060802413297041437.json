@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2060791221355004343",
+    "created_at": "2026-05-30T19:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060802413297041437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "779361765691760640",
+          "start": 0,
+          "username": "xinyouan1160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060802413297041437",
+    "in_reply_to_user_id": "779361765691760640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "xin指导我就单纯好奇啊，我以为你是哪个学术界大拿呢，点开主页一看每天不是刷黄图撸小管儿就是辱腊的无能键政逼是哪来的自信用你的邪魔外道水平指点别人怎么读哲学的，感觉好无力好绝望啊。你说说看，这是否是一种猪鼻子插葱装象伸脸讨打的表现！你这是一字不落地诠释了一个人如何把自己演绎成一个弱智啊"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060794600160440674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinyouan1160 xin指导我就单纯好奇啊，我以为你是哪个学术界大拿呢，点开主页一看每天不是刷黄图撸小管儿就是辱腊的无能键政逼是哪来的自信用你的邪魔外道水平指点别人怎么读哲学的，感觉好无力好绝望啊。你说说看，这是否是一种猪鼻子插葱装象伸脸讨打的表现！你这是一字不落地诠释了一个人如何把自己演绎成一个弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2060791221355004343",
+        "created_at": "2026-05-30T19:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060802413297041437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "779361765691760640",
+              "start": 0,
+              "username": "xinyouan1160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060802413297041437",
+        "in_reply_to_user_id": "779361765691760640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "xin指导我就单纯好奇啊，我以为你是哪个学术界大拿呢，点开主页一看每天不是刷黄图撸小管儿就是辱腊的无能键政逼是哪来的自信用你的邪魔外道水平指点别人怎么读哲学的，感觉好无力好绝望啊。你说说看，这是否是一种猪鼻子插葱装象伸脸讨打的表现！你这是一字不落地诠释了一个人如何把自己演绎成一个弱智啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060794600160440674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyouan1160 xin指导我就单纯好奇啊，我以为你是哪个学术界大拿呢，点开主页一看每天不是刷黄图撸小管儿就是辱腊的无能键政逼是哪来的自信用你的邪魔外道水平指点别人怎么读哲学的，感觉好无力好绝望啊。你说说看，这是否是一种猪鼻子插葱装象伸脸讨打的表现！你这是一字不落地诠释了一个人如何把自己演绎成一个弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779361765691760640",
+        "conversation_id": "2060791221355004343",
+        "created_at": "2026-05-30T18:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060794600160440674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060794600160440674",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060794230860103888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 我没有允许你这么叫我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059059852052213760/WE9r4TCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 759,
+          "like_count": 27669,
+          "listed_count": 6,
+          "media_count": 2432,
+          "tweet_count": 26529
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-23T16:48:19.000Z",
+        "description": "your mom fucker",
+        "id": "779361765691760640",
+        "location": "三千万",
+        "name": "xinyouan Ⅱ",
+        "pinned_tweet_id": "2059674185715355948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058446511294537728/4909SaI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 910,
+          "like_count": 36022,
+          "listed_count": 0,
+          "media_count": 825,
+          "tweet_count": 14470
+        },
+        "username": "xinyouan1160",
+        "verified": false
+      }
+    ]
+  }
+}

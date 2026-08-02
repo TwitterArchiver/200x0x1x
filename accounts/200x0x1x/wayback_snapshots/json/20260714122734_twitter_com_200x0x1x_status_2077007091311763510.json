@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2076967551620329473",
+    "created_at": "2026-07-14T12:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077007091311763510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077007091311763510",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077006302954578335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 你懂我。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077006302954578335].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077006302954578335",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077006302954578335"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2076967551620329473",
+        "created_at": "2026-07-14T12:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077007091311763510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077007091311763510",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077006302954578335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 你懂我。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 668,
+          "like_count": 28499,
+          "listed_count": 6,
+          "media_count": 2467,
+          "tweet_count": 27248
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "我是南烛/Remi丨$htwt丨病み垢丨小粉红滚，川粉滚，社达滚丨🩸：@puppetnan 丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "puppetnan"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "我把大部分男的都清了，抱歉",
+        "name": "R❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914966092822556672/IuHjR4Wf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4354,
+          "following_count": 175,
+          "like_count": 53004,
+          "listed_count": 13,
+          "media_count": 522,
+          "tweet_count": 23563
+        },
+        "url": "",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1988307987367379256",
+    "created_at": "2025-11-12T11:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988575978671755348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550358687062994946",
+          "start": 0,
+          "username": "wenqing18973238"
+        },
+        {
+          "end": 30,
+          "id": "1111963348252397574",
+          "start": 17,
+          "username": "machan_47291"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988575978671755348",
+    "in_reply_to_user_id": "1550358687062994946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988569447171604892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenqing18973238 @machan_47291 感觉不如…齐克果。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1988307987367379256",
+        "created_at": "2025-11-12T11:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988575978671755348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550358687062994946",
+              "start": 0,
+              "username": "wenqing18973238"
+            },
+            {
+              "end": 30,
+              "id": "1111963348252397574",
+              "start": 17,
+              "username": "machan_47291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988575978671755348",
+        "in_reply_to_user_id": "1550358687062994946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988569447171604892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenqing18973238 @machan_47291 感觉不如…齐克果。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550358687062994946",
+        "conversation_id": "1988307987367379256",
+        "created_at": "2025-11-12T11:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988569447171604892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 23,
+              "id": "1111963348252397574",
+              "start": 10,
+              "username": "machan_47291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988569447171604892",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988567339273445403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x @machan_47291 的确，文艺逼那里萨特和加缪直接捆绑销售，散发出冲天巨味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987944281835765761/BF1DED_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 927,
+          "like_count": 25975,
+          "listed_count": 7,
+          "media_count": 2327,
+          "tweet_count": 24961
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-22T05:55:01.000Z",
+        "description": "新世界不很新，旧世界不很旧。20岁/法学在读/mtf",
+        "id": "1550358687062994946",
+        "name": "Naka（阿尔及利亚黑脚人暴走团）",
+        "pinned_tweet_id": "1987420222849229222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973425672623468544/i_bHcaYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 2397,
+          "like_count": 12914,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 2235
+        },
+        "username": "wenqing18973238",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-30T12:08:16.000Z",
+        "description": "cybersecurity/ ethical philosophy and more/ Likes means I've read\n\nhttps://t.co/ypk8kLJ0Q2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@machan",
+                "end": 90,
+                "expanded_url": "https://m.cmx.im/@machan",
+                "start": 67,
+                "url": "https://t.co/ypk8kLJ0Q2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/InfanterieDivi…",
+                "end": 23,
+                "expanded_url": "https://t.me/InfanterieDivision35",
+                "start": 0,
+                "url": "https://t.co/pOhtCyc926"
+              }
+            ]
+          }
+        },
+        "id": "1111963348252397574",
+        "name": "甜味麻酱🦈",
+        "pinned_tweet_id": "1983282324495315389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503218322665619464/kP3337Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2671,
+          "following_count": 628,
+          "like_count": 63935,
+          "listed_count": 19,
+          "media_count": 459,
+          "tweet_count": 9343
+        },
+        "url": "https://t.co/pOhtCyc926",
+        "username": "machan_47291",
+        "verified": false
+      }
+    ]
+  }
+}

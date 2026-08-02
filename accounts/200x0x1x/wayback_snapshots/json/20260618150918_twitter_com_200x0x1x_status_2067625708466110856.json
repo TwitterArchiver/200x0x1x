@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2067487254751465524",
+    "created_at": "2026-06-18T15:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067625708466110856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        },
+        {
+          "end": 30,
+          "id": "1759787246587379712",
+          "start": 14,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067625708466110856",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067531536078106767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin @RainEngine2024m 把这些傻逼木桶饭炒作号都b了可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2067487254751465524",
+        "created_at": "2026-06-18T15:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067625708466110856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            },
+            {
+              "end": 30,
+              "id": "1759787246587379712",
+              "start": 14,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067625708466110856",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067531536078106767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin @RainEngine2024m 把这些傻逼木桶饭炒作号都b了可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2067487254751465524",
+        "created_at": "2026-06-18T08:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067531536078106767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067531536078106767",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067487254751465524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024m 啥时候我能不再看到这种傻逼刻板印象+集体认同的图片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066743555121410048/5IXgNP07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 639,
+          "like_count": 27971,
+          "listed_count": 6,
+          "media_count": 2445,
+          "tweet_count": 26761
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "我是伪人。最近一层人生观是v曲和木柜子动画塑造的。最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔 欢迎让我荐书喔。近对政治思想史 英美道德学 德国法学感兴趣。理论物理研究生，梦想的职业是科学史和文学批评。想做一个功利主义的幸福者。我上推就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2066946513994215600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 187,
+          "like_count": 20261,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、合伙人、中国区市场部总经理 | WB@高坂穗奈雪 | 🏳️‍⚧️🍥| ❤️：@RainEngine2024 | 米粉、数码爱好者 | 梗图、手机、政治 | 华人 | 华语/EN/JP | 如有错误 欢迎指出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "RainEngine2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainBuild_2025",
+                "end": 23,
+                "expanded_url": "http://t.me/RainBuild_2025",
+                "start": 0,
+                "url": "https://t.co/kh92v6N9oi"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin China🇹🇼",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2066861247040266622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063923048898768896/VHFTkbhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1670,
+          "like_count": 4759,
+          "listed_count": 13,
+          "media_count": 824,
+          "tweet_count": 2779
+        },
+        "url": "https://t.co/kh92v6N9oi",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

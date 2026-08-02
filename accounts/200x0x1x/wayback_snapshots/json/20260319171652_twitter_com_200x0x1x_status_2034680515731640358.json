@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2034546578778882220",
+    "created_at": "2026-03-19T17:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T18:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034680515731640358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422249668960919592",
+          "start": 0,
+          "username": "whitesaucep9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034680515731640358",
+    "in_reply_to_user_id": "1422249668960919592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034546578778882220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitesaucep9968 法西斯的政治美学化思路吸引了无数潮酷小鬼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2034546578778882220",
+        "created_at": "2026-03-19T17:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034680515731640358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422249668960919592",
+              "start": 0,
+              "username": "whitesaucep9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034680515731640358",
+        "in_reply_to_user_id": "1422249668960919592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034546578778882220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitesaucep9968 法西斯的政治美学化思路吸引了无数潮酷小鬼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422249668960919592",
+        "conversation_id": "2034546578778882220",
+        "created_at": "2026-03-19T08:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034546578778882220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034546578778882220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅真的是一个很重要的事情，辣脆就是因为制服太帅到现在都有一批傻卵青少年当成时尚单品，乍一看他们在用二战背景搞深度和反思，其实谁都明白那点深度和反思的存在只是为了给搞辣脆增加合法性而已。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033980314771468288/Vv3qeE96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 991,
+          "like_count": 27112,
+          "listed_count": 6,
+          "media_count": 2385,
+          "tweet_count": 25862
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "",
+        "id": "1422249668960919592",
+        "location": "Los Cielos,ER",
+        "name": "紀念品",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029936379304796160/wJ6YF2oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 3078,
+          "like_count": 46399,
+          "listed_count": 7,
+          "media_count": 329,
+          "tweet_count": 21510
+        },
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

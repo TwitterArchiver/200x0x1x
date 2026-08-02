@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2078328261235659113",
+    "created_at": "2026-07-18T04:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078331665001435587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431878843032379392",
+          "start": 0,
+          "username": "Bashanopl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078331665001435587",
+    "in_reply_to_user_id": "1431878843032379392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078328261235659113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bashanopl 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078328251412602880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe0iIAbYAAQ8ih.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078328261235659113",
+        "created_at": "2026-07-18T04:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078331665001435587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431878843032379392",
+              "start": 0,
+              "username": "Bashanopl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078331665001435587",
+        "in_reply_to_user_id": "1431878843032379392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078328261235659113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bashanopl 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078328251412602880"
+          ]
+        },
+        "author_id": "1431878843032379392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078328261235659113",
+        "created_at": "2026-07-18T03:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078328261235659113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPksu9eiW0",
+              "end": 30,
+              "expanded_url": "https://x.com/Bashanopl/status/2078328261235659113/photo/1",
+              "media_key": "3_2078328251412602880",
+              "start": 7,
+              "url": "https://t.co/FPksu9eiW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078328261235659113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享杭州美食 https://t.co/FPksu9eiW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 675,
+          "like_count": 28677,
+          "listed_count": 7,
+          "media_count": 2472,
+          "tweet_count": 27406
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-29T07:18:24.000Z",
+        "description": "我也只是万千烧鸡中的一只罢了",
+        "id": "1431878843032379392",
+        "name": "BGEOUL",
+        "pinned_tweet_id": "1577084691332505601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594144110838878210/KNy-R08E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 713,
+          "like_count": 7464,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1704
+        },
+        "url": "",
+        "username": "Bashanopl",
+        "verified": false
+      }
+    ]
+  }
+}

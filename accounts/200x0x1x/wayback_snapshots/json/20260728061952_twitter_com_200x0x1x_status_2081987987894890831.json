@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081987976964579328"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2081987987894890831",
+    "created_at": "2026-07-28T06:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081987987894890831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbf9kih27P",
+          "end": 164,
+          "expanded_url": "https://x.com/200x0x1x/status/2081987987894890831/photo/1",
+          "media_key": "3_2081987976964579328",
+          "start": 141,
+          "url": "https://t.co/fbf9kih27P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081987987894890831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我喜欢和那些让我失控的人待在一块。那种轴承机器持续撞击夹芯钢板的失控感让人痴迷。线性加速的机械碰撞。通过将自己卷入一种与他人的共谋，我向他者请求死亡。我请求被践踏、伤害、凌辱、剧烈破坏。我申请提交死亡的微量摄入、中量摄入或者大量摄入的表格。像一枚银针，飞向血流和它错综复杂的根系。飞向情人的共通体。飞向床。飞向人和他的守护神双向转写的面庞、梦者喃喃癔语的嘴唇。飞向湿淋淋的语言的尿道。飞向脆弱不安的生命。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢和那些让我失控的人待在一块。那种轴承机器持续撞击夹芯钢板的失控感让人痴迷。线性加速的机械碰撞。通过将自己卷入一种与他人的共谋，我向他者请求死亡。我请求被践踏、伤害、凌辱、剧烈破坏。我申请提交死亡的微量摄入、中量摄入或者大量摄入的表格。像一枚银针，飞向血流和它错综复杂的根系。 https://t.co/fbf9kih27P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2081987976964579328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOS1CMGboAAC9z9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081987976964579328"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2081987987894890831",
+        "created_at": "2026-07-28T06:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081987987894890831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbf9kih27P",
+              "end": 164,
+              "expanded_url": "https://x.com/200x0x1x/status/2081987987894890831/photo/1",
+              "media_key": "3_2081987976964579328",
+              "start": 141,
+              "url": "https://t.co/fbf9kih27P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081987987894890831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我喜欢和那些让我失控的人待在一块。那种轴承机器持续撞击夹芯钢板的失控感让人痴迷。线性加速的机械碰撞。通过将自己卷入一种与他人的共谋，我向他者请求死亡。我请求被践踏、伤害、凌辱、剧烈破坏。我申请提交死亡的微量摄入、中量摄入或者大量摄入的表格。像一枚银针，飞向血流和它错综复杂的根系。飞向情人的共通体。飞向床。飞向人和他的守护神双向转写的面庞、梦者喃喃癔语的嘴唇。飞向湿淋淋的语言的尿道。飞向脆弱不安的生命。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢和那些让我失控的人待在一块。那种轴承机器持续撞击夹芯钢板的失控感让人痴迷。线性加速的机械碰撞。通过将自己卷入一种与他人的共谋，我向他者请求死亡。我请求被践踏、伤害、凌辱、剧烈破坏。我申请提交死亡的微量摄入、中量摄入或者大量摄入的表格。像一枚银针，飞向血流和它错综复杂的根系。 https://t.co/fbf9kih27P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081174842183913473/XrbQdDCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 678,
+          "like_count": 28800,
+          "listed_count": 7,
+          "media_count": 2500,
+          "tweet_count": 27682
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030036824588972032"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2030036830263955506",
+    "created_at": "2026-03-06T21:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T22:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030036830263955506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxO4PUYs4K",
+          "end": 54,
+          "expanded_url": "https://x.com/200x0x1x/status/2030036830263955506/photo/1",
+          "media_key": "3_2030036824588972032",
+          "start": 31,
+          "url": "https://t.co/mxO4PUYs4K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030036830263955506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不好意思，我刚意识到我需要有地方发布照片，让我小小地诈尸一下 https://t.co/mxO4PUYs4K"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030036830263955506].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030036830263955506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030036830263955506"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2030036824588972032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwjvIKWcAA3oE7.jpg",
+        "width": 1599
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030035844396896257/teWYCMTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2380,
+          "tweet_count": 25784
+        },
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

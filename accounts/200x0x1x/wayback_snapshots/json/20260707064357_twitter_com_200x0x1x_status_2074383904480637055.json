@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2074372540513075346",
+    "created_at": "2026-07-07T06:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074383904480637055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594744268282699777",
+          "start": 0,
+          "username": "ALTHUSSERin1960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074383904480637055",
+    "in_reply_to_user_id": "1594744268282699777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074383645842846091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALTHUSSERin1960 不规训了，其实外放大于内耗对精神健康有好处"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2074372540513075346",
+        "created_at": "2026-07-07T06:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074383904480637055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594744268282699777",
+              "start": 0,
+              "username": "ALTHUSSERin1960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074383904480637055",
+        "in_reply_to_user_id": "1594744268282699777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074383645842846091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALTHUSSERin1960 不规训了，其实外放大于内耗对精神健康有好处"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594744268282699777",
+        "conversation_id": "2074372540513075346",
+        "created_at": "2026-07-07T06:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074383645842846091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074383645842846091",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074372540513075346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 规训一下……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 629,
+          "like_count": 28266,
+          "listed_count": 6,
+          "media_count": 2457,
+          "tweet_count": 27062
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-21T17:27:42.000Z",
+        "description": "链接是Anna的档案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.annas-archive.org",
+                "end": 23,
+                "expanded_url": "https://zh.annas-archive.org/",
+                "start": 0,
+                "url": "https://t.co/YqvNKdfl8V"
+              }
+            ]
+          }
+        },
+        "id": "1594744268282699777",
+        "location": "China",
+        "name": "The ignorant🔮𝕏",
+        "pinned_tweet_id": "2033858501018325158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069844959436681216/NXUQb4NT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1382,
+          "like_count": 125812,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/YqvNKdfl8V",
+        "username": "ALTHUSSERin1960",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2077502285681500212",
+    "created_at": "2026-07-16T09:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077684557214822839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485965176159363090",
+          "start": 0,
+          "username": "Prisoner1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077684557214822839",
+    "in_reply_to_user_id": "1485965176159363090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077684040619184490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prisoner1213 我怎么了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077502285681500212",
+        "created_at": "2026-07-16T09:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077684557214822839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1485965176159363090",
+              "start": 0,
+              "username": "Prisoner1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077684557214822839",
+        "in_reply_to_user_id": "1485965176159363090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077684040619184490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prisoner1213 我怎么了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485965176159363090",
+        "conversation_id": "2077502285681500212",
+        "created_at": "2026-07-16T09:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077684040619184490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077684040619184490",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077503962450927826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你在和自己对抗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 672,
+          "like_count": 28589,
+          "listed_count": 6,
+          "media_count": 2473,
+          "tweet_count": 27328
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-25T13:18:15.000Z",
+        "description": "我早已抛弃了所有幻想，认可了这乏味且疲惫的人生",
+        "id": "1485965176159363090",
+        "name": "末人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068736724877144064/RFd3GxcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 296,
+          "like_count": 8178,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "Prisoner1213",
+        "verified": false
+      }
+    ]
+  }
+}

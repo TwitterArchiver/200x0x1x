@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2027784763809956153",
+    "created_at": "2026-02-28T16:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027784763809956153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027784763809956153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来这个账号也用了五年了，虽然一直是当做写作练习和记随笔的地方吧，没人做酥选合订本真是太可惜了。总而言之我要离开了，大家有缘再见吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2027784763809956153",
+        "created_at": "2026-02-28T16:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027784763809956153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027784763809956153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来这个账号也用了五年了，虽然一直是当做写作练习和记随笔的地方吧，没人做酥选合订本真是太可惜了。总而言之我要离开了，大家有缘再见吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026972063131430913/t9OL7xzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 976,
+          "like_count": 26940,
+          "listed_count": 6,
+          "media_count": 2388,
+          "tweet_count": 25811
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

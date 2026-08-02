@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2020961512865644583",
+    "created_at": "2026-02-09T20:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T21:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020961512865644583"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020961512865644583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "阅读尼采的诀窍是掌握视角主义的方法论，就像我昨天说的，尼采的哲学是一片森林，相比于阅读中培育一种问题意识，更行之有效的阅读方式是带着问题意识去阅读尼采，用个体性的视角和私人传记去透视他的作品，从中生成自己的尼采主义。就像尼采在《跟我走——跟你走》所说的，跟随尼采的最佳方式是忠实地跟随自己，自由地配置自己的个性表达、风格化塑造、对自我的身体经验和内在激情的书写。视域融合——不在于尼采怎样看，而在于我怎样看尼采。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阅读尼采的诀窍是掌握视角主义的方法论，就像我昨天说的，尼采的哲学是一片森林，相比于阅读中培育一种问题意识，更行之有效的阅读方式是带着问题意识去阅读尼采，用个体性的视角和私人传记去透视他的作品，从中生成自己的尼采主义。就像尼采在《跟我走——跟你走》所说的，跟随尼采的最佳方式是忠实地跟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2020961512865644583",
+        "created_at": "2026-02-09T20:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T21:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020961512865644583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020961512865644583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "阅读尼采的诀窍是掌握视角主义的方法论，就像我昨天说的，尼采的哲学是一片森林，相比于阅读中培育一种问题意识，更行之有效的阅读方式是带着问题意识去阅读尼采，用个体性的视角和私人传记去透视他的作品，从中生成自己的尼采主义。就像尼采在《跟我走——跟你走》所说的，跟随尼采的最佳方式是忠实地跟随自己，自由地配置自己的个性表达、风格化塑造、对自我的身体经验和内在激情的书写。视域融合——不在于尼采怎样看，而在于我怎样看尼采。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阅读尼采的诀窍是掌握视角主义的方法论，就像我昨天说的，尼采的哲学是一片森林，相比于阅读中培育一种问题意识，更行之有效的阅读方式是带着问题意识去阅读尼采，用个体性的视角和私人传记去透视他的作品，从中生成自己的尼采主义。就像尼采在《跟我走——跟你走》所说的，跟随尼采的最佳方式是忠实地跟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020951933981229056/Q2mcq0PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 959,
+          "like_count": 26725,
+          "listed_count": 6,
+          "media_count": 2387,
+          "tweet_count": 25602
+        },
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2021462868617552191",
+    "created_at": "2026-02-11T05:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T06:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021462868617552191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021462868617552191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "绝对虚无主义是欧洲必须经受的命运，这起事件被埃佛拉视作“净化之火”（il fuoco purificatore），在这场最高的试炼（prova suprema）中，有些人会承受灾难，有些人将会走向重生。在赫尔墨斯传统中，炼金工作的完成被视为第二生命树（secondo Albero della Vita）的获得，而那些高贵的种族、先驱和传递火炬者们正致力于“树”的建造。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "绝对虚无主义是欧洲必须经受的命运，这起事件被埃佛拉视作“净化之火”（il fuoco purificatore），在这场最高的试炼（prova suprema）中，有些人会承受灾难，有些人将会走向重生。在赫尔墨斯传统中，炼金工作的完成被视为第二生命树（secondo Albero della"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2021462868617552191",
+        "created_at": "2026-02-11T05:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021462868617552191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021462868617552191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "绝对虚无主义是欧洲必须经受的命运，这起事件被埃佛拉视作“净化之火”（il fuoco purificatore），在这场最高的试炼（prova suprema）中，有些人会承受灾难，有些人将会走向重生。在赫尔墨斯传统中，炼金工作的完成被视为第二生命树（secondo Albero della Vita）的获得，而那些高贵的种族、先驱和传递火炬者们正致力于“树”的建造。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝对虚无主义是欧洲必须经受的命运，这起事件被埃佛拉视作“净化之火”（il fuoco purificatore），在这场最高的试炼（prova suprema）中，有些人会承受灾难，有些人将会走向重生。在赫尔墨斯传统中，炼金工作的完成被视为第二生命树（secondo Albero della"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020951933981229056/Q2mcq0PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 958,
+          "like_count": 26686,
+          "listed_count": 6,
+          "media_count": 2389,
+          "tweet_count": 25635
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2063430927108214804",
+    "created_at": "2026-06-07T01:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063430927108214804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutecatpost/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cutecatpost/status/2063314593674658273",
+          "start": 13,
+          "url": "https://t.co/OQiIId7hdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063430927108214804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063314593674658273",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和遗传了我精神疾病的猫 https://t.co/OQiIId7hdA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4063,
+        "height": 768,
+        "media_key": "7_2063314576482119680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063314576482119680/pu/img/6CGo-MatTu6Cn6w6.jpg",
+        "public_metrics": {
+          "view_count": 22387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063314576482119680/pu/vid/avc1/320x426/n__YI1gh-j1KvvyJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063314576482119680/pu/vid/avc1/480x640/RBnK-vgjP7g-02w-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063314576482119680/pu/vid/avc1/576x768/fNhRGaz3wrQMueq6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063314576482119680/pu/pl/9ALwhQJBAQE4uMYh.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2063430927108214804",
+        "created_at": "2026-06-07T01:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063430927108214804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutecatpost/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cutecatpost/status/2063314593674658273",
+              "start": 13,
+              "url": "https://t.co/OQiIId7hdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063430927108214804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063314593674658273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和遗传了我精神疾病的猫 https://t.co/OQiIId7hdA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063314576482119680"
+          ]
+        },
+        "author_id": "1557374186091294720",
+        "conversation_id": "2063314593674658273",
+        "created_at": "2026-06-06T17:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063314593674658273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61Wkgon2k6",
+              "end": 23,
+              "expanded_url": "https://x.com/Cutecatpost/status/2063314593674658273/video/1",
+              "media_key": "7_2063314576482119680",
+              "start": 0,
+              "url": "https://t.co/61Wkgon2k6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063314593674658273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 55481,
+          "like_count": 3573,
+          "quote_count": 15,
+          "reply_count": 28,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/61Wkgon2k6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062005095089197057/J7qRqGdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 765,
+          "like_count": 27790,
+          "listed_count": 6,
+          "media_count": 2440,
+          "tweet_count": 26630
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-10T14:32:25.000Z",
+        "description": "Follow me to watch the best cat videos.If you like my content.🐈",
+        "id": "1557374186091294720",
+        "location": "United States",
+        "name": "Cat 🐈",
+        "pinned_tweet_id": "2061490142821621956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027662365161070593/xgf2ye-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16325,
+          "following_count": 6525,
+          "like_count": 5996,
+          "listed_count": 46,
+          "media_count": 5114,
+          "tweet_count": 6214
+        },
+        "username": "Cutecatpost",
+        "verified": true
+      }
+    ]
+  }
+}

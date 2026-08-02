@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2069363126999654730",
+    "created_at": "2026-06-23T20:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T21:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069512734035595677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041218436651794433",
+          "start": 0,
+          "username": "4pinkmatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069512734035595677",
+    "in_reply_to_user_id": "2041218436651794433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069363126999654730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4pinkmatter 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2069363126999654730",
+        "created_at": "2026-06-23T20:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069512734035595677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041218436651794433",
+              "start": 0,
+              "username": "4pinkmatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069512734035595677",
+        "in_reply_to_user_id": "2041218436651794433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069363126999654730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4pinkmatter 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041218436651794433",
+        "conversation_id": "2069363126999654730",
+        "created_at": "2026-06-23T10:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069363126999654730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069363126999654730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很厌恶这个平台上用二次元头像天天发键政话题炒作的潮酷小孩，他们一年都摸不到几次草你们居然还愿意陪他玩儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069502738468069376/Idqh6aqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 633,
+          "like_count": 28095,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26841
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:18:32.000Z",
+        "description": "❤️@chibanak1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "chibanak1"
+              }
+            ]
+          }
+        },
+        "id": "2041218436651794433",
+        "name": "Kagayaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041558738923089922/et6jQmnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 89,
+          "like_count": 2037,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "4pinkmatter",
+        "verified": false
+      }
+    ]
+  }
+}

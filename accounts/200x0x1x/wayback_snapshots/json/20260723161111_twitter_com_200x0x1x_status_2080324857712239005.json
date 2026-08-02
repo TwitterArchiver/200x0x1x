@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2080316525471518927",
+    "created_at": "2026-07-23T16:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080324857712239005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699268392128258048",
+          "start": 0,
+          "username": "lanlanlan1112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080324857712239005",
+    "in_reply_to_user_id": "1699268392128258048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080316525471518927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanlanlan1112 我靠又是我互关"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080316525471518927].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080316525471518927",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080316525471518927"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2080316525471518927",
+        "created_at": "2026-07-23T16:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080324857712239005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699268392128258048",
+              "start": 0,
+              "username": "lanlanlan1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080324857712239005",
+        "in_reply_to_user_id": "1699268392128258048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080316525471518927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanlanlan1112 我靠又是我互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 677,
+          "like_count": 28796,
+          "listed_count": 7,
+          "media_count": 2496,
+          "tweet_count": 27600
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T03:49:06.000Z",
+        "description": "嘻嘻",
+        "id": "1699268392128258048",
+        "location": "👁",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019467401142931456/Hya2REOH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 487,
+          "like_count": 28427,
+          "listed_count": 1,
+          "media_count": 846,
+          "tweet_count": 15487
+        },
+        "url": "",
+        "username": "lanlanlan1112",
+        "verified": false
+      }
+    ]
+  }
+}

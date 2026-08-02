@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2045831113344705015",
+    "created_at": "2026-04-19T13:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045861979210780828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045861979210780828",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045831113344705015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 好可爱啊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16558,
+        "height": 720,
+        "media_key": "13_2045830997103779840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045830997103779840/img/vxGfG8y95hDE0vc4.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045830997103779840/vid/avc1/320x320/eZUZu0ZV4PeggdZB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045830997103779840/vid/avc1/540x540/OmVQBV00elOGQx6n.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045830997103779840/vid/avc1/720x720/C8_kYAezr13YhlP3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045830997103779840/pl/ZaapyVVepzxK7_eu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2045831113344705015",
+        "created_at": "2026-04-19T13:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045861979210780828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045861979210780828",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045831113344705015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好可爱啊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045830997103779840"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2045831113344705015",
+        "created_at": "2026-04-19T11:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045831113344705015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0UA0b2EgB",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2045831113344705015/video/1",
+              "media_key": "13_2045830997103779840",
+              "start": 0,
+              "url": "https://t.co/c0UA0b2EgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045831113344705015",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c0UA0b2EgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044618514850312192/Xg2Zvf3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1012,
+          "like_count": 27395,
+          "listed_count": 6,
+          "media_count": 2403,
+          "tweet_count": 26143
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 265,
+          "like_count": 8357,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 3231
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

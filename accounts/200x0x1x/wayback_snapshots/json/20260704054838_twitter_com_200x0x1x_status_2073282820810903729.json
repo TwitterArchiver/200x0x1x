@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2073267801310314645",
+    "created_at": "2026-07-04T05:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073282820810903729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485965176159363090",
+          "start": 0,
+          "username": "Prisoner1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073282820810903729",
+    "in_reply_to_user_id": "1485965176159363090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073281977579606389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prisoner1213 死全家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2073267801310314645",
+        "created_at": "2026-07-04T05:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073282820810903729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1485965176159363090",
+              "start": 0,
+              "username": "Prisoner1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073282820810903729",
+        "in_reply_to_user_id": "1485965176159363090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073281977579606389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prisoner1213 死全家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485965176159363090",
+        "conversation_id": "2073267801310314645",
+        "created_at": "2026-07-04T05:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073281977579606389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073281977579606389",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073267801310314645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 这种傻逼能不能自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 650,
+          "like_count": 28176,
+          "listed_count": 6,
+          "media_count": 2454,
+          "tweet_count": 26988
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T13:18:15.000Z",
+        "description": "我早已抛弃了所有幻想，认可了这乏味且疲惫的人生",
+        "id": "1485965176159363090",
+        "name": "末人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068736724877144064/RFd3GxcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 298,
+          "like_count": 8203,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "Prisoner1213",
+        "verified": false
+      }
+    ]
+  }
+}

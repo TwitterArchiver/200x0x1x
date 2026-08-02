@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2081228903381869040",
+    "created_at": "2026-07-26T04:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081229432619188711"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081229432619188711",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081228903381869040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿里阿德涅哀歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2081228903381869040",
+        "created_at": "2026-07-26T04:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081229432619188711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081229432619188711",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081228903381869040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿里阿德涅哀歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2081228903381869040",
+        "created_at": "2026-07-26T04:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081228903381869040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwx67751673/st…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/wwx67751673/status/2081226013275742671",
+              "start": 93,
+              "url": "https://t.co/X5NpQvBtt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081228903381869040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081226013275742671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，其实谈尼采谈太多了有点疲。尼采的神学取向一方面可以去看墙上的书写，这里有他对基督教的态度。另一方面可以参考阿里阿德涅颂歌还有查拉图的魔术师，那里有对尼采设想的神-人关系的一些讨论。 https://t.co/X5NpQvBtt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081174842183913473/XrbQdDCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 679,
+          "like_count": 28757,
+          "listed_count": 7,
+          "media_count": 2498,
+          "tweet_count": 27650
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

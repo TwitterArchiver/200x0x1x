@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2080300530006720778",
+    "created_at": "2026-07-24T07:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080558441584869801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074872793737625600",
+          "start": 0,
+          "username": "Gwaaaaabieee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080558441584869801",
+    "in_reply_to_user_id": "2074872793737625600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080300530006720778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gwaaaaabieee 我喜欢你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2080300530006720778",
+        "created_at": "2026-07-24T07:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080558441584869801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074872793737625600",
+              "start": 0,
+              "username": "Gwaaaaabieee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080558441584869801",
+        "in_reply_to_user_id": "2074872793737625600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080300530006720778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gwaaaaabieee 我喜欢你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074872793737625600",
+        "conversation_id": "2080300530006720778",
+        "created_at": "2026-07-23T14:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080300530006720778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080300530006720778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有人喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080527103204950016/4_dxQxG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 678,
+          "like_count": 28803,
+          "listed_count": 7,
+          "media_count": 2495,
+          "tweet_count": 27612
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-08T15:11:38.000Z",
+        "description": "",
+        "id": "2074872793737625600",
+        "name": "Gwaaaaabieee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074874985966186496/h75KPcXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 51,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "Gwaaaaabieee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2071956024538632383",
+    "created_at": "2026-06-30T23:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T00:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072103934219747665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1167533670875435010",
+          "start": 0,
+          "username": "JayCheung1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072103934219747665",
+    "in_reply_to_user_id": "1167533670875435010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072103057500881347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayCheung1989 主包今年八月份就毕业，现在提前一个月回港了，应该不会再回芝加哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2071956024538632383",
+        "created_at": "2026-06-30T23:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072103934219747665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1167533670875435010",
+              "start": 0,
+              "username": "JayCheung1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072103934219747665",
+        "in_reply_to_user_id": "1167533670875435010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072103057500881347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayCheung1989 主包今年八月份就毕业，现在提前一个月回港了，应该不会再回芝加哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167533670875435010",
+        "conversation_id": "2071956024538632383",
+        "created_at": "2026-06-30T23:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072103057500881347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072103057500881347",
+        "in_reply_to_user_id": "1167533670875435010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072006225189826714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 下次找我大学同学 顺便找你玩😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "susuangelbaby⁺✧ ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 639,
+          "like_count": 28097,
+          "listed_count": 6,
+          "media_count": 2452,
+          "tweet_count": 26921
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T20:25:02.000Z",
+        "description": "",
+        "id": "1167533670875435010",
+        "name": "阿特拉斯不换肩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915259521913569280/FKw3-bxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 636,
+          "like_count": 22353,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 6975
+        },
+        "url": "",
+        "username": "JayCheung1989",
+        "verified": false
+      }
+    ]
+  }
+}

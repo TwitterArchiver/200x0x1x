@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2036675079430451704",
+    "created_at": "2026-03-25T05:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036675079430451704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036675079430451704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "人类灵魂变得潮湿、正在凝结、变暗、变回水；正如同它们曾经升入大气，和太阳神的碗一起。永恒的活火啊，你奋力燃烧，生成的只是一堆垃圾。在孩童-宙斯（那些猿猴般无辜的诸神）的永恒跳棋中，唯有那些高贵的灵魂能够匹配伟大的死亡与命运，这使他们的灵魂保持火的干燥，令灵魂提升为半神，成为终有一死者和遗体的守卫。然而，变得潮湿是我们的命运，远古的涛声正一层层卷过来，它就要撞碎整片大陆了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类灵魂变得潮湿、正在凝结、变暗、变回水；正如同它们曾经升入大气，和太阳神的碗一起。永恒的活火啊，你奋力燃烧，生成的只是一堆垃圾。在孩童-宙斯（那些猿猴般无辜的诸神）的永恒跳棋中，唯有那些高贵的灵魂能够匹配伟大的死亡与命运，这使他们的灵魂保持火的干燥，令灵魂提升为半神，成为终有一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2036675079430451704",
+        "created_at": "2026-03-25T05:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036675079430451704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036675079430451704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人类灵魂变得潮湿、正在凝结、变暗、变回水；正如同它们曾经升入大气，和太阳神的碗一起。永恒的活火啊，你奋力燃烧，生成的只是一堆垃圾。在孩童-宙斯（那些猿猴般无辜的诸神）的永恒跳棋中，唯有那些高贵的灵魂能够匹配伟大的死亡与命运，这使他们的灵魂保持火的干燥，令灵魂提升为半神，成为终有一死者和遗体的守卫。然而，变得潮湿是我们的命运，远古的涛声正一层层卷过来，它就要撞碎整片大陆了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类灵魂变得潮湿、正在凝结、变暗、变回水；正如同它们曾经升入大气，和太阳神的碗一起。永恒的活火啊，你奋力燃烧，生成的只是一堆垃圾。在孩童-宙斯（那些猿猴般无辜的诸神）的永恒跳棋中，唯有那些高贵的灵魂能够匹配伟大的死亡与命运，这使他们的灵魂保持火的干燥，令灵魂提升为半神，成为终有一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035926313442414592/4tbYApkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 1001,
+          "like_count": 27184,
+          "listed_count": 6,
+          "media_count": 2391,
+          "tweet_count": 25931
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

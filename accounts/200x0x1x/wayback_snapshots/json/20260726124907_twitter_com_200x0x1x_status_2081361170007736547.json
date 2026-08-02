@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2081357373948731512",
+    "created_at": "2026-07-26T12:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081361170007736547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580634879213318144",
+          "start": 0,
+          "username": "DevilsTrumpetVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081361170007736547",
+    "in_reply_to_user_id": "1580634879213318144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081360238012457393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DevilsTrumpetVI 爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2081357373948731512",
+        "created_at": "2026-07-26T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081361170007736547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580634879213318144",
+              "start": 0,
+              "username": "DevilsTrumpetVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081361170007736547",
+        "in_reply_to_user_id": "1580634879213318144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081360238012457393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DevilsTrumpetVI 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580634879213318144",
+        "conversation_id": "2081357373948731512",
+        "created_at": "2026-07-26T12:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081360238012457393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081360238012457393",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081357373948731512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你一定会幸福！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081174842183913473/XrbQdDCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 678,
+          "like_count": 28780,
+          "listed_count": 7,
+          "media_count": 2498,
+          "tweet_count": 27665
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "And all lost beauty is borne upon the wind; in its vanishing wake, white blossoms drift like snow, mourning a world unborn\n\n想互fo可以直接跟我私信的呀~",
+        "id": "1580634879213318144",
+        "location": "Erewhon",
+        "name": "Phlonika🏴🚩🌹🍉🌻",
+        "pinned_tweet_id": "2078845903742668902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077515587325227008/AaUEe0BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 439,
+          "like_count": 25353,
+          "listed_count": 16,
+          "media_count": 398,
+          "tweet_count": 7963
+        },
+        "url": "",
+        "username": "DevilsTrumpetVI",
+        "verified": true
+      }
+    ]
+  }
+}

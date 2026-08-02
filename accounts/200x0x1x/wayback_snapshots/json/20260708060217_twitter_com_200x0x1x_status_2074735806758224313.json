@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074535292674208067",
+    "created_at": "2026-07-08T06:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074735806758224313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050870146525466624",
+          "start": 0,
+          "username": "ri__ko__1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074735806758224313",
+    "in_reply_to_user_id": "2050870146525466624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074690504705663356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ri__ko__1119 还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074535292674208067",
+        "created_at": "2026-07-08T06:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074735806758224313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050870146525466624",
+              "start": 0,
+              "username": "ri__ko__1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074735806758224313",
+        "in_reply_to_user_id": "2050870146525466624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074690504705663356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ri__ko__1119 还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050870146525466624",
+        "conversation_id": "2074535292674208067",
+        "created_at": "2026-07-08T03:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074690504705663356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074690504705663356",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074535292674208067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 還好嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 632,
+          "like_count": 28292,
+          "listed_count": 6,
+          "media_count": 2460,
+          "tweet_count": 27093
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-03T09:30:19.000Z",
+        "description": "18歲的人兒",
+        "id": "2050870146525466624",
+        "location": "杜芬舒斯博士的邪惡企業",
+        "name": "璃栞",
+        "pinned_tweet_id": "2072880060978319793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052372153123962880/fSAsVdoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 157,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "ri__ko__1119",
+        "verified": false
+      }
+    ]
+  }
+}

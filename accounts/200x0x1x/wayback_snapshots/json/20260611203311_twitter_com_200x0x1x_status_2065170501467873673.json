@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2065170501467873673",
+    "created_at": "2026-06-11T20:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T21:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065170501467873673"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065170501467873673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我和理发师的关系真的处成情侣了，我把小心翼翼建立起的信任交给这个人，他却难以置信地背叛了我。在我深夜和闺蜜狂发消息痛斥这个男人之后，很快我去找了新欢，我去找了另一个理发师，但是却发现这一任更是个败类。渐渐地，我开始怀念起我和前任理发师的往日种种，于是ghost他几个月之后我又再一次地推开店门请求复合，而他只是抬眼看了一下我，露出那种熟悉的、狡黠的笑：你回来了啊。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和理发师的关系真的处成情侣了，我把小心翼翼建立起的信任交给这个人，他却难以置信地背叛了我。在我深夜和闺蜜狂发消息痛斥这个男人之后，很快我去找了新欢，我去找了另一个理发师，但是却发现这一任更是个败类。渐渐地，我开始怀念起我和前任理发师的往日种种，于是ghost他几个月之后我又再一次地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2065170501467873673",
+        "created_at": "2026-06-11T20:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065170501467873673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065170501467873673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我和理发师的关系真的处成情侣了，我把小心翼翼建立起的信任交给这个人，他却难以置信地背叛了我。在我深夜和闺蜜狂发消息痛斥这个男人之后，很快我去找了新欢，我去找了另一个理发师，但是却发现这一任更是个败类。渐渐地，我开始怀念起我和前任理发师的往日种种，于是ghost他几个月之后我又再一次地推开店门请求复合，而他只是抬眼看了一下我，露出那种熟悉的、狡黠的笑：你回来了啊。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和理发师的关系真的处成情侣了，我把小心翼翼建立起的信任交给这个人，他却难以置信地背叛了我。在我深夜和闺蜜狂发消息痛斥这个男人之后，很快我去找了新欢，我去找了另一个理发师，但是却发现这一任更是个败类。渐渐地，我开始怀念起我和前任理发师的往日种种，于是ghost他几个月之后我又再一次地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065160223313068032/hZhibMJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 764,
+          "like_count": 27815,
+          "listed_count": 6,
+          "media_count": 2443,
+          "tweet_count": 26697
+        },
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

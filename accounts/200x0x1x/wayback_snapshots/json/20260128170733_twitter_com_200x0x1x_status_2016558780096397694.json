@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2015780294553694383",
+    "created_at": "2026-01-28T17:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016558780096397694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875156060753068033",
+          "start": 0,
+          "username": "xinSun488850"
+        },
+        {
+          "end": 28,
+          "id": "1561588899499196417",
+          "start": 14,
+          "username": "Tiandaidaidai"
+        },
+        {
+          "end": 41,
+          "id": "1992818262560960512",
+          "start": 29,
+          "username": "Puppy_Sukiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016558780096397694",
+    "in_reply_to_user_id": "1875156060753068033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015965919487627511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinSun488850 @Tiandaidaidai @Puppy_Sukiz 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2015780294553694383",
+        "created_at": "2026-01-28T17:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016558780096397694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875156060753068033",
+              "start": 0,
+              "username": "xinSun488850"
+            },
+            {
+              "end": 28,
+              "id": "1561588899499196417",
+              "start": 14,
+              "username": "Tiandaidaidai"
+            },
+            {
+              "end": 41,
+              "id": "1992818262560960512",
+              "start": 29,
+              "username": "Puppy_Sukiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016558780096397694",
+        "in_reply_to_user_id": "1875156060753068033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015965919487627511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinSun488850 @Tiandaidaidai @Puppy_Sukiz 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875156060753068033",
+        "conversation_id": "2015780294553694383",
+        "created_at": "2026-01-27T01:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T02:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015965919487627511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992818262560960512",
+              "start": 0,
+              "username": "Puppy_Sukiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015965919487627511",
+        "in_reply_to_user_id": "1992818262560960512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 53624,
+          "like_count": 2270,
+          "quote_count": 9,
+          "reply_count": 77,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015780294553694383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppy_Sukiz 你俩是俩傻逼么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 946,
+          "like_count": 26626,
+          "listed_count": 6,
+          "media_count": 2371,
+          "tweet_count": 25483
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-03T12:23:51.000Z",
+        "description": "",
+        "id": "1875156060753068033",
+        "location": "London, England",
+        "name": "XXsXX SS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876172626739298304/kdOl46BJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 181,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 95
+        },
+        "username": "xinSun488850",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈割手欧迪女 丨 LGBT+全友好🏳️‍🌈 丨 能看出成分的全会回fo 丨锁推只是被骚扰烦了丨 狗@GHYYAYA 丨 提问箱https://t.co/AmAjPaB8NL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 87,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 64,
+                "url": "https://t.co/AmAjPaB8NL"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1985969041769701887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012564939748102144/b5AKqd44_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 2203,
+          "like_count": 76508,
+          "listed_count": 11,
+          "media_count": 706,
+          "tweet_count": 11249
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T04:51:23.000Z",
+        "description": "🈚️🚪记录和主人的点滴（日记本）纯爱 情侣主奴！请放心食用，希望永远和主人在一起❤️ 狗爱你 一个switch偏s的主人：@HNMUDXZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "HNMUDXZ"
+              }
+            ]
+          }
+        },
+        "id": "1992818262560960512",
+        "location": "你心里",
+        "name": "是一只坏小狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992818609220096001/2Dqfo3SS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6150,
+          "following_count": 7,
+          "like_count": 33,
+          "listed_count": 12,
+          "media_count": 63,
+          "tweet_count": 88
+        },
+        "username": "Puppy_Sukiz",
+        "verified": false
+      }
+    ]
+  }
+}

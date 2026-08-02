@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984110050257072557",
+    "created_at": "2025-10-31T09:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T10:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984192032370245885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Uturo_Bune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984192032370245885",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984167495637594174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uturo_Bune 好啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1984110050257072557",
+        "created_at": "2025-10-31T09:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984192032370245885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Uturo_Bune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984192032370245885",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984167495637594174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uturo_Bune 好啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "1984110050257072557",
+        "created_at": "2025-10-31T07:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984167495637594174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984167495637594174",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984110050257072557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 为你补足能力好不好。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "200x0x1x",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 916,
+          "like_count": 25796,
+          "listed_count": 7,
+          "media_count": 2313,
+          "tweet_count": 24833
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "因此，时间将来到，他们眼睛上的鳞片将脱落｜妹妹@suwanzi2333｜导师@CMWither｜白月光@200x0x1x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "suwanzi2333"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "CMWither"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "200x0x1x"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "1955065959464702427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959725077286854656/BR6dJPAQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 297,
+          "like_count": 34643,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 8374
+        },
+        "username": "Uturo_Bune",
+        "verified": false
+      }
+    ]
+  }
+}

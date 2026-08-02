@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2037573154789298197",
+    "created_at": "2026-03-28T05:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037768277347237918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938140109792325632",
+          "start": 0,
+          "username": "SyRainstormTTN"
+        },
+        {
+          "end": 31,
+          "id": "1587633987840872450",
+          "start": 16,
+          "username": "yigetangxindan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037768277347237918",
+    "in_reply_to_user_id": "1938140109792325632",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037767821758001360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyRainstormTTN @yigetangxindan &gt; &lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2037573154789298197",
+        "created_at": "2026-03-28T05:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037768277347237918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938140109792325632",
+              "start": 0,
+              "username": "SyRainstormTTN"
+            },
+            {
+              "end": 31,
+              "id": "1587633987840872450",
+              "start": 16,
+              "username": "yigetangxindan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037768277347237918",
+        "in_reply_to_user_id": "1938140109792325632",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037767821758001360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyRainstormTTN @yigetangxindan &gt; &lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938140109792325632",
+        "conversation_id": "2037573154789298197",
+        "created_at": "2026-03-28T05:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037767821758001360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 25,
+              "id": "1587633987840872450",
+              "start": 10,
+              "username": "yigetangxindan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037767821758001360",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037724426792288509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x @yigetangxindan 🫳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037297925848551424/CBkDuAq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1003,
+          "like_count": 27262,
+          "listed_count": 6,
+          "media_count": 2393,
+          "tweet_count": 25968
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "当黑天鹅从成为白天鹅的美梦中苏醒时，会发生什么呢？",
+        "id": "1938140109792325632",
+        "location": "24",
+        "name": "F-02-70",
+        "pinned_tweet_id": "2025933089906831791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033201038774439937/8uN3QIpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 426,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2823
+        },
+        "username": "SyRainstormTTN",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T02:33:58.000Z",
+        "description": "推止于推｜最爱吃溏心蛋拌炒饭｜此号是我为非作歹找下饭菜的天地，所以我啥都说😋｜雪兔不加请你屏蔽我谢谢｜给我发吊的都枪毙｜如果我管住嘴一定是世界上最富的人🍳｜https://t.co/id8JwD8uWt ⬅️阿瑟请问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yigetangxindan",
+                "end": 101,
+                "expanded_url": "https://ngl.link/yigetangxindan",
+                "start": 78,
+                "url": "https://t.co/id8JwD8uWt"
+              }
+            ]
+          }
+        },
+        "id": "1587633987840872450",
+        "location": "不设🚪私信口令红包随意",
+        "name": "溏心蛋",
+        "pinned_tweet_id": "2034245594860982704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035918636268072960/xxUz8HPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 80,
+          "like_count": 8924,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1832
+        },
+        "username": "yigetangxindan",
+        "verified": false
+      }
+    ]
+  }
+}

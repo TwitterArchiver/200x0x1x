@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985360089922908160",
+        "3_1985360089968971776"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985361003983384649",
+    "created_at": "2025-11-03T14:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:55:07.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985360094171709685",
+      "1985361003983384649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lpGWagM0tA",
+          "end": 87,
+          "expanded_url": "https://x.com/200x0x1x/status/1985361003983384649/photo/1",
+          "media_key": "3_1985360089922908160",
+          "start": 64,
+          "url": "https://t.co/lpGWagM0tA"
+        },
+        {
+          "display_url": "pic.x.com/lpGWagM0tA",
+          "end": 87,
+          "expanded_url": "https://x.com/200x0x1x/status/1985361003983384649/photo/1",
+          "media_key": "3_1985360089968971776",
+          "start": 64,
+          "url": "https://t.co/lpGWagM0tA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985361003983384649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洞子哥（洗心洞箚记）天天在知乎豆瓣上沉迷自己的颜值不能自拔，现实是大龄中年失业男一枚，只能在网上装逼秀优越感挽回一点点自尊心。 https://t.co/lpGWagM0tA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985360094171709685].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985360094171709685",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985360094171709685"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985361003983384649].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985361003983384649",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985361003983384649"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_1985360089922908160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41qe58XsAATYhs.jpg",
+        "width": 483
+      },
+      {
+        "height": 600,
+        "media_key": "3_1985360089968971776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41qe6HWkAA3QHk.jpg",
+        "width": 1046
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 919,
+          "like_count": 25846,
+          "listed_count": 7,
+          "media_count": 2319,
+          "tweet_count": 24870
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

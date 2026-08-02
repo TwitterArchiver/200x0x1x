@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2006738217916400053",
+    "created_at": "2026-01-01T19:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T20:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006810422905811267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006810422905811267",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006738217916400053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darawkko 细烟谁懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2006738217916400053",
+        "created_at": "2026-01-01T19:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006810422905811267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006810422905811267",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006738217916400053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darawkko 细烟谁懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2006738217916400053",
+        "created_at": "2026-01-01T14:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T15:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006738217916400053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006738217916400053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子就迷上会抽烟的女人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 934,
+          "like_count": 26579,
+          "listed_count": 6,
+          "media_count": 2349,
+          "tweet_count": 25296
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "✞心底里枯萎的玫瑰花🥀o｡.// ♡ agender+pansexual ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//重度焦虑/抑郁/强迫/失眠:(//记录电波发送全过程的赛博日记本(〃ω〃)ᰔ｡ﾟ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bythesoi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bythesoi",
+                "start": 0,
+                "url": "https://t.co/VUomaYv03h"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999509268941135873/wiFo0zU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 152,
+          "like_count": 3537,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/VUomaYv03h",
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

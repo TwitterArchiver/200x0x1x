@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2037353120657797252",
+    "created_at": "2026-03-27T02:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T03:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037353120657797252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/200x0x1x/status/2037352111470457205",
+          "start": 31,
+          "url": "https://t.co/fu2zbk6cJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037353120657797252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037352111470457205",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟我这种会在地板上捡安眠药吃的不要一般见识&gt;_&lt; https://t.co/fu2zbk6cJZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2037353120657797252",
+        "created_at": "2026-03-27T02:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037353120657797252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2037352111470457205",
+              "start": 31,
+              "url": "https://t.co/fu2zbk6cJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037353120657797252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037352111470457205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟我这种会在地板上捡安眠药吃的不要一般见识&gt;_&lt; https://t.co/fu2zbk6cJZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2037352111470457205",
+        "created_at": "2026-03-27T02:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T03:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037352111470457205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037352111470457205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的生活状态：几乎不努力，但是通过努一点点力维持了还在正常生活的表象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037297925848551424/CBkDuAq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 1002,
+          "like_count": 27225,
+          "listed_count": 6,
+          "media_count": 2391,
+          "tweet_count": 25955
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

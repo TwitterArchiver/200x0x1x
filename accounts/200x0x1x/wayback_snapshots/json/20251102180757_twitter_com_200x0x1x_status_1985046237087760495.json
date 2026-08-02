@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984493807413706886",
+    "created_at": "2025-11-02T18:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T19:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985046237087760495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        },
+        {
+          "end": 25,
+          "id": "1591524062488297472",
+          "start": 17,
+          "username": "exzasev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985046237087760495",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985044786202509478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming @exzasev 而我还在等待我自己的父亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1984493807413706886",
+        "created_at": "2025-11-02T18:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985046237087760495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            },
+            {
+              "end": 25,
+              "id": "1591524062488297472",
+              "start": 17,
+              "username": "exzasev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985046237087760495",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985044786202509478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming @exzasev 而我还在等待我自己的父亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540315386931204098",
+        "conversation_id": "1984493807413706886",
+        "created_at": "2025-11-02T18:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985044786202509478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591524062488297472",
+              "start": 0,
+              "username": "exzasev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985044786202509478",
+        "in_reply_to_user_id": "1591524062488297472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984493807413706886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exzasev 天简我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 918,
+          "like_count": 25835,
+          "listed_count": 7,
+          "media_count": 2316,
+          "tweet_count": 24863
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "物知らずの悪役令嬢です、日本語/華语OK。元日本高校生。トランス🏳️‍⚧️ジェンダー。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GS6Tu"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "繭の部屋",
+        "name": "きょうか🪞",
+        "pinned_tweet_id": "1897988161843945674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984094362431844356/Tl-8iPuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1154,
+          "like_count": 9760,
+          "listed_count": 1,
+          "media_count": 859,
+          "tweet_count": 7730
+        },
+        "url": "https://t.co/RiMq5GS6Tu",
+        "username": "kyouka_charming",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T20:11:30.000Z",
+        "description": "人",
+        "id": "1591524062488297472",
+        "location": "比基尼海滩",
+        "name": "Exzasev",
+        "pinned_tweet_id": "1971521335701786937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981052162944774145/tAkbhCvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 166,
+          "like_count": 7543,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 1330
+        },
+        "username": "exzasev",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2072934324559908972",
+    "created_at": "2026-07-03T06:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072934324559908972"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072934324559908972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每天都活得好痛苦啊！一会被男的勾引，一会被女的勾引，两股力量就这样撕裂着我。我现在已经不敢和任何性别的人说话了，感觉到处都是荡妇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2072934324559908972",
+        "created_at": "2026-07-03T06:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072934324559908972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072934324559908972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都活得好痛苦啊！一会被男的勾引，一会被女的勾引，两股力量就这样撕裂着我。我现在已经不敢和任何性别的人说话了，感觉到处都是荡妇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 645,
+          "like_count": 28144,
+          "listed_count": 6,
+          "media_count": 2453,
+          "tweet_count": 26959
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

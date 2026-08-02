@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2038671476681847191",
+    "created_at": "2026-03-30T18:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038680814074937528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476054864027594754",
+          "start": 0,
+          "username": "Shanghai_Repub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038680814074937528",
+    "in_reply_to_user_id": "1476054864027594754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038676288622211111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanghai_Repub 一种艺术运动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2038671476681847191",
+        "created_at": "2026-03-30T18:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038680814074937528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476054864027594754",
+              "start": 0,
+              "username": "Shanghai_Repub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038680814074937528",
+        "in_reply_to_user_id": "1476054864027594754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038676288622211111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanghai_Repub 一种艺术运动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476054864027594754",
+        "conversation_id": "2038671476681847191",
+        "created_at": "2026-03-30T17:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038676288622211111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038676288622211111",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038671476681847191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 什么是达达主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037297925848551424/CBkDuAq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 1004,
+          "like_count": 27249,
+          "listed_count": 6,
+          "media_count": 2396,
+          "tweet_count": 25995
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-29T05:00:03.000Z",
+        "description": "孩子们我投共了请多多支持。",
+        "id": "1476054864027594754",
+        "name": "聯軍來了我帶路，國軍來了我參加",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037303774549848065/JVW0oYxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 793,
+          "like_count": 11656,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1252
+        },
+        "username": "Shanghai_Repub",
+        "verified": true
+      }
+    ]
+  }
+}

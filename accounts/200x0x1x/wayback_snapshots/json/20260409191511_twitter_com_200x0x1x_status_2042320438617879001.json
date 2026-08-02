@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2042125922128507253",
+    "created_at": "2026-04-09T19:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T20:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042320438617879001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725480456509128704",
+          "start": 0,
+          "username": "rbn1012554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042320438617879001",
+    "in_reply_to_user_id": "1725480456509128704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042318647360962600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rbn1012554 我想和女孩亲嘴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2042125922128507253",
+        "created_at": "2026-04-09T19:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042320438617879001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725480456509128704",
+              "start": 0,
+              "username": "rbn1012554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042320438617879001",
+        "in_reply_to_user_id": "1725480456509128704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042318647360962600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rbn1012554 我想和女孩亲嘴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725480456509128704",
+        "conversation_id": "2042125922128507253",
+        "created_at": "2026-04-09T19:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042318647360962600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042318647360962600",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042125922128507253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，蠕动潜行者，活的尸体，请大家把爱托付给精神稳定的本天使吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040217264751009792/mXRoPdVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1005,
+          "like_count": 27265,
+          "listed_count": 6,
+          "media_count": 2400,
+          "tweet_count": 26069
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T11:46:43.000Z",
+        "description": "想躲离世界喧嚣，一心着迷于丰富内心",
+        "id": "1725480456509128704",
+        "name": "逃向远方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041187507795267584/2k7aJ_sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "username": "rbn1012554",
+        "verified": false
+      }
+    ]
+  }
+}

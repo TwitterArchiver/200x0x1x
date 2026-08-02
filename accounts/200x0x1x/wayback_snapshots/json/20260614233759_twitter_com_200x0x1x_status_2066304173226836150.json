@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066304169661657088"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2066304173226836150",
+    "created_at": "2026-06-14T23:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T00:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066304173226836150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DkysTsOZ5S",
+          "end": 147,
+          "expanded_url": "https://x.com/200x0x1x/status/2066304173226836150/photo/1",
+          "media_key": "3_2066304169661657088",
+          "start": 124,
+          "url": "https://t.co/DkysTsOZ5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066304173226836150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我很好奇，在你恬不知耻地大谈爱智慧的时候，有没有回想起自己想当楼瑞珍男友小三天天给人爆米，结果热脸贴冷屁股，气急败坏挂人家的回忆。\n网上花钱找人学哲的富二代败家傻蛆在这装大逼呢。谁不知道你那点三下九流的龌龊心思呀？你对每一个舔过的人，不都是这样？\n料就放这么一点，点到为止。建议你别继续扰我清净。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很好奇，在你恬不知耻地大谈爱智慧的时候，有没有回想起自己想当楼瑞珍男友小三天天给人爆米，结果热脸贴冷屁股，气急败坏挂人家的回忆。\n网上花钱找人学哲的富二代败家傻蛆在这装大逼呢。谁不知道你那点三下九流的龌龊心思呀？你对每一个舔过的人，不都是这样？ https://t.co/DkysTsOZ5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2066304169661657088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKz8sc6XcAAi3lZ.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066304169661657088"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2066304173226836150",
+        "created_at": "2026-06-14T23:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066304173226836150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DkysTsOZ5S",
+              "end": 147,
+              "expanded_url": "https://x.com/200x0x1x/status/2066304173226836150/photo/1",
+              "media_key": "3_2066304169661657088",
+              "start": 124,
+              "url": "https://t.co/DkysTsOZ5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066304173226836150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我很好奇，在你恬不知耻地大谈爱智慧的时候，有没有回想起自己想当楼瑞珍男友小三天天给人爆米，结果热脸贴冷屁股，气急败坏挂人家的回忆。\n网上花钱找人学哲的富二代败家傻蛆在这装大逼呢。谁不知道你那点三下九流的龌龊心思呀？你对每一个舔过的人，不都是这样？\n料就放这么一点，点到为止。建议你别继续扰我清净。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很好奇，在你恬不知耻地大谈爱智慧的时候，有没有回想起自己想当楼瑞珍男友小三天天给人爆米，结果热脸贴冷屁股，气急败坏挂人家的回忆。\n网上花钱找人学哲的富二代败家傻蛆在这装大逼呢。谁不知道你那点三下九流的龌龊心思呀？你对每一个舔过的人，不都是这样？ https://t.co/DkysTsOZ5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065160223313068032/hZhibMJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 766,
+          "like_count": 27884,
+          "listed_count": 6,
+          "media_count": 2446,
+          "tweet_count": 26738
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

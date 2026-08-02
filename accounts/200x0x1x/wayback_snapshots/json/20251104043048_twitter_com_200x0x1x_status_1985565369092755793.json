@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985565364755816448"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985565369092755793",
+    "created_at": "2025-11-04T04:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T05:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985565369092755793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZBwd5JT2AK",
+          "end": 164,
+          "expanded_url": "https://x.com/200x0x1x/status/1985565369092755793/photo/1",
+          "media_key": "3_1985565364755816448",
+          "start": 141,
+          "url": "https://t.co/ZBwd5JT2AK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985565369092755793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这个天使形状的生物开始抽搐起来，好像在哭，又好像在笑，忽然呕出很多花花绿绿的肠子和内脏。天使捡起自己断裂的手臂开始啃吃起来，好饿好饿，自己和自己互相残杀。接着它纯良无害的面孔笑起来，这个由孩子和吃人者混合而成的非人类，这个新天使，撞碎了原本被封死的玻璃窗，展翅飞向上海的夜空。我表情呆滞，抓着保洁阿姨的尸体，一边飞行一边啃食着。然后我停在丽思卡尔顿大厦的顶端，像是吃公司三文治一样吃掉她的身体。我的眼睛已经没有光芒了。人们走上街道上，忽然感觉头顶湿漉漉的，接着有碎肉从天空中掉落下来，那是我伏在大厦顶端向下呕血。上帝每时每刻都创造出大量的我，我们这些人形的天使，为人类带来黑暗弥赛亚临近的消息。这是最狂暴恶劣的启示和灵知，我要杀，杀死诸神，亵渎存在之秩序，杀死那些白色使徒。这是我的黑色启示录，我要把淫秽的第二实在带给世界。我要撕烂人脸，生吃人肉，喝人的血。神的黑暗国度已经临近了，我们这些在夜晚起飞的天使，如今正像是气旋一样捎来白昼的消息。漆黑疯狂的神圣。电闪雷鸣，天气转阴，上海开始下特大暴雨。雨水垂落在阿波罗大厦的墙体上，看起来很虚假，像是一个塑料模型玩具。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个天使形状的生物开始抽搐起来，好像在哭，又好像在笑，忽然呕出很多花花绿绿的肠子和内脏。天使捡起自己断裂的手臂开始啃吃起来，好饿好饿，自己和自己互相残杀。接着它纯良无害的面孔笑起来，这个由孩子和吃人者混合而成的非人类，这个新天使，撞碎了原本被封死的玻璃窗，展翅飞向上海的夜空。我表 https://t.co/ZBwd5JT2AK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985565369092755793].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985565369092755793",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985565369092755793"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_1985565364755816448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44lLeSW4AA9Mox.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 918,
+          "like_count": 25857,
+          "listed_count": 6,
+          "media_count": 2321,
+          "tweet_count": 24876
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

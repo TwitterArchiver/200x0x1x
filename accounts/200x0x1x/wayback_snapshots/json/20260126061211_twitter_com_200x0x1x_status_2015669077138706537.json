@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2015599907604709650",
+    "created_at": "2026-01-26T06:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015669077138706537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699268392128258048",
+          "start": 0,
+          "username": "lanlanlan1112"
+        },
+        {
+          "end": 28,
+          "id": "1804018929481981952",
+          "start": 15,
+          "username": "Extrustomach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015669077138706537",
+    "in_reply_to_user_id": "1699268392128258048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015668113157808268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanlanlan1112 @Extrustomach 你喜欢吃什么，我学着做"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015668113157808268].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015668113157808268",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015668113157808268"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2015599907604709650",
+        "created_at": "2026-01-26T06:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015669077138706537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699268392128258048",
+              "start": 0,
+              "username": "lanlanlan1112"
+            },
+            {
+              "end": 28,
+              "id": "1804018929481981952",
+              "start": 15,
+              "username": "Extrustomach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015669077138706537",
+        "in_reply_to_user_id": "1699268392128258048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015668113157808268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanlanlan1112 @Extrustomach 你喜欢吃什么，我学着做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 945,
+          "like_count": 26603,
+          "listed_count": 6,
+          "media_count": 2370,
+          "tweet_count": 25462
+        },
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T03:49:06.000Z",
+        "description": "嘻嘻",
+        "id": "1699268392128258048",
+        "location": "👁",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931602115212009472/2bItkzIj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 464,
+          "like_count": 25574,
+          "listed_count": 1,
+          "media_count": 659,
+          "tweet_count": 11557
+        },
+        "username": "lanlanlan1112",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T05:11:02.000Z",
+        "description": "我看见这一代最杰出的头脑毁于翻译\n\n                                                                          原教旨地雷系/死人",
+        "id": "1804018929481981952",
+        "location": "Cloudflare",
+        "name": "gemini哭哭🥺",
+        "pinned_tweet_id": "1919684973126418640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006255535910445059/M_kdyH0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 940,
+          "like_count": 60713,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 7794
+        },
+        "username": "Extrustomach",
+        "verified": false
+      }
+    ]
+  }
+}

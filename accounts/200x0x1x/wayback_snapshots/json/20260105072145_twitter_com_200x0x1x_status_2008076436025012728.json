@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2008071765755670664",
+    "created_at": "2026-01-05T07:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T08:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008076436025012728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1015248196782755840",
+          "start": 0,
+          "username": "DoveMagpieCrow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008076436025012728",
+    "in_reply_to_user_id": "1015248196782755840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008075342263759323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoveMagpieCrow 等我学会卷烟了，给你卷一支"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008075342263759323].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008075342263759323",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008075342263759323"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2008071765755670664",
+        "created_at": "2026-01-05T07:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008076436025012728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1015248196782755840",
+              "start": 0,
+              "username": "DoveMagpieCrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008076436025012728",
+        "in_reply_to_user_id": "1015248196782755840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008075342263759323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoveMagpieCrow 等我学会卷烟了，给你卷一支"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 931,
+          "like_count": 26338,
+          "listed_count": 6,
+          "media_count": 2351,
+          "tweet_count": 25306
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-06T14:56:47.000Z",
+        "description": "生人勿近",
+        "id": "1015248196782755840",
+        "name": "白鸽、喜鹊与乌鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942492621483515904/-8yFlNke_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 954,
+          "like_count": 17375,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1752
+        },
+        "username": "DoveMagpieCrow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2049102641247195412",
+    "created_at": "2026-04-28T16:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049160839995818378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995419766954291200",
+          "start": 0,
+          "username": "dinuanmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049160839995818378",
+    "in_reply_to_user_id": "1995419766954291200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049102641247195412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinuanmei 有😽😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2049102485068095488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_f2oLaoAAEaed.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2049102641247195412",
+        "created_at": "2026-04-28T16:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049160839995818378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "dinuanmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049160839995818378",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049102641247195412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinuanmei 有😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049102485068095488"
+          ]
+        },
+        "author_id": "1995419766954291200",
+        "conversation_id": "2049102641247195412",
+        "created_at": "2026-04-28T12:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049102641247195412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qv3PlXPjvS",
+              "end": 37,
+              "expanded_url": "https://x.com/dinuanmei/status/2049102641247195412/photo/1",
+              "media_key": "3_2049102485068095488",
+              "start": 14,
+              "url": "https://t.co/Qv3PlXPjvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049102641247195412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有想被真善美233踩的 https://t.co/Qv3PlXPjvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048849942551412736/YGO7ya6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1027,
+          "like_count": 27565,
+          "listed_count": 6,
+          "media_count": 2407,
+          "tweet_count": 26202
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己和自洽，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "location": "向我提问",
+        "name": "真善美233",
+        "pinned_tweet_id": "2049025212470149227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046992843991060480/BBdOKay1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 121,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "dinuanmei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2013521492240408955",
+    "created_at": "2026-01-20T17:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T18:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013658755552940316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013658755552940316",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013521492240408955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 热锅冷油，只煎一面，快出锅的时候盖上锅盖，用水蒸气蒸熟上面那一面可以煎出漂亮太阳蛋🫰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013521483302060032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_F3HvfWQAAipv9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2013521492240408955",
+        "created_at": "2026-01-20T17:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T18:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013658755552940316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013658755552940316",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013521492240408955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 热锅冷油，只煎一面，快出锅的时候盖上锅盖，用水蒸气蒸熟上面那一面可以煎出漂亮太阳蛋🫰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013521483302060032"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013521492240408955",
+        "created_at": "2026-01-20T07:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T08:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013521492240408955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2XwhESuFm",
+              "end": 41,
+              "expanded_url": "https://x.com/kitty068_ly/status/2013521492240408955/photo/1",
+              "media_key": "3_2013521483302060032",
+              "start": 18,
+              "url": "https://t.co/C2XwhESuFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013521492240408955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 810,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次自己煎蛋真他妈难吃我操〒▽〒 https://t.co/C2XwhESuFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013121169814065153/eIc7KTjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 940,
+          "like_count": 26505,
+          "listed_count": 6,
+          "media_count": 2361,
+          "tweet_count": 25419
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "千万不能让它知道海的那边有什么/认识我，快来向我匿名发问！https://t.co/F3qF2l3b4z ——POME 用兴趣认识你想认识的人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xingququan.com/dlXHxXs0",
+                "end": 52,
+                "expanded_url": "https://www.xingququan.com/dlXHxXs0",
+                "start": 29,
+                "url": "https://t.co/F3qF2l3b4z"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "Fall in love",
+        "name": "易子而食",
+        "pinned_tweet_id": "2010537941366620274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010299285691396096/xLggXpgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 343,
+          "like_count": 2096,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1659
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

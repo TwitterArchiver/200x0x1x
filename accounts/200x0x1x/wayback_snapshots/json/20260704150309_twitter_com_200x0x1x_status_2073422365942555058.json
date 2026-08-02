@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2073410431906123853",
+    "created_at": "2026-07-04T15:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073422365942555058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cihaiz6266/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/cihaiz6266/status/2073420957272707270",
+          "start": 19,
+          "url": "https://t.co/dB3OovheGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073422365942555058",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073420957272707270",
+        "type": "quoted"
+      },
+      {
+        "id": "2073422167732322428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 谁是对的 https://t.co/dB3OovheGP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2073410431906123853",
+        "created_at": "2026-07-04T15:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073422365942555058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cihaiz6266/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/cihaiz6266/status/2073420957272707270",
+              "start": 19,
+              "url": "https://t.co/dB3OovheGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073422365942555058",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073420957272707270",
+            "type": "quoted"
+          },
+          {
+            "id": "2073422167732322428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 谁是对的 https://t.co/dB3OovheGP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807448316306653184",
+        "conversation_id": "2073410431906123853",
+        "created_at": "2026-07-04T14:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073420957272707270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1d9a5370a355ab0c"
+        },
+        "id": "2073420957272707270",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073410431906123853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 换身白色的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2073410431906123853",
+        "created_at": "2026-07-04T15:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073422167732322428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073422167732322428",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073410431906123853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 嗯，就对全身黑色系的可爱很没有抵抗力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 651,
+          "like_count": 28189,
+          "listed_count": 6,
+          "media_count": 2455,
+          "tweet_count": 27002
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "我是伪人。读一些中国古典诗文和西方哲学，最爱的作者是 庾信 杜甫 王沂孙 辛弃疾 周邦彦 康德 黑格尔，欢迎让我荐书喔。最近一层人生观是v曲和木柜子动画塑造的。近对 政治思想史 英美道德学 德国法学 感兴趣。理论物理研究生，梦想的职业是科学史和文学批评。想做一个功利主义的幸福者。我上推就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2072511789150179404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069824631582953472/pBcMGUM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 245,
+          "like_count": 28801,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T16:17:27.000Z",
+        "description": "",
+        "id": "1807448316306653184",
+        "location": "Chicago, IL",
+        "name": "芝加哥布林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807448375035346944/Wlvq4kgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "CihaiZ6266",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078737745716162560"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078737753060286759",
+    "created_at": "2026-07-19T07:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078737753060286759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/qUXVYbSlbgTn…",
+          "end": 36,
+          "expanded_url": "https://mp.weixin.qq.com/s/qUXVYbSlbgTnLxUcmtmiWA",
+          "start": 13,
+          "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAR3XGqjF9kUA-Qy3OfBo1UGAtmTX2JdPG6nAw1X&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqUXVYbSlbgTnLxUcmtmiWA",
+          "url": "https://t.co/muuJqLUEWJ"
+        },
+        {
+          "display_url": "pic.x.com/4SYa2Xzfib",
+          "end": 60,
+          "expanded_url": "https://x.com/200x0x1x/status/2078737753060286759/photo/1",
+          "media_key": "3_2078737745716162560",
+          "start": 37,
+          "url": "https://t.co/4SYa2Xzfib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078737753060286759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上青年收录计划了谢谢大家https://t.co/muuJqLUEWJ https://t.co/4SYa2Xzfib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_2078737745716162560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNko91KbsAAZSdp.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078737745716162560"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078737753060286759",
+        "created_at": "2026-07-19T07:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078737753060286759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/qUXVYbSlbgTn…",
+              "end": 36,
+              "expanded_url": "https://mp.weixin.qq.com/s/qUXVYbSlbgTnLxUcmtmiWA",
+              "start": 13,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAR3XGqjF9kUA-Qy3OfBo1UGAtmTX2JdPG6nAw1X&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqUXVYbSlbgTnLxUcmtmiWA",
+              "url": "https://t.co/muuJqLUEWJ"
+            },
+            {
+              "display_url": "pic.x.com/4SYa2Xzfib",
+              "end": 60,
+              "expanded_url": "https://x.com/200x0x1x/status/2078737753060286759/photo/1",
+              "media_key": "3_2078737745716162560",
+              "start": 37,
+              "url": "https://t.co/4SYa2Xzfib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078737753060286759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上青年收录计划了谢谢大家https://t.co/muuJqLUEWJ https://t.co/4SYa2Xzfib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 676,
+          "like_count": 28718,
+          "listed_count": 7,
+          "media_count": 2483,
+          "tweet_count": 27463
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

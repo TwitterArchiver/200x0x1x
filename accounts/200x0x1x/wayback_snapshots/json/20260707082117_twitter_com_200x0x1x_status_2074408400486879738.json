@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074408400486879738",
+    "created_at": "2026-07-07T08:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074408400486879738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074408400486879738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小哥哥，你的主页我翻遍了，连你照片里反光的地方我都放大仔细看了。你戒心好重啊，你为什么不在推特上公开其他平台的私人联系方式呢？你能不能给我解除拉黑？我小号私信你问你要姓名和家庭住址那条记得回复一下啊，我是不会害你，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074408400486879738",
+        "created_at": "2026-07-07T08:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074408400486879738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074408400486879738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小哥哥，你的主页我翻遍了，连你照片里反光的地方我都放大仔细看了。你戒心好重啊，你为什么不在推特上公开其他平台的私人联系方式呢？你能不能给我解除拉黑？我小号私信你问你要姓名和家庭住址那条记得回复一下啊，我是不会害你，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 629,
+          "like_count": 28267,
+          "listed_count": 6,
+          "media_count": 2457,
+          "tweet_count": 27065
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

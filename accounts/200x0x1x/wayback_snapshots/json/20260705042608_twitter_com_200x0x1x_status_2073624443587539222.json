@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2073584738837877040",
+    "created_at": "2026-07-05T04:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073624443587539222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760994638478118912",
+          "start": 0,
+          "username": "3timesdie333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073624443587539222",
+    "in_reply_to_user_id": "1760994638478118912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073584738837877040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3timesdie333 你读哲学吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_2073584735889371136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbaVLpbsAA2834.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2073584738837877040",
+        "created_at": "2026-07-05T04:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073624443587539222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760994638478118912",
+              "start": 0,
+              "username": "3timesdie333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073624443587539222",
+        "in_reply_to_user_id": "1760994638478118912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073584738837877040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3timesdie333 你读哲学吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073584735889371136"
+          ]
+        },
+        "author_id": "1760994638478118912",
+        "conversation_id": "2073584738837877040",
+        "created_at": "2026-07-05T01:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073584738837877040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ft0YYT8DwS",
+              "end": 35,
+              "expanded_url": "https://x.com/3timesdie333/status/2073584738837877040/photo/1",
+              "media_key": "3_2073584735889371136",
+              "start": 12,
+              "url": "https://t.co/ft0YYT8DwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073584738837877040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操了 我弟要成文艺逼 https://t.co/ft0YYT8DwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 626,
+          "like_count": 28196,
+          "listed_count": 6,
+          "media_count": 2455,
+          "tweet_count": 27021
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-23T11:47:00.000Z",
+        "description": "空荡的外衣被欺骗的身体\n空荡的外衣披在这幸福里\n性别男",
+        "id": "1760994638478118912",
+        "location": "川",
+        "name": "kkkbzydizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032695415985025026/MxZ8Z_TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1161,
+          "like_count": 42033,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 7229
+        },
+        "url": "",
+        "username": "3timesdie333",
+        "verified": false
+      }
+    ]
+  }
+}

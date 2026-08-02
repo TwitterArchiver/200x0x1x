@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2040852542704230690",
+    "created_at": "2026-04-05T18:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040852542704230690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040852542704230690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你爱我，你就不爱我，我不爱你你凭什么爱我？你一定是在跟我作对。如果你不爱我，那么你肯定是爱上我了，嘴上说不爱不就是勾引我吗？那你就是一个骚的男孩，想要玩弄我的感情，我一定不能爱你。这样看来，这个世界上已经没有好男孩了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2040852542704230690",
+        "created_at": "2026-04-05T18:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040852542704230690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040852542704230690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你爱我，你就不爱我，我不爱你你凭什么爱我？你一定是在跟我作对。如果你不爱我，那么你肯定是爱上我了，嘴上说不爱不就是勾引我吗？那你就是一个骚的男孩，想要玩弄我的感情，我一定不能爱你。这样看来，这个世界上已经没有好男孩了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040217264751009792/mXRoPdVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1006,
+          "like_count": 27229,
+          "listed_count": 6,
+          "media_count": 2400,
+          "tweet_count": 26041
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

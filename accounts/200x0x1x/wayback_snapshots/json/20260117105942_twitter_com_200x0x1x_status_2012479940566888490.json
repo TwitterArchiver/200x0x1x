@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2012401743884136815",
+    "created_at": "2026-01-17T10:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012479940566888490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594744268282699777",
+          "start": 0,
+          "username": "ALTHUSSERin1960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012479940566888490",
+    "in_reply_to_user_id": "1594744268282699777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012433177864802725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALTHUSSERin1960 我想读陀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2012401743884136815",
+        "created_at": "2026-01-17T10:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012479940566888490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594744268282699777",
+              "start": 0,
+              "username": "ALTHUSSERin1960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012479940566888490",
+        "in_reply_to_user_id": "1594744268282699777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012433177864802725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALTHUSSERin1960 我想读陀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594744268282699777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2012401743884136815",
+        "created_at": "2026-01-17T07:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012433177864802725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012433177864802725",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012401743884136815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 看俄国文学吗天使甜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012169403769470976/h0JYROyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 937,
+          "like_count": 26433,
+          "listed_count": 6,
+          "media_count": 2358,
+          "tweet_count": 25373
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-21T17:27:42.000Z",
+        "description": "链接是Anna的档案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.annas-archive.org",
+                "end": 23,
+                "expanded_url": "https://zh.annas-archive.org/",
+                "start": 0,
+                "url": "https://t.co/YqvNKdfl8V"
+              }
+            ]
+          }
+        },
+        "id": "1594744268282699777",
+        "location": "China",
+        "name": "The ignorant🔮𝕏",
+        "pinned_tweet_id": "1799295032735977878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012430167151714304/vOPUBLPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1341,
+          "like_count": 121537,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/YqvNKdfl8V",
+        "username": "ALTHUSSERin1960",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2082665654122115284",
+    "created_at": "2026-07-30T03:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082665654122115284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Diamond_Kokoro…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2082661576411398375",
+          "start": 141,
+          "url": "https://t.co/84Ec2z6yjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082665654122115284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "实际上你的论述不是比烂就是鸡蛋里挑骨头挑刺找茬的滚刀肉，字里行间透露着小太妹霸凌的味道也是隐秘权力意志发动了哈。装出好声好气讲道理的样子只是让你看起来更像个死妈伪人而已，你很享受欺凌别人的感觉吧所以说你这种败类玩意去死了人类社会真的会更美好。我不像你一样想欺负别人还要装的死装货，我想骂你我会直接骂，这让我比你更像个有真情实感的人。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082661576411398375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实际上你的论述不是比烂就是鸡蛋里挑骨头挑刺找茬的滚刀肉，字里行间透露着小太妹霸凌的味道也是隐秘权力意志发动了哈。装出好声好气讲道理的样子只是让你看起来更像个死妈伪人而已，你很享受欺凌别人的感觉吧所以说你这种败类玩意去死了人类社会真的会更美好。我不像你一样想欺负别人还要装的死装货， https://t.co/84Ec2z6yjY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2082665654122115284",
+        "created_at": "2026-07-30T03:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082665654122115284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2082661576411398375",
+              "start": 141,
+              "url": "https://t.co/84Ec2z6yjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082665654122115284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实际上你的论述不是比烂就是鸡蛋里挑骨头挑刺找茬的滚刀肉，字里行间透露着小太妹霸凌的味道也是隐秘权力意志发动了哈。装出好声好气讲道理的样子只是让你看起来更像个死妈伪人而已，你很享受欺凌别人的感觉吧所以说你这种败类玩意去死了人类社会真的会更美好。我不像你一样想欺负别人还要装的死装货，我想骂你我会直接骂，这让我比你更像个有真情实感的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082661576411398375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上你的论述不是比烂就是鸡蛋里挑骨头挑刺找茬的滚刀肉，字里行间透露着小太妹霸凌的味道也是隐秘权力意志发动了哈。装出好声好气讲道理的样子只是让你看起来更像个死妈伪人而已，你很享受欺凌别人的感觉吧所以说你这种败类玩意去死了人类社会真的会更美好。我不像你一样想欺负别人还要装的死装货， https://t.co/84Ec2z6yjY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2082654563283468377",
+        "created_at": "2026-07-30T02:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082661576411398375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082661576411398375",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082660776419237911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 比如你如果向捨命救你的直男兄弟提問：「你居然願意為了我命懸一線，是不是你其實有一點彎？」這種對別人的性取向進行質詢的冒犯性就格外突出了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 679,
+          "like_count": 28825,
+          "listed_count": 7,
+          "media_count": 2513,
+          "tweet_count": 27742
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我的愛人是我的故土、我的歸宿，我的民族、我的祖國。@irisdesombres。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082637634422308865/gCmwleWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 188,
+          "like_count": 14848,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 10048
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

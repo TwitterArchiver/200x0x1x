@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2079008050674122971",
+    "created_at": "2026-07-20T12:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079188625364005201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1138644300185554944",
+          "start": 0,
+          "username": "jiyouer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079188625364005201",
+    "in_reply_to_user_id": "1138644300185554944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079008050674122971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiyouer 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2667,
+        "media_key": "3_2079008037847871488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoey50asAAo-Px.jpg",
+        "width": 2454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2079008050674122971",
+        "created_at": "2026-07-20T12:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079188625364005201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1138644300185554944",
+              "start": 0,
+              "username": "jiyouer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079188625364005201",
+        "in_reply_to_user_id": "1138644300185554944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079008050674122971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiyouer 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079008037847871488"
+          ]
+        },
+        "author_id": "1138644300185554944",
+        "conversation_id": "2079008050674122971",
+        "created_at": "2026-07-20T00:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079008050674122971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m35OzsFgrH",
+              "end": 27,
+              "expanded_url": "https://x.com/jiyouer/status/2079008050674122971/photo/1",
+              "media_key": "3_2079008037847871488",
+              "start": 4,
+              "url": "https://t.co/m35OzsFgrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079008050674122971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 16644,
+          "like_count": 1274,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "暖暖的 https://t.co/m35OzsFgrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 676,
+          "like_count": 28762,
+          "listed_count": 7,
+          "media_count": 2486,
+          "tweet_count": 27506
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-12T03:08:50.000Z",
+        "description": "東方/主蕾咲/蕾米all向/普通蕾米厨",
+        "id": "1138644300185554944",
+        "name": "棘又",
+        "pinned_tweet_id": "2009421931603447899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1243615709353000960/aci_Dj64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5284,
+          "following_count": 748,
+          "like_count": 6168,
+          "listed_count": 23,
+          "media_count": 641,
+          "tweet_count": 3687
+        },
+        "url": "",
+        "username": "jiyouer",
+        "verified": false
+      }
+    ]
+  }
+}

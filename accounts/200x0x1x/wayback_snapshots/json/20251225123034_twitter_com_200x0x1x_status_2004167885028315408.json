@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003884374190673920"
+      ],
+      "media_source_tweet_id": [
+        "2003884439336898831"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Alabama",
+          "id": "1004433527683731457",
+          "name": "Alabama"
+        }
+      }
+    ],
+    "conversation_id": "2004167885028315408",
+    "created_at": "2025-12-25T12:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T13:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004167885028315408"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "Alabama",
+          "probability": 0.9409,
+          "start": 43,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1284239778888781824",
+          "start": 3,
+          "username": "HazelAppleyard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hpt5OaFULh",
+          "end": 96,
+          "expanded_url": "https://x.com/HazelAppleyard/status/2003884439336898831/video/1",
+          "media_key": "13_2003884374190673920",
+          "start": 73,
+          "url": "https://t.co/hpt5OaFULh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004167885028315408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 559
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003884439336898831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HazelAppleyard: What in the sweet home Alabama did I just listen to? https://t.co/hpt5OaFULh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65900,
+        "height": 1024,
+        "media_key": "13_2003884374190673920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003884374190673920/img/I7_RfCt68nf_jJxR.jpg",
+        "public_metrics": {
+          "view_count": 1316204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003884374190673920/vid/avc1/320x568/jQVpK9pJl98seiSr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003884374190673920/vid/avc1/480x852/cVxZ5dbseL79cboz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003884374190673920/vid/avc1/576x1024/sukWBwKYRDySrl2u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003884374190673920/pl/zNHunytZ3qWJyFYc.m3u8?v=ff5"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003884374190673920"
+          ],
+          "media_source_tweet_id": [
+            "2003884439336898831"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Alabama",
+              "id": "1004433527683731457",
+              "name": "Alabama"
+            }
+          }
+        ],
+        "conversation_id": "2004167885028315408",
+        "created_at": "2025-12-25T12:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004167885028315408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Alabama",
+              "probability": 0.9409,
+              "start": 43,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1284239778888781824",
+              "start": 3,
+              "username": "HazelAppleyard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpt5OaFULh",
+              "end": 96,
+              "expanded_url": "https://x.com/HazelAppleyard/status/2003884439336898831/video/1",
+              "media_key": "13_2003884374190673920",
+              "start": 73,
+              "url": "https://t.co/hpt5OaFULh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004167885028315408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 559
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003884439336898831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HazelAppleyard: What in the sweet home Alabama did I just listen to? https://t.co/hpt5OaFULh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003884374190673920"
+          ]
+        },
+        "author_id": "1284239778888781824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Alabama",
+              "id": "1004433527683731457",
+              "name": "Alabama"
+            }
+          }
+        ],
+        "conversation_id": "2003884439336898831",
+        "created_at": "2025-12-24T17:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003884439336898831"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Alabama",
+              "probability": 0.9443,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpt5OaFULh",
+              "end": 76,
+              "expanded_url": "https://x.com/HazelAppleyard/status/2003884439336898831/video/1",
+              "media_key": "13_2003884374190673920",
+              "start": 53,
+              "url": "https://t.co/hpt5OaFULh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003884439336898831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6001,
+          "impression_count": 1091200,
+          "like_count": 10190,
+          "quote_count": 152,
+          "reply_count": 301,
+          "retweet_count": 559
+        },
+        "reply_settings": "everyone",
+        "text": "What in the sweet home Alabama did I just listen to? https://t.co/hpt5OaFULh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002534591446593539/QDAatHEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 938,
+          "like_count": 26502,
+          "listed_count": 8,
+          "media_count": 2345,
+          "tweet_count": 25249
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-17T21:33:40.000Z",
+        "description": "Just another angry Brit 🇬🇧 Urinalcakegender | https://t.co/iZO7GIoJH6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/hazelappleyard",
+                "end": 69,
+                "expanded_url": "http://buymeacoffee.com/hazelappleyard",
+                "start": 46,
+                "url": "https://t.co/iZO7GIoJH6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hazelappleyard.co.uk",
+                "end": 23,
+                "expanded_url": "http://hazelappleyard.co.uk",
+                "start": 0,
+                "url": "https://t.co/NpDharZf55"
+              }
+            ]
+          }
+        },
+        "id": "1284239778888781824",
+        "location": "Terminally Online",
+        "name": "Hazel Appleyard",
+        "pinned_tweet_id": "2002878332988490197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884384232711041025/XLesaeJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165044,
+          "following_count": 984,
+          "like_count": 158735,
+          "listed_count": 447,
+          "media_count": 29307,
+          "tweet_count": 88347
+        },
+        "url": "https://t.co/NpDharZf55",
+        "username": "HazelAppleyard",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2017765521622512122",
+    "created_at": "2026-02-01T01:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T02:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017765521622512122"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017765521622512122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "每一个自由的精神都将遭遇它们自己的大解脱。那个地震般突如其来的事件将会震撼这些年青的灵魂，使他们从日复一日的常态中挣脱出来。这同样是疾病和疯狂的开端，自由精神从这一入口进入漫游者的不详夜晚，在黑夜中城门紧闭，然后是异化、灾害、大荒漠和冰冻的侵袭——直到这些灵魂重新走进他们的友人和愚者之间，在清晨露珠的神秘闪烁中，看见那些更加严峻的、即将升起的东西。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每一个自由的精神都将遭遇它们自己的大解脱。那个地震般突如其来的事件将会震撼这些年青的灵魂，使他们从日复一日的常态中挣脱出来。这同样是疾病和疯狂的开端，自由精神从这一入口进入漫游者的不详夜晚，在黑夜中城门紧闭，然后是异化、灾害、大荒漠和冰冻的侵袭——直到这些灵魂重新走进他们的友人和愚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2017765521622512122",
+        "created_at": "2026-02-01T01:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017765521622512122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017765521622512122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每一个自由的精神都将遭遇它们自己的大解脱。那个地震般突如其来的事件将会震撼这些年青的灵魂，使他们从日复一日的常态中挣脱出来。这同样是疾病和疯狂的开端，自由精神从这一入口进入漫游者的不详夜晚，在黑夜中城门紧闭，然后是异化、灾害、大荒漠和冰冻的侵袭——直到这些灵魂重新走进他们的友人和愚者之间，在清晨露珠的神秘闪烁中，看见那些更加严峻的、即将升起的东西。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每一个自由的精神都将遭遇它们自己的大解脱。那个地震般突如其来的事件将会震撼这些年青的灵魂，使他们从日复一日的常态中挣脱出来。这同样是疾病和疯狂的开端，自由精神从这一入口进入漫游者的不详夜晚，在黑夜中城门紧闭，然后是异化、灾害、大荒漠和冰冻的侵袭——直到这些灵魂重新走进他们的友人和愚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 952,
+          "like_count": 26649,
+          "listed_count": 6,
+          "media_count": 2373,
+          "tweet_count": 25529
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

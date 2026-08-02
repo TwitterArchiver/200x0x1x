@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2020300979519001021",
+    "created_at": "2026-02-08T00:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T01:57:10.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020300841349976168",
+      "2020300979519001021"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020300979519001021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们尼采对Subjekt的批判挺有深意的，一个具有自由意志和理性决策能力的主体隐含的是一种病态心理，这种心理认为自己能够选择成为猛禽或者羊羔，只不过自己出于“自由的”选择而成为弱者，这样一来他们将自己视为既有力量，在道德和心灵上又优于强者的人，就仿佛存在着不选择鸣响的闪电一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2020300841349976168",
+        "created_at": "2026-02-08T00:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:57:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020300841349976168",
+          "2020300979519001021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020300841349976168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们尼采对Subjekt的批判挺有深意的，一个具有自由意志和理性决策能力的主体隐含的是一种病态心理，这种心理认为自己能够选择成为猛禽或者羊羔，只不过自己出于“自由的”选择而成为弱者，这样一来他们将自己视为既有力量，在道德和心灵上又优于强者的人，就仿佛存在着不原则鸣响的闪电一样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2020300979519001021",
+        "created_at": "2026-02-08T00:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:57:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020300841349976168",
+          "2020300979519001021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020300979519001021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们尼采对Subjekt的批判挺有深意的，一个具有自由意志和理性决策能力的主体隐含的是一种病态心理，这种心理认为自己能够选择成为猛禽或者羊羔，只不过自己出于“自由的”选择而成为弱者，这样一来他们将自己视为既有力量，在道德和心灵上又优于强者的人，就仿佛存在着不选择鸣响的闪电一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 956,
+          "like_count": 26703,
+          "listed_count": 6,
+          "media_count": 2386,
+          "tweet_count": 25586
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

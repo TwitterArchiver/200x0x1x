@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074814035221201369",
+    "created_at": "2026-07-08T12:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074828133157769572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2073356698539233280",
+          "start": 0,
+          "username": "li3akl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074828133157769572",
+    "in_reply_to_user_id": "2073356698539233280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074822505911710205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li3akl 状态越差越有创作力，都开始发文了说明快寄了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074814035221201369",
+        "created_at": "2026-07-08T12:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074828133157769572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2073356698539233280",
+              "start": 0,
+              "username": "li3akl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074828133157769572",
+        "in_reply_to_user_id": "2073356698539233280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074822505911710205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li3akl 状态越差越有创作力，都开始发文了说明快寄了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073356698539233280",
+        "conversation_id": "2074814035221201369",
+        "created_at": "2026-07-08T11:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074822505911710205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074822505911710205",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074814035221201369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你好一点了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 636,
+          "like_count": 28300,
+          "listed_count": 6,
+          "media_count": 2461,
+          "tweet_count": 27104
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-04T10:43:28.000Z",
+        "description": "",
+        "id": "2073356698539233280",
+        "name": "文周",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073357740202942464/_YHquB9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "li3akl",
+        "verified": false
+      }
+    ]
+  }
+}

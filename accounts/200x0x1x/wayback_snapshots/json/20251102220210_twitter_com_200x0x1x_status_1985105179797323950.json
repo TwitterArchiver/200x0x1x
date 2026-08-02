@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985105179797323950",
+    "created_at": "2025-11-02T22:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T23:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985105179797323950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1422249668960919592",
+          "start": 3,
+          "username": "whitesaucep9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985105179797323950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985100662003409380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whitesaucep9968: 我看精神有问题的人发疯害人就特别烦，老一副整个世界都欠他们的样子，我也是精神病，我怎么没感受到压迫？你们凭什么痛苦？你们全都没我痛苦，好意思天天装逼吗？我不信你们痛苦的时候只会割割小手，其实私底下伤害了所有人然后在网上装纯良，精神病就是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1985105179797323950",
+        "created_at": "2025-11-02T22:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T23:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985105179797323950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1422249668960919592",
+              "start": 3,
+              "username": "whitesaucep9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985105179797323950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985100662003409380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whitesaucep9968: 我看精神有问题的人发疯害人就特别烦，老一副整个世界都欠他们的样子，我也是精神病，我怎么没感受到压迫？你们凭什么痛苦？你们全都没我痛苦，好意思天天装逼吗？我不信你们痛苦的时候只会割割小手，其实私底下伤害了所有人然后在网上装纯良，精神病就是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422249668960919592",
+        "conversation_id": "1985100662003409380",
+        "created_at": "2025-11-02T21:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T22:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985100662003409380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985100662003409380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看精神有问题的人发疯害人就特别烦，老一副整个世界都欠他们的样子，我也是精神病，我怎么没感受到压迫？你们凭什么痛苦？你们全都没我痛苦，好意思天天装逼吗？我不信你们痛苦的时候只会割割小手，其实私底下伤害了所有人然后在网上装纯良，精神病就是这种傻逼，知道吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 919,
+          "like_count": 25835,
+          "listed_count": 7,
+          "media_count": 2316,
+          "tweet_count": 24864
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-02T17:35:41.000Z",
+        "description": "",
+        "id": "1422249668960919592",
+        "location": "Los Cielos,BE",
+        "name": "离开的人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985072738650992640/tHdZB-SZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 3034,
+          "like_count": 39516,
+          "listed_count": 8,
+          "media_count": 294,
+          "tweet_count": 20493
+        },
+        "username": "whitesaucep9968",
+        "verified": false
+      }
+    ]
+  }
+}

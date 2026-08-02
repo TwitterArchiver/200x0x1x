@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2082587864798486594",
+    "created_at": "2026-07-30T02:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082650883415007303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1624277789754138624",
+          "start": 0,
+          "username": "denji_012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082650883415007303",
+    "in_reply_to_user_id": "1624277789754138624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082630544026956061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@denji_012 喜欢跟蟑螂互动，不然我一天上十几个小时网干嘛。？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2082630536066199552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOb9cDSbcAAukJt.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2082587864798486594",
+        "created_at": "2026-07-30T02:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082650883415007303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1624277789754138624",
+              "start": 0,
+              "username": "denji_012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082650883415007303",
+        "in_reply_to_user_id": "1624277789754138624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082630544026956061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@denji_012 喜欢跟蟑螂互动，不然我一天上十几个小时网干嘛。？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082630536066199552"
+          ]
+        },
+        "author_id": "1624277789754138624",
+        "conversation_id": "2082587864798486594",
+        "created_at": "2026-07-30T00:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082630544026956061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzYuhtRdJr",
+              "end": 124,
+              "expanded_url": "https://x.com/denji_012/status/2082630544026956061/photo/1",
+              "media_key": "3_2082630536066199552",
+              "start": 101,
+              "url": "https://t.co/NzYuhtRdJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082630544026956061",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082615021557932527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 不是谁他妈理我么? 这可是原话🥺\n既然如此，那你理我干什么，难道您喜欢跟您眼中的蟑螂互动吗?\n我说的就是事实啊，你们确实没水平，难道事实会引起你们那么大的反应吗? 果然没什么幽默感 https://t.co/NzYuhtRdJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 679,
+          "like_count": 28825,
+          "listed_count": 7,
+          "media_count": 2512,
+          "tweet_count": 27734
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-11T05:23:33.000Z",
+        "description": "你是基米吗? 我也是基米！",
+        "id": "1624277789754138624",
+        "location": "Tokyo-to, Japan",
+        "name": "伊吕波",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082563691229429760/AQpuDRw__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 696,
+          "like_count": 13229,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 4699
+        },
+        "url": "",
+        "username": "denji_012",
+        "verified": false
+      }
+    ]
+  }
+}

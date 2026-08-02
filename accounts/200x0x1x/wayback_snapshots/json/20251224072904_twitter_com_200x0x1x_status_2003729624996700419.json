@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2003402768393125899",
+    "created_at": "2025-12-24T07:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T08:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003729624996700419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1521083619984363520",
+          "start": 0,
+          "username": "MyLoverisCirno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003729624996700419",
+    "in_reply_to_user_id": "1521083619984363520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003402768393125899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyLoverisCirno 姐妹你是真火了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2003402761979985927",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82EMpHagAcsklI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2003402768393125899",
+        "created_at": "2025-12-24T07:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003729624996700419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1521083619984363520",
+              "start": 0,
+              "username": "MyLoverisCirno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003729624996700419",
+        "in_reply_to_user_id": "1521083619984363520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003402768393125899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyLoverisCirno 姐妹你是真火了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003402761979985927"
+          ]
+        },
+        "author_id": "1521083619984363520",
+        "conversation_id": "2003402768393125899",
+        "created_at": "2025-12-23T09:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003402768393125899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8snnMdl98K",
+              "end": 23,
+              "expanded_url": "https://x.com/MyLoverisCirno/status/2003402768393125899/photo/1",
+              "media_key": "3_2003402761979985927",
+              "start": 0,
+              "url": "https://t.co/8snnMdl98K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003402768393125899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1042,
+          "impression_count": 379629,
+          "like_count": 9405,
+          "quote_count": 126,
+          "reply_count": 176,
+          "retweet_count": 992
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8snnMdl98K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002534591446593539/QDAatHEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 937,
+          "like_count": 26509,
+          "listed_count": 8,
+          "media_count": 2343,
+          "tweet_count": 25248
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-02T11:06:20.000Z",
+        "description": "想打赢复活赛",
+        "id": "1521083619984363520",
+        "location": "无间地狱十八层",
+        "name": "超レア超バカチルノ",
+        "pinned_tweet_id": "1569707495693889537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556487410279600128/Y-IrOl7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 674,
+          "like_count": 11648,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 5930
+        },
+        "username": "MyLoverisCirno",
+        "verified": false
+      }
+    ]
+  }
+}

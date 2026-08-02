@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078517974223437824"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2078517979772502059",
+    "created_at": "2026-07-18T16:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078517979772502059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mPUfe7YzMt",
+          "end": 139,
+          "expanded_url": "https://x.com/200x0x1x/status/2078517979772502059/photo/1",
+          "media_key": "3_2078517974223437824",
+          "start": 116,
+          "url": "https://t.co/mPUfe7YzMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078517979772502059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你是说精神层面的东西，那我相信世界正避无可避地沉入更深邃的、黯淡无光的黑夜吧。以前会模仿海德格尔说一些守护众星、期待破晓之类的哲逼话，但现在我只觉得前景凋敝，“人们会有更黑暗的眼睛”。不过我会谋一条出路的吧，一定要幸福啊酥酥。 https://t.co/mPUfe7YzMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2078517974223437824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhhFcjaQAAD0Yy.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078517974223437824"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078517979772502059",
+        "created_at": "2026-07-18T16:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078517979772502059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPUfe7YzMt",
+              "end": 139,
+              "expanded_url": "https://x.com/200x0x1x/status/2078517979772502059/photo/1",
+              "media_key": "3_2078517974223437824",
+              "start": 116,
+              "url": "https://t.co/mPUfe7YzMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078517979772502059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是说精神层面的东西，那我相信世界正避无可避地沉入更深邃的、黯淡无光的黑夜吧。以前会模仿海德格尔说一些守护众星、期待破晓之类的哲逼话，但现在我只觉得前景凋敝，“人们会有更黑暗的眼睛”。不过我会谋一条出路的吧，一定要幸福啊酥酥。 https://t.co/mPUfe7YzMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078414284984594432/3LLkhc8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 675,
+          "like_count": 28699,
+          "listed_count": 7,
+          "media_count": 2476,
+          "tweet_count": 27444
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034023063113895938"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2034023070508241233",
+    "created_at": "2026-03-17T21:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T22:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034023070508241233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcR4wWuLcI",
+          "end": 163,
+          "expanded_url": "https://x.com/200x0x1x/status/2034023070508241233/photo/1",
+          "media_key": "3_2034023063113895938",
+          "start": 140,
+          "url": "https://t.co/ZcR4wWuLcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034023070508241233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的猫咪“曲奇”的本体是时间之魔（命运、时间性、无法掉头的道路），整个世界历史就在猫咪的肚子里，它食用人类的梦（过去）来为人类进行占卜（未来），废墟是它胃部的食物碎屑。曲奇占卜屋开设在互联网的亚空间缝隙里，一个贴着粉色碎花墙纸的九十年代房间，窗外的风景无法定位，那里永远是白昼。 https://t.co/ZcR4wWuLcI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034023070508241233].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034023070508241233",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034023070508241233"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2034023063113895938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDpNMv3bEAILysc.jpg",
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033980314771468288/Vv3qeE96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 985,
+          "like_count": 27060,
+          "listed_count": 6,
+          "media_count": 2388,
+          "tweet_count": 25851
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

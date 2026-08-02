@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2009759025400050038",
+    "created_at": "2026-01-09T22:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T23:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009759025400050038"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009759025400050038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "那种被称作“synderesis”（心灵之巅）的朝向上帝的神秘情感，作为一种使灵魂发生运动、黏合并趋向其终点的情动力发挥作用。人的心灵被这种超自然的情感推动、抬升，以姿势与运动的正直，毫无偏斜地朝向高贵之善。在这种神魂超拔的体验中，人的理智因为进入无知之云（Cloud of the Unknowing）而悬置起来，唯有这种充满“炽热”的情感，将人与神的关系黏合为一，它熔解心灵的刚硬，并为它打上灵性的印记，这印记便是我们灵魂中的圣痕。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那种被称作“synderesis”（心灵之巅）的朝向上帝的神秘情感，作为一种使灵魂发生运动、黏合并趋向其终点的情动力发挥作用。人的心灵被这种超自然的情感推动、抬升，以姿势与运动的正直，毫无偏斜地朝向高贵之善。在这种神魂超拔的体验中，人的理智因为进入无知之云（Cloud of the"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2009759025400050038",
+        "created_at": "2026-01-09T22:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T23:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009759025400050038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009759025400050038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那种被称作“synderesis”（心灵之巅）的朝向上帝的神秘情感，作为一种使灵魂发生运动、黏合并趋向其终点的情动力发挥作用。人的心灵被这种超自然的情感推动、抬升，以姿势与运动的正直，毫无偏斜地朝向高贵之善。在这种神魂超拔的体验中，人的理智因为进入无知之云（Cloud of the Unknowing）而悬置起来，唯有这种充满“炽热”的情感，将人与神的关系黏合为一，它熔解心灵的刚硬，并为它打上灵性的印记，这印记便是我们灵魂中的圣痕。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那种被称作“synderesis”（心灵之巅）的朝向上帝的神秘情感，作为一种使灵魂发生运动、黏合并趋向其终点的情动力发挥作用。人的心灵被这种超自然的情感推动、抬升，以姿势与运动的正直，毫无偏斜地朝向高贵之善。在这种神魂超拔的体验中，人的理智因为进入无知之云（Cloud of the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 931,
+          "like_count": 26375,
+          "listed_count": 6,
+          "media_count": 2353,
+          "tweet_count": 25324
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

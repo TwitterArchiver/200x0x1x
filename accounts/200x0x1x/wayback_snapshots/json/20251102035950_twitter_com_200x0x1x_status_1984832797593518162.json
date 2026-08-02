@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984714229782393046",
+    "created_at": "2025-11-02T03:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T04:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984832797593518162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744711777215225856",
+          "start": 0,
+          "username": "liangyuesan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984832797593518162",
+    "in_reply_to_user_id": "1744711777215225856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984832703842373974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangyuesan 谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1984714229782393046",
+        "created_at": "2025-11-02T03:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984832797593518162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744711777215225856",
+              "start": 0,
+              "username": "liangyuesan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984832797593518162",
+        "in_reply_to_user_id": "1744711777215225856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984832703842373974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangyuesan 谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744711777215225856",
+        "conversation_id": "1984714229782393046",
+        "created_at": "2025-11-02T03:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984832703842373974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984832703842373974",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984828012639240647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 有唧唧也很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 918,
+          "like_count": 25829,
+          "listed_count": 7,
+          "media_count": 2315,
+          "tweet_count": 24860
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-09T13:25:15.000Z",
+        "description": "总结是压缩文件的过程",
+        "id": "1744711777215225856",
+        "name": "良月三",
+        "pinned_tweet_id": "1847903251808866740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982252912978870272/QDOcfmsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 115,
+          "like_count": 4797,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 7123
+        },
+        "username": "liangyuesan",
+        "verified": false
+      }
+    ]
+  }
+}

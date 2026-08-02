@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2077341195983020439",
+    "created_at": "2026-07-15T11:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077360165997645913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995419766954291200",
+          "start": 0,
+          "username": "886oooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077360165997645913",
+    "in_reply_to_user_id": "1995419766954291200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077341195983020439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@886oooooo 什么样的土逼会喜欢姜云升"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2077341187460272128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQyzcPbkAASkq1.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077341195983020439",
+        "created_at": "2026-07-15T11:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077360165997645913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "886oooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077360165997645913",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077341195983020439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@886oooooo 什么样的土逼会喜欢姜云升"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077341187460272128"
+          ]
+        },
+        "author_id": "1995419766954291200",
+        "conversation_id": "2077341195983020439",
+        "created_at": "2026-07-15T10:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077341195983020439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EAZbBKZOJ",
+              "end": 73,
+              "expanded_url": "https://x.com/886oooooo/status/2077341195983020439/photo/1",
+              "media_key": "3_2077341187460272128",
+              "start": 50,
+              "url": "https://t.co/0EAZbBKZOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077341195983020439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无题这首歌突然火了，出来那么多姜云升梦女😂辱女言论层出不穷，一群浪荡风骚的婊子贱货你们这辈子有了😂 https://t.co/0EAZbBKZOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 672,
+          "like_count": 28553,
+          "listed_count": 6,
+          "media_count": 2470,
+          "tweet_count": 27295
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "另一个我@Dsdrdjwmz 性别：神\n很遗憾地告知你 你到访我主页是我的耻辱 以后不要来了我喜欢跟有钱有权有势之人往来 我喜欢美好的事物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Dsdrdjwmz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "location": "ngl",
+        "name": "木子，梦想哭了",
+        "pinned_tweet_id": "2072371260898885873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067565186542895104/adFshjA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 52,
+          "like_count": 1797,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "886oooooo",
+        "verified": false
+      }
+    ]
+  }
+}

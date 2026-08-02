@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070703738000703488"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2070703743906226638",
+    "created_at": "2026-06-27T03:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070703743906226638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gePgELGzIA",
+          "end": 41,
+          "expanded_url": "https://x.com/200x0x1x/status/2070703743906226638/photo/1",
+          "media_key": "3_2070703738000703488",
+          "start": 18,
+          "url": "https://t.co/gePgELGzIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070703743906226638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻到这个真的特别想死，蕙蕙你回来吧 https://t.co/gePgELGzIA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1314,
+        "media_key": "3_2070703738000703488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyeFCKbAAADeVW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070703738000703488"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2070703743906226638",
+        "created_at": "2026-06-27T03:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070703743906226638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gePgELGzIA",
+              "end": 41,
+              "expanded_url": "https://x.com/200x0x1x/status/2070703743906226638/photo/1",
+              "media_key": "3_2070703738000703488",
+              "start": 18,
+              "url": "https://t.co/gePgELGzIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070703743906226638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到这个真的特别想死，蕙蕙你回来吧 https://t.co/gePgELGzIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070675847246434304/LmPEXgv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 632,
+          "like_count": 28036,
+          "listed_count": 6,
+          "media_count": 2451,
+          "tweet_count": 26873
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      }
+    ]
+  }
+}

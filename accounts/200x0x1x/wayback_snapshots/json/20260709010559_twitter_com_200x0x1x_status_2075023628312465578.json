@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2072739838865105283",
+    "created_at": "2026-07-09T01:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T02:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075023628312465578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "844532674316328961",
+          "start": 0,
+          "username": "infps_offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075023628312465578",
+    "in_reply_to_user_id": "844532674316328961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072739838865105283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@infps_offical 好酷啊🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34330,
+        "height": 1280,
+        "media_key": "13_2072739701010894848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072739701010894848/img/yfT0aebXEG_elSuV.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072739701010894848/vid/avc1/320x568/AkPnRFwhPFhtp9_f.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072739701010894848/vid/avc1/480x852/IZEil0D7A7k0BEOC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072739701010894848/vid/avc1/720x1280/IqnZpVMzQ6bfyWd9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072739701010894848/pl/aXIBJPpsI7CHeSl8.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 26070,
+        "height": 1280,
+        "media_key": "13_2072739701015142400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072739701015142400/img/gKPStISlzgEN3HCM.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072739701015142400/vid/avc1/320x568/CVQpvBVlmIPdDkkI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072739701015142400/vid/avc1/480x852/LoKF3vgcRXCm2MaZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072739701015142400/vid/avc1/720x1280/eTIYRFCpkHXywxPq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072739701015142400/pl/hykpUO71KIuAtVCI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2072739838865105283",
+        "created_at": "2026-07-09T01:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075023628312465578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "844532674316328961",
+              "start": 0,
+              "username": "infps_offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075023628312465578",
+        "in_reply_to_user_id": "844532674316328961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072739838865105283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@infps_offical 好酷啊🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072739701010894848",
+            "13_2072739701015142400"
+          ]
+        },
+        "author_id": "844532674316328961",
+        "conversation_id": "2072739838865105283",
+        "created_at": "2026-07-02T17:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072739838865105283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoHbAXsoyp",
+              "end": 41,
+              "expanded_url": "https://x.com/infps_offical/status/2072739838865105283/video/1",
+              "media_key": "13_2072739701010894848",
+              "start": 18,
+              "url": "https://t.co/EoHbAXsoyp"
+            },
+            {
+              "display_url": "pic.x.com/EoHbAXsoyp",
+              "end": 41,
+              "expanded_url": "https://x.com/infps_offical/status/2072739838865105283/video/1",
+              "media_key": "13_2072739701015142400",
+              "start": 18,
+              "url": "https://t.co/EoHbAXsoyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072739838865105283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "live切片（忘记是什么时候的了） https://t.co/EoHbAXsoyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 639,
+          "like_count": 28313,
+          "listed_count": 6,
+          "media_count": 2461,
+          "tweet_count": 27113
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-22T12:54:15.000Z",
+        "description": "Music🎵//VOCALOID// Gt.cho @_muguopick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_muguopick"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/7344798",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/7344798",
+                "start": 0,
+                "url": "https://t.co/zCAWhbb3c5"
+              }
+            ]
+          }
+        },
+        "id": "844532674316328961",
+        "location": "北京",
+        "name": "虚弱人格",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325497051484889088/-xr7W5Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 4,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/zCAWhbb3c5",
+        "username": "infps_offical",
+        "verified": false
+      }
+    ]
+  }
+}

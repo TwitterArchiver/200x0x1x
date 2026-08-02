@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2006600130993213834",
+    "created_at": "2026-01-01T05:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T06:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006602626868404673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006602626868404673",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006600130993213834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming 谁叫我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2006600120197066752",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9jgLYqaMAA1G0L.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9jgLYqaMAA1G0L.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2006600130993213834",
+        "created_at": "2026-01-01T05:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006602626868404673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006602626868404673",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006600130993213834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming 谁叫我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2006600120197066752"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "2006600130993213834",
+        "created_at": "2026-01-01T05:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006600130993213834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0yAwJnD9o",
+              "end": 41,
+              "expanded_url": "https://x.com/kyouka_charming/status/2006600130993213834/photo/1",
+              "media_key": "16_2006600120197066752",
+              "start": 18,
+              "url": "https://t.co/i0yAwJnD9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006600130993213834",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 这孩子简直就是 https://t.co/i0yAwJnD9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 934,
+          "like_count": 26568,
+          "listed_count": 6,
+          "media_count": 2349,
+          "tweet_count": 25288
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。物知らず悪役令嬢です、トランスジェンダー、漫画家志望、TRPG/ボードゲーマー。ビッチ/童貞食い。日本語/華语OK。元日本高校生(八王子)。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GS6Tu"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "紅月の元",
+        "name": "🪞・❄️🌙🌺",
+        "pinned_tweet_id": "1996117146150338572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004037220693692417/xRQGDf5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1224,
+          "like_count": 10697,
+          "listed_count": 1,
+          "media_count": 1070,
+          "tweet_count": 8577
+        },
+        "url": "https://t.co/RiMq5GS6Tu",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

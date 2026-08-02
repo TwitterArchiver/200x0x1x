@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984714226040963075"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984714229782393046",
+    "created_at": "2025-11-01T20:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T21:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984714229782393046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLi19zwj0Q",
+          "end": 50,
+          "expanded_url": "https://x.com/200x0x1x/status/1984714229782393046/photo/1",
+          "media_key": "3_1984714226040963075",
+          "start": 27,
+          "url": "https://t.co/gLi19zwj0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984714229782393046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上帝给我安排了一个唧唧，我至今不知道他的计划是什么。 https://t.co/gLi19zwj0Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984714229782393046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984714229782393046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984714229782393046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_1984714226040963075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sfErfWAAMpGoW.jpg",
+        "width": 590
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 917,
+          "like_count": 25816,
+          "listed_count": 7,
+          "media_count": 2315,
+          "tweet_count": 24854
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

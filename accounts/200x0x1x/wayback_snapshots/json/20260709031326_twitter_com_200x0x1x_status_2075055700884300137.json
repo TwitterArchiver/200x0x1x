@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2074763085244739847",
+    "created_at": "2026-07-09T03:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075055700884300137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074516241096843264",
+          "start": 0,
+          "username": "lslbce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075055700884300137",
+    "in_reply_to_user_id": "2074516241096843264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074884253599568252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lslbce 谢谢你傻福（…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2074763085244739847",
+        "created_at": "2026-07-09T03:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075055700884300137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074516241096843264",
+              "start": 0,
+              "username": "lslbce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075055700884300137",
+        "in_reply_to_user_id": "2074516241096843264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074884253599568252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lslbce 谢谢你傻福（…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074516241096843264",
+        "conversation_id": "2074763085244739847",
+        "created_at": "2026-07-08T15:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074884253599568252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074884253599568252",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074763085244739847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 很抱歉 我并不了解你 无法给予你一些需要的帮助 不过 这个世界美好事物其实还很多的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073593987068485632/MvKNAqll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 641,
+          "like_count": 28328,
+          "listed_count": 6,
+          "media_count": 2461,
+          "tweet_count": 27117
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T15:31:40.000Z",
+        "description": "无聊的压抑人",
+        "id": "2074516241096843264",
+        "name": "傻福",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "lslbce",
+        "verified": false
+      }
+    ]
+  }
+}

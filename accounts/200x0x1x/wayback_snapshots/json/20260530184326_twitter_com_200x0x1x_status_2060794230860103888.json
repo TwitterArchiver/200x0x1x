@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2060791221355004343",
+    "created_at": "2026-05-30T18:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060794230860103888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "779361765691760640",
+          "start": 0,
+          "username": "xinyouan1160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060794230860103888",
+    "in_reply_to_user_id": "779361765691760640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060791221355004343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinyouan1160 小哥哥你所言极是👍👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2060791221355004343",
+        "created_at": "2026-05-30T18:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060794230860103888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "779361765691760640",
+              "start": 0,
+              "username": "xinyouan1160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060794230860103888",
+        "in_reply_to_user_id": "779361765691760640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060791221355004343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyouan1160 小哥哥你所言极是👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779361765691760640",
+        "conversation_id": "2060791221355004343",
+        "created_at": "2026-05-30T18:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060791221355004343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/200x0x1x/status/2020300979519001021",
+              "start": 48,
+              "url": "https://t.co/4HeMCreZZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060791221355004343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020300979519001021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对试图理解哲学的人的要求很简单，就是不要把自己演绎成一个弱智\n\n书读的越少，你的世界就越狭窄 https://t.co/4HeMCreZZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059059852052213760/WE9r4TCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 759,
+          "like_count": 27668,
+          "listed_count": 6,
+          "media_count": 2432,
+          "tweet_count": 26526
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-23T16:48:19.000Z",
+        "description": "your mom fucker",
+        "id": "779361765691760640",
+        "location": "三千万",
+        "name": "xinyouan Ⅱ",
+        "pinned_tweet_id": "2059674185715355948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058446511294537728/4909SaI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 910,
+          "like_count": 36022,
+          "listed_count": 0,
+          "media_count": 825,
+          "tweet_count": 14469
+        },
+        "username": "xinyouan1160",
+        "verified": false
+      }
+    ]
+  }
+}

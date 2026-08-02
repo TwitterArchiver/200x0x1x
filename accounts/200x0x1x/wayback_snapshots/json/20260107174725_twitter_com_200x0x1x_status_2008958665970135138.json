@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2008912761833795796",
+    "created_at": "2026-01-07T17:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T18:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008958665970135138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699268392128258048",
+          "start": 0,
+          "username": "lanlanlan1112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008958665970135138",
+    "in_reply_to_user_id": "1699268392128258048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008912761833795796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanlanlan1112 我天天就这样急得破防"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008912761833795796].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008912761833795796",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008912761833795796"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2008912761833795796",
+        "created_at": "2026-01-07T17:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008958665970135138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699268392128258048",
+              "start": 0,
+              "username": "lanlanlan1112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008958665970135138",
+        "in_reply_to_user_id": "1699268392128258048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008912761833795796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanlanlan1112 我天天就这样急得破防"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 929,
+          "like_count": 26352,
+          "listed_count": 6,
+          "media_count": 2352,
+          "tweet_count": 25313
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T03:49:06.000Z",
+        "description": "嘻嘻",
+        "id": "1699268392128258048",
+        "location": "👁",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931602115212009472/2bItkzIj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 469,
+          "like_count": 24715,
+          "listed_count": 1,
+          "media_count": 635,
+          "tweet_count": 11008
+        },
+        "username": "lanlanlan1112",
+        "verified": false
+      }
+    ]
+  }
+}

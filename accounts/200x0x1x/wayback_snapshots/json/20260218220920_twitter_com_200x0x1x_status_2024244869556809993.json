@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2023789099102953780",
+    "created_at": "2026-02-18T22:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T23:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024244869556809993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1558326101017264128",
+          "start": 0,
+          "username": "matamngr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024244869556809993",
+    "in_reply_to_user_id": "1558326101017264128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023789099102953780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@matamngr1 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113100,
+        "height": 720,
+        "media_key": "7_2023788908421554176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023788908421554176/pu/img/MzYWgewvKRf1xVkJ.jpg",
+        "public_metrics": {
+          "view_count": 8487
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023788908421554176/pu/vid/avc1/360x270/bIpCO8gMaYolrYwG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023788908421554176/pu/vid/avc1/480x360/N48CdZbpowo9ovyf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023788908421554176/pu/vid/avc1/960x720/pQSKaP9hy8ZdH7S0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023788908421554176/pu/pl/C0ULaNix8rgdjeO8.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2023789099102953780",
+        "created_at": "2026-02-18T22:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024244869556809993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1558326101017264128",
+              "start": 0,
+              "username": "matamngr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024244869556809993",
+        "in_reply_to_user_id": "1558326101017264128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023789099102953780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@matamngr1 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023788908421554176"
+          ]
+        },
+        "author_id": "1558326101017264128",
+        "conversation_id": "2023789099102953780",
+        "created_at": "2026-02-17T15:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023789099102953780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "週クラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDsP4hP0O9",
+              "end": 28,
+              "expanded_url": "https://x.com/matamngr1/status/2023789099102953780/video/1",
+              "media_key": "7_2023788908421554176",
+              "start": 5,
+              "url": "https://t.co/mDsP4hP0O9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023789099102953780",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 16032,
+          "like_count": 973,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "#週クラ https://t.co/mDsP4hP0O9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023974528406241280/tuscweRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 964,
+          "like_count": 26851,
+          "listed_count": 6,
+          "media_count": 2389,
+          "tweet_count": 25710
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:34:49.000Z",
+        "description": "",
+        "id": "1558326101017264128",
+        "name": "co2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725746493641138176/NeINv5N9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 84,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 18
+        },
+        "username": "matamngr1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2078005138258862296",
+    "created_at": "2026-07-17T06:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078005176770977843"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078005176770977843",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078005138258862296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转的，没找到出处"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3065,
+        "height": 960,
+        "media_key": "13_2078005125273284608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078005125273284608/img/WkttptbVOonxEdl3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078005125273284608/vid/avc1/320x564/rYFeTMtXhyEb2aUZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078005125273284608/vid/avc1/480x846/iSLUCqvsYelI1OQg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078005125273284608/vid/avc1/544x960/SR6gFTRJ-qbzifMU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078005125273284608/pl/Q16SpC5asTxYE0sT.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078005138258862296",
+        "created_at": "2026-07-17T06:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005176770977843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078005176770977843",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078005138258862296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转的，没找到出处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078005125273284608"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078005138258862296",
+        "created_at": "2026-07-17T06:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078005138258862296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6q1TD9nXr",
+              "end": 28,
+              "expanded_url": "https://x.com/200x0x1x/status/2078005138258862296/video/1",
+              "media_key": "13_2078005125273284608",
+              "start": 5,
+              "url": "https://t.co/x6q1TD9nXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078005138258862296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我心情。 https://t.co/x6q1TD9nXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 676,
+          "like_count": 28623,
+          "listed_count": 7,
+          "media_count": 2470,
+          "tweet_count": 27351
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

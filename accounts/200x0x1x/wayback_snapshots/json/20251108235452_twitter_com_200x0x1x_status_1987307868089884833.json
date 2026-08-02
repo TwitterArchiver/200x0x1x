@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1987307868089884833",
+    "created_at": "2025-11-08T23:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T00:33:43.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987302543647547533",
+      "1987307016432636091",
+      "1987307868089884833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/200x0x1x/statu…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/200x0x1x/status/1987296148923813937",
+          "start": 139,
+          "url": "https://t.co/AnU6RJLs9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987307868089884833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987296148923813937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类＝纯粹抽象的类本质，上帝对此只有普遍性的冷漠或者无条件的爱，而一切非类的特殊性都在其中泯灭了。爱你的邻人就是说要爱抽象的人，你看基督待我们如同我们对待小猫小狗，大家都是很可爱的。所以说要做爱，更要做恨，要在做恨中成为费尔巴哈主义婊子，把圣爱传播给我的敌人和朋友们（眨巴眼。 https://t.co/AnU6RJLs9w"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987307016432636091].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987307016432636091",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987307016432636091"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1987302543647547533",
+        "created_at": "2025-11-08T23:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T00:33:43.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987302543647547533",
+          "1987307016432636091",
+          "1987307868089884833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/200x0x1x/status/1987296148923813937",
+              "start": 139,
+              "url": "https://t.co/AnU6RJLs9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987302543647547533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987296148923813937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类＝纯粹抽象的类本质，上帝对此只有普遍性的冷漠或者无条件的爱，而一切非类的特殊性都在其中泯灭了。爱你的邻人就是说要爱抽象的人，你看基督待我们如同我们对待小猫小狗，大家都是很可爱的。所以说要做爱，更要做恨，要在做恨中成为费尔巴哈主义婊子，把圣爱传播给我的敌人和朋友们（眨巴眼。 https://t.co/AnU6RJLs9w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1987307868089884833",
+        "created_at": "2025-11-08T23:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T00:33:43.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987302543647547533",
+          "1987307016432636091",
+          "1987307868089884833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/200x0x1x/statu…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/200x0x1x/status/1987296148923813937",
+              "start": 139,
+              "url": "https://t.co/AnU6RJLs9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987307868089884833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987296148923813937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类＝纯粹抽象的类本质，上帝对此只有普遍性的冷漠或者无条件的爱，而一切非类的特殊性都在其中泯灭了。爱你的邻人就是说要爱抽象的人，你看基督待我们如同我们对待小猫小狗，大家都是很可爱的。所以说要做爱，更要做恨，要在做恨中成为费尔巴哈主义婊子，把圣爱传播给我的敌人和朋友们（眨巴眼。 https://t.co/AnU6RJLs9w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1987296148923813937",
+        "created_at": "2025-11-08T23:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T00:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987296148923813937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987296148923813937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，神圣的婊子最喜欢了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986934380900601856/EYNFXoNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 923,
+          "like_count": 25915,
+          "listed_count": 7,
+          "media_count": 2324,
+          "tweet_count": 24918
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

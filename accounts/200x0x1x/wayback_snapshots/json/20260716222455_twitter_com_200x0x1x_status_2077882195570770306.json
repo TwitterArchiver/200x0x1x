@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2077849195118002379",
+    "created_at": "2026-07-16T22:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077882195570770306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1611427229195505684",
+          "start": 0,
+          "username": "5xrw011zb26GBa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077882195570770306",
+    "in_reply_to_user_id": "1611427229195505684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077849195118002379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5xrw011zb26GBa1 抱抱你🫂🫂 希望你好好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077849195118002379",
+        "created_at": "2026-07-16T22:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077882195570770306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1611427229195505684",
+              "start": 0,
+              "username": "5xrw011zb26GBa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077882195570770306",
+        "in_reply_to_user_id": "1611427229195505684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077849195118002379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5xrw011zb26GBa1 抱抱你🫂🫂 希望你好好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611427229195505684",
+        "conversation_id": "2077849195118002379",
+        "created_at": "2026-07-16T20:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077849195118002379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077849195118002379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最近整个人跟个弱智没有什么区别，一直在被压力，一直在被吓，一直在害怕，再多搞两天，我感觉我要变成变态了，我一直在莫名其妙的哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 673,
+          "like_count": 28602,
+          "listed_count": 6,
+          "media_count": 2474,
+          "tweet_count": 27342
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T18:24:09.000Z",
+        "description": "我愿奉上所有的真心， 只为得到最真挚的缪斯。",
+        "id": "1611427229195505684",
+        "location": "幸福的月光下",
+        "name": "白疥世旯",
+        "pinned_tweet_id": "2077515053146775925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903072855190896640/Lafuz7at_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 78,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "5xrw011zb26GBa1",
+        "verified": false
+      }
+    ]
+  }
+}

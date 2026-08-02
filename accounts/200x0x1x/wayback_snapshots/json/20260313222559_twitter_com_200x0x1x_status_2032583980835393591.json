@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2032583980835393591",
+    "created_at": "2026-03-13T22:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T23:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032583980835393591"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032583980835393591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天蛾和三角钢琴的混合形象。左侧的天蛾翅膀上布满眼睛，右侧翅膀是一架巨大的三角钢琴。它的牙齿由黑白琴键组成，舌头是一条斑点带子，说话的声音像在唱歌剧，三个踏板分别对应儿童、女人和老妇的声音。钢琴下面拖着爬虫的身体和许多人类手臂，其中一只手不断从琴腹里取出鲜花和宝石撒向地面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2032583980835393591",
+        "created_at": "2026-03-13T22:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T23:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032583980835393591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032583980835393591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天蛾和三角钢琴的混合形象。左侧的天蛾翅膀上布满眼睛，右侧翅膀是一架巨大的三角钢琴。它的牙齿由黑白琴键组成，舌头是一条斑点带子，说话的声音像在唱歌剧，三个踏板分别对应儿童、女人和老妇的声音。钢琴下面拖着爬虫的身体和许多人类手臂，其中一只手不断从琴腹里取出鲜花和宝石撒向地面。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031177244748472320/BlRuSUOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 981,
+          "like_count": 26959,
+          "listed_count": 6,
+          "media_count": 2384,
+          "tweet_count": 25809
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

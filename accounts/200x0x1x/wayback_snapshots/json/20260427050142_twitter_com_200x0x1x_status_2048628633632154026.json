@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2048623704251285574",
+    "created_at": "2026-04-27T05:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048628633632154026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725480456509128704",
+          "start": 0,
+          "username": "rbn1012554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048628633632154026",
+    "in_reply_to_user_id": "1725480456509128704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048628235156766983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rbn1012554 改的花刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2048623704251285574",
+        "created_at": "2026-04-27T05:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048628633632154026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725480456509128704",
+              "start": 0,
+              "username": "rbn1012554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048628633632154026",
+        "in_reply_to_user_id": "1725480456509128704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048628235156766983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rbn1012554 改的花刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725480456509128704",
+        "conversation_id": "2048623704251285574",
+        "created_at": "2026-04-27T05:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048628235156766983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048628235156766983",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048623704251285574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你手臂上是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047548762210328576/3TheJ9Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1027,
+          "like_count": 27542,
+          "listed_count": 6,
+          "media_count": 2406,
+          "tweet_count": 26195
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-17T11:46:43.000Z",
+        "description": "想躲离世界喧嚣，一心着迷于丰富内心",
+        "id": "1725480456509128704",
+        "name": "逃向远方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041187507795267584/2k7aJ_sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 121
+        },
+        "username": "rbn1012554",
+        "verified": false
+      }
+    ]
+  }
+}

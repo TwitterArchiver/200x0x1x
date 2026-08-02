@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1999530456023482549",
+    "created_at": "2025-12-12T17:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T18:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999531766365737418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999531766365737418",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999530456023482549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming b了。。吓人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1999530449132281856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_CWXobYAAVcnb.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1999530456023482549",
+        "created_at": "2025-12-12T17:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999531766365737418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999531766365737418",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999530456023482549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming b了。。吓人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999530449132281856"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "1999530456023482549",
+        "created_at": "2025-12-12T17:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999530456023482549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTBgIuBFxb",
+              "end": 170,
+              "expanded_url": "https://x.com/kyouka_charming/status/1999530456023482549/photo/1",
+              "media_key": "3_1999530449132281856",
+              "start": 147,
+              "url": "https://t.co/oTBgIuBFxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999530456023482549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停雌激素了\n\n性欲不太对劲，变成男性状态了\n\n点赞过20我发我被喷精液的照片，过100出我cos口交的视频，500做爱视频\n\n妈的真想给劳保看看，停药才是危害大的哇哈哈哈脑子不正常了没有雌激素当可爱小女孩我又要一天撸三次幻想自己是下贱臭婊子母猪了不同的是我真的可以毁灭自己了卧槽撸多了肾脏好疼 https://t.co/oTBgIuBFxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998581802374500352/Y_6Q-h8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 933,
+          "like_count": 26308,
+          "listed_count": 8,
+          "media_count": 2341,
+          "tweet_count": 25158
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。物知らず悪役令嬢です、トランスジェンダー、漫画家志望、TRPG/ボードゲーマー。ビッチ/童貞食い。日本語/華语OK。元日本高校生(八王子)。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GSEJ2"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "紅月の元",
+        "name": "🪞",
+        "pinned_tweet_id": "1996117146150338572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996438557867802624/ygoUnrUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 1193,
+          "like_count": 10343,
+          "listed_count": 1,
+          "media_count": 989,
+          "tweet_count": 8254
+        },
+        "url": "https://t.co/RiMq5GSEJ2",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

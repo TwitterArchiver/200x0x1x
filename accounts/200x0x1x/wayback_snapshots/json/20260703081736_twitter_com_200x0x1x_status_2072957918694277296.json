@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2063954369159254327",
+    "created_at": "2026-07-03T08:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072957918694277296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485965176159363090",
+          "start": 0,
+          "username": "Prisoner1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072957918694277296",
+    "in_reply_to_user_id": "1485965176159363090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072955692928127059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prisoner1213 你是不是偷摸着夸我呢？你能回我私信吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2063954369159254327",
+        "created_at": "2026-07-03T08:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072957918694277296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1485965176159363090",
+              "start": 0,
+              "username": "Prisoner1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072957918694277296",
+        "in_reply_to_user_id": "1485965176159363090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072955692928127059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prisoner1213 你是不是偷摸着夸我呢？你能回我私信吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485965176159363090",
+        "conversation_id": "2063954369159254327",
+        "created_at": "2026-07-03T08:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072955692928127059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072955692928127059",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072951296282558679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 看完了你所有的推文，你也是一个平凡但又没那么平凡的普通人而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 645,
+          "like_count": 28146,
+          "listed_count": 6,
+          "media_count": 2453,
+          "tweet_count": 26970
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T13:18:15.000Z",
+        "description": "我早已抛弃了所有幻想，认可了这乏味且疲惫的人生",
+        "id": "1485965176159363090",
+        "name": "末人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068736724877144064/RFd3GxcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 298,
+          "like_count": 8202,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "Prisoner1213",
+        "verified": false
+      }
+    ]
+  }
+}

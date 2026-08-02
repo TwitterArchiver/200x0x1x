@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1985741397958312021",
+    "created_at": "2025-11-04T16:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985741397958312021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821560692140544000",
+          "start": 3,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985741397958312021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985624812992270608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo: 支持毒品是我道德中最不显著的一个污点，我支持偷窃，支持乱伦，反对婚姻与反对生育，我支持以牙还牙，杀人者用命偿命，强奸者也被强奸，我支持一个完全没有法律的混乱的世界，我支持病毒，反对动物实验，我希望人类死于疾病而无法以金钱吊命，我希望战争掀起所以我可以和…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1985741397958312021",
+        "created_at": "2025-11-04T16:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985741397958312021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821560692140544000",
+              "start": 3,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985741397958312021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985624812992270608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo: 支持毒品是我道德中最不显著的一个污点，我支持偷窃，支持乱伦，反对婚姻与反对生育，我支持以牙还牙，杀人者用命偿命，强奸者也被强奸，我支持一个完全没有法律的混乱的世界，我支持病毒，反对动物实验，我希望人类死于疾病而无法以金钱吊命，我希望战争掀起所以我可以和…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1985624812992270608",
+        "created_at": "2025-11-04T08:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985624812992270608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985624812992270608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "支持毒品是我道德中最不显著的一个污点，我支持偷窃，支持乱伦，反对婚姻与反对生育，我支持以牙还牙，杀人者用命偿命，强奸者也被强奸，我支持一个完全没有法律的混乱的世界，我支持病毒，反对动物实验，我希望人类死于疾病而无法以金钱吊命，我希望战争掀起所以我可以和大家一起去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984423501747335168/SLaSeT71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 919,
+          "like_count": 25857,
+          "listed_count": 6,
+          "media_count": 2320,
+          "tweet_count": 24880
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "走在违法背德前线-我是精神病一点就炸-接受指正不接受指点-不认可可以去死-舞到我面前必疯咬回去♡同类fo必回-漏fo请私♪点赞评论bot-讨厌闲聊基本不回♡喜欢sex与drug独自沉迷勿骚扰♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1984215393586786544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 216,
+          "like_count": 1647,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 520
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

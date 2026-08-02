@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082524427254992896"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2082524433009594432",
+    "created_at": "2026-07-29T17:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082524433009594432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cW0Hr6QNaO",
+          "end": 63,
+          "expanded_url": "https://x.com/200x0x1x/status/2082524433009594432/photo/1",
+          "media_key": "3_2082524427254992896",
+          "start": 40,
+          "url": "https://t.co/cW0Hr6QNaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082524433009594432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遇到这种男的，我直接就哭了然后给他一次好吧？会为了我揍别人的男人什么时候出现？ https://t.co/cW0Hr6QNaO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_2082524427254992896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOac7tKbkAAWJqf.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082524427254992896"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2082524433009594432",
+        "created_at": "2026-07-29T17:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082524433009594432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cW0Hr6QNaO",
+              "end": 63,
+              "expanded_url": "https://x.com/200x0x1x/status/2082524433009594432/photo/1",
+              "media_key": "3_2082524427254992896",
+              "start": 40,
+              "url": "https://t.co/cW0Hr6QNaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082524433009594432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到这种男的，我直接就哭了然后给他一次好吧？会为了我揍别人的男人什么时候出现？ https://t.co/cW0Hr6QNaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082018086262382592/vDWFZ511_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 678,
+          "like_count": 28823,
+          "listed_count": 7,
+          "media_count": 2509,
+          "tweet_count": 27727
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

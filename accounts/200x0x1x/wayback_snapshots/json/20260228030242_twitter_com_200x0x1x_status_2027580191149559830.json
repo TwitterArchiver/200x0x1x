@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2027219896220700738",
+    "created_at": "2026-02-28T03:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027580191149559830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877434281494196226",
+          "start": 0,
+          "username": "AngelsTrumpetIX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027580191149559830",
+    "in_reply_to_user_id": "1877434281494196226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027577976343372088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelsTrumpetIX 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2027219896220700738",
+        "created_at": "2026-02-28T03:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027580191149559830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877434281494196226",
+              "start": 0,
+              "username": "AngelsTrumpetIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027580191149559830",
+        "in_reply_to_user_id": "1877434281494196226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027577976343372088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelsTrumpetIX 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877434281494196226",
+        "conversation_id": "2027219896220700738",
+        "created_at": "2026-02-28T02:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027577976343372088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027577976343372088",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027341817843171444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 唉，不说什么了，抱抱你emm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026972063131430913/t9OL7xzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 974,
+          "like_count": 26911,
+          "listed_count": 6,
+          "media_count": 2386,
+          "tweet_count": 25800
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-09T19:16:36.000Z",
+        "description": "碎碎念ing，不定期删推",
+        "id": "1877434281494196226",
+        "location": "Abyss",
+        "name": "Aurelya",
+        "pinned_tweet_id": "1957014987756695592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021972123087147008/O6BrVyuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 276,
+          "like_count": 993,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 120
+        },
+        "username": "AngelsTrumpetIX",
+        "verified": false
+      }
+    ]
+  }
+}

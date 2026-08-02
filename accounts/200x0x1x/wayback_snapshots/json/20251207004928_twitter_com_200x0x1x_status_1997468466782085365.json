@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997468463237853184"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1997468466782085365",
+    "created_at": "2025-12-07T00:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T01:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997468466782085365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBU5BqYVUl",
+          "end": 174,
+          "expanded_url": "https://x.com/200x0x1x/status/1997468466782085365/photo/1",
+          "media_key": "3_1997468463237853184",
+          "start": 151,
+          "url": "https://t.co/LBU5BqYVUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997468466782085365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“让我们的心灵尽情充斥着死亡...让我们随时随地任由自己的想象去描绘死亡的模样。在马儿失足倒地、屋瓦掉落、细得不能再细的针刺入体内时，让我们好好思忖：死亡本身到底是什么？”——蒙田后来曾经多次用“预演”（exercitation）一词描述他的濒死体验。在身体无意识的剧烈挣扎中，他感受到的是一种在死亡的潮水表面的愉悦漂浮，他的手仿佛在搔痒或是在拼命撕开自己的身体，而他却只是感觉到自己的灵魂正轻盈地系于唇尖，这些构成他内部的较轻的、属光的元素正随时准备升入高空。死亡就是游泳...他短暂地游到了死亡的边缘，尝了一口死亡的味道，这是一次“对死亡的练习”。"
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“让我们的心灵尽情充斥着死亡...让我们随时随地任由自己的想象去描绘死亡的模样。在马儿失足倒地、屋瓦掉落、细得不能再细的针刺入体内时，让我们好好思忖：死亡本身到底是什么？”——蒙田后来曾经多次用“预演”（exercitation）一词描述他的濒死体验。在身体无意识的剧烈挣扎中，他感受到的是一种在死亡 https://t.co/LBU5BqYVUl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997468466782085365].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997468466782085365",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997468466782085365"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_1997468463237853184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7hu-_lWcAAgV0_.jpg",
+        "width": 628
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997192450075500544/c1-CRbSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 930,
+          "like_count": 26270,
+          "listed_count": 8,
+          "media_count": 2337,
+          "tweet_count": 25115
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

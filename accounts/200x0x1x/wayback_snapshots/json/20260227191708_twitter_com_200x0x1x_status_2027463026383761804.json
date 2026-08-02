@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2027463026383761804",
+    "created_at": "2026-02-27T19:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027463026383761804"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027463026383761804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有的人要理解一件事，别人鄙夷你不是因为你条件不好，只是因为你品行不端，爱慕虚荣，拿自己根本没有的东西来装点自己。我想任何对美有所追求的人，看见丑恶的心灵都会背过脸去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2027463026383761804",
+        "created_at": "2026-02-27T19:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027463026383761804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027463026383761804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的人要理解一件事，别人鄙夷你不是因为你条件不好，只是因为你品行不端，爱慕虚荣，拿自己根本没有的东西来装点自己。我想任何对美有所追求的人，看见丑恶的心灵都会背过脸去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026972063131430913/t9OL7xzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 971,
+          "like_count": 26892,
+          "listed_count": 6,
+          "media_count": 2386,
+          "tweet_count": 25794
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2077502285681500212",
+    "created_at": "2026-07-15T21:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T22:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077503962450927826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077503962450927826",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077502285681500212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得我很健全且正常，但是朋友说我是在自欺欺人，他说我看起来完全就不是正常的，说的话做的事也是不正常的。但是因为我觉得我很正常，所以就算没有家庭压力，我也抵触诊断。但与此同时，我活得很痛苦，我每天都想杀人，有着这样想法的我真的正常吗？我也时常自我怀疑，我是不是在自欺欺人呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077502285681500212",
+        "created_at": "2026-07-15T21:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077503962450927826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077503962450927826",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077502285681500212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我很健全且正常，但是朋友说我是在自欺欺人，他说我看起来完全就不是正常的，说的话做的事也是不正常的。但是因为我觉得我很正常，所以就算没有家庭压力，我也抵触诊断。但与此同时，我活得很痛苦，我每天都想杀人，有着这样想法的我真的正常吗？我也时常自我怀疑，我是不是在自欺欺人呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2077502285681500212",
+        "created_at": "2026-07-15T21:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077502285681500212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077502285681500212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我想如实告诉医生我的情况。\n但是在另一方面，我想欺骗医生。因为我觉得我很健全，是医生保守治疗所以才会一直让我吃药。\n我想骗他，让他只给我开我想吃的药。\n这样一来也省钱。我妈妈每次都说，因为我的精神病，家里花了很多钱，而且她认为我根本没病，我心里非常不舒服又内疚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 672,
+          "like_count": 28582,
+          "listed_count": 6,
+          "media_count": 2473,
+          "tweet_count": 27322
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2078332812651073700",
+    "created_at": "2026-07-18T11:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078448810540638529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610198984890683392",
+          "start": 0,
+          "username": "yngq11443315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078448810540638529",
+    "in_reply_to_user_id": "1610198984890683392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078332812651073700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yngq11443315 圈子干净，然后自己就是那个最脏的脏东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078332809429880832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe4rb8bkAAG3Rq.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2078332812651073700",
+        "created_at": "2026-07-18T11:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078448810540638529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610198984890683392",
+              "start": 0,
+              "username": "yngq11443315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078448810540638529",
+        "in_reply_to_user_id": "1610198984890683392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078332812651073700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yngq11443315 圈子干净，然后自己就是那个最脏的脏东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078332809429880832"
+          ]
+        },
+        "author_id": "1610198984890683392",
+        "conversation_id": "2078332812651073700",
+        "created_at": "2026-07-18T04:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078332812651073700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwKSYWnViO",
+              "end": 57,
+              "expanded_url": "https://x.com/yngq11443315/status/2078332812651073700/photo/1",
+              "media_key": "3_2078332809429880832",
+              "start": 34,
+              "url": "https://t.co/EwKSYWnViO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078332812651073700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6483,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道说啥，很心疼这个女生，而且出轨这种事情自己不觉得自己恶心吗… https://t.co/EwKSYWnViO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078414284984594432/3LLkhc8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 675,
+          "like_count": 28698,
+          "listed_count": 7,
+          "media_count": 2472,
+          "tweet_count": 27426
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-03T08:58:57.000Z",
+        "description": "咩的碎碎念",
+        "id": "1610198984890683392",
+        "name": "咩啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834442727947476992/e-q6E0uJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 123,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "yngq11443315",
+        "verified": false
+      }
+    ]
+  }
+}

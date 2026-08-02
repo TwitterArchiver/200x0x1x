@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984123232530710528"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "1984123235362132175",
+    "created_at": "2025-10-31T05:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984123235362132175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RJrKAB8OV1",
+          "end": 29,
+          "expanded_url": "https://x.com/200x0x1x/status/1984123235362132175/photo/1",
+          "media_key": "3_1984123232530710528",
+          "start": 6,
+          "url": "https://t.co/RJrKAB8OV1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984123235362132175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快乐的科学 https://t.co/RJrKAB8OV1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984123235362132175].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984123235362132175",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984123235362132175"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_1984123232530710528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kFkVGXwAAo6V1.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "200x0x1x",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983527457211736064/P85txAq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 916,
+          "like_count": 25791,
+          "listed_count": 7,
+          "media_count": 2313,
+          "tweet_count": 24831
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

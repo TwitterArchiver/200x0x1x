@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2017485065815470426",
+    "created_at": "2026-01-31T06:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T07:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017485065815470426"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017485065815470426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一类没有自我的人，“虚荣”，将自我系于他人的评价和欲望，而他人的欲望阴晴不定——男人阴晴不定的欲望创造了阴晴不定的女人。因此他们常常显得分裂、矛盾、表演欲旺盛和变化多端。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2017485065815470426",
+        "created_at": "2026-01-31T06:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017485065815470426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017485065815470426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一类没有自我的人，“虚荣”，将自我系于他人的评价和欲望，而他人的欲望阴晴不定——男人阴晴不定的欲望创造了阴晴不定的女人。因此他们常常显得分裂、矛盾、表演欲旺盛和变化多端。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651632571129857/dm7RVGq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 952,
+          "like_count": 26646,
+          "listed_count": 6,
+          "media_count": 2373,
+          "tweet_count": 25525
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

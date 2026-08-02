@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1997818006366269811",
+    "created_at": "2025-12-07T23:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T00:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997818006366269811"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997818006366269811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "男人和女人之间的关系是战争：“爱情——其手段是战争，其基础是两性间的殊死仇恨。”性别对抗是两性关系的自然状态，是“两性间的永恒战争”，而分娩一个孩子是战争的目的——“小孩是必需的：男人始终只不过是手段。（没有小孩，婚姻只是姘居。）（女人于是蜕化了——）（一个没有小孩的女人会变成两性人）。”女人对男人而言是一种危险凶猛、狡诈多端的小型食肉动物，这些“可爱的狂野女人”一旦陷入恋爱就要求撕碎自己的男人，她们要比男人凶恶无数倍，也比男人聪明无数倍。这些善于战争的女人是最擅长行使她们的本能的，而失败的女人发明了“平等”，即将蜕化了的女人视为女性性的本质，以贬低真正的女人和男人来抬高自身的价值。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男人和女人之间的关系是战争：“爱情——其手段是战争，其基础是两性间的殊死仇恨。”性别对抗是两性关系的自然状态，是“两性间的永恒战争”，而分娩一个孩子是战争的目的——“小孩是必需的：男人始终只不过是手段。（没有小孩，婚姻只是姘居。）（女人于是蜕化了——）（一个没有小孩的女人会变成两性人）。”女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1997818006366269811",
+        "created_at": "2025-12-07T23:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T00:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997818006366269811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997818006366269811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男人和女人之间的关系是战争：“爱情——其手段是战争，其基础是两性间的殊死仇恨。”性别对抗是两性关系的自然状态，是“两性间的永恒战争”，而分娩一个孩子是战争的目的——“小孩是必需的：男人始终只不过是手段。（没有小孩，婚姻只是姘居。）（女人于是蜕化了——）（一个没有小孩的女人会变成两性人）。”女人对男人而言是一种危险凶猛、狡诈多端的小型食肉动物，这些“可爱的狂野女人”一旦陷入恋爱就要求撕碎自己的男人，她们要比男人凶恶无数倍，也比男人聪明无数倍。这些善于战争的女人是最擅长行使她们的本能的，而失败的女人发明了“平等”，即将蜕化了的女人视为女性性的本质，以贬低真正的女人和男人来抬高自身的价值。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人和女人之间的关系是战争：“爱情——其手段是战争，其基础是两性间的殊死仇恨。”性别对抗是两性关系的自然状态，是“两性间的永恒战争”，而分娩一个孩子是战争的目的——“小孩是必需的：男人始终只不过是手段。（没有小孩，婚姻只是姘居。）（女人于是蜕化了——）（一个没有小孩的女人会变成两性人）。”女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997192450075500544/c1-CRbSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 933,
+          "like_count": 26274,
+          "listed_count": 8,
+          "media_count": 2337,
+          "tweet_count": 25123
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

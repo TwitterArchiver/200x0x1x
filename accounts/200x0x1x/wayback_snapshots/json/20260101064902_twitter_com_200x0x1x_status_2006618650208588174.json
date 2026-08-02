@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2006600130993213834",
+    "created_at": "2026-01-01T06:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T07:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006618650208588174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699268392128258048",
+          "start": 0,
+          "username": "lanlanlan1112"
+        },
+        {
+          "end": 31,
+          "id": "1540315386931204098",
+          "start": 15,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006618650208588174",
+    "in_reply_to_user_id": "1699268392128258048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006612277609590834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanlanlan1112 @kyouka_charming 不知道，我甚至没云过这个"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2006612277609590834].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2006612277609590834",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2006612277609590834"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2006600130993213834",
+        "created_at": "2026-01-01T06:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006618650208588174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1699268392128258048",
+              "start": 0,
+              "username": "lanlanlan1112"
+            },
+            {
+              "end": 31,
+              "id": "1540315386931204098",
+              "start": 15,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006618650208588174",
+        "in_reply_to_user_id": "1699268392128258048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006612277609590834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanlanlan1112 @kyouka_charming 不知道，我甚至没云过这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006562025812701184/3U079Xuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 934,
+          "like_count": 26572,
+          "listed_count": 6,
+          "media_count": 2349,
+          "tweet_count": 25290
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T03:49:06.000Z",
+        "description": "嘻嘻",
+        "id": "1699268392128258048",
+        "location": "👁",
+        "name": "L",
+        "pinned_tweet_id": "2006345194992816188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931602115212009472/2bItkzIj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 469,
+          "like_count": 24325,
+          "listed_count": 1,
+          "media_count": 631,
+          "tweet_count": 10819
+        },
+        "username": "lanlanlan1112",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。物知らず悪役令嬢です、トランスジェンダー、漫画家志望、TRPG/ボードゲーマー。ビッチ/童貞食い。日本語/華语OK。元日本高校生(八王子)。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GS6Tu"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "紅月の元",
+        "name": "🪞・❄️🌙🌺",
+        "pinned_tweet_id": "1996117146150338572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004037220693692417/xRQGDf5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1224,
+          "like_count": 10700,
+          "listed_count": 1,
+          "media_count": 1071,
+          "tweet_count": 8578
+        },
+        "url": "https://t.co/RiMq5GS6Tu",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

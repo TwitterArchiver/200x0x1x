@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1989922067891065097",
+    "created_at": "2025-11-16T06:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T07:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989942885454942581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550358687062994946",
+          "start": 0,
+          "username": "wenqing18973238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989942885454942581",
+    "in_reply_to_user_id": "1550358687062994946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989942195898773709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenqing18973238 真潮酷的去搞加速主义了，真阴湿的在看古典哲学，齐拉黑派则属于自命不凡的中二病左翼小孩哥的游乐场。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1989922067891065097",
+        "created_at": "2025-11-16T06:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989942885454942581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550358687062994946",
+              "start": 0,
+              "username": "wenqing18973238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989942885454942581",
+        "in_reply_to_user_id": "1550358687062994946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989942195898773709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenqing18973238 真潮酷的去搞加速主义了，真阴湿的在看古典哲学，齐拉黑派则属于自命不凡的中二病左翼小孩哥的游乐场。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550358687062994946",
+        "conversation_id": "1989922067891065097",
+        "created_at": "2025-11-16T06:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989942195898773709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989942195898773709",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989922067891065097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 阴湿潮酷男的最爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "所有的人都会随着你而逝去。你的死亡是一颗坚定不移的彗星。你会转向神吗？没有神，神会随着你而去。",
+        "id": "1438420916518539267",
+        "location": "hk",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1886062756962742377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988789585422282752/DZ2pnXRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 928,
+          "like_count": 26045,
+          "listed_count": 7,
+          "media_count": 2329,
+          "tweet_count": 24995
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-22T05:55:01.000Z",
+        "description": "新世界不很新，旧世界不很旧。20岁/法学在读/mtf",
+        "id": "1550358687062994946",
+        "name": "Naka（奥斯曼跨洋运粮船）",
+        "pinned_tweet_id": "1987420222849229222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973425672623468544/i_bHcaYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 2401,
+          "like_count": 13008,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 2255
+        },
+        "username": "wenqing18973238",
+        "verified": false
+      }
+    ]
+  }
+}

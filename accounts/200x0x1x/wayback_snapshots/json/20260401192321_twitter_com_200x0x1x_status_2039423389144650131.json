@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2039423389144650131",
+    "created_at": "2026-04-01T19:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T20:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039423389144650131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039423389144650131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浮士德中的柏拉图主义，理念界被歌德称作众母之国（Reich der Mütter），一整片没有时间和空间秩序的虚无，众女神站坐其中，事物的共相在虚无中漂浮。海伦被歌德提升为古典女性之理念，她的身影需要在女神国度中取出。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2039423389144650131",
+        "created_at": "2026-04-01T19:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T20:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039423389144650131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039423389144650131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浮士德中的柏拉图主义，理念界被歌德称作众母之国（Reich der Mütter），一整片没有时间和空间秩序的虚无，众女神站坐其中，事物的共相在虚无中漂浮。海伦被歌德提升为古典女性之理念，她的身影需要在女神国度中取出。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038736188706623488/nEtFKiOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1006,
+          "like_count": 27256,
+          "listed_count": 6,
+          "media_count": 2397,
+          "tweet_count": 26003
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

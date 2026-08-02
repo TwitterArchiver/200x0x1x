@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2063824863161147620",
+    "created_at": "2026-06-08T03:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063824863161147620"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063824863161147620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常遇到现实过得一塌糊涂，没有才能没有建树的人，因为我的性别就认为自己可以在我身上找到优越感，每回我都好他妈的无奈呀！我觉得这就是一种雄小鬼的概念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2063824863161147620",
+        "created_at": "2026-06-08T03:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063824863161147620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063824863161147620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常遇到现实过得一塌糊涂，没有才能没有建树的人，因为我的性别就认为自己可以在我身上找到优越感，每回我都好他妈的无奈呀！我觉得这就是一种雄小鬼的概念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎(*^^*)",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063477529978028032/FCGFfbXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 762,
+          "like_count": 27825,
+          "listed_count": 6,
+          "media_count": 2442,
+          "tweet_count": 26654
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

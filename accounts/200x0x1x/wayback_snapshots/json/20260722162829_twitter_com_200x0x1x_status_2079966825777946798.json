@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2079828253154717856",
+    "created_at": "2026-07-22T16:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079966825777946798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938140109792325632",
+          "start": 0,
+          "username": "SyRainstormTTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079966825777946798",
+    "in_reply_to_user_id": "1938140109792325632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079966505694048560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyRainstormTTN 亲亲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079966505694048560].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079966505694048560",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079966505694048560"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2079828253154717856",
+        "created_at": "2026-07-22T16:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079966825777946798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938140109792325632",
+              "start": 0,
+              "username": "SyRainstormTTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079966825777946798",
+        "in_reply_to_user_id": "1938140109792325632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079966505694048560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyRainstormTTN 亲亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 678,
+          "like_count": 28790,
+          "listed_count": 7,
+          "media_count": 2494,
+          "tweet_count": 27574
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T07:40:26.000Z",
+        "description": "当黑天鹅从成为白天鹅的美梦中苏醒时，会发生什么呢？",
+        "id": "1938140109792325632",
+        "location": "24",
+        "name": "F-02-70",
+        "pinned_tweet_id": "2070916269768077455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033201038774439937/8uN3QIpk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 544,
+          "like_count": 5211,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3884
+        },
+        "url": "",
+        "username": "SyRainstormTTN",
+        "verified": false
+      }
+    ]
+  }
+}

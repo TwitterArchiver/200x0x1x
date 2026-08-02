@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2035445698901192894",
+    "created_at": "2026-03-21T20:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T21:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035457275033182541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1916906286362603520",
+          "start": 0,
+          "username": "8964tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035457275033182541",
+    "in_reply_to_user_id": "1916906286362603520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035445698901192894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tv 🫂🫂辛苦了噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2035445698901192894",
+        "created_at": "2026-03-21T20:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T21:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035457275033182541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916906286362603520",
+              "start": 0,
+              "username": "8964tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035457275033182541",
+        "in_reply_to_user_id": "1916906286362603520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035445698901192894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tv 🫂🫂辛苦了噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916906286362603520",
+        "conversation_id": "2035445698901192894",
+        "created_at": "2026-03-21T19:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T20:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035445698901192894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035445698901192894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜心慌心悸，我觉得很难受，但是我自己还不能死，因为我还有很多事要干，组稿跟期刊的新一期，还有研究所的合作与专著、翻译，都要我去翻译，要出版，古典学非常看重的是“竞赛”，竞赛在其本质上是悲剧的，因为通过竞赛，人们与有限的生命做斗争，古希腊的神性就来源于这里...我现在就在进行着竞赛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2033363131464835504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033980314771468288/Vv3qeE96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 997,
+          "like_count": 27109,
+          "listed_count": 6,
+          "media_count": 2388,
+          "tweet_count": 25890
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T17:24:15.000Z",
+        "description": "郭楠巨婴精神病生活不能自理/永恒之物@hh1364915645639",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "hh1364915645639"
+              }
+            ]
+          }
+        },
+        "id": "1916906286362603520",
+        "name": "唉",
+        "pinned_tweet_id": "2021089087109919011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024467730427158528/Y-UwhGOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 86,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 618
+        },
+        "username": "8964tv",
+        "verified": false
+      }
+    ]
+  }
+}

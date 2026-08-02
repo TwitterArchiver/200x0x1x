@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2080269252117045527",
+    "created_at": "2026-07-24T09:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080589371242320261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1238452916660269056",
+          "start": 0,
+          "username": "nerossa19171107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080589371242320261",
+    "in_reply_to_user_id": "1238452916660269056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080588270111518768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nerossa19171107 事情结束了但是影响不大好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2080269252117045527",
+        "created_at": "2026-07-24T09:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080589371242320261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238452916660269056",
+              "start": 0,
+              "username": "nerossa19171107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080589371242320261",
+        "in_reply_to_user_id": "1238452916660269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080588270111518768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nerossa19171107 事情结束了但是影响不大好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238452916660269056",
+        "conversation_id": "2080269252117045527",
+        "created_at": "2026-07-24T09:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080588270111518768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080588270111518768",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080588039915704515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 没看懂啊，偏正哪一边啊应该哎我去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080527103204950016/4_dxQxG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 678,
+          "like_count": 28808,
+          "listed_count": 7,
+          "media_count": 2496,
+          "tweet_count": 27619
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-13T13:12:50.000Z",
+        "description": "Fiamme dalla rosa. 玫瑰的火焰。｜ Vae victis！ ｜ mia amore- @hongjunlv ｜ 里账   @elyse200010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "hongjunlv"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "elyse200010"
+              }
+            ]
+          }
+        },
+        "id": "1238452916660269056",
+        "location": "Torino, Piemonte",
+        "name": "Nerossa",
+        "pinned_tweet_id": "1977588542080794954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632901489114116096/8GO7_9SU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 1356,
+          "like_count": 22760,
+          "listed_count": 7,
+          "media_count": 745,
+          "tweet_count": 22064
+        },
+        "url": "",
+        "username": "nerossa19171107",
+        "verified": false
+      }
+    ]
+  }
+}

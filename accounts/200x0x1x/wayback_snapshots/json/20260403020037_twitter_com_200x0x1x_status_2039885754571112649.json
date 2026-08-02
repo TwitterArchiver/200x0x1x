@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2039885754571112649",
+    "created_at": "2026-04-03T02:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039885754571112649"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039885754571112649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "网上骂我的人我被你们毁了知道吗？？你们毁了一个精神病的小女孩，就是说我真的特别萌，然后我特别牛逼，但是过去的酥酥已经被你们杀死了，所以你们杀人了知道吗？我操，一旦我彻底怒了，到时候就把你们都抓起来，知道地狱永罚是什么概念不？真的，你酥姐从不开玩笑，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2039885754571112649",
+        "created_at": "2026-04-03T02:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039885754571112649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039885754571112649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网上骂我的人我被你们毁了知道吗？？你们毁了一个精神病的小女孩，就是说我真的特别萌，然后我特别牛逼，但是过去的酥酥已经被你们杀死了，所以你们杀人了知道吗？我操，一旦我彻底怒了，到时候就把你们都抓起来，知道地狱永罚是什么概念不？真的，你酥姐从不开玩笑，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038736188706623488/nEtFKiOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1007,
+          "like_count": 27192,
+          "listed_count": 6,
+          "media_count": 2397,
+          "tweet_count": 26021
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

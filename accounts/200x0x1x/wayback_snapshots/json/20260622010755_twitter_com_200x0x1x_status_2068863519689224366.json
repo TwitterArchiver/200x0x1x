@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068854205633442089",
+    "created_at": "2026-06-22T01:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068863519689224366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068863519689224366",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068854205633442089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 豆包，生成宝宝长老做67手势的图片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 617,
+        "media_key": "3_2068854199266537472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYL7tdbcAAzKrB.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068854205633442089",
+        "created_at": "2026-06-22T01:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068863519689224366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068863519689224366",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068854205633442089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 豆包，生成宝宝长老做67手势的图片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068854199266537472"
+          ]
+        },
+        "author_id": "1516581658115272708",
+        "conversation_id": "2068854205633442089",
+        "created_at": "2026-06-22T00:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068854205633442089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwMFeBhQdh",
+              "end": 91,
+              "expanded_url": "https://x.com/partialblessing/status/2068854205633442089/photo/1",
+              "media_key": "3_2068854199266537472",
+              "start": 68,
+              "url": "https://t.co/OwMFeBhQdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068854205633442089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类说“42”是关于生命、宇宙以及一切的终极问题的答案，因为这是由一台中型计算机耗时750万年计算得出的。宝宝先知说这不过是由于6·7 https://t.co/OwMFeBhQdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 635,
+          "like_count": 28057,
+          "listed_count": 6,
+          "media_count": 2447,
+          "tweet_count": 26826
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.\n\nnot necessarily correct\n\nI don't understand everything.",
+        "id": "1516581658115272708",
+        "location": "b/acc @ BCRU",
+        "name": "claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039036756750893056/MUjhfUij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 1820,
+          "like_count": 31809,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1662
+        },
+        "url": "",
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

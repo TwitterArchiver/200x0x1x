@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2064354266219970571",
+    "created_at": "2026-06-10T00:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064508161294274640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551716556857810944",
+          "start": 0,
+          "username": "PalomoLim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064508161294274640",
+    "in_reply_to_user_id": "1551716556857810944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064354266219970571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PalomoLim 宝宝族还停留在互坑互害的自然状态🤭🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2064354266219970571",
+        "created_at": "2026-06-10T00:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064508161294274640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551716556857810944",
+              "start": 0,
+              "username": "PalomoLim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064508161294274640",
+        "in_reply_to_user_id": "1551716556857810944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064354266219970571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PalomoLim 宝宝族还停留在互坑互害的自然状态🤭🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551716556857810944",
+        "conversation_id": "2064354266219970571",
+        "created_at": "2026-06-09T14:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064354266219970571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064354266219970571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类问宝宝长老整个宝宝部落一共有多少钱，宝宝长老回答0元。\n人类懵了，问：“明明宝宝部落那么大那么多宝宝怎么可能会只有0元呢？”\n宝宝长老语重心长的说：“我们部落民风淳朴，没有人类那样尔虞我诈人为财死”。\n人类不得不佩服且称赞起宝宝长老的智慧\n（此时有两个宝宝为了树叶打起来了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064180709225271296/gSORuUiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 763,
+          "like_count": 27853,
+          "listed_count": 6,
+          "media_count": 2443,
+          "tweet_count": 26678
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-25T23:50:42.000Z",
+        "description": "亡灵坐在树底下叹息，想要与亡灵相处的话不妨与我通灵 ｜ 一个人精通一切而不认识祢，是不幸的，相反，不知道一切而能认识祢是有福的 ｜天才大猫小猫咪@119calling_ 😼 @nekodoby_ | 公台，今日之事如何呀 @chengong777 | 超级远房亲戚铃小鸟  @paradoxrin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "119calling_"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "chengong777"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "paradoxrin"
+              }
+            ]
+          }
+        },
+        "id": "1551716556857810944",
+        "location": "Je pense,donc je suis",
+        "name": "辣椒味糖果灰姑娘",
+        "pinned_tweet_id": "2029951239061131710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987172366062133250/vBjhRPey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 486,
+          "like_count": 48972,
+          "listed_count": 5,
+          "media_count": 967,
+          "tweet_count": 8369
+        },
+        "username": "PalomoLim",
+        "verified": false
+      }
+    ]
+  }
+}

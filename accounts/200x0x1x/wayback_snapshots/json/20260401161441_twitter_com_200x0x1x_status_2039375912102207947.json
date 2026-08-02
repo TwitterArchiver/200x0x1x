@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2038750528566395028",
+    "created_at": "2026-04-01T16:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039375912102207947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842976751380496384",
+          "start": 0,
+          "username": "Elyse200010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039375912102207947",
+    "in_reply_to_user_id": "1842976751380496384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039365413570588954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elyse200010 笑死"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039365413570588954].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039365413570588954",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039365413570588954"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2038750528566395028",
+        "created_at": "2026-04-01T16:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039375912102207947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842976751380496384",
+              "start": 0,
+              "username": "Elyse200010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039375912102207947",
+        "in_reply_to_user_id": "1842976751380496384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039365413570588954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elyse200010 笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038736188706623488/nEtFKiOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1006,
+          "like_count": 27257,
+          "listed_count": 6,
+          "media_count": 2397,
+          "tweet_count": 26002
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-06T17:14:41.000Z",
+        "description": "我看见你也看见",
+        "id": "1842976751380496384",
+        "location": "luogo di nascita ",
+        "name": "Elyse en Saint Anne",
+        "pinned_tweet_id": "1907513601432105145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842977041274040320/SWEN_UWl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 96,
+          "like_count": 755,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 993
+        },
+        "username": "Elyse200010",
+        "verified": false
+      }
+    ]
+  }
+}

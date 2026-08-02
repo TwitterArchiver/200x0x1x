@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2071891713128587288",
+    "created_at": "2026-06-30T15:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071976292585738456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1080338711760523264",
+          "start": 0,
+          "username": "ZilEMPbIVrseSD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071976292585738456",
+    "in_reply_to_user_id": "1080338711760523264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071921520461713657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZilEMPbIVrseSD4 大哥哥，你好有深度，可以自我介绍一下吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2071891713128587288",
+        "created_at": "2026-06-30T15:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071976292585738456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1080338711760523264",
+              "start": 0,
+              "username": "ZilEMPbIVrseSD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071976292585738456",
+        "in_reply_to_user_id": "1080338711760523264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071921520461713657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZilEMPbIVrseSD4 大哥哥，你好有深度，可以自我介绍一下吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080338711760523264",
+        "conversation_id": "2071891713128587288",
+        "created_at": "2026-06-30T11:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071921520461713657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071921520461713657",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071891713128587288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 没错，自从得了精神病后。\n自己精神就好多了。\n但是精神病不是那么好得的。\n大部分情况是童年自恋期未结束。\n延续进入中二病期罢了。\n\n其实也好，谁没个中二期呢。\n长大你会品味这段青春的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "susuangelbaby⁺✧ ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071844299642138624/LGupz8hU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 639,
+          "like_count": 28089,
+          "listed_count": 6,
+          "media_count": 2453,
+          "tweet_count": 26915
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T05:43:15.000Z",
+        "description": "先贤的智慧早已在书中警示。\n而个体的懒惰造就了可怜的无知.",
+        "id": "1080338711760523264",
+        "name": "一个骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124392970097086467/9P0G6NSR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "ZilEMPbIVrseSD4",
+        "verified": false
+      }
+    ]
+  }
+}

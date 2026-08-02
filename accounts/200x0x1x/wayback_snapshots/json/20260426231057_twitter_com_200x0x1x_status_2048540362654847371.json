@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048540357303128064"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2048540362654847371",
+    "created_at": "2026-04-26T23:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048540362654847371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lnlbwblTTy",
+          "end": 33,
+          "expanded_url": "https://x.com/200x0x1x/status/2048540362654847371/photo/1",
+          "media_key": "3_2048540357303128064",
+          "start": 10,
+          "url": "https://t.co/lnlbwblTTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048540362654847371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "查询以前的精神状态 https://t.co/lnlbwblTTy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048540362654847371].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048540362654847371",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048540362654847371"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1028,
+        "media_key": "3_2048540357303128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3gmfEa0AAB2cH.jpg",
+        "width": 1170
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047548762210328576/3TheJ9Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 1026,
+          "like_count": 27537,
+          "listed_count": 6,
+          "media_count": 2405,
+          "tweet_count": 26192
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

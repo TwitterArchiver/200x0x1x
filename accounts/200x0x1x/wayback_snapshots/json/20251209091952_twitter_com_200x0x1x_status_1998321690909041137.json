@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "1998321690909041137",
+    "created_at": "2025-12-09T09:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998321690909041137"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998321690909041137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问题，它无法要求一个“最终解决”，因为存在的只是一系列持续不断的谈判和协商。问题将永远是一个萦绕我们思绪的疑难，它带来一种思想的紧迫性，以及对真理之在场的提示。就像伽达默尔所说的那样，思想作为游戏开启并延迟自身：游戏者被游戏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "1998321690909041137",
+        "created_at": "2025-12-09T09:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998321690909041137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998321690909041137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问题，它无法要求一个“最终解决”，因为存在的只是一系列持续不断的谈判和协商。问题将永远是一个萦绕我们思绪的疑难，它带来一种思想的紧迫性，以及对真理之在场的提示。就像伽达默尔所说的那样，思想作为游戏开启并延迟自身：游戏者被游戏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997192450075500544/c1-CRbSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 935,
+          "like_count": 26280,
+          "listed_count": 8,
+          "media_count": 2338,
+          "tweet_count": 25133
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

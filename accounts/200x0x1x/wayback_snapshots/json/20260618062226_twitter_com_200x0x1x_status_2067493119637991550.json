@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067493115888279552"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2067493119637991550",
+    "created_at": "2026-06-18T06:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067493119637991550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqCfcZdwiR",
+          "end": 23,
+          "expanded_url": "https://x.com/200x0x1x/status/2067493119637991550/photo/1",
+          "media_key": "3_2067493115888279552",
+          "start": 0,
+          "url": "https://t.co/yqCfcZdwiR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067493119637991550",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yqCfcZdwiR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2067493115888279552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE2COwWIAAOO7c.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067493115888279552"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2067493119637991550",
+        "created_at": "2026-06-18T06:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067493119637991550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqCfcZdwiR",
+              "end": 23,
+              "expanded_url": "https://x.com/200x0x1x/status/2067493119637991550/photo/1",
+              "media_key": "3_2067493115888279552",
+              "start": 0,
+              "url": "https://t.co/yqCfcZdwiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067493119637991550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yqCfcZdwiR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066743555121410048/5IXgNP07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 639,
+          "like_count": 27959,
+          "listed_count": 6,
+          "media_count": 2445,
+          "tweet_count": 26755
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

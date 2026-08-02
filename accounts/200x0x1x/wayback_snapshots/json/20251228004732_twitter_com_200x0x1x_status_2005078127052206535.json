@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2005078127052206535",
+    "created_at": "2025-12-28T00:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T01:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005078127052206535"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005078127052206535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在光明之中先行的是永恒黑暗的根据，这即是光与重力的分离，在光的冉冉上升之中，实存者的根据通过“收缩”、“自身封闭”而逃遁到黑夜。这一晦暗本原既表现为生成的渴望（它从收缩和封闭中“解体”，进入光明的世界），又表现为分离的阴暗躁动，这种躁动不断在宇宙和人的灵魂中回归，如同一道溃烂的伤口，在理智自然的表面不断制造出疾病和瘿瘤，使大地变得空虚和荒芜。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在光明之中先行的是永恒黑暗的根据，这即是光与重力的分离，在光的冉冉上升之中，实存者的根据通过“收缩”、“自身封闭”而逃遁到黑夜。这一晦暗本原既表现为生成的渴望（它从收缩和封闭中“解体”，进入光明的世界），又表现为分离的阴暗躁动，这种躁动不断在宇宙和人的灵魂中回归，如同一道溃烂的伤口，在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2005078127052206535",
+        "created_at": "2025-12-28T00:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T01:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005078127052206535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005078127052206535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在光明之中先行的是永恒黑暗的根据，这即是光与重力的分离，在光的冉冉上升之中，实存者的根据通过“收缩”、“自身封闭”而逃遁到黑夜。这一晦暗本原既表现为生成的渴望（它从收缩和封闭中“解体”，进入光明的世界），又表现为分离的阴暗躁动，这种躁动不断在宇宙和人的灵魂中回归，如同一道溃烂的伤口，在理智自然的表面不断制造出疾病和瘿瘤，使大地变得空虚和荒芜。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在光明之中先行的是永恒黑暗的根据，这即是光与重力的分离，在光的冉冉上升之中，实存者的根据通过“收缩”、“自身封闭”而逃遁到黑夜。这一晦暗本原既表现为生成的渴望（它从收缩和封闭中“解体”，进入光明的世界），又表现为分离的阴暗躁动，这种躁动不断在宇宙和人的灵魂中回归，如同一道溃烂的伤口，在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "到女人那里去之前，先带上你的鞭子",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004189770768117760/acG2jYOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 937,
+          "like_count": 26530,
+          "listed_count": 7,
+          "media_count": 2345,
+          "tweet_count": 25270
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

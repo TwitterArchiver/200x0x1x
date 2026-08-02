@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004159982196215809"
+      ]
+    },
+    "author_id": "1438420916518539267",
+    "conversation_id": "2004159990786150911",
+    "created_at": "2025-12-25T11:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T12:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004159990786150911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QbzFXRtYIx",
+          "end": 36,
+          "expanded_url": "https://x.com/200x0x1x/status/2004159990786150911/photo/1",
+          "media_key": "3_2004159982196215809",
+          "start": 13,
+          "url": "https://t.co/QbzFXRtYIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004159990786150911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢兔兔送的圣诞节礼物。 https://t.co/QbzFXRtYIx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004159990786150911].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004159990786150911",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004159990786150911"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_2004159982196215809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9A04qPb0AEUmY0.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "🚪800，请我吃螃蟹",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "1995010862768116070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002534591446593539/QDAatHEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 938,
+          "like_count": 26501,
+          "listed_count": 8,
+          "media_count": 2345,
+          "tweet_count": 25247
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

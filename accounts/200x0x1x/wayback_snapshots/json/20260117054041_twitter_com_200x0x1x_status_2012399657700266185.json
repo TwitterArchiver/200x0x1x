@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2012399657700266185",
+    "created_at": "2026-01-17T05:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T06:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012399657700266185"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012399657700266185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《狄俄尼索斯世界观》中酒神意志紧系于“魔法的变形”，自然的艺术性力量的本质体现恰恰在于自然变得“不自然”的时刻，这时动物将会开口说话，人类将如梦中诸神般行走：“大地自由地献出其礼物；最凶猛的野兽彼此和平相近；狄俄尼索斯那以鲜花装点的战车由豹与虎牵引。”在意志的悲剧性紧张中，特殊和普遍的对立在迷狂中达到综合。这种精神性恍惚在一方面表现为向普遍意志的欢乐返回，在另一方面则表现为失落，“造物的叹息”（sigh of the creature），因为人被置送入个体性而陷入了一种不可竭止的极端哀伤。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《狄俄尼索斯世界观》中酒神意志紧系于“魔法的变形”，自然的艺术性力量的本质体现恰恰在于自然变得“不自然”的时刻，这时动物将会开口说话，人类将如梦中诸神般行走：“大地自由地献出其礼物；最凶猛的野兽彼此和平相近；狄俄尼索斯那以鲜花装点的战车由豹与虎牵引。”在意志的悲剧性紧张中，特殊和普遍的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2012399657700266185",
+        "created_at": "2026-01-17T05:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012399657700266185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012399657700266185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《狄俄尼索斯世界观》中酒神意志紧系于“魔法的变形”，自然的艺术性力量的本质体现恰恰在于自然变得“不自然”的时刻，这时动物将会开口说话，人类将如梦中诸神般行走：“大地自由地献出其礼物；最凶猛的野兽彼此和平相近；狄俄尼索斯那以鲜花装点的战车由豹与虎牵引。”在意志的悲剧性紧张中，特殊和普遍的对立在迷狂中达到综合。这种精神性恍惚在一方面表现为向普遍意志的欢乐返回，在另一方面则表现为失落，“造物的叹息”（sigh of the creature），因为人被置送入个体性而陷入了一种不可竭止的极端哀伤。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《狄俄尼索斯世界观》中酒神意志紧系于“魔法的变形”，自然的艺术性力量的本质体现恰恰在于自然变得“不自然”的时刻，这时动物将会开口说话，人类将如梦中诸神般行走：“大地自由地献出其礼物；最凶猛的野兽彼此和平相近；狄俄尼索斯那以鲜花装点的战车由豹与虎牵引。”在意志的悲剧性紧张中，特殊和普遍的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "pinned_tweet_id": "2007155249627406735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012169403769470976/h0JYROyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 937,
+          "like_count": 26432,
+          "listed_count": 6,
+          "media_count": 2358,
+          "tweet_count": 25371
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

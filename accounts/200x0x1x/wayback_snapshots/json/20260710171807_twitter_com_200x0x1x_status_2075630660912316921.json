@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075628645708894291",
+    "created_at": "2026-07-10T17:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075630660912316921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1522945124346601474",
+          "start": 0,
+          "username": "KunaAkem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075630660912316921",
+    "in_reply_to_user_id": "1522945124346601474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075628645708894291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KunaAkem1 没有读书asmr吗 你把麦开开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075628645708894291",
+        "created_at": "2026-07-10T17:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075630660912316921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522945124346601474",
+              "start": 0,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075630660912316921",
+        "in_reply_to_user_id": "1522945124346601474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075628645708894291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KunaAkem1 没有读书asmr吗 你把麦开开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522945124346601474",
+        "conversation_id": "2075628645708894291",
+        "created_at": "2026-07-10T17:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075628645708894291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kuna’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1AKEm…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1AKEmmdbQrZKL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2075628647168557056/ZvMl4FMC?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075628647168557056/ZvMl4FMC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 鳄鱼手记",
+              "unwound_url": "https://twitter.com/i/spaces/1AKEmmdbQrZKL/peek",
+              "url": "https://t.co/Y6PR1SRlAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075628645708894291",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y6PR1SRlAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075601792118013952/JtH0JSmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 645,
+          "like_count": 28387,
+          "listed_count": 6,
+          "media_count": 2464,
+          "tweet_count": 27163
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚，音游，文明六，养猫的",
+        "id": "1522945124346601474",
+        "location": "Unter den Lindern 114514",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067543654445838336/Yc9J9S_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 427,
+          "like_count": 8598,
+          "listed_count": 4,
+          "media_count": 1012,
+          "tweet_count": 6366
+        },
+        "url": "",
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2068365884763119998",
+    "created_at": "2026-06-21T02:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068515607666889111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1619947482343157760",
+          "start": 0,
+          "username": "guhh65534615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068515607666889111",
+    "in_reply_to_user_id": "1619947482343157760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068515315319779770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guhh65534615 谢谢狗老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2068365884763119998",
+        "created_at": "2026-06-21T02:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068515607666889111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1619947482343157760",
+              "start": 0,
+              "username": "guhh65534615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068515607666889111",
+        "in_reply_to_user_id": "1619947482343157760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068515315319779770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guhh65534615 谢谢狗老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619947482343157760",
+        "conversation_id": "2068365884763119998",
+        "created_at": "2026-06-21T02:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068515315319779770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068515315319779770",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068365884763119998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 生日快乐🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068118325759012865/UmQuaJx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 634,
+          "like_count": 28028,
+          "listed_count": 6,
+          "media_count": 2446,
+          "tweet_count": 26805
+        },
+        "url": "",
+        "username": "200x0x1x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T06:36:16.000Z",
+        "description": "Max Stirner-Letov-Mao‖共产主义就是自由时间，别无其他‖互联网精神美洲原住民‖No Anarchist，But the Anarch‖我们是毛主席脚下的坚冰‖悖论不应仅提供统治的基础，它还应行使统治‖哥林多前书4:4‖不存之物何其多‖只想在网络玩的开心\n可爱男娘同志：@quancm172081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "quancm172081"
+              }
+            ]
+          }
+        },
+        "id": "1619947482343157760",
+        "name": "狗蛤蛤",
+        "pinned_tweet_id": "1834562142345031938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038090347079725056/94gU_P0r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 965,
+          "like_count": 23556,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3184
+        },
+        "url": "",
+        "username": "guhh65534615",
+        "verified": false
+      }
+    ]
+  }
+}

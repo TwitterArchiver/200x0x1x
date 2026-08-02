@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2024218925719044501",
+    "created_at": "2026-02-19T06:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024375324901806364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882697857393893376",
+          "start": 0,
+          "username": "8964reckless_"
+        },
+        {
+          "end": 29,
+          "id": "1915447094640578560",
+          "start": 15,
+          "username": "I_Love_Gerato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024375324901806364",
+    "in_reply_to_user_id": "1882697857393893376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024220569471000971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964reckless_ @I_Love_Gerato 板烧很好次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2024218925719044501",
+        "created_at": "2026-02-19T06:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024375324901806364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882697857393893376",
+              "start": 0,
+              "username": "8964reckless_"
+            },
+            {
+              "end": 29,
+              "id": "1915447094640578560",
+              "start": 15,
+              "username": "I_Love_Gerato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024375324901806364",
+        "in_reply_to_user_id": "1882697857393893376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024220569471000971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964reckless_ @I_Love_Gerato 板烧很好次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882697857393893376",
+        "conversation_id": "2024218925719044501",
+        "created_at": "2026-02-18T20:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024220569471000971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915447094640578560",
+              "start": 0,
+              "username": "I_Love_Gerato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024220569471000971",
+        "in_reply_to_user_id": "1915447094640578560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024220003265102087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_Love_Gerato 大陆麦当劳 板烧鸡腿堡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Illinois, United States",
+              "geo": {
+                "coordinates": [
+                  -89.25037,
+                  40.00032
+                ],
+                "type": "Point"
+              },
+              "region": "Illinois"
+            }
+          ]
+        },
+        "description": "认识救不了我们，只有创造才能拯救我们。至高无上的幻想和激情正是我们的伟大之所在。如果宇宙对我们漠不关心，那么我们就应该有权对它表示轻蔑。",
+        "id": "1438420916518539267",
+        "location": "Illinois, USA",
+        "name": "Engelsüß",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023974528406241280/tuscweRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 963,
+          "like_count": 26862,
+          "listed_count": 6,
+          "media_count": 2391,
+          "tweet_count": 25717
+        },
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "我全网唯一的仇人叫曦夜@8964_xy11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "8964_xy11"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "location": "Nowhere",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "2022116039866429557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019295072903393284/ZZVojFQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 279,
+          "like_count": 7929,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 2141
+        },
+        "username": "8964reckless_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T16:45:57.000Z",
+        "description": "🙉🙊🙈",
+        "id": "1915447094640578560",
+        "name": "Rotating Cato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008333922367594496/0-kA5Uff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 88,
+          "like_count": 3489,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1647
+        },
+        "username": "I_Love_Gerato",
+        "verified": false
+      }
+    ]
+  }
+}

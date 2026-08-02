@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2047571724787458308",
+    "created_at": "2026-04-24T07:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:58:33.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047570876401344583",
+      "2047571724787458308"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047571724787458308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "敢于说出自己内心的想法，坚持自己欲望的人，你们就说人家婊子是吗？拒绝被人各种道德勒索情感绑架，这个人就是道德冷感情感漠视的npd对吗😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2047570876401344583",
+        "created_at": "2026-04-24T06:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:58:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047570876401344583",
+          "2047571724787458308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047570876401344583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敢于说出自己内心的想法，坚持自己欲望的人，你们就说人家婊子是吗😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2047571724787458308",
+        "created_at": "2026-04-24T07:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:58:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047570876401344583",
+          "2047571724787458308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047571724787458308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敢于说出自己内心的想法，坚持自己欲望的人，你们就说人家婊子是吗？拒绝被人各种道德勒索情感绑架，这个人就是道德冷感情感漠视的npd对吗😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我是一个阴湿的小男女孩，哲学系、脑袋有病、蠕动潜行者、活的尸体，请大家把爱托付给精神稳定的我吧～",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047548762210328576/3TheJ9Bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1020,
+          "like_count": 27496,
+          "listed_count": 6,
+          "media_count": 2404,
+          "tweet_count": 26181
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

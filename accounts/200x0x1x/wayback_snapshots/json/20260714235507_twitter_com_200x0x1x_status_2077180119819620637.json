@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2075459049454526617",
+    "created_at": "2026-07-14T23:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077180119819620637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767890247029821440",
+          "start": 0,
+          "username": "ZhiDaiJun1919"
+        }
+      ],
+      "urls": [
+        {
+          "description": "尼采与悲观主义之间的纠缠关系往往遭到一些表面现象的掩盖。尼采早在完成《悲剧的诞生》的写作之后，就在其私人笔记中将悲观主义争论叫做“priestly squabble”（Pfaffenstreit）。在《快乐的科学》第357节，尼采几乎是用一种嘲弄的口吻清点了每一位知名的悲观主义者，将他们视为叔本华拙劣的追随者：尼采轻蔑地将班森称为“转陀螺的老手”，因为他的全部哲学都只是围绕着他的个人不幸打转；迈兰德被蔑称为”犹太人、半吊子和老处女”，嘲讽他关于童贞说教；哈特曼则是一个愚弄德国人的跳梁小丑，暗讽他为了迎合资产阶级读者而卖弄文墨。 基于这一点，在当前尼采研究的主流意见中，也有许多声音将叔本华与瓦格纳等同于尼采所接触到的所有悲观主义，并将尼采与二者的决裂视作其撇清与悲观主义的关系。尼采的写作习惯也使他与其影响者之间的关系变得模糊不清，因为当他对某个观点进行引用，或者表达赞同和反对的时候，他往往并不会特意注明观念的来源，这使得我们的研究更加困难重重。然而，尼采在早年短暂追随悲观主义之后，他与悲观主义的决裂并没有看起来那样果断，或者不如说尼采对悲观主义的关注几乎没有减弱。尽管尼采在明面上不断对悲观主义哲学进行大力攻歼",
+          "display_url": "b23.tv/Asjcjkq",
+          "end": 65,
+          "expanded_url": "https://b23.tv/Asjcjkq",
+          "start": 42,
+          "status": 200,
+          "title": "十九世纪的爱恨情仇：尼采反德国悲观主义 - 哔哩哔哩",
+          "unwound_url": "https://www.bilibili.com/opus/1223879733083635721?plat_id=5&share_from=article&share_medium=iphone&share_plat=ios&share_session_id=ED364FCB-12B5-4BA9-AC3B-035EC2D06329&share_source=COPY&share_tag=s_i&spmid=dt.opus-detail.0.0&timestamp=1784073270&unique_k=Asjcjkq",
+          "url": "https://t.co/CCMWBiyTJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077180119819620637",
+    "in_reply_to_user_id": "1767890247029821440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077151361662087253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhiDaiJun1919 【十九世纪的爱恨情仇：尼采反德国悲观主义-哔哩哔哩】 https://t.co/CCMWBiyTJA\n目前就投了一篇。新号有限制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2075459049454526617",
+        "created_at": "2026-07-14T23:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077180119819620637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767890247029821440",
+              "start": 0,
+              "username": "ZhiDaiJun1919"
+            }
+          ],
+          "urls": [
+            {
+              "description": "尼采与悲观主义之间的纠缠关系往往遭到一些表面现象的掩盖。尼采早在完成《悲剧的诞生》的写作之后，就在其私人笔记中将悲观主义争论叫做“priestly squabble”（Pfaffenstreit）。在《快乐的科学》第357节，尼采几乎是用一种嘲弄的口吻清点了每一位知名的悲观主义者，将他们视为叔本华拙劣的追随者：尼采轻蔑地将班森称为“转陀螺的老手”，因为他的全部哲学都只是围绕着他的个人不幸打转；迈兰德被蔑称为”犹太人、半吊子和老处女”，嘲讽他关于童贞说教；哈特曼则是一个愚弄德国人的跳梁小丑，暗讽他为了迎合资产阶级读者而卖弄文墨。 基于这一点，在当前尼采研究的主流意见中，也有许多声音将叔本华与瓦格纳等同于尼采所接触到的所有悲观主义，并将尼采与二者的决裂视作其撇清与悲观主义的关系。尼采的写作习惯也使他与其影响者之间的关系变得模糊不清，因为当他对某个观点进行引用，或者表达赞同和反对的时候，他往往并不会特意注明观念的来源，这使得我们的研究更加困难重重。然而，尼采在早年短暂追随悲观主义之后，他与悲观主义的决裂并没有看起来那样果断，或者不如说尼采对悲观主义的关注几乎没有减弱。尽管尼采在明面上不断对悲观主义哲学进行大力攻歼",
+              "display_url": "b23.tv/Asjcjkq",
+              "end": 65,
+              "expanded_url": "https://b23.tv/Asjcjkq",
+              "start": 42,
+              "status": 200,
+              "title": "十九世纪的爱恨情仇：尼采反德国悲观主义 - 哔哩哔哩",
+              "unwound_url": "https://www.bilibili.com/opus/1223879733083635721?plat_id=5&share_from=article&share_medium=iphone&share_plat=ios&share_session_id=ED364FCB-12B5-4BA9-AC3B-035EC2D06329&share_source=COPY&share_tag=s_i&spmid=dt.opus-detail.0.0&timestamp=1784073270&unique_k=Asjcjkq",
+              "url": "https://t.co/CCMWBiyTJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077180119819620637",
+        "in_reply_to_user_id": "1767890247029821440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077151361662087253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiDaiJun1919 【十九世纪的爱恨情仇：尼采反德国悲观主义-哔哩哔哩】 https://t.co/CCMWBiyTJA\n目前就投了一篇。新号有限制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767890247029821440",
+        "conversation_id": "2075459049454526617",
+        "created_at": "2026-07-14T22:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T23:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077151361662087253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077151361662087253",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075613746928456178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 现在怎么样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076963749022650368/J1WwCXMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 671,
+          "like_count": 28522,
+          "listed_count": 6,
+          "media_count": 2468,
+          "tweet_count": 27274
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-13T12:27:48.000Z",
+        "description": "",
+        "id": "1767890247029821440",
+        "name": "zhidai",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 193,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "ZhiDaiJun1919",
+        "verified": false
+      }
+    ]
+  }
+}
