@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2083906278527848705",
+    "created_at": "2026-08-03T07:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084179296692982165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2003860192610729984",
+          "start": 0,
+          "username": "mclzsyyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084179296692982165",
+    "in_reply_to_user_id": "2003860192610729984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084178252130615412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mclzsyyds 我去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2084178180819095552",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOx9A1RXkAAfa_6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOx9A1RXkAAfa_6.mp4"
+          }
+        ],
+        "width": 240
+      },
+      {
+        "height": 1591,
+        "media_key": "3_2084178206307844096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx9CUOXAAAXZIy.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1708,
+        "media_key": "3_2084178222309109760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx9DP1W8AAUHXw.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1204,
+        "media_key": "3_2084178239014985728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx9EOEWYAAX7KR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2083906278527848705",
+        "created_at": "2026-08-03T07:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084179296692982165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2003860192610729984",
+              "start": 0,
+              "username": "mclzsyyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084179296692982165",
+        "in_reply_to_user_id": "2003860192610729984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084178252130615412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mclzsyyds 我去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084178180819095552",
+            "3_2084178206307844096",
+            "3_2084178222309109760",
+            "3_2084178239014985728"
+          ]
+        },
+        "author_id": "2003860192610729984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083906278527848705",
+        "created_at": "2026-08-03T07:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084178252130615412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJOiHe7sFQ",
+              "end": 47,
+              "expanded_url": "https://x.com/mclzsyyds/status/2084178252130615412/photo/1",
+              "media_key": "16_2084178180819095552",
+              "start": 24,
+              "url": "https://t.co/CJOiHe7sFQ"
+            },
+            {
+              "display_url": "pic.x.com/CJOiHe7sFQ",
+              "end": 47,
+              "expanded_url": "https://x.com/mclzsyyds/status/2084178252130615412/photo/1",
+              "media_key": "3_2084178206307844096",
+              "start": 24,
+              "url": "https://t.co/CJOiHe7sFQ"
+            },
+            {
+              "display_url": "pic.x.com/CJOiHe7sFQ",
+              "end": 47,
+              "expanded_url": "https://x.com/mclzsyyds/status/2084178252130615412/photo/1",
+              "media_key": "3_2084178222309109760",
+              "start": 24,
+              "url": "https://t.co/CJOiHe7sFQ"
+            },
+            {
+              "display_url": "pic.x.com/CJOiHe7sFQ",
+              "end": 47,
+              "expanded_url": "https://x.com/mclzsyyds/status/2084178252130615412/photo/1",
+              "media_key": "3_2084178239014985728",
+              "start": 24,
+              "url": "https://t.co/CJOiHe7sFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084178252130615412",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083906278527848705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 加麻还是加辣，要不要点葱花 https://t.co/CJOiHe7sFQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 676,
+          "like_count": 28921,
+          "listed_count": 8,
+          "media_count": 2531,
+          "tweet_count": 27818
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T16:08:04.000Z",
+        "description": "Online chef/food critic/food blogger/creative and delicious dishes/no charge if food photos don't meet standards/custom food photos available",
+        "id": "2003860192610729984",
+        "location": "桀桀桀岛",
+        "name": "刈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083024296105193472/MR07P6I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "mclzsyyds",
+        "verified": false
+      }
+    ]
+  }
+}

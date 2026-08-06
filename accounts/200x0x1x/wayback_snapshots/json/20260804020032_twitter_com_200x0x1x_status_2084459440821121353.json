@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2083755763609333995",
+    "created_at": "2026-08-04T02:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084459440821121353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638704176405561344",
+          "start": 0,
+          "username": "meizi_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084459440821121353",
+    "in_reply_to_user_id": "1638704176405561344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083755763609333995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meizi_cat 想臣服于男娘卧槽卧槽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2083755763609333995",
+        "created_at": "2026-08-04T02:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084459440821121353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638704176405561344",
+              "start": 0,
+              "username": "meizi_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084459440821121353",
+        "in_reply_to_user_id": "1638704176405561344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083755763609333995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meizi_cat 想臣服于男娘卧槽卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638704176405561344",
+        "conversation_id": "2083755763609333995",
+        "created_at": "2026-08-02T03:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083755763609333995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083755763609333995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 145945,
+          "like_count": 2017,
+          "quote_count": 17,
+          "reply_count": 220,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "女爹是个什么雷霆词汇，想出这些SM文案的皮下男可曾上过学？真有男m会对女爹这个词感到臣服吗？那女m是不是也会对男娘感到臣服呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 679,
+          "like_count": 28940,
+          "listed_count": 8,
+          "media_count": 2534,
+          "tweet_count": 27842
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T00:48:33.000Z",
+        "description": "4i ENFP gb",
+        "id": "1638704176405561344",
+        "location": "3km",
+        "name": "梅᳐渍小᳐猫੭🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857748083184119809/sNvmzjsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 2206,
+          "like_count": 3537,
+          "listed_count": 1,
+          "media_count": 832,
+          "tweet_count": 2483
+        },
+        "url": "",
+        "username": "meizi_cat",
+        "verified": false
+      }
+    ]
+  }
+}

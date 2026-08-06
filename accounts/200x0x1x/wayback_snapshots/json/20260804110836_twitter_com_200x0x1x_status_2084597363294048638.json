@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084597363294048638",
+    "created_at": "2026-08-04T11:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084597363294048638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438420916518539267",
+          "start": 3,
+          "username": "200x0x1x"
+        },
+        {
+          "end": 26,
+          "id": "2065657651900628992",
+          "start": 14,
+          "username": "Sterling_zs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084597363294048638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084597297946730739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @200x0x1x: @Sterling_zs 你妈妈卖淫你爹爹卖吊你妹妹跟人连麦卡泡一次20你弟弟推特男娘卖屁眼然后你爷爷奶奶喝完敌敌畏在你老家自杀了你二舅炒股票跳楼了你全家死绝之后你就这样打出三个笑哭表情🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084597363294048638",
+        "created_at": "2026-08-04T11:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084597363294048638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438420916518539267",
+              "start": 3,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 26,
+              "id": "2065657651900628992",
+              "start": 14,
+              "username": "Sterling_zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084597363294048638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084597297946730739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @200x0x1x: @Sterling_zs 你妈妈卖淫你爹爹卖吊你妹妹跟人连麦卡泡一次20你弟弟推特男娘卖屁眼然后你爷爷奶奶喝完敌敌畏在你老家自杀了你二舅炒股票跳楼了你全家死绝之后你就这样打出三个笑哭表情🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T11:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084597297946730739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065657651900628992",
+              "start": 0,
+              "username": "Sterling_zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084597297946730739",
+        "in_reply_to_user_id": "2065657651900628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084566554935693351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sterling_zs 你妈妈卖淫你爹爹卖吊你妹妹跟人连麦卡泡一次20你弟弟推特男娘卖屁眼然后你爷爷奶奶喝完敌敌畏在你老家自杀了你二舅炒股票跳楼了你全家死绝之后你就这样打出三个笑哭表情🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 678,
+          "like_count": 28947,
+          "listed_count": 8,
+          "media_count": 2534,
+          "tweet_count": 27855
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-13T05:40:23.000Z",
+        "description": "",
+        "id": "2065657651900628992",
+        "name": "ZS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065670797675618304/AtqbyoyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "Sterling_zs",
+        "verified": false
+      }
+    ]
+  }
+}

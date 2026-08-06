@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084681509504729379",
+    "created_at": "2026-08-05T05:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084878925034106926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1971572865159004160",
+          "start": 0,
+          "username": "boxuzh162452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084878925034106926",
+    "in_reply_to_user_id": "1971572865159004160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084694200042545645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boxuzh162452 那咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "3_2084694183772897281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5SUKEbQAER-Pv.png",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084681509504729379",
+        "created_at": "2026-08-05T05:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084878925034106926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1971572865159004160",
+              "start": 0,
+              "username": "boxuzh162452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084878925034106926",
+        "in_reply_to_user_id": "1971572865159004160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084694200042545645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boxuzh162452 那咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084694183772897281"
+          ]
+        },
+        "author_id": "1971572865159004160",
+        "conversation_id": "2084681509504729379",
+        "created_at": "2026-08-04T17:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084694200042545645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W03ampa7uc",
+              "end": 33,
+              "expanded_url": "https://x.com/boxuzh162452/status/2084694200042545645/photo/1",
+              "media_key": "3_2084694183772897281",
+              "start": 10,
+              "url": "https://t.co/W03ampa7uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084694200042545645",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084681509504729379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x https://t.co/W03ampa7uc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 679,
+          "like_count": 28957,
+          "listed_count": 8,
+          "media_count": 2536,
+          "tweet_count": 27910
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-26T13:49:50.000Z",
+        "description": "现役男高，志向是做小男娘，带锁ing\n179cm，60kg（一定是因为肉腿）\n姐姐是川夏纪江\n有一定心理问题，不要骂我😣",
+        "id": "1971572865159004160",
+        "name": "川夏珞溪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997318472435691520/P3J3AHqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "boxuzh162452",
+        "verified": false
+      }
+    ]
+  }
+}

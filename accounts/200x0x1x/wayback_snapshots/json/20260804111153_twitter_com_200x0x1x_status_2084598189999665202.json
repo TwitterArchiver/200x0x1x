@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084119357513494680",
+    "created_at": "2026-08-04T11:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084598189999665202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1820674775104233473",
+          "start": 0,
+          "username": "U2nqIn7IFv50926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084598189999665202",
+    "in_reply_to_user_id": "1820674775104233473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084525033318445343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@U2nqIn7IFv50926 我给你爹屁眼里塞个c4炸了一天花板的屎然后我拿一块干屎直接塞进你妈臭逼里面进进出出给你妈骚逼也捅大出血了然后你张嘴在你那逼逼底下接血水喝因为全家来自非洲缺少水资源"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T11:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084598189999665202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1820674775104233473",
+              "start": 0,
+              "username": "U2nqIn7IFv50926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084598189999665202",
+        "in_reply_to_user_id": "1820674775104233473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084525033318445343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@U2nqIn7IFv50926 我给你爹屁眼里塞个c4炸了一天花板的屎然后我拿一块干屎直接塞进你妈臭逼里面进进出出给你妈骚逼也捅大出血了然后你张嘴在你那逼逼底下接血水喝因为全家来自非洲缺少水资源"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820674775104233473",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T06:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084525033318445343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084525033318445343",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084119357513494680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 臭鸡，我草你麻痹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 678,
+          "like_count": 28947,
+          "listed_count": 8,
+          "media_count": 2534,
+          "tweet_count": 27857
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-06T04:14:36.000Z",
+        "description": "",
+        "id": "1820674775104233473",
+        "name": "1",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "U2nqIn7IFv50926",
+        "verified": false
+      }
+    ]
+  }
+}

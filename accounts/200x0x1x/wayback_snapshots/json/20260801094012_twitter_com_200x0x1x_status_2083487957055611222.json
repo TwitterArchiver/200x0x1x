@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2083483854103540125",
+    "created_at": "2026-08-01T09:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083487957055611222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818942029956825088",
+          "start": 0,
+          "username": "Nissan2027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083487957055611222",
+    "in_reply_to_user_id": "1818942029956825088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083486776086438062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nissan2027 我真的很正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2083483854103540125",
+        "created_at": "2026-08-01T09:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083487957055611222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818942029956825088",
+              "start": 0,
+              "username": "Nissan2027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083487957055611222",
+        "in_reply_to_user_id": "1818942029956825088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083486776086438062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nissan2027 我真的很正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818942029956825088",
+        "conversation_id": "2083483854103540125",
+        "created_at": "2026-08-01T09:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083486776086438062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083486776086438062",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083483854103540125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你的回复会让人觉得你是个很正常的人   \nXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 674,
+          "like_count": 28864,
+          "listed_count": 7,
+          "media_count": 2522,
+          "tweet_count": 27778
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-01T09:29:15.000Z",
+        "description": "nothing",
+        "id": "1818942029956825088",
+        "location": "0.01km",
+        "name": "Hiding",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082825532610396161/OVprOSwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Nissan2027",
+        "verified": true
+      }
+    ]
+  }
+}

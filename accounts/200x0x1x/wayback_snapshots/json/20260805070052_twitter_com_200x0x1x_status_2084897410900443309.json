@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084862495995613323",
+    "created_at": "2026-08-05T07:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084897410900443309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "2072348873948053504",
+          "start": 6,
+          "username": "angelkawaii2TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084897410900443309",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084862751298425254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @angelkawaii2TwT 乐乐乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084862495995613323",
+        "created_at": "2026-08-05T07:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084897410900443309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "2072348873948053504",
+              "start": 6,
+              "username": "angelkawaii2TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084897410900443309",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084862751298425254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @angelkawaii2TwT 乐乐乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2084862495995613323",
+        "created_at": "2026-08-05T04:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084862751298425254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072348873948053504",
+              "start": 0,
+              "username": "angelkawaii2TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/angelkawaii2Tw…",
+              "end": 69,
+              "expanded_url": "https://x.com/angelkawaii2TwT/status/2084508591252529340",
+              "start": 46,
+              "url": "https://t.co/s4xrSOrUTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084862751298425254",
+        "in_reply_to_user_id": "2072348873948053504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084508591252529340",
+            "type": "quoted"
+          },
+          {
+            "id": "2084862495995613323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2TwT 这个账号可见帖子里最恶心的是这条：“？！鸡巴喷精！？” \nhttps://t.co/s4xrSOrUTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 679,
+          "like_count": 28959,
+          "listed_count": 8,
+          "media_count": 2536,
+          "tweet_count": 27916
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8913448,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7266,
+          "media_count": 9221747,
+          "tweet_count": 134115805
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-01T15:58:08.000Z",
+        "description": "谨遵用法用量 上网快乐冲浪",
+        "id": "2072348873948053504",
+        "name": "myslee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349709927403520/TbAcND3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 120,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "angelkawaii2TwT",
+        "verified": false
+      }
+    ]
+  }
+}

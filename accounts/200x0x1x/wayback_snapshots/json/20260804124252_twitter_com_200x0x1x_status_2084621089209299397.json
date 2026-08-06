@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084119357513494680",
+    "created_at": "2026-08-04T12:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084621089209299397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1449253382158372865",
+          "start": 0,
+          "username": "wdnmd03160708"
+        },
+        {
+          "end": 27,
+          "id": "2065657651900628992",
+          "start": 15,
+          "username": "Sterling_zs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084621089209299397",
+    "in_reply_to_user_id": "1449253382158372865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084620302190014680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdnmd03160708 @Sterling_zs 主包今天累了明天骂你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T12:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084621089209299397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1449253382158372865",
+              "start": 0,
+              "username": "wdnmd03160708"
+            },
+            {
+              "end": 27,
+              "id": "2065657651900628992",
+              "start": 15,
+              "username": "Sterling_zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084621089209299397",
+        "in_reply_to_user_id": "1449253382158372865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084620302190014680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdnmd03160708 @Sterling_zs 主包今天累了明天骂你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449253382158372865",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T12:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084620302190014680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 22,
+              "id": "2065657651900628992",
+              "start": 10,
+              "username": "Sterling_zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084620302190014680",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084572175852511440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x @Sterling_zs 你不卖淫，你卖逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 678,
+          "like_count": 28948,
+          "listed_count": 8,
+          "media_count": 2536,
+          "tweet_count": 27874
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-16T05:58:42.000Z",
+        "description": "🐸÷蝌蚪你的阿嫲很润",
+        "id": "1449253382158372865",
+        "name": "绿蛙的妈像鸡巴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009997935757668354/RTJIVorS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "wdnmd03160708",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T05:40:23.000Z",
+        "description": "",
+        "id": "2065657651900628992",
+        "name": "ZS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065670797675618304/AtqbyoyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "Sterling_zs",
+        "verified": false
+      }
+    ]
+  }
+}

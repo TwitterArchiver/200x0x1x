@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084119357513494680",
+    "created_at": "2026-08-04T11:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084609049908388019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1433439415376875521",
+          "start": 0,
+          "username": "____pledge____"
+        },
+        {
+          "end": 27,
+          "id": "2060472539135332352",
+          "start": 16,
+          "username": "xiaoe41533"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084609049908388019",
+    "in_reply_to_user_id": "1433439415376875521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084606936121778579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@____pledge____ @xiaoe41533 你妈妈在商k当公主卖她的流水大骚逼结果和你的瓢虫爹偶然相遇也算是家庭美满生活幸福好事成双了到时候你妈直接给你爹表演一个用逼开啤酒瓶你爹先干了你随意哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T11:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084609049908388019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1433439415376875521",
+              "start": 0,
+              "username": "____pledge____"
+            },
+            {
+              "end": 27,
+              "id": "2060472539135332352",
+              "start": 16,
+              "username": "xiaoe41533"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084609049908388019",
+        "in_reply_to_user_id": "1433439415376875521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084606936121778579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@____pledge____ @xiaoe41533 你妈妈在商k当公主卖她的流水大骚逼结果和你的瓢虫爹偶然相遇也算是家庭美满生活幸福好事成双了到时候你妈直接给你爹表演一个用逼开啤酒瓶你爹先干了你随意哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433439415376875521",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T11:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084606936121778579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            },
+            {
+              "end": 21,
+              "id": "2060472539135332352",
+              "start": 10,
+              "username": "xiaoe41533"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084606936121778579",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084596390903288010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x @xiaoe41533 你个臭卖逼的肯定是生活幸福家庭美满的小公主吧🤣🫵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 678,
+          "like_count": 28948,
+          "listed_count": 8,
+          "media_count": 2536,
+          "tweet_count": 27866
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-02T14:39:38.000Z",
+        "description": "",
+        "id": "1433439415376875521",
+        "name": "pledge",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 119,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "____pledge____",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T21:26:03.000Z",
+        "description": "",
+        "id": "2060472539135332352",
+        "name": "xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084595636486447104/_aqHn6pu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 38,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "xiaoe41533",
+        "verified": false
+      }
+    ]
+  }
+}

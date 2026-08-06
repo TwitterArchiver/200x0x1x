@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2083913207983509774",
+    "created_at": "2026-08-02T13:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083913207983509774"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083913207983509774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "不是经常有这种男人吗？看到你想要紫砂，他就会问你，可不可以死前给他一次？上次我也遇到过类似的男人，不过他的性癖是杀害别人。我后来告诉他说我不想死，我想活下去，他说OK，等你想死了记得联系我。一个随时都在的港湾。其实死亡本身不也是一个随时都在的港湾吗？死亡或许就是一个性感的男人。有天你在酒吧喝多了，他向你搭讪几句，他就会领你出去。他是这个酒吧里最受欢迎的男人，人人都想被他领出去！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是经常有这种男人吗？看到你想要紫砂，他就会问你，可不可以死前给他一次？上次我也遇到过类似的男人，不过他的性癖是杀害别人。我后来告诉他说我不想死，我想活下去，他说OK，等你想死了记得联系我。一个随时都在的港湾。其实死亡本身不也是一个随时都在的港湾吗？死亡或许就是一个性感的男人。有天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2083913207983509774",
+        "created_at": "2026-08-02T13:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083913207983509774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083913207983509774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不是经常有这种男人吗？看到你想要紫砂，他就会问你，可不可以死前给他一次？上次我也遇到过类似的男人，不过他的性癖是杀害别人。我后来告诉他说我不想死，我想活下去，他说OK，等你想死了记得联系我。一个随时都在的港湾。其实死亡本身不也是一个随时都在的港湾吗？死亡或许就是一个性感的男人。有天你在酒吧喝多了，他向你搭讪几句，他就会领你出去。他是这个酒吧里最受欢迎的男人，人人都想被他领出去！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是经常有这种男人吗？看到你想要紫砂，他就会问你，可不可以死前给他一次？上次我也遇到过类似的男人，不过他的性癖是杀害别人。我后来告诉他说我不想死，我想活下去，他说OK，等你想死了记得联系我。一个随时都在的港湾。其实死亡本身不也是一个随时都在的港湾吗？死亡或许就是一个性感的男人。有天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 675,
+          "like_count": 28889,
+          "listed_count": 8,
+          "media_count": 2530,
+          "tweet_count": 27799
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

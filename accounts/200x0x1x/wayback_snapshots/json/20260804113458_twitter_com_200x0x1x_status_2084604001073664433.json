@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084250917097078909",
+    "created_at": "2026-08-04T11:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084604001073664433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2075744479278166016",
+          "start": 0,
+          "username": "tjsongtiantian1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084604001073664433",
+    "in_reply_to_user_id": "2075744479278166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084487836276043892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tjsongtiantian1 大专狗打开哔哩哔哩哲学区搜索海德格尔怎么在你妈臭逼里先行建基胡塞尔怎么对你家户口本进行一个先验还原再给你双亲向着第一开端进行传送而你妈作为被护送的终有一死者出门被大卡车撞就是唯一的本有发生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084250917097078909",
+        "created_at": "2026-08-04T11:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084604001073664433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2075744479278166016",
+              "start": 0,
+              "username": "tjsongtiantian1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084604001073664433",
+        "in_reply_to_user_id": "2075744479278166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084487836276043892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tjsongtiantian1 大专狗打开哔哩哔哩哲学区搜索海德格尔怎么在你妈臭逼里先行建基胡塞尔怎么对你家户口本进行一个先验还原再给你双亲向着第一开端进行传送而你妈作为被护送的终有一死者出门被大卡车撞就是唯一的本有发生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075744479278166016",
+        "conversation_id": "2084250917097078909",
+        "created_at": "2026-08-04T03:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084487836276043892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084487836276043892",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084250917097078909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你还懂哲学太搞笑了，去油管看几个垃圾小视频也比问你强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 678,
+          "like_count": 28947,
+          "listed_count": 8,
+          "media_count": 2536,
+          "tweet_count": 27863
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-11T00:51:22.000Z",
+        "description": "",
+        "id": "2075744479278166016",
+        "name": "momo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075744871542054913/Kz6kj30M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 71,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "tjsongtiantian1",
+        "verified": false
+      }
+    ]
+  }
+}

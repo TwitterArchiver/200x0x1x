@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1438420916518539267",
+    "conversation_id": "2084119357513494680",
+    "created_at": "2026-08-04T16:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084680689719623974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2063597183732211712",
+          "start": 0,
+          "username": "lbqml6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084680689719623974",
+    "in_reply_to_user_id": "2063597183732211712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084675508131049644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbqml6 我妈妈都不给我钱看病了所以我才在网上要钱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T16:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084680689719623974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063597183732211712",
+              "start": 0,
+              "username": "lbqml6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084680689719623974",
+        "in_reply_to_user_id": "2063597183732211712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084675508131049644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbqml6 我妈妈都不给我钱看病了所以我才在网上要钱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063597183732211712",
+        "conversation_id": "2084119357513494680",
+        "created_at": "2026-08-04T16:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084675508131049644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084675508131049644",
+        "in_reply_to_user_id": "2063597183732211712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084675248012804347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 用低俗的词汇对我没效果   反倒认证了我的话   对吧妓女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪88纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084101670439723008/hb9aMn2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 679,
+          "like_count": 28951,
+          "listed_count": 8,
+          "media_count": 2536,
+          "tweet_count": 27885
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-07T12:22:02.000Z",
+        "description": "",
+        "id": "2063597183732211712",
+        "name": "预先准备",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073809210824134656/rvD0DAbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "lbqml6",
+        "verified": false
+      }
+    ]
+  }
+}
